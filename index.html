@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Perigeo</title>
+<meta name="description" content="Briefing semanal de relaciones internacionales, política y espacio.">
+<meta name="theme-color" content="#FAFAF7">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Perigeo">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
+<style>
+/* Paleta del diseño original (renderVals) */
+:root {
+  --accent-base: #1E3A8A;
+  --paper: #FAFAF7; --ink: #161614; --soft: #3A3A35; --muted: #55554E; --hair: #D9D8D0;
+  --invBg: #161614; --invText: #FAFAF7; --invMuted: #C9C8BF; --invBody: #E6E5DD;
+  --moon: #BDBBB2; --accent: var(--accent-base);
+}
+:root[data-theme="dark"] {
+  --paper: #0E1014; --ink: #ECEAE3; --soft: #C9C7BF; --muted: #A3A199; --hair: #2A2D34;
+  --invBg: #ECEAE3; --invText: #0E1014; --invMuted: #4A4A45; --invBody: #26262A;
+  --moon: #6E6C66; --accent: #9DB2F5;
+}
+html { background: var(--paper); -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  transition: background 0.3s;
+  /* Zonas seguras de iPhone cuando se abre como app */
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) 0 env(safe-area-inset-left);
+}
+a{color:inherit}a:hover{opacity:0.75}
+#app:empty { min-height: 100vh; }
+</style>
+<script>
+  // Aplica el tema guardado antes de pintar para evitar parpadeos
+  try { if (localStorage.getItem('perigeo:theme') === 'dark') document.documentElement.dataset.theme = 'dark'; } catch (e) {}
+</script>
+</head>
+<body>
+<div id="app"></div>
+<script src="app.js"></script>
+</body>
+</html>

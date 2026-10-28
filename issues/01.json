@@ -1,0 +1,190 @@
+{
+  "number": 1,
+  "week": 44,
+  "date": "2026-10-28",
+  "dateLabel": "Miércoles, 28 de octubre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing semanal de relaciones internacionales, política y espacio. Lo esencial de la semana, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "La semana, en tres líneas",
+    "items": [
+      "Europa asume la defensa aérea de Ucrania para el invierno, mientras los cortes de Starlink recuerdan quién controla la capa orbital.",
+      "La carrera al polo sur lunar se frena en ambos bandos: Artemis III pasa a ser un ensayo en órbita terrestre y Chang’e-7 se va a 2027.",
+      "España entra en la recta final hacia el 29-N con la seguridad —y los disturbios de Barcelona— en el centro del debate."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Defensa europea · París, 26 oct",
+        "title": "El E5 se prepara para un invierno sin paraguas",
+        "dek": "Francia, Alemania, Italia, Polonia y Reino Unido se comprometen a reforzar la defensa aérea de Kyiv ante la ofensiva rusa contra su red eléctrica.",
+        "body": [
+          "Los ministros de Defensa del llamado E5 se reunieron en París y anunciaron paquetes de ayuda para el invierno. Boris Pistorius detalló un sistema antiaéreo que complementará a los Patriot estadounidenses, sin renunciar al flujo de suministros, inteligencia y datos satelitales de Washington. También prometieron endurecer la presión sobre la flota en la sombra rusa.",
+          "El contexto: una comisión de investigación de la ONU concluye que los ataques rusos contra la infraestructura energética constituyen crímenes de guerra y de lesa humanidad. Ucrania, Rusia y EE.UU. prevén reunirse en Abu Dabi en la primera quincena de noviembre. Zelenski condiciona dejar de golpear refinerías rusas a que Moscú deje de atacar la red eléctrica."
+        ],
+        "quote": {
+          "text": "Apoyo a Ucrania durante tanto tiempo como sea necesario.",
+          "author": "Wes Streeting · Secretario de Defensa del Reino Unido"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "La factura europea del invierno",
+          "columns": [
+            { "label": "Contexto", "text": "Con Washington presionando para que Kyiv deje de atacar refinerías rusas y con el acceso a Starlink y Starshield sujeto a decisiones ajenas a Europa, los grandes europeos se coordinan en formatos reducidos como el E5, más ágiles que la UE a 27 en defensa. El compromiso con garantías de seguridad tras un eventual alto el fuego es la pieza política de fondo." },
+            { "label": "Qué vigilar", "text": "Primero, si la ronda de Abu Dabi produce un alto el fuego energético —el canje refinerías por red eléctrica que plantea Zelenski—. Segundo, si las garantías de seguridad del E5 toman forma concreta. Tercero, cuánto de la dependencia de inteligencia y datos satelitales estadounidenses puede sustituir Europa a corto plazo." }
+          ],
+          "key": "Europa financia la defensa, pero la capa de datos satelitales sigue siendo estadounidense. Es el núcleo del argumento de autonomía estratégica de tu TFG."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            { "kicker": "Israel · 27 oct", "title": "Israel vota y no decide", "text": "Primeras elecciones en cuatro años. Los sondeos a pie de urna dejan a los bloques de Netanyahu y Gadi Eisenkot lejos de los 61 escaños de la mayoría. Queda el recuento final y las consultas para formar gobierno." },
+            { "kicker": "Brasil · Segunda vuelta", "title": "Lula revalida; Bolsonaro cede", "text": "Lula gana por casi 4,5 millones de votos. Flávio Bolsonaro renuncia a impugnar y el Supremo ordena retirarle el pasaporte. Trump habla, sin pruebas, de elección «amañada». En España, la izquierda ya lo usa como relato de remontada." },
+            { "kicker": "Naciones Unidas", "title": "Dos comisiones, dos dictámenes", "text": "Una comisión de la ONU concluye que Israel cometió genocidio en Gaza y crímenes de lesa humanidad en Cisjordania; otra, que Rusia comete crímenes de guerra contra civiles e infraestructura energética ucraniana." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "II",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "NASA · Programa Artemis · 21–23 oct",
+        "title": "Artemis III se queda en órbita terrestre",
+        "dek": "La NASA mantiene su calendario pese a los retrasos de hardware, pero redefine la misión: el alunizaje pasa a Artemis IV.",
+        "body": [
+          "Artemis III, prevista para el tercer trimestre de 2027, llevará cuatro astronautas en Orión a órbita baja para acoplarse con versiones de prueba de los dos aterrizadores: el Starship de SpaceX y el Blue Moon de Blue Origin. El resultado decidirá cuál lleva tripulación a la superficie en Artemis IV, a principios de 2028.",
+          "Blue Origin aún debe devolver New Glenn al vuelo desde la plataforma LC-36, algo que podría deslizarse a 2027."
+        ]
+      },
+      "blocks": [
+        {
+          "type": "orbitmap",
+          "title": "Mapa cislunar de la semana",
+          "note": "Esquema · no a escala",
+          "distance": "≈ 384.400 km",
+          "transit": "Tránsito de Chang’e-7 · 5–6 días",
+          "legend": [
+            { "label": "Órbita baja terrestre", "text": "<b style=\"font-weight: 600;\">Artemis III</b> · T3 2027. Acoplamiento tripulado con Starship y Blue Moon de prueba." },
+            { "label": "Órbita lunar casi polar", "text": "<b style=\"font-weight: 600;\">Chang’e-7</b> · Unos 90 días cartografiando zonas de aterrizaje antes de descender." },
+            { "label": "Polo sur lunar", "text": "<b style=\"font-weight: 600;\">Cráter Shackleton</b> · Objetivo de Chang’e-7 por su hielo de agua; región prioritaria también para Artemis." }
+          ]
+        },
+        {
+          "type": "timeline",
+          "title": "La carrera al polo sur, recalendarizada",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            { "when": "T1 2027*", "title": "Chang’e-7 · China", "text": "Aplazada en agosto. Socios apuntan a T1 2027; sin fecha oficial china." },
+            { "when": "T1 2027", "title": "Blue Moon MK1", "text": "Aterrizador robótico no tripulado, misión CLPS." },
+            { "when": "T3 2027", "title": "Artemis III", "text": "Acoplamiento tripulado en órbita baja con ambos aterrizadores.", "highlight": true },
+            { "when": "Finales 2027", "title": "Starship lunar", "text": "Primer alunizaje no tripulado previsto por SpaceX." },
+            { "when": "Inicio 2028", "title": "Artemis IV", "text": "Regreso de astronautas a la superficie lunar.", "highlight": true }
+          ],
+          "footnote": "* Según NARIT (Tailandia) e ILOA, socios de la misión. Calendario NASA: Space.com, 21 oct 2026."
+        },
+        {
+          "type": "analysis",
+          "title": "Más lenta, pero más estructurada",
+          "columns": [
+            { "label": "Contexto", "text": "El rediseño convierte Artemis III en un ensayo de acoplamiento y en una selección competitiva entre SpaceX y Blue Origin. China, por su parte, pierde la ventana de 2026 para Chang’e-7, la misión que debía prospectar hielo junto a Shackleton. Ambos bloques llegan más tarde de lo previsto al mismo punto del mapa." },
+            { "label": "Qué implica", "text": "Con los dos calendarios retrasados, gana peso la batalla normativa —Acuerdos Artemis frente a la ILRS sino-rusa— y el margen de Europa para definir su papel: socio de Artemis a través del Módulo de Servicio Europeo de Orión, o actor autónomo, como apunta el plan tripulado de la ESA." }
+          ],
+          "key": "El retraso simultáneo refuerza la tesis central de tu TFG: Europa aún puede llegar a tiempo a la fase normativa de los recursos lunares, aunque no a la de las capacidades."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            { "kicker": "ESA · Vuelo tripulado", "title": "Europa quiere sus propios astronautas", "text": "Josef Aschbacher esbozó un plan a diez años, de unos 10.000 M€, para dotar a Europa de capacidad tripulada independiente. Material directo para la propuesta de intervención de tu TFG." },
+            { "kicker": "Seguridad espacial", "title": "La soberanía también orbita", "text": "Ucrania recupera Starlink y Starshield tras más de una semana de restricciones. Zelenski pide a Washington autorizar Starshield sobre Rusia. Un caso de manual de dependencia orbital." },
+            { "kicker": "China · Programa lunar", "title": "Pekín aparca Shackleton", "text": "Chang’e-7, que debía buscar hielo de agua junto al cráter Shackleton, «no cumple las condiciones de lanzamiento» en 2026. Pekín no ha dado nueva fecha." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "III",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "32",
+        "statLabel": "días para las generales del 29-N",
+        "title": "PP y Vox se reparten el Senado; la Moncloa teme un debate de seguridad",
+        "body": [
+          "Feijóo y Abascal coordinan listas al Senado en varias circunscripciones para aspirar a tres quintos de la Cámara; Vox no se presentará en algunas provincias. Los sondeos divergen: unos dan al PP una ventaja amplia y otros, una recuperación parcial de la izquierda. Vox sube, sobre todo en Catalunya. En el Gobierno preocupa que los disturbios desplacen la campaña hacia seguridad e inmigración. Y una novedad incómoda: los vídeos generados con IA ya son parte del arsenal de los partidos."
+        ]
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Seguridad, la palabra de la campaña",
+          "columns": [
+            { "label": "Contexto", "text": "Los disturbios del 25-O, convocados por redes y sin reivindicación, llegan en plena precampaña y encajan en el marco que, según el propio Gobierno, más favorece a PP y Vox. La coordinación de listas al Senado es la señal más clara hasta ahora de un posible entendimiento entre ambos tras el 29-N." },
+            { "label": "Qué implica", "text": "En Catalunya, el ascenso de Vox en las proyecciones y el debate sobre seguridad pueden reordenar el voto. En el Camp de Tarragona, infraestructuras como la R-Aeroport y la vivienda serán los temas que conecten la campaña nacional con lo local." }
+          ],
+          "key": "Sigue Tarragona como circunscripción: listas renovadas y candidaturas nuevas, como la de Frente Amplio encabezada por la directora del Concurs de Castells, la hacen menos predecible."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            { "kicker": "Barcelona · 25 oct", "title": "Una convocatoria de TikTok, 128 detenidos", "text": "Cientos de jóvenes, sin reivindicación concreta, en plaza de Catalunya: 33 incendios, 23 comercios vandalizados y 15 agentes heridos. Más de la mitad de los detenidos son menores." },
+            { "kicker": "Camp de Tarragona", "title": "La R-Aeroport inquieta al Camp", "text": "Preocupa la posible afectación a la R-13; el Govern asegura que no se tocará, sin ofrecer garantías. En Cambrils, nuevo paso hacia 500 viviendas en El Pinaret." },
+            { "kicker": "Tarragona · 29-N", "title": "Listas nuevas, mayoría de mujeres", "text": "La mayoría de candidaturas por Tarragona las encabezan mujeres y solo repite Cruset (Junts). El candidato de Vox, bajo polémica por su pasado y un juicio pendiente." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato de la semana",
+            "value": "10.000 M€",
+            "text": "Lo que costaría, en diez años, que Europa pusiera astronautas en órbita con medios propios, según el plan esbozado por la ESA."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "3 nov", "what": "EE.UU. · Elecciones de mitad de mandato" },
+              { "when": "1–15 nov", "what": "Abu Dabi · Ronda Ucrania–Rusia–EE.UU." },
+              { "when": "Próx.", "what": "Israel · Recuento final y consultas de gobierno" },
+              { "when": "13 nov", "what": "España · Arranca la campaña del 29-N" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "<em>Artemis Accords</em> (2020), secciones 10 y 11 sobre recursos espaciales y «zonas de seguridad».",
+                "Grupo de Trabajo de COPUOS sobre los aspectos jurídicos de las actividades relativas a los recursos espaciales: informes de la Subcomisión de Asuntos Jurídicos."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "El episodio Starlink refuerza la demanda institucional europea de conectividad soberana (IRIS²). Un terreno fértil para Business Development en NewSpace."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera (26 oct), Democracy Now vía Havana Times (27 oct), Space.com (21 oct), Azmth / NARIT / ILOA, SatNews vía SpaceNexus (12 oct), China in Space, Periodista Digital (27 oct), RTVC (25 oct), Diari de Tarragona (23 oct). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 28.10.2026."
+}
