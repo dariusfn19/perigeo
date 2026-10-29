@@ -1,0 +1,293 @@
+{
+  "number": 2,
+  "week": 44,
+  "date": "2026-10-29",
+  "dateLabel": "Jueves, 29 de octubre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "El Kremlin deja a Europa fuera de la mesa de Abu Dabi el mismo día en que un dron ruso mata al menos a 14 personas en el andén de la estación de Dnipro.",
+      "La ESA admite que faltarán cohetes Ariane 6 a finales de la década, justo cuando encarga más satélites Galileo y Ucrania prueba en órbita su alternativa a Starlink.",
+      "España guarda tres días de luto por el choque de trenes de Urda —74 muertos— y la seguridad ferroviaria entra de golpe en la campaña del 29-N y en los andenes del Camp."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Negociación · Moscú, 28 oct",
+        "title": "Abu Dabi, a tres y sin Europa",
+        "dek": "El Kremlin descarta invitar a los europeos a la ronda trilateral con EE.UU. y Ucrania, que no se celebrará antes del 4 de noviembre y dependerá, dice, «de la situación en el campo de batalla».",
+        "body": [
+          "Yuri Ushakov, asesor de política exterior de Putin, confirmó que Rusia, Ucrania y EE.UU. retomarán las conversaciones en Abu Dabi —las primeras en más de ocho meses—, pero sin fecha: «después del 4 de noviembre». Zelenski apunta a mediados de mes. Sobre la presencia europea fue tajante: no se contempla. Lo dijo un día después de que Putin hablara 90 minutos por teléfono con el presidente finlandés, Alexander Stubb, y el primer ministro noruego, Jonas Gahr Støre, una llamada que, según The Guardian, Donald Tusk y Zelenski habían respaldado. Stubb sostiene que Europa sí estará; Euronews informa de que la UE quiere enviar delegación propia.",
+          "Las conversaciones técnicas abordarían un alto el fuego energético y marítimo, canjes de prisioneros y el retorno de niños ucranianos deportados. El escollo de fondo no cambia: Moscú exige que Kyiv ceda la parte del Donbás que no ha conquistado. Mientras tanto, la guerra marca el ritmo: Rusia asegura haber derribado 613 drones lanzados contra Moscú en una sola noche, y un dron ruso de propulsión a chorro golpeó el andén de Dnipro."
+        ],
+        "quote": {
+          "text": "Ahora mismo no se habla en absoluto de eso.",
+          "author": "Yuri Ushakov · Asesor del Kremlin, sobre la participación europea"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dnipro_railway_station._Platforms.jpg/1280px-Dnipro_railway_station._Platforms.jpg",
+          "alt": "Andenes de la estación central de Dnipro, con marquesinas y vías",
+          "credit": "Toss12 · Wikimedia Commons · CC BY 4.0",
+          "caption": "Andenes de la estación central de Dnipro (2021). Hoy, un dron ruso alcanzó uno de ellos cuando un tren se preparaba para salir hacia Zaporiyia."
+        },
+        "link": {
+          "url": "https://www.yahoo.com/news/world/articles/russia-says-battlefield-situation-determine-092435156.html",
+          "source": "The Kyiv Independent (vía Yahoo News)"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Europa paga, pero no se sienta",
+          "columns": [
+            { "label": "Contexto", "text": "Moscú quiere un formato a tres en el que negocia directamente con Washington y deja a Bruselas como financiador de la defensa ucraniana sin voz en el acuerdo. La llamada de Stubb y Støre fue el intento nórdico de abrir un canal europeo propio; el Kremlin la usa ahora para decir que de Europa ni se habló. La versión de Stubb y la de Ushakov son incompatibles." },
+            { "label": "Qué vigilar", "text": "Primero, si Washington exige o acepta la presencia europea antes de fijar fecha. Segundo, si la delegación de la UE que anuncia Euronews llega a Abu Dabi como observadora o se queda en el hotel. Tercero, si el alto el fuego local de Oleshky, que según Al Jazeera se mantiene sin violaciones denunciadas, sirve de ensayo para el «alto el fuego energético»." }
+          ],
+          "key": "La exclusión de Europa de la mesa es la versión diplomática de la dependencia que estudias en tu TFG: quien no controla capacidades críticas —inteligencia, satélites, garantías— tampoco controla el acuerdo."
+        },
+        {
+          "type": "chart",
+          "title": "Israel: nadie llega a 61",
+          "note": "Escaños por bloque · 120 en total",
+          "bars": [
+            { "label": "Bloque de Netanyahu", "value": 53, "display": "53", "highlight": true },
+            { "label": "Bloque de Eisenkot", "value": 48, "display": "48" },
+            { "label": "Partidos árabes", "value": 19, "display": "19" }
+          ],
+          "footnote": "Con el 89,8 % escrutado (28 oct). Mayoría absoluta: 61 escaños. Resultados oficiales previstos el 4 de noviembre. Fuente: The Times of Israel."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Dnipro, 29 oct",
+              "title": "Un dron a reacción contra un andén",
+              "text": "Al menos 14 muertos y otros 14 heridos —seis críticos, entre ellos un niño de 11 años— en la estación central de Dnipro, según el gobernador Oleksandr Hanzha. Los ataques rusos de la noche mataron al menos a 19 personas en todo el país, con víctimas también en Chernígov y Kremenchuk. Zelenski calificó el ataque de «horrible».",
+              "link": { "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight", "source": "Al Jazeera" }
+            },
+            {
+              "kicker": "Israel · Recuento",
+              "title": "Bloqueo en la Knéset",
+              "text": "El Likud es primera fuerza con 26 escaños y Yashar, de Gadi Eisenkot, segunda con 21. Los partidos árabes logran un récord de 19. Eisenkot rechaza gobernar bajo Netanyahu, incluso con rotación, y casi todo el arco sionista descarta pactar con la Lista Conjunta o Ra’am. Quedan entre 430.000 y 480.000 votos de «doble sobre», sobre todo de soldados, que no deberían cambiar el equilibrio.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/1280px-Knesset_front_side_-_2022.jpg",
+                "alt": "Fachada principal del edificio de la Knéset en Jerusalén",
+                "credit": "Clema12 · Wikimedia Commons · CC BY-SA 4.0",
+                "caption": "La Knéset, en Jerusalén."
+              },
+              "link": { "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/", "source": "The Times of Israel" }
+            },
+            {
+              "kicker": "Rusia · África · 28–29 oct",
+              "title": "Putin recibe a medio continente",
+              "text": "La tercera cumbre Rusia-África reúne en el Gran Palacio del Kremlin a delegaciones de 48 de los 54 países africanos, 22 de ellas encabezadas por jefes de Estado —frente a 17 en 2023—. Putin copreside el plenario con el presidente de Burundi y de la Unión Africana, Évariste Ndayishimiye. Una exhibición de que Moscú no está aislada, en plena ofensiva diplomática sobre Ucrania.",
+              "link": { "url": "https://interfax.com/newsroom/top-stories/119688/", "source": "Interfax" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "II",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "ESA · Acceso al espacio · París, 22–27 oct",
+        "title": "Europa se queda corta de cohetes",
+        "dek": "La ESA prevé que falten Ariane 6 hacia el final de la década y negocia con ArianeGroup y Avio cómo acelerar la producción. No decidirá hasta principios de 2027.",
+        "body": [
+          "Tras el 350.º Consejo de la ESA, Josef Aschbacher reconoció que la demanda superará a la oferta de Ariane 6 en unos años. Este año habrá seis lanzamientos, menos de lo previsto; para 2027 se planean nueve o diez. «La cuestión es el salto de inversión», resumió. «Aún no estamos en condiciones de dar la respuesta. Pero trabajamos en ello.»",
+          "La paradoja: el próximo Ariane 6, hacia el 23 de noviembre, llevará 36 satélites de Amazon Leo, y la ESA acaba de ampliar de 12 a 16 la segunda generación de Galileo —dos satélites para Airbus y dos para Thales Alenia Space—, que viajará en Ariane 6 de dos en dos. Si los clientes institucionales europeos compiten con Amazon por plazas en el mismo cohete, la autonomía de acceso al espacio se convierte en un problema de capacidad industrial."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ariane_6_with_P160C_Boosters.jpg/1280px-Ariane_6_with_P160C_Boosters.jpg",
+          "alt": "Un Ariane 6 despega desde la base de Kurú con sus propulsores laterales encendidos",
+          "credit": "ESA – S. Corvaja · CC BY-SA 3.0 IGO",
+          "caption": "Lanzamiento de un Ariane 6 con los nuevos propulsores P160C desde Kurú (Guayana Francesa), junio de 2026."
+        },
+        "link": {
+          "url": "https://www.advanced-television.com/2026/10/26/esa-we-need-more-ariane-launches/",
+          "source": "Advanced Television"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La aritmética del lanzador europeo",
+          "note": "Previsiones ESA",
+          "items": [
+            { "value": "6", "label": "lanzamientos de Ariane en 2026, menos de los previstos" },
+            { "value": "9–10", "label": "lanzamientos planeados para 2027" },
+            { "value": "16", "label": "satélites Galileo de segunda generación tras el nuevo encargo (antes, 12)" }
+          ],
+          "footnote": "Fuentes: rueda de prensa de la ESA del 22 oct, vía Advanced Television (26 oct); SatNews (27 oct)."
+        },
+        {
+          "type": "timeline",
+          "title": "Lo que viene en la órbita europea",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            { "when": "≈ 23 nov", "title": "Ariane 6 · Amazon Leo", "text": "36 satélites de la constelación de Amazon en el próximo lanzamiento europeo." },
+            { "when": "25 nov", "title": "Hera · Dimorphos", "text": "La ESA publicará las primeras imágenes detalladas del asteroide desviado por DART." },
+            { "when": "Inicio 2027", "title": "Decisión sobre Ariane 6", "text": "La ESA fijará cuánto aumentar la producción con datos de demanda más firmes.", "highlight": true },
+            { "when": "2028", "title": "Galileo G2", "text": "Arrancan los lanzamientos de los primeros 12 satélites, por parejas en Ariane 6." },
+            { "when": "2031", "title": "Galileo G2 · ampliación", "text": "Entrega de los cuatro satélites adicionales encargados esta semana." }
+          ],
+          "footnote": "Fuentes: Advanced Television (26 oct), ESA (27 oct), SatNews (27 oct)."
+        },
+        {
+          "type": "analysis",
+          "title": "Soberanía con lista de espera",
+          "columns": [
+            { "label": "Contexto", "text": "Europa ha invertido en Galileo, Copernicus e IRIS² para no depender de terceros, pero los tres programas necesitan un lanzador propio con cadencia suficiente. Ariane 6 vende plazas a Amazon para sostener su negocio mientras la ESA reconoce que el cuello de botella llegará cuando más falta hará: con IRIS² y Galileo G2 desplegándose a la vez." },
+            { "label": "Qué implica", "text": "La alternativa —lanzar con SpaceX, como ya hizo Europa con Galileo y Euclid en la crisis de 2023-2024— reabre la dependencia que se quería cerrar. La decisión de inversión de 2027 y el papel de los microlanzadores europeos serán dos indicadores clave de si la autonomía de acceso es real o nominal." }
+          ],
+          "key": "Para tu TFG: la autonomía estratégica en el espacio no es solo normativa —Acuerdos Artemis, COPUOS—, sino también de cadencia industrial. Sin cohetes suficientes, Europa negocia desde la cola."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Satcom soberana",
+              "title": "Un nanosatélite para no depender de Starlink",
+              "text": "La emergente ucraniana de defensa Himera y la danesa GomSpace prueban en órbita Obria Nano, lanzado el 1 de octubre en el Transporter-18 de SpaceX, como base de una futura constelación de comunicaciones bajo control ucraniano. Llega tras las restricciones de Starlink de mediados de octubre, que afectaron a la interceptación de drones.",
+              "link": { "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/", "source": "SpaceNews" }
+            },
+            {
+              "kicker": "Reino Unido · Guerra orbital",
+              "title": "Londres encarga un «guardaespaldas» orbital",
+              "text": "El Ministerio de Defensa británico adjudica a la filial británica de Astroscale 15 millones de libras para el Proyecto LEDA: diseñar, lanzar y operar una nave que estudie cómo contrarrestar amenazas de aproximación en órbita (RPO). Coincide con el acercamiento del ruso Kosmos 2612 a unos 500 metros de un satélite de ICEYE, según LeoLabs.",
+              "link": { "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/", "source": "European Spaceflight" }
+            },
+            {
+              "kicker": "ESA · Defensa planetaria",
+              "title": "Hera ya distingue dos asteroides",
+              "text": "La sonda europea Hera ha separado por primera vez a Didymos y Dimorphos en una imagen tomada el 18 de octubre desde 1.280 km. El sistema está a unos 197 millones de kilómetros de la Tierra. Las primeras imágenes detalladas de Dimorphos, el asteroide desviado por la misión DART de la NASA, llegarán el 25 de noviembre.",
+              "link": { "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one", "source": "ESA" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "III",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "74",
+        "statLabel": "muertos en el choque de trenes de Urda (Toledo)",
+        "title": "Urda: tres días de luto y una campaña en suspenso",
+        "body": [
+          "El miércoles a las 8.48, un AVE de Renfe que había salido de Madrid hacia Sevilla alcanzó por detrás, a unos 200 km/h, a un Iryo detenido en la vía cerca de Urda. Según el ministro Óscar Puente, un fallo de comunicación informática dejó sin el sistema de control LZB un tramo de 63 kilómetros y el centro de control de Adif autorizó al AVE a reanudar la marcha. El expediente de la CIAF y el Ministerio de Transportes elevaban este jueves la cifra a 74 fallecidos; entre ellos, la exministra de Empleo Fátima Báñez. Es el segundo accidente mortal en esa línea en nueve meses, tras el de Adamuz en enero.",
+          "Sánchez ha decretado tres días de luto oficial, hasta el sábado. PP, PSOE, Frente Amplio y Podemos suspendieron sus actos de precampaña; Vox los mantuvo y ha presentado una querella contra Puente ante el Supremo. Feijóo pide una revisión independiente de toda la red. Puente pedirá comparecer ante la Diputación Permanente del Congreso. Renfe ha suspendido la venta de billetes de alta velocidad entre Madrid y Andalucía hasta el 13 de diciembre."
+        ],
+        "link": {
+          "url": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-urda-ultima-hora-directo-servicios-emergencia-siguen-zona-accidente-53-heridos-hospitalizados_133_13623403.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Las cifras de Urda",
+          "note": "Datos provisionales",
+          "items": [
+            { "value": "63 km", "label": "de vía que quedaron sin el sistema de control LZB, según Puente" },
+            { "value": "25 km", "label": "recorridos por el AVE a unos 200 km/h entre las 8.36 y las 8.52, según el ministro" },
+            { "value": "31", "label": "días para las elecciones generales del 29-N" }
+          ],
+          "footnote": "Fuentes: La Nación (28 oct) y elDiario.es (29 oct), con datos del Ministerio de Transportes. Los horarios del impacto difieren ligeramente entre fuentes."
+        },
+        {
+          "type": "analysis",
+          "title": "La seguridad cambia de vía",
+          "columns": [
+            { "label": "Contexto", "text": "Hasta el martes, la «seguridad» de la campaña era la de los disturbios de Barcelona. Urda la convierte en seguridad de las infraestructuras públicas: un tema en el que el Gobierno queda a la defensiva, con un ministro muy expuesto y una hipótesis oficial de error humano en el centro de control que la oposición y los usuarios ya discuten." },
+            { "label": "Qué implica", "text": "La comparecencia de Puente y las primeras conclusiones de la CIAF llegarán en plena precampaña. En Catalunya, el debate conecta con un malestar previo por Rodalies y por la inversión en el Corredor Mediterráneo; en el Camp, con la falta de aparcamiento en la estación del AVE y la petición de ERTMS en la R2." }
+          ],
+          "key": "Báñez inauguró en 2017 la oficina de la Seguridad Social de la plaza Gandhi, en Reus: la tragedia también tiene eco en tu ciudad. Para la circunscripción de Tarragona, el tren es ahora el tema que une campaña nacional y vida diaria."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Camp de Tarragona · 29 oct",
+              "title": "Huelga de maquinistas el día después",
+              "text": "El sindicato Semaf convocó paro de maquinistas «en defensa de la seguridad ferroviaria». En Tarragona, Rodalies y media distancia sufrieron retrasos de 30 minutos a más de una hora; en la estación del Camp, la alta velocidad funcionó con normalidad. La plataforma Dignitat a les Vies pide revisar protocolos y desplegar ERTMS en la R2.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Camp_de_Tarragona_%2836282954550%29.jpg/1280px-Camp_de_Tarragona_%2836282954550%29.jpg",
+                "alt": "Estación de alta velocidad del Camp de Tarragona",
+                "credit": "Nicolas Vigier · Wikimedia Commons · CC0",
+                "caption": "Estación del Camp de Tarragona, entre Reus y Tarragona."
+              },
+              "link": { "url": "https://reusdigital.cat/noticies/territori/usuaris-de-rodalies-i-de-lalta-velocitat-tarragona-preocupats-la-seguretat", "source": "Reusdigital.cat (ACN)" }
+            },
+            {
+              "kicker": "Catalunya · Sanidad",
+              "title": "Los médicos inician huelga indefinida",
+              "text": "Metges de Catalunya mantiene la huelga indefinida desde el miércoles, aunque los sindicatos estatales la aplazaron por las generales. Piden un convenio propio, menos carga de trabajo y el fin de las guardias de 24 horas. Salud cifró el seguimiento del primer día en un 4,9 %; el sindicato busca afectaciones «continuadas» e imprevisibles.",
+              "link": { "url": "https://www.vilaweb.cat/noticies/comenca-vaga-indefinida-metges-catalunya-volem-hagi-afectacions-continuades/", "source": "VilaWeb" }
+            },
+            {
+              "kicker": "Tarragona · Joan XXIII",
+              "title": "Asesinado a tiros en una habitación de hospital",
+              "text": "Un hombre ingresado en el Hospital Joan XXIII tras un tiroteo en Salou el 16 de octubre murió de madrugada después de recibir varios disparos en su habitación. Los Mossos investigan bajo secreto de sumario. La consejera Olga Pané anuncia que se revisarán los protocolos de seguridad, sin «levantar muchas barreras» a las visitas.",
+              "link": { "url": "https://reusdigital.cat/noticies/territori/el-camp/maten-trets-un-home-ingressat-lhospital-joan-xxiii-de-tarragona-un", "source": "Reusdigital.cat (ACN)" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "197 M km",
+            "text": "Distancia a la Tierra del sistema Didymos-Dimorphos, la pareja de asteroides que la sonda europea Hera ha logrado ver por separado desde 1.280 km. La NASA la usó para probar la desviación de un asteroide."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "3 nov", "what": "EE.UU. · Elecciones de mitad de mandato" },
+              { "when": "4 nov", "what": "Israel · Resultados oficiales de las legislativas" },
+              { "when": "13 nov", "what": "España · Arranca la campaña del 29-N" },
+              { "when": "≈ 23 nov", "what": "Kurú · Ariane 6 lanza 36 satélites de Amazon Leo" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Compara la estrategia de acceso al espacio de la ESA con el principio de «acceso autónomo» de la <em>Estrategia Espacial de la UE para la Seguridad y la Defensa</em> (2023): ¿qué capacidades se consideran críticas y cuáles se aceptan de terceros?",
+                "El caso Himera-GomSpace es un buen ejemplo menor de «soberanía por capas»: lanzar con SpaceX, pero operar la red propia. Útil para matizar la dicotomía dependencia/autonomía."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Defensa de activos en órbita (RPO, vigilancia espacial) es un mercado institucional emergente en Europa: el contrato LEDA de Astroscale y los acercamientos rusos a satélites comerciales anuncian más concursos. Las comunicaciones soberanas para Ucrania —Himera, ICEYE-Nokia— son otro nicho a seguir de cerca."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: The Kyiv Independent vía Yahoo News (29 oct), EADaily (28 oct), Al Jazeera (29 oct), The Times of Israel (28 oct), Interfax (26 oct), Advanced Television (26 oct), SatNews (27 oct), ESA (27 oct), SpaceNews (27 oct), European Spaceflight (29 oct), La Nación (28 oct), RTVC (28 oct), elDiario.es (28 y 29 oct), Reusdigital.cat / ACN (29 oct), VilaWeb (28 oct). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 29.10.2026."
+}
