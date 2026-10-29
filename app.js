@@ -62,6 +62,24 @@
   function dek(t) { return t ? '<p style="margin: 0; font-size: 22px; line-height: 1.45; color: var(--soft); font-style: italic;">' + t + '</p>' : ''; }
   function h3(id, t, extra) { return '<h3 id="' + id + '" style="margin: 0; ' + SERIF_D + ' font-weight: 400; ' + extra + '">' + t + '</h3>'; }
 
+  // link: { url, source } → «Leer en Al Jazeera ↗»
+  function sourceLink(link) {
+    if (!link || !link.url) return '';
+    return '<p style="margin: 0;"><a href="' + attr(link.url) + '" target="_blank" rel="noopener" style="text-decoration: none; ' + LABEL + ' color: var(--accent);">Leer en ' + (link.source || 'la fuente') + ' ↗</a></p>';
+  }
+
+  // image: { src, alt, credit, caption } — fotos de bancos libres, siempre con crédito
+  function photo(img, ratio, mb) {
+    if (!img || !img.src) return '';
+    return '<figure style="margin: 0 0 ' + (mb || 0) + 'px;">' +
+      '<img src="' + attr(img.src) + '" alt="' + attr(img.alt || '') + '" loading="lazy" style="display: block; width: 100%; aspect-ratio: ' + (ratio || '16 / 9') + '; object-fit: cover; background: var(--hair);">' +
+      ((img.caption || img.credit) ? '<figcaption style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 16px; margin-top: 10px;">' +
+        (img.caption ? '<span style="font-size: 15px; line-height: 1.5; color: var(--soft); font-style: italic;">' + img.caption + '</span>' : '<span></span>') +
+        (img.credit ? '<span style="' + MONO + ' font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted);">' + img.credit + '</span>' : '') +
+      '</figcaption>' : '') +
+    '</figure>';
+  }
+
   var leads = {
     quote: function (l, hid) {
       return '<div style="display: flex; flex-wrap: wrap; gap: 48px 64px;">' +
@@ -72,6 +90,7 @@
           '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px 40px; font-size: 18px; line-height: 1.65;">' +
             map(l.body, function (p) { return '<p style="margin: 0;">' + p + '</p>'; }) +
           '</div>' +
+          sourceLink(l.link) +
         '</article>' +
         (l.quote ? '<aside style="flex: 1 1 280px; display: flex; flex-direction: column; justify-content: center; gap: 20px; padding: 32px 0; border-top: 3px double var(--ink); border-bottom: 1px solid var(--ink);">' +
           '<p style="margin: 0; ' + SERIF_D + ' font-size: 96px; line-height: 0.6; color: var(--accent);">“</p>' +
@@ -89,6 +108,7 @@
         '</div>' +
         '<div style="display: flex; flex-direction: column; gap: 18px; font-size: 18px; line-height: 1.65;">' +
           map(l.body, function (p) { return '<p style="margin: 0;">' + p + '</p>'; }) +
+          sourceLink(l.link) +
         '</div>' +
       '</article>';
     },
@@ -102,6 +122,7 @@
           (l.kicker ? kicker(l.kicker) : '') +
           h3(hid, l.title, 'font-size: clamp(36px, 4.4vw, 56px); line-height: 1.04;') +
           map(l.body, function (p) { return '<p style="margin: 0; font-size: 18px; line-height: 1.65;">' + p + '</p>'; }) +
+          sourceLink(l.link) +
         '</div>' +
       '</article>';
     }
@@ -135,12 +156,56 @@
       return '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 40px 48px; margin-top: 56px; padding-top: 32px; border-top: 1px solid var(--ink);">' +
         map(b.items, function (it) {
           return '<article style="display: flex; flex-direction: column; gap: 10px;">' +
+            photo(it.image, '3 / 2', 6) +
             kicker(it.kicker) +
             '<h4 style="margin: 0; ' + SERIF_D + ' font-weight: 400; font-size: 30px; line-height: 1.1;">' + it.title + '</h4>' +
             '<p style="margin: 0; font-size: 17px; line-height: 1.6;">' + it.text + '</p>' +
+            sourceLink(it.link) +
           '</article>';
         }) +
       '</div>';
+    },
+
+    photo: function (b) {
+      return '<div style="margin-top: 56px;">' + photo(b, b.ratio) + '</div>';
+    },
+
+    // Barras horizontales: bars [{ label, value, display?, highlight? }]
+    chart: function (b) {
+      var max = Math.max.apply(null, (b.bars || []).map(function (x) { return Math.abs(+x.value) || 0; })) || 1;
+      return '<figure style="margin: 56px 0 0; padding: 36px 0 8px; border-top: 1px solid var(--ink);">' +
+        figcaption(b, 28) +
+        '<div style="display: flex; flex-direction: column;">' +
+          map(b.bars, function (x) {
+            var pct = Math.max(0.5, Math.abs(+x.value) / max * 100);
+            var color = x.highlight ? 'var(--accent)' : 'var(--ink)';
+            return '<div style="display: grid; grid-template-columns: minmax(110px, 28%) 1fr; gap: 6px 20px; align-items: center; padding: 12px 0; border-bottom: 1px solid var(--hair);">' +
+              '<span style="font-size: 16px; line-height: 1.35;' + (x.highlight ? ' font-weight: 600;' : '') + '">' + x.label + '</span>' +
+              '<div style="display: flex; align-items: center; gap: 12px; min-width: 0;">' +
+                '<div style="height: 12px; width: ' + pct.toFixed(1) + '%; background: ' + color + ';"></div>' +
+                '<span style="flex: 0 0 auto; ' + MONO + ' font-size: 13px; letter-spacing: 0.04em;' + (x.highlight ? ' color: var(--accent);' : '') + '">' + (x.display != null ? x.display : x.value + (b.unit || '')) + '</span>' +
+              '</div>' +
+            '</div>';
+          }) +
+        '</div>' +
+        (b.footnote ? '<p style="margin: 20px 0 0; font-size: 13px; color: var(--muted);">' + b.footnote + '</p>' : '') +
+      '</figure>';
+    },
+
+    // Fila de cifras destacadas: items [{ value, label }]
+    stats: function (b) {
+      return '<figure style="margin: 56px 0 0; padding: 36px 0 8px; border-top: 1px solid var(--ink);">' +
+        (b.title ? figcaption(b, 28) : '') +
+        '<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 28px 40px;">' +
+          map(b.items, function (x) {
+            return '<div style="display: flex; flex-direction: column; gap: 8px; border-top: 3px double var(--ink); padding-top: 16px;">' +
+              '<span style="' + SERIF_D + ' font-size: clamp(56px, 6vw, 80px); line-height: 0.9; color: var(--accent);">' + x.value + '</span>' +
+              '<span style="font-size: 16px; line-height: 1.45; color: var(--soft);">' + x.label + '</span>' +
+            '</div>';
+          }) +
+        '</div>' +
+        (b.footnote ? '<p style="margin: 20px 0 0; font-size: 13px; color: var(--muted);">' + b.footnote + '</p>' : '') +
+      '</figure>';
     },
 
     orbitmap: function (b) {
@@ -245,7 +310,7 @@
       '<p' + (s.lead ? '' : ' id="' + hid + '"') + ' style="margin: 0; ' + MONO + ' font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase;">' + s.name + '</p>' +
       '<div style="flex: 1; height: 1px; background: var(--ink); align-self: center;"></div>' +
     '</div>';
-    var lead = s.lead && leads[s.lead.type] ? leads[s.lead.type](s.lead, hid) : '';
+    var lead = s.lead && leads[s.lead.type] ? photo(s.lead.image, '16 / 9', 40) + leads[s.lead.type](s.lead, hid) : '';
     var body = map(s.blocks, function (b) { return blocks[b.type] ? blocks[b.type](b) : ''; });
     var style = last ? 'padding: 72px 0 56px;' : 'padding: 72px 0; border-bottom: 1px solid var(--hair);';
     return '<section id="' + s.id + '" aria-labelledby="' + hid + '" style="' + style + '">' + head + lead + body + '</section>';
@@ -262,12 +327,16 @@
   function archive(d) {
     if (issues.length < 2) return '';
     var items = issues.slice().sort(function (a, b) { return b.number - a.number; }).map(function (it) {
-      var label = 'Semana ' + it.week + ' · ' + it.dateLabel + (it.number === d.number ? ' · <span style="color: var(--accent);">en pantalla</span>' : '');
+      var label = it.dateLabel + (it.number === d.number ? ' · <span style="color: var(--accent);">en pantalla</span>' : '');
       return { when: 'Nº ' + pad(it.number), what: label, href: '?n=' + it.number };
     });
+    // Con números diarios la lista crece rápido: las dos últimas semanas a la vista, el resto plegado.
+    var RECENT = 14;
+    var older = items.slice(RECENT);
     return '<nav aria-label="Archivo" style="margin-top: 56px; display: flex; flex-direction: column;">' +
       '<p style="margin: 0 0 8px; ' + LABEL + ' color: var(--accent);">Números anteriores</p>' +
-      dlist(items) +
+      dlist(items.slice(0, RECENT)) +
+      (older.length ? '<details style="margin-top: 4px;"><summary style="cursor: pointer; padding: 14px 0; ' + LABEL + ' color: var(--muted);">Ver ' + older.length + ' números más</summary>' + dlist(older) + '</details>' : '') +
     '</nav>';
   }
 

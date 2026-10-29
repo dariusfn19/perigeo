@@ -19,6 +19,9 @@ BLOCKS = {
     'orbitmap': ['title', 'distance', 'transit', 'legend'],
     'timeline': ['title', 'items'],
     'agenda': [],
+    'photo': ['src', 'credit'],
+    'chart': ['title', 'bars'],
+    'stats': ['items'],
 }
 errors = []
 
@@ -27,6 +30,19 @@ def need(obj, keys, where):
     for k in keys:
         if obj.get(k) in (None, '', []):
             errors.append(f'{where}: falta «{k}»')
+
+
+def check_link(obj, where):
+    link = obj.get('link')
+    if not link or not str(link.get('url', '')).startswith('http'):
+        errors.append(f'{where}: falta link.url a la noticia original')
+    elif not link.get('source'):
+        errors.append(f'{where}: falta link.source (nombre del medio)')
+
+
+def check_image(img, where):
+    if img is not None:
+        need(img, ['src', 'alt', 'credit'], where + '.image')
 
 
 def check_issue(path, entry):
@@ -50,6 +66,9 @@ def check_issue(path, entry):
                 errors.append(f'{w}.lead: type desconocido «{lead.get("type")}»')
             else:
                 need(lead, LEADS[lead['type']], w + '.lead')
+            check_image(lead.get('image'), w + '.lead')
+            if d.get('number', 0) > 1:  # el Nº 01 se publicó antes de los enlaces
+                check_link(lead, w + '.lead')
         if not lead and not s.get('blocks'):
             errors.append(f'{w}: sección vacía')
         for j, b in enumerate(s.get('blocks') or []):
@@ -58,6 +77,10 @@ def check_issue(path, entry):
                 errors.append(f'{bw}: type desconocido «{b.get("type")}»')
             else:
                 need(b, BLOCKS[b['type']], bw)
+            for k, it in enumerate((b.get('items') or []) if b.get('type') == 'briefs' else []):
+                check_image(it.get('image'), f'{bw}.items[{k}]')
+                if d.get('number', 0) > 1:
+                    check_link(it, f'{bw}.items[{k}]')
 
 
 index = json.load(open(os.path.join(ROOT, 'issues', 'index.json'), encoding='utf-8'))

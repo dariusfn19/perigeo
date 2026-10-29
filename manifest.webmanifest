@@ -1,7 +1,7 @@
 {
   "name": "Perigeo",
   "short_name": "Perigeo",
-  "description": "Briefing semanal de relaciones internacionales, política y espacio.",
+  "description": "Briefing diario de relaciones internacionales, política y espacio.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",

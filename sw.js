@@ -1,8 +1,8 @@
 /* Perigeo — service worker.
  * Contenido (index.html, app.js, issues/*.json): primero red, para que el
  * número nuevo aparezca en cuanto se publica; si no hay conexión, la copia
- * guardada. Tipografías e iconos: primero caché. */
-var VERSION = 'perigeo-v1';
+ * guardada. Tipografías, iconos y fotos: primero caché. */
+var VERSION = 'perigeo-v2';
 var SHELL = ['./', 'index.html', 'app.js', 'manifest.webmanifest', 'issues/index.json',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 
@@ -38,7 +38,7 @@ self.addEventListener('fetch', function (e) {
   var req = e.request;
   if (req.method !== 'GET') return;
   var url = new URL(req.url);
-  if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com' || url.pathname.indexOf('/icons/') !== -1) {
+  if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com' || url.pathname.indexOf('/icons/') !== -1 || req.destination === 'image') {
     e.respondWith(cacheFirst(req));
   } else if (url.origin === self.location.origin) {
     e.respondWith(networkFirst(req));

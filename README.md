@@ -15,13 +15,13 @@ issues/index.json     Lista de números publicados
 issues/NN.json        Contenido de cada número
 ```
 
-## Publicar el número de la semana
+## Publicar un número (cada día)
 
 1. Copia `issues/01.json` como `issues/02.json` (03, 04…) y cambia el contenido.
    Mantén la misma estructura; los textos admiten `<b>` y `<em>`.
 2. Añade una línea en `issues/index.json`:
    ```json
-   { "number": 2, "file": "02.json", "week": 45, "date": "2026-11-04", "dateLabel": "4 nov 2026" }
+   { "number": 2, "file": "02.json", "week": 44, "date": "2026-10-30", "dateLabel": "Viernes, 30 oct 2026" }
    ```
 3. Sube los cambios al alojamiento. La app abre siempre el número más reciente;
    en cuanto hay dos o más, al final aparece «Números anteriores».
@@ -31,7 +31,15 @@ issues/NN.json        Contenido de cada número
 - Apertura (`lead.type`): `quote` (artículo + cita, como Geopolítica),
   `split` (dos columnas, como Espacio) o `stat` (cifra grande, como España).
 - Bloques (`blocks[].type`): `analysis`, `briefs`, `orbitmap` (mapa cislunar),
-  `timeline` y `agenda` (dato de la semana, radar y notas).
+  `timeline`, `agenda` (dato del día, radar y notas), `chart` (barras
+  horizontales), `stats` (cifras destacadas) y `photo` (foto suelta).
+- Enlace a la noticia original: `"link": { "url": "https://…", "source": "Al Jazeera" }`
+  en cada `lead` y en cada pieza de `briefs`. Obligatorio desde el Nº 02.
+- Fotos: `"image": { "src", "alt", "credit", "caption" }` en un `lead` o en una
+  pieza de `briefs`. Solo de bancos con licencia libre (Wikimedia Commons, NASA,
+  ESA…), siempre con crédito.
+
+Antes de publicar: `python3 -I tools/validate.py` tiene que decir OK.
 
 Las secciones, sus números romanos y el menú superior salen de `sections`, así
 que se pueden cambiar de una semana a otra.
