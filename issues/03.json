@@ -1,0 +1,351 @@
+{
+  "number": 3,
+  "week": 44,
+  "date": "2026-10-30",
+  "dateLabel": "Viernes, 30 de octubre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Bruselas vuelve a poner 21.300 millones de SAFE sobre la mesa y pide a los Estados que compren armas con Ucrania, mientras Rusia golpea Kyiv con misiles balísticos la misma noche de la matanza de Dnipro.",
+      "Vietnam se convierte en el 78.º firmante de los Acuerdos Artemis y Washington suma otro socio asiático en la carrera normativa por la Luna, mientras India intenta esta noche rescatar su propio GPS.",
+      "La cifra oficial de Urda se fija en 69 muertos, la investigación apunta a un choque a entre 160 y 200 km/h y, en Reus, el primer recuento nocturno en diez años encuentra a 31 personas durmiendo en la calle."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "UE · Defensa · Bruselas, 29 oct",
+        "title": "SAFE reabre la caja, ahora con Ucrania dentro",
+        "dek": "La Comisión lanza una segunda ronda de 21.300 millones del instrumento de préstamos para defensa y anima a los Estados a gastarlos en proyectos conjuntos con la industria ucraniana. No puede obligarlos.",
+        "body": [
+          "SAFE (<em>Security Action for Europe</em>) es la línea de crédito de 150.000 millones aprobada en mayo de 2025: la UE se endeuda en los mercados y presta a los Estados según sus planes nacionales de defensa. Diecinueve países han pedido más de 130.000 millones, se han firmado 16 contratos de préstamo y once Estados ya han cobrado prefinanciación, casi 13.500 millones. Como Italia, Hungría y Francia pidieron mucho menos de lo previsto, sobran 21.300 millones, y el plazo para reclamarlos está abierto hasta el 13 de noviembre.",
+          "La novedad es política. El comisario de Defensa, Andrius Kubilius, ha escrito a los gobiernos para que prioricen empresas conjuntas con Ucrania en defensa antiaérea y antimisiles, drones y antidrones, y munición. Pero, como recuerda Euronews, los préstamos son deuda nacional: Bruselas no puede imponer socios. Polonia, el mayor beneficiario con 43.730 millones —casi el 30 % del total—, destinó el 89 % a su propia industria. Al fondo, el agujero presupuestario de Ucrania: unos 70.000 millones de euros."
+        ],
+        "quote": {
+          "text": "Animamos a los Estados miembros a usar estos fondos para cubrir las necesidades de Ucrania.",
+          "author": "Thomas Regnier · Portavoz de la Comisión Europea"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg/1280px-Berlaymont_building_%28DSCF7542-DSCF7548%29.jpg",
+          "alt": "Fachada del edificio Berlaymont, sede de la Comisión Europea en Bruselas",
+          "credit": "Trougnouf (Benoit Brummer) · Wikimedia Commons · CC BY 4.0",
+          "caption": "El Berlaymont, sede de la Comisión Europea, en Bruselas."
+        },
+        "link": {
+          "url": "https://www.eunews.it/en/2026/10/29/the-second-round-of-safe-gets-underway-the-commission-urges-countries-to-use-the-remaining-21-3-billion-for-defence/",
+          "source": "Eunews"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "SAFE: dónde está el dinero",
+          "note": "Miles de millones de euros",
+          "bars": [
+            { "label": "Dotación total", "value": 150, "display": "150" },
+            { "label": "Solicitado por 19 Estados", "value": 130, "display": "+130" },
+            { "label": "Polonia, mayor beneficiario", "value": 43.73, "display": "43,7" },
+            { "label": "Segunda ronda, abierta hasta el 13 nov", "value": 21.3, "display": "21,3", "highlight": true },
+            { "label": "Prefinanciación ya pagada", "value": 13.5, "display": "≈13,5" }
+          ],
+          "footnote": "Fuentes: Comisión Europea vía Eunews (29 oct) y Euronews (29 oct)."
+        },
+        {
+          "type": "analysis",
+          "title": "Dinero europeo, industria nacional",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "SAFE nació para comprar juntos y comprar europeo: al menos el 65 % del coste de los componentes debe proceder de la UE, Ucrania o el EEE. Pero la primera ronda la dominaron planes nacionales —con una excepción de compra individual hasta mayo, defendida por Polonia— y ocho países, entre ellos Alemania y Países Bajos, ni siquiera se sumaron. El remanente es el síntoma: Europa tiene instrumento financiero, no una demanda común."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Quién pide el dinero antes del 13 de noviembre —Polonia, Irlanda y Grecia son los candidatos, según Euronews— y si los nuevos préstamos incluyen socios ucranianos o vuelven a quedarse en casa. La Comisión comunicará los repartos provisionales en las dos semanas siguientes al cierre. En paralelo, el Reino Unido se compromete a llegar al 3 % del PIB en defensa en 2030."
+            }
+          ],
+          "key": "SAFE es el ejemplo perfecto para tu TFG de cómo la UE construye autonomía estratégica con herramientas financieras y no con mando: puede prestar, incentivar y fijar reglas de origen, pero la decisión de compra sigue siendo nacional. Lo mismo ocurre con IRIS² y los lanzadores."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Kyiv, noche del 29 oct",
+              "title": "Misiles balísticos tras el aviso de Zelenski",
+              "text": "Horas después de que Zelenski advirtiera de que Rusia preparaba nuevos ataques balísticos, la Fuerza Aérea alertó a las 22.40 de misiles desde el norte. Al menos una persona murió; ardieron almacenes en el distrito de Darnytskyi y los restos de un misil cayeron junto a un bloque de viviendas en Dniprovskyi. Fue el cierre de una jornada con unos 20 muertos en todo el país.",
+              "link": {
+                "url": "https://www.kyivpost.com/post/88606",
+                "source": "Kyiv Post"
+              }
+            },
+            {
+              "kicker": "Ucrania · Jersón · 27 oct–1 nov",
+              "title": "Oleshky aguanta la tregua",
+              "text": "El alto el fuego local en la ciudad ocupada, negociado con ayuda de Melania Trump y firmado por los defensores del pueblo ucraniano y ruso en Bielorrusia, cumplía 54 horas sin violaciones según Dmytro Lubinets. Debe durar hasta el 1 de noviembre para que entre ayuda y salgan unos 2.000 residentes, hacia Ucrania o Rusia. Aún no hay cifra de evacuados.",
+              "link": {
+                "url": "https://www.voanews.com/a/ceasefire-holds-near-ukraine-s-occupied-oleshky-as-humanitarian-aid-and-evacuation-effort-begin/8216528.html",
+                "source": "VOA"
+              }
+            },
+            {
+              "kicker": "Reino Unido · Presupuesto",
+              "title": "Londres pone fecha al 3 %",
+              "text": "El canciller John Healey —que dimitió como ministro de Defensa por la falta de fondos— anunció en el presupuesto de otoño que el Reino Unido llegará al 3 % del PIB en defensa en 2030. Incluye hasta 5.000 millones de libras en cuatro años para defensa y doble uso, 10.000 millones más para Ucrania y conversaciones con Finlandia, Polonia y Países Bajos para comprar en común.",
+              "link": {
+                "url": "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry/",
+                "source": "Breaking Defense"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "II",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "Acuerdos Artemis · Ha Long, 28 oct",
+        "title": "Vietnam elige el bloque de Artemis",
+        "dek": "Vietnam se convierte en el 78.º firmante de los Acuerdos Artemis. Washington lo presenta como la extensión al espacio de su asociación estratégica con Hanói; la lectura regional es otra: un vecino de China que se alinea con el marco estadounidense.",
+        "body": [
+          "El ministro de Ciencia y Tecnología, Vũ Hải Quân, firmó durante la Semana Digital Internacional de Vietnam, en Ha Long, con la embajadora estadounidense Jennifer Wicks presente. «Vietnam se une en un momento importante del desarrollo de su propio programa espacial», dijo el administrador adjunto de la NASA, Matt Anderson. Hanói inauguró este año su Centro Espacial Nacional y desarrolla satélites propios con el programa LOTUSat.",
+          "Los Acuerdos no son vinculantes: son principios basados en el Tratado del Espacio Exterior de 1967 sobre transparencia, interoperabilidad, zonas de seguridad y uso de recursos. Su fuerza está en el número. Cada nueva firma refuerza la tesis estadounidense de que la práctica de los Estados va fijando la interpretación del derecho espacial, mientras China sigue sumando socios a la Estación Internacional de Investigación Lunar (ILRS) que impulsa con Rusia."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Earthrise_over_Compton_crater_-LRO_full_res.jpg/1280px-Earthrise_over_Compton_crater_-LRO_full_res.jpg",
+          "alt": "La Tierra asoma sobre el horizonte lunar y el cráter Compton, fotografiada por la sonda LRO",
+          "credit": "NASA / Goddard / Arizona State University · Dominio público",
+          "caption": "Salida de la Tierra sobre el cráter Compton, vista por el Lunar Reconnaissance Orbiter de la NASA."
+        },
+        "link": {
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+          "source": "NASA"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La aritmética de la semana",
+          "note": "Cifras oficiales y de prensa especializada",
+          "items": [
+            { "value": "78", "label": "países firmantes de los Acuerdos Artemis, con Vietnam" },
+            { "value": "3 de 4", "label": "satélites operativos de NavIC frente al mínimo necesario para posicionar" },
+            { "value": "40", "label": "satélites de Amazon Leo en el regreso de Vulcan, el 13 de noviembre" }
+          ],
+          "footnote": "Fuentes: NASA (28 oct), Business Standard (29 oct), Spaceflight Now (28 oct)."
+        },
+        {
+          "type": "timeline",
+          "title": "Lo que viene en la plataforma de lanzamiento",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            {
+              "when": "30 oct",
+              "title": "GSLV-F18 · NVS-03",
+              "text": "India intenta devolver a NavIC la cuarta pieza que necesita para funcionar de forma autónoma.",
+              "highlight": true
+            },
+            {
+              "when": "13 nov",
+              "title": "Vulcan · Amazon Leo",
+              "text": "Regreso al vuelo de ULA tras nueve meses en tierra por fallos en las toberas de sus propulsores."
+            },
+            {
+              "when": "≈ 23 nov",
+              "title": "Ariane 6 · Amazon Leo",
+              "text": "36 satélites de la constelación de Amazon en el próximo lanzamiento europeo."
+            },
+            {
+              "when": "≈ 30 nov",
+              "title": "Starship · Vuelo 15",
+              "text": "Fecha objetivo adelantada en los calendarios de lanzamiento, sin confirmación oficial de SpaceX."
+            }
+          ],
+          "footnote": "Fuentes: Business Standard (29 oct), Spaceflight Now (28 oct), Advanced Television (26 oct), KeepTrack (29 oct)."
+        },
+        {
+          "type": "analysis",
+          "title": "Una carrera que se gana firmando",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Con 78 firmantes, Artemis es ya el marco de referencia de facto para la actividad lunar, aunque sin rango de tratado. Sudeste Asiático es terreno disputado: Vietnam mantiene una relación compleja con Pekín y su adhesión se lee como un gesto de equilibrio, no de ruptura. La ILRS, por su parte, crece sobre todo con organismos y países del Sur Global."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La competencia normativa se libra fuera de COPUOS: cada bloque acumula práctica estatal para cuando llegue la negociación multilateral sobre recursos. Para Europa la pregunta es incómoda: buena parte de los miembros de la ESA ya han firmado Artemis por separado, lo que deja a la Agencia sin una voz colectiva propia en esa mesa."
+            }
+          ],
+          "key": "Para tu TFG: añade Vietnam a la serie de adhesiones de 2026 y mide el ritmo frente a la ILRS. El argumento de la «costumbre en formación» gana peso con cada firma, y Europa participa como suma de Estados, no como UE."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "India · Navegación soberana",
+              "title": "NavIC busca su cuarto satélite",
+              "text": "ISRO tiene previsto lanzar esta noche, a las 23.51 hora india, el satélite NVS-03 en un GSLV desde Sriharikota. El sistema de navegación indio solo tiene tres satélites operativos, por debajo de los cuatro necesarios para posicionar de forma autónoma; el fallo del NVS-02 en enero de 2025 retrasó toda la serie. Lleva un reloj atómico de fabricación nacional.",
+              "link": {
+                "url": "https://www.business-standard.com/amp/india-news/india-s-navic-navigation-system-awaits-boost-with-isro-s-nvs-03-launch-126102901510_1.html",
+                "source": "Business Standard"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Lanzadores",
+              "title": "Vulcan vuelve el 13 de noviembre",
+              "text": "ULA anuncia el regreso al vuelo de Vulcan tras nueve meses en tierra por dos fallos de tobera en los propulsores de Northrop Grumman. Llevará 40 satélites de Amazon Leo, que tiene casi 400 en órbita y 38 lanzamientos de Vulcan reservados. La Fuerza Espacial depende de Vulcan para cerca de la mitad de sus lanzamientos de seguridad nacional.",
+              "link": {
+                "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/",
+                "source": "Spaceflight Now"
+              }
+            },
+            {
+              "kicker": "Reino Unido · Control del espacio",
+              "title": "Una coalición privada para la defensa orbital",
+              "text": "La emergente Shield Space reúne a AstroAnalytica, Goonhilly, Magdrive, Optera y otras firmas en la UK Space Superiority Coalition, que propone una misión de demostración —SPEAR— para detectar y responder a amenazas en órbita, aún sin aval del Gobierno. «Lo que muestra la actividad de Rusia es que no está disuadida», dice su CTO, Dan Molland.",
+              "link": {
+                "url": "https://payloadspace.com/shield-space-launches-uk-space-superiority-coalition/",
+                "source": "Payload"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "III",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "69",
+        "statLabel": "muertos en el choque de trenes de Urda, cifra oficial de la Junta de Castilla-La Mancha",
+        "title": "Urda: la cifra se asienta, las preguntas no",
+        "body": [
+          "El balance oficial queda en 69 fallecidos, aunque puede variar mientras la UME retira vagones y avanza la identificación. La CIAF llegó a publicar 74 en su web el jueves por la tarde y rectificó minutos después; Transportes remite a los datos de la Junta. Corregimos así el dato que dimos ayer. Hay más de un centenar de heridos; los cuatro más graves evolucionan favorablemente.",
+          "El primer informe de la autoridad investigadora (AITAT) estima que el AVE alcanzó al Iryo a entre 160 y 200 km/h. Las cajas negras de ambos trenes están bajo custodia de la Guardia Civil. La secuencia que se dibuja: un fallo del sistema LZB a las 8.31 obligó a circular con bloqueo por señales laterales, y una cadena de instrucciones entre maquinistas y el centro de control de Adif terminó en el choque. Puente calificó de «inexplicable» que se autorizara la marcha sin limitar la velocidad. Iryo pagará 35.000 euros a cada familia de pasajeros fallecidos."
+        ],
+        "link": {
+          "url": "https://www.infobae.com/espana/2026/10/29/ultima-hora-del-accidente-de-trenes-en-toledo-en-directo-la-guardia-civil-continua-trabajando-en-la-zona-en-busca-de-mas-posibles-victimas/",
+          "source": "Infobae"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Las cifras de Urda, un día después",
+          "note": "Datos provisionales",
+          "items": [
+            { "value": "160–200", "label": "km/h, velocidad estimada del impacto según la AITAT" },
+            { "value": "+100", "label": "heridos atendidos entre Castilla-La Mancha y Madrid" },
+            { "value": "606", "label": "trenes de Renfe cancelados el jueves por la huelga de Semaf" },
+            { "value": "30", "label": "días para las elecciones generales del 29-N" }
+          ],
+          "footnote": "Fuentes: Infobae (29 oct), COPE (29 oct), Demócrata (29 oct)."
+        },
+        {
+          "type": "analysis",
+          "title": "Del luto a la rendición de cuentas",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Con el luto oficial hasta el sábado, la campaña sigue en pausa salvo para Vox, que pide la dimisión de Sánchez y de Puente. La confusión de cifras del jueves —68, 69, 74— alimenta la desconfianza en un momento en que el Gobierno necesita transmitir control. Los sondeos publicados antes del accidente daban mayoría a PP y Vox; ninguno mide aún su efecto."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "La declaración de los trabajadores implicados, que aún no han podido ser interrogados por su estado de salud; el análisis de los registradores; y si se confirma que una obra para renovar el sistema de seguridad, licitada en 2021 según COPE, seguía sin ejecutar. El plan alternativo de Renfe para la línea Madrid-Andalucía no arrancará antes del martes 3 de noviembre."
+            }
+          ],
+          "key": "Para quien se mueve por el Camp, la pregunta que deja Urda es concreta: qué tramos de la red catalana funcionan todavía con sistemas antiguos y qué pasa cuando fallan. Es probable que el ERTMS de la R2 y del Corredor Mediterráneo entre en los debates de la circunscripción de Tarragona."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Reus · Servicios sociales",
+              "title": "31 personas durmiendo en la calle",
+              "text": "El primer recuento nocturno en diez años, la noche del martes 27, localizó a 31 personas pernoctando al raso en diez zonas de la ciudad, con unos 50 voluntarios y entidades como Creu Roja y Càritas. Una decena dijo no tener hogar. Los servicios municipales seguían a unas diez; en 2025 atendieron a 160. Los datos irán al Ministerio de Derechos Sociales.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reus_-_Pla%C3%A7a_del_Mercadal_1.jpg/1280px-Reus_-_Pla%C3%A7a_del_Mercadal_1.jpg",
+                "alt": "Plaça del Mercadal de Reus, con el edificio del Ayuntamiento",
+                "credit": "Zarateman · Wikimedia Commons · CC0",
+                "caption": "La plaça del Mercadal, en el centro de Reus."
+              },
+              "link": {
+                "url": "https://reusdigital.cat/noticies/reus/reus-identifica-31-persones-al-carrer-durant-el-recompte-nocturn-despres-de-10-anys",
+                "source": "Reusdigital.cat"
+              }
+            },
+            {
+              "kicker": "Tarragona · Química",
+              "title": "Dow no se mueve en el ERE",
+              "text": "El comité de empresa de Dow denuncia que la multinacional apenas ha cedido en su plan de despedir a 116 personas en España, la mayoría en Tarragona, tras rebajarlo desde 138. «Si Dow quiere un acuerdo tendrá que cambiar sustancialmente su posición», avisan, y alertan de que recortar puestos no puede comprometer la seguridad de las plantas.",
+              "link": {
+                "url": "https://reusdigital.cat/noticies/economia/els-treballadors-de-dow-afirmen-que-lempresa-no-vol-negociar-el-pla-que-preveu",
+                "source": "Reusdigital.cat (ACN)"
+              }
+            },
+            {
+              "kicker": "Catalunya · Parlament",
+              "title": "Junts salva la ley contra los cargos «a dedo»",
+              "text": "La ley de Dirección Pública Profesional del conseller Albert Dalmau, que obliga a seleccionar por mérito a directores y subdirectores generales de la Generalitat, recibe enmiendas a la totalidad de ERC y el PP, y previsiblemente de los Comuns, socios del Govern. Junts rechazará devolverla y quiere ir más allá. La votación se espera en diciembre.",
+              "link": {
+                "url": "https://cronicaglobal.elespanol.com/politica/20261029/junts-no-vetara-limitacion-nombramientos-dedo-generalitat/1003742807457_0.html",
+                "source": "Crónica Global"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "78",
+            "text": "Países que han firmado los Acuerdos Artemis desde 2020, cuando EE.UU. los lanzó con siete socios fundadores. Vietnam, el último, firmó el 28 de octubre en Ha Long."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "3 nov", "what": "EE.UU. · Elecciones de mitad de mandato" },
+              { "when": "4 nov", "what": "Israel · Resultados oficiales de las legislativas" },
+              { "when": "13 nov", "what": "UE · Cierra la segunda ronda de SAFE; Vulcan vuelve a volar" },
+              { "when": "29 nov", "what": "España · Elecciones generales" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Construye una tabla de adhesiones a Artemis e ILRS por año y región desde 2020: el ritmo y la geografía de las firmas son un argumento empírico sobre cuál de los dos marcos está generando práctica estatal.",
+                "SAFE y NavIC ilustran dos modelos de autonomía: la UE financia y fija reglas de origen sin decidir las compras; India construye un sistema soberano propio aunque le cueste años completarlo. Útil para comparar con Galileo e IRIS²."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "La segunda ronda de SAFE prioriza antidrones, defensa antiaérea y proyectos conjuntos con Ucrania: las empresas espaciales europeas con productos de doble uso —vigilancia, comunicaciones seguras, conciencia situacional— pueden entrar como subcontratistas de consorcios nacionales antes del 13 de noviembre. La coalición británica de Shield Space muestra otro modelo: pymes que se agrupan para responder a un requisito gubernamental concreto."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Eunews (29 oct), Euronews (29 oct), Kyiv Post (29 oct), VOA (29 oct), Breaking Defense (28 oct), NASA (28 oct), Business Standard (29 oct), Spaceflight Now (28 oct), Payload (28 oct), KeepTrack (29 oct), Advanced Television (26 oct), Infobae (29 oct), COPE (29 oct), Demócrata (29 oct), Reusdigital.cat (29 oct), Reusdigital.cat / ACN (29 oct), Crónica Global (29 oct). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 30.10.2026."
+}
