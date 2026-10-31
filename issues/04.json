@@ -1,0 +1,335 @@
+{
+  "number": 4,
+  "week": 44,
+  "date": "2026-10-31",
+  "dateLabel": "Sábado, 31 de octubre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Bruselas propone liberar los 45.000 millones que faltan del préstamo a Ucrania para 2027 —casi tres cuartas partes para defensa— mientras Canadá se sube a la alianza europea con 500 millones y una «asociación sin adhesión».",
+      "India devuelve a NavIC el cuarto satélite que necesitaba para posicionar por sí sola, y en Kurú Europa empieza a ensayar en tierra Callisto, su demostrador de cohete reutilizable.",
+      "Tras Urda, Óscar Puente estudia cerrar hasta dos años el AVE Madrid–Barcelona para renovarlo, y la estación del Camp de Tarragona, con más de un millón de usuarios, se pregunta cómo quedará conectada."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "UE · Ucrania · Bruselas, 30 oct",
+        "title": "Los 45.000 millones de 2027, sobre la mesa",
+        "dek": "La Comisión propone al Consejo aprobar la segunda mitad del préstamo de 90.000 millones a Ucrania. Casi 32.000 irán a capacidad industrial de defensa; el resto, a sostener el Estado.",
+        "body": [
+          "El paquete adoptado el viernes pide a los Veintisiete una decisión de ejecución para desembolsar los 45.000 millones restantes del <em>Ukraine Support Loan</em> antes del 31 de diciembre de 2027. El reparto propuesto: hasta 13.300 millones de apoyo presupuestario, a partes iguales entre el Mecanismo para Ucrania y la ayuda macrofinanciera, y 31.700 millones para capacidad industrial de defensa. La Comisión da luz verde a la estrategia de financiación que Kyiv presentó el 26 de octubre y condiciona el dinero presupuestario a reformas de Estado de derecho y lucha contra la corrupción.",
+          "El préstamo se financia con deuda común de la UE en los mercados. De los 45.000 millones de 2026, ya se han desembolsado 19.800. Si el Consejo lo aprueba a tiempo, los primeros pagos de 2027 llegarían a principios de año. En la cumbre de Montreal, el primer ministro canadiense, Mark Carney, anunció que Ottawa aportará 500 millones de euros a este instrumento. El trasfondo militar no ha cambiado: Ucrania mantiene en pausa sus ataques contra refinerías rusas por presión de Washington, según el <em>Wall Street Journal</em>, y Zelenski repite que le faltan interceptores Patriot ante la ofensiva balística sobre Kyiv."
+        ],
+        "quote": {
+          "text": "Europa seguirá defendiendo a Ucrania todo el tiempo que haga falta.",
+          "author": "Andrius Kubilius · Comisario europeo de Defensa y Espacio"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Andrius_Kubilius_2025_%28cropped%29.jpg",
+          "alt": "Retrato de Andrius Kubilius, comisario europeo de Defensa y Espacio, en Bruselas",
+          "credit": "Lukasz Kobus / Unión Europea, 2025 · Wikimedia Commons · CC BY 4.0",
+          "caption": "Andrius Kubilius, comisario de Defensa y Espacio, en la sede de la Comisión en 2025."
+        },
+        "link": {
+          "url": "https://enlargement.ec.europa.eu/news/commission-takes-key-step-forward-2027-financial-support-ukraine-2026-10-30_en",
+          "source": "Comisión Europea"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "El préstamo de 90.000 millones, por años y destino",
+          "note": "Miles de millones de euros",
+          "bars": [
+            { "label": "2027 · Capacidad industrial de defensa (propuesta)", "value": 31.7, "display": "31,7", "highlight": true },
+            { "label": "2026 · Defensa", "value": 28.3, "display": "28,3" },
+            { "label": "2026 · Ya desembolsado", "value": 19.8, "display": "19,8" },
+            { "label": "2026 · Apoyo presupuestario", "value": 16.7, "display": "16,7" },
+            { "label": "2027 · Apoyo presupuestario (propuesta)", "value": 13.3, "display": "13,3", "highlight": true }
+          ],
+          "footnote": "Fuente: Comisión Europea, DG Ampliación y Vecindad Oriental (30 oct 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Previsibilidad comprada a crédito",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Desde 2022, la UE y sus Estados han movilizado 231.600 millones para Ucrania, 3.800 de ellos procedentes de los beneficios de activos rusos inmovilizados. El préstamo de 90.000 millones es la pieza que cubre 2026 y 2027 con deuda común. La novedad de esta propuesta es el peso de la defensa: dos de cada tres euros irán a capacidad industrial militar, el mismo enfoque que la segunda ronda de SAFE, que anima a comprar con la industria ucraniana."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "La votación en el Consejo, donde Hungría ha frenado en el pasado decisiones sobre Ucrania; el reparto concreto que hagan los Estados entre defensa y presupuesto; y si llegan las aportaciones de otros socios —Canadá ya ha puesto 500 millones— que Dombrovskis reclamó el viernes. En paralelo, la pausa en los ataques ucranianos a refinerías podría durar hasta las legislativas de EE.UU. del 3 de noviembre, o hasta finales de mes."
+            }
+          ],
+          "key": "Fíjate en quién firma la cita: Kubilius lleva a la vez Defensa y Espacio. Para tu TFG, esa cartera única es el argumento institucional de que la UE ya trata la capacidad orbital como parte de su base industrial de defensa, y no como política científica."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Canadá–UE · Montreal, 29–30 oct",
+              "title": "Una asociación «sin adhesión»",
+              "text": "Carney, Ursula von der Leyen y António Costa lanzan la «Alianza para el Futuro»: cooperación en comercio, inteligencia artificial, materias primas críticas, energía y defensa. Ottawa comprará hasta 1.600 millones de dólares en acciones de Cohere, que se fusiona con la alemana Aleph Alpha, y negocia sumarse a GovSatCom y profundizar la cooperación en satélites seguros. La etiqueta de «miembro asociado» cae del texto por las objeciones de Francia y Alemania. «Es una asociación sin adhesión», resumió Von der Leyen.",
+              "link": {
+                "url": "https://www.theglobeandmail.com/politics/article-canada-eu-summit-associate-member-status/",
+                "source": "The Globe and Mail"
+              }
+            },
+            {
+              "kicker": "Ucrania · Jersón ocupada",
+              "title": "Oleshky cierra la operación humanitaria",
+              "text": "Las autoridades rusas y ucranianas dan por concluida la evacuación de la ciudad ocupada: quien quería salir, ha salido. Kyiv preparó 25 autobuses con 750 plazas y esperaba recibir a 527 vecinos; en la ciudad quedarían alrededor de 1.000 civiles. El defensor del pueblo, Dmytro Lubinets, no registró violaciones del alto el fuego local, aunque dos personas, entre ellas un zapador, murieron durante el desminado, según la parte rusa.",
+              "link": {
+                "url": "https://en.ilsole24ore.com/art/ukraine-latest-news-wsj-ukrainian-raids-on-russian-oil-refineries-suspended-AJgMXwyB",
+                "source": "Il Sole 24 Ore"
+              }
+            },
+            {
+              "kicker": "Israel · Recuento final",
+              "title": "53 frente a 48, y nadie llega a 61",
+              "text": "Con todo escrutado, el bloque de Netanyahu se queda en 53 escaños —tenía 68—, el de Gadi Eisenkot en 48 y los partidos árabes logran un récord de 19. El Likud sube a 27 y Yashar se queda en 21. La participación, del 77,9 %, es la más alta en décadas. Los resultados oficiales pasan al presidente Herzog la próxima semana y la nueva Knéset jura el 10 de noviembre. Herzog pide evitar «otra ronda de elecciones».",
+              "link": {
+                "url": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/",
+                "source": "The Times of Israel"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "II",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "India · Navegación soberana · Sriharikota, 30 oct",
+        "title": "NavIC recupera su cuarto satélite",
+        "dek": "El GSLV-F18 coloca el NVS-03 en órbita de transferencia y el sistema de navegación indio vuelve a la configuración mínima de cuatro satélites que necesita para dar posición sin depender del GPS.",
+        "body": [
+          "El cohete despegó a las 23.51, hora india, desde la segunda plataforma de Sriharikota, y unos 18 minutos después soltó el satélite, de unas 2,2 toneladas, en una órbita de 170 por 37.023 km. «GSLV-F18 ha inyectado con éxito y con precisión el satélite de navegación 03», anunció el presidente de ISRO, V. Narayanan. Con su propia propulsión subirá hasta la posición geosíncrona de 32,5° Este. Lleva un reloj atómico de rubidio de fabricación india y emite en las bandas L1, L5 y S.",
+          "La misión tenía una lección pendiente: en enero de 2025, el NVS-02 se quedó atrapado en órbita de transferencia por una válvula que no se abrió. Esta vez ISRO lanzó el satélite con las válvulas pirotécnicas ya abiertas. NavIC cubre India y una franja de 1.500 km alrededor de sus fronteras, y su razón de ser es explícitamente estratégica: reducir la dependencia de sistemas extranjeros en usos militares, emergencias y transporte. El vuelo llegó solo 56 días después del anterior GSLV, el intervalo más corto de su historia."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/GSLV-F18%E2%80%93NVS-03_Mission_-_Pre-Launch_Image_13.webp/1280px-GSLV-F18%E2%80%93NVS-03_Mission_-_Pre-Launch_Image_13.webp",
+          "alt": "El cohete GSLV-F18 en la segunda plataforma de lanzamiento de Sriharikota, entre torres de pararrayos, al atardecer",
+          "credit": "ISRO · Wikimedia Commons · GODL-India",
+          "caption": "El GSLV-F18 con el NVS-03, en la plataforma de Sriharikota el 29 de octubre, la víspera del lanzamiento."
+        },
+        "link": {
+          "url": "https://www.etvbharat.com/en/technology/isro-latest-satellite-gslv-f18-rocket-launch-successfully-places-nvs03-satellite-into-designated-orbit-navic-constellation-restored-enn26103100345",
+          "source": "ETV Bharat"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "NavIC, en cifras",
+          "note": "Datos de ISRO recogidos por la prensa india",
+          "items": [
+            { "value": "4", "label": "satélites operativos, el mínimo para posicionar de forma autónoma" },
+            { "value": "1.500 km", "label": "de cobertura más allá de las fronteras de India" },
+            { "value": "56 días", "label": "entre dos lanzamientos de GSLV, récord del cohete" },
+            { "value": "20.º", "label": "vuelo del GSLV desde su estreno" }
+          ],
+          "footnote": "Fuentes: ETV Bharat (31 oct), ISRO (página de la misión GSLV-F18)."
+        },
+        {
+          "type": "timeline",
+          "title": "La segunda generación de NavIC",
+          "note": "Serie NVS · cinco satélites previstos",
+          "items": [
+            { "when": "May 2023", "title": "NVS-01 · GSLV-F12", "text": "Primer satélite de la nueva serie, con reloj atómico indio." },
+            { "when": "Ene 2025", "title": "NVS-02 · GSLV-F15", "text": "Llega a órbita de transferencia, pero una válvula impide elevarlo a su posición final." },
+            { "when": "30 oct 2026", "title": "NVS-03 · GSLV-F18", "text": "Devuelve a NavIC la configuración mínima de cuatro satélites.", "highlight": true },
+            { "when": "Sin fecha", "title": "NVS-04 y NVS-05", "text": "Completarán la serie; ISRO no ha anunciado calendario." }
+          ],
+          "footnote": "Fuentes: ISRO, ETV Bharat (31 oct), GPS World (26 oct)."
+        },
+        {
+          "type": "analysis",
+          "title": "La navegación como frontera de soberanía",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Solo cuatro actores tienen sistemas globales de navegación: EE.UU. (GPS), Rusia (GLONASS), China (BeiDou) y la UE (Galileo). India y Japón han optado por sistemas regionales. NavIC llevaba meses por debajo del umbral operativo, lo que dejaba a las Fuerzas Armadas indias dependiendo de señales ajenas justo cuando la guerra electrónica —interferencias y suplantación de GPS— se ha generalizado en Ucrania y Oriente Medio."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Cuatro satélites son el mínimo, no la redundancia: cualquier avería devolvería a NavIC a la casilla de salida hasta que vuelen NVS-04 y NVS-05. Aun así, India demuestra que una potencia media puede sostener una capa orbital propia con lanzador, reloj atómico y satélite nacionales. Es exactamente el tipo de cadena completa que Europa tiene en navegación con Galileo y Ariane 6, pero no en conectividad, donde los primeros lanzamientos de IRIS² están previstos para 2029."
+            }
+          ],
+          "key": "Para tu TFG, NavIC sirve de contraste: un Estado que asume años de retraso y fallos antes que depender de otro. Compáralo con el debate europeo sobre usar Starlink como solución puente mientras llega IRIS²."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EE.UU. · NASA",
+              "title": "«Si China llega antes, me despedirán»",
+              "text": "El administrador de la NASA, Jared Isaacman, dijo en una entrevista con <em>Florida Today</em> que es imprescindible que EE.UU. vuelva primero a la Luna y que, si no lo consigue, debería haber cambios: empezando por él. Llamó «crítico» al polo sur lunar, con hielo de agua y campo de pruebas para Marte, y avisó de que allí rige el «primero en llegar, primero en servirse». China aspira a poner taikonautas en la Luna antes de 2030; ambos países quieren estaciones con energía nuclear en el polo sur antes de que acabe la década.",
+              "link": {
+                "url": "https://www.coralspringsflnews.com/news/article317829435.html",
+                "source": "Florida Today (vía Coral Springs News)"
+              }
+            },
+            {
+              "kicker": "Europa · Lanzadores reutilizables",
+              "title": "Callisto pisa por fin la plataforma",
+              "text": "El CNES ha iniciado en el Centro Espacial de la Guayana los ensayos en tierra del demostrador reutilizable Callisto, proyecto conjunto con el DLR alemán y la JAXA japonesa. Una maqueta a escala real, fabricada por la pyme francesa CIPAL, se ha erigido en la antigua zona de lanzamiento del Diamant para probar durante una semana las comunicaciones con la base. Los ensayos seguirán hasta 2027, año previsto para el primer vuelo.",
+              "link": {
+                "url": "https://europeanspaceflight.com/ground-qualification-testing-begins-for-callisto-reusable-rocket-demonstrator",
+                "source": "European Spaceflight"
+              }
+            },
+            {
+              "kicker": "Reino Unido · Seguridad orbital",
+              "title": "1.049 riesgos de colisión en un mes",
+              "text": "El Centro Nacional de Operaciones Espaciales británico registró en septiembre 1.049 riesgos de colisión para satélites con licencia del Reino Unido, un 16 % más que en agosto, aunque por debajo de la media de doce meses. Vigiló 58 reentradas —51 de ellas, satélites— y una fragmentación de un satélite en órbita baja cuyos restos aún se están contando. El catálogo estadounidense sumó 163 objetos netos.",
+              "link": {
+                "url": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-september-2026",
+                "source": "GOV.UK"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "III",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "12–24",
+        "statLabel": "meses de corte total del AVE Madrid–Barcelona que baraja Transportes para renovar la línea",
+        "title": "El «modelo alemán» de Puente asoma al Camp de Tarragona",
+        "body": [
+          "En su segunda comparecencia tras el choque de Urda, Óscar Puente admitió que el Gobierno estudia suspender el servicio de alta velocidad entre Madrid y Barcelona para renovarla de una vez, como hace Alemania: «Es una de las cosas que en estos momentos estamos valorando». Una obra que con ventanas nocturnas llevaría cinco años podría hacerse en 12 a 24 meses con la vía cerrada. La primera fase sería Madrid–Calatayud, el tramo más antiguo; después vendrían las obras previstas en Lleida y el Camp de Tarragona. Puente lo justifica por la puntualidad, no por la seguridad. No hay fecha ni plan alternativo.",
+          "La línea, de unos 660 km, mueve 15 millones de viajeros al año con tres operadores, y la estación del Camp supera el millón de usuarios. Los expertos consultados por el <em>Diari de Tarragona</em> ven «inadmisible» un cierre total: el puente aéreo no sirve a las paradas intermedias y la red convencional quedó relegada al llegar el AVE. Los usuarios del Avant —entre 1.000 y 1.500 diarios, según su asociación— confían en que el corte se limite a Madrid–Calatayud. El decano de los ingenieros de caminos catalanes, Pere Calvet, duda de que «podamos permitirnos cerrarla completamente». Mientras, el balance oficial de Urda sigue en 69 muertos y el ministro, que descarta dimitir, ha pedido comparecer en el Congreso."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Camp_de_Tarragona_%2836282954550%29.jpg/1280px-Camp_de_Tarragona_%2836282954550%29.jpg",
+          "alt": "Andén vacío y vías de la estación de alta velocidad del Camp de Tarragona al atardecer, a contraluz",
+          "credit": "Nicolas Vigier · Wikimedia Commons · CC0",
+          "caption": "Andén de la estación de alta velocidad del Camp de Tarragona, entre Reus y Tarragona."
+        },
+        "link": {
+          "url": "https://www.diaridetarragona.com/tarragona/274497/estacion-camp-tarragona-enfrenta-cortes-trenes-modelo-aleman-oscar-puente.html",
+          "source": "Diari de Tarragona"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Lo que está en juego",
+          "note": "Cifras de la línea y del contexto",
+          "items": [
+            { "value": "15 M", "label": "viajeros al año en el AVE Madrid–Barcelona" },
+            { "value": "+1 M", "label": "usuarios de la estación del Camp de Tarragona" },
+            { "value": "170", "label": "fallos del sistema LZB en 2026, «dentro de la normalidad» según Puente" },
+            { "value": "29", "label": "días para las elecciones generales del 29-N" }
+          ],
+          "footnote": "Fuentes: Diari de Tarragona (31 oct), Infobae (30 oct)."
+        },
+        {
+          "type": "analysis",
+          "title": "Una infraestructura que no tiene plan B",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "La línea abrió por tramos entre 2003 y 2008 y lleva años acumulando limitaciones temporales de velocidad: entre L’Espluga de Francolí y Valls, y pasado el Camp de Tarragona, los trenes van hoy a 160 km/h por vibraciones. Urda ha puesto el mantenimiento en el centro del debate. Pedro Sánchez admite que la confianza en la alta velocidad está «quebrada», y la idea de cerrar la línea llega a cuatro semanas de las generales."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si Transportes concreta el alcance —solo Madrid–Calatayud o todo el corredor—, qué alternativa ofrece a las estaciones intermedias y cómo encaja con el Corredor Mediterráneo y la R-Aeroport. También la comparecencia de Puente en el Congreso y el uso que hagan los partidos de la circunscripción de Tarragona de un asunto que toca a diario a miles de viajeros."
+            }
+          ],
+          "key": "Si vas a menudo a Madrid o Barcelona en AVE o Avant, guarda la pregunta para la campaña: qué compromiso concreto asume cada candidatura por Tarragona sobre el servicio del Camp durante las obras. Es el tipo de tema local que puede mover votos el 29-N."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Reus · Empresa",
+              "title": "MaserGrup salta a Norteamérica",
+              "text": "El holding reusense compra el 100 % del negocio de fabricación para terceros de Skjodt-Barrett en EE.UU. y Canadá, que factura más de 150 millones de dólares y produce más de 300 millones de unidades en formato <em>pouch</em> al año. Pasará a llamarse SBFoods, dentro de Fruselva, mantendrá a sus 360 trabajadores y sumará casi un centenar en Indiana. El grupo prevé superar los 400 millones de euros de facturación en 2027. Es también el propietario de la Casa Navàs.",
+              "link": {
+                "url": "https://reusdigital.cat/noticies/economia/la-reusenca-masergrup-compra-el-100-del-negoci-de-fabricacio-tercers-dskjodt",
+                "source": "Reusdigital.cat"
+              }
+            },
+            {
+              "kicker": "Cambrils · Municipales 2027",
+              "title": "Un concejal de Junts, a Aliança Catalana",
+              "text": "Enric Daza pasará el lunes a concejal no adscrito tras anunciar que encabezará la lista de Aliança Catalana en las municipales de 2027. Acusa a Junts de un «auténtico despropósito político» en Cambrils y de una «deriva autodestructiva». En 2023 lideró Compromís per Cambrils, plataforma vinculada a Junts que en julio decidió concurrir con el partido de Sílvia Orriols; sus otras dos concejalas siguen en el grupo de Junts.",
+              "link": {
+                "url": "https://reusdigital.cat/noticies/territori/enric-daza-de-junts-cambrils-passa-regidor-no-adscrit-despres-danunciar-que-sera",
+                "source": "Reusdigital.cat (ACN)"
+              }
+            },
+            {
+              "kicker": "Camp de Tarragona · Economía",
+              "title": "Crece por encima de Catalunya",
+              "text": "El valor añadido bruto de la demarcación de Tarragona creció un 3,1 % en 2025, por encima de la media catalana, según el informe trimestral de la Cátedra de Fomento de la Innovación Empresarial de la URV, que habla de una evolución «favorable y dinámica» y de creación de empleo en el Camp y las Terres de l’Ebre. Pero el paro sigue por encima del catalán y la industria y la inversión productiva flojean. Los autores piden más inversión, innovación y diversificación.",
+              "link": {
+                "url": "https://reusdigital.cat/noticies/economia/el-creixement-economic-es-mante-favorable-i-dinamic-la-demarcacio-de-tarragona",
+                "source": "Reusdigital.cat (ACN)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "231.600 M€",
+            "text": "Apoyo total de la UE y sus Estados miembros a Ucrania desde la invasión a gran escala de 2022, según la Comisión Europea. Incluye 3.800 millones procedentes de los beneficios de activos rusos inmovilizados."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "3 nov", "what": "EE.UU. · Elecciones de mitad de mandato" },
+              { "when": "10 nov", "what": "Israel · Jura la nueva Knéset" },
+              { "when": "12 nov", "what": "Reus · Inauguración de la torratxa de la Casa Navàs" },
+              { "when": "13 nov", "what": "UE · Cierra la segunda ronda de SAFE; Vulcan vuelve a volar" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Añade a tu marco comparativo de «cadenas completas» de soberanía orbital el caso de NavIC: lanzador, reloj atómico y satélite nacionales. Frente a él, Galileo (soberanía plena en navegación) e IRIS² (soberanía aún futura en conectividad) muestran la asimetría europea por capas.",
+                "La cumbre Canadá–UE abre una línea poco estudiada: la participación de terceros países en programas espaciales de la Unión como GovSatCom o Galileo. Busca la base jurídica en el Reglamento (UE) 2021/696 del Programa Espacial y compárala con el modelo de adhesión individual a los Acuerdos Artemis."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Los 31.700 millones de 2027 para capacidad industrial de defensa ucraniana y la segunda ronda de SAFE apuntan al mismo cliente: consorcios que necesitan comunicaciones seguras, observación y conciencia situacional. Y Callisto recuerda que los grandes programas se apoyan en pymes —como CIPAL, que fabricó la maqueta— para el segmento terreno: una puerta de entrada realista para una empresa NewSpace pequeña."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Comisión Europea (30 oct), Il Sole 24 Ore (30 oct), The Globe and Mail (29 oct), The Times of Israel (30 oct), ETV Bharat (31 oct), ISRO, GPS World (26 oct), Coral Springs News / Florida Today (29 oct), European Spaceflight (30 oct), GOV.UK (28 oct), Diari de Tarragona (31 oct), COPE (30 oct), Infobae (30 oct), Reusdigital.cat y ACN (27 y 30 oct). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 31.10.2026."
+}
