@@ -1,0 +1,342 @@
+{
+  "number": 5,
+  "week": 45,
+  "date": "2026-11-02",
+  "dateLabel": "Lunes, 2 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Rusia deja a oscuras a cientos de miles de hogares ucranianos y Kyiv responde golpeando una gran refinería en Nizhni Nóvgorod, a un día de unas legislativas en EE.UU. donde el precio del diésel también vota.",
+      "Canadá entra por la puerta industrial en IRIS²: MDA Space fabricará las antenas digitales de los 66 primeros satélites mientras Ottawa y Bruselas abren conversaciones para su participación en el programa.",
+      "A 27 días del 29-N, Feijóo adelanta a Sánchez en valoración tras Urda, y en el Camp de Tarragona la semana arranca con dos días de huelga en Repsol."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Guerra energética · 1 nov",
+        "title": "Apagones en Ucrania, fuego en Kstovo",
+        "dek": "Rusia ataca la red eléctrica en cuatro regiones y deja sin luz a cientos de miles de hogares. Ucrania golpea una instalación industrial en Nizhni Nóvgorod que su prensa identifica como una de las mayores refinerías rusas.",
+        "body": [
+          "Desde la tarde del sábado, Rusia lanzó 433 drones de largo alcance contra Ucrania, de los que la Fuerza Aérea ucraniana dice haber derribado 371. Zelenski informó en Telegram de daños en infraestructuras eléctricas de cuatro regiones y acusó a Moscú de aprovechar al máximo «el déficit de interceptores de misiles balísticos». En sentido contrario, el gobernador de Nizhni Nóvgorod, Gleb Nikitin, reconoció «daños significativos» en una instalación industrial tras un ataque «masivo» con drones, y pidió a los conductores repostar solo lo necesario. Los medios ucranianos hablan de la refinería de Kstovo; los investigadores rusos han abierto una causa por terrorismo. Zelenski también atribuyó a Ucrania un ataque a la planta Kamensky, en la región de Rostov, que según Kyiv fabrica misiles.",
+          "El contexto es la pausa que ya no existe: el viernes, Moscú acusó a Kyiv de haber reanudado los ataques a refinerías tras varios días de tregua tácita, ignorando la petición de Donald Trump, que culpa a esos golpes de encarecer el diésel a las puertas de las legislativas del martes. Los expertos citados por Reuters atribuyen la subida sobre todo a la crisis del estrecho de Ormuz. Ucrania dice apoyar un alto el fuego energético completo, que incluya su propia red, y sostiene que es Moscú quien lo rechaza. El alto el fuego local de seis días en Oleshky se cumplió hasta el final, pero sin efecto en el resto del frente."
+        ],
+        "quote": {
+          "text": "La intensidad de los ataques es muy alta.",
+          "author": "Volodímir Zelenski · Presidente de Ucrania, 1 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kstovo_oil_refinery_Sentinel-2_L2A_image_on_2021-07-12.jpg",
+          "alt": "Imagen de satélite de la refinería de Kstovo, en la región de Nizhni Nóvgorod, con sus tanques y unidades de proceso junto al Volga",
+          "credit": "Copernicus Sentinel-2 (ESA) · Wikimedia Commons · Atribución",
+          "caption": "La refinería de Kstovo vista por Sentinel-2 en julio de 2021. Los medios ucranianos la señalan como objetivo del ataque del 1 de noviembre."
+        },
+        "link": {
+          "url": "https://www.nbcnews.com/world/ukraine/russian-strikes-cut-power-thousands-ukraine-trumps-energy-ceasefire-rcna606784",
+          "source": "NBC News (Reuters)"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Una noche de drones, del 31 de octubre al 1 de noviembre",
+          "note": "Cifras declaradas por cada parte, sin verificación independiente",
+          "bars": [
+            { "label": "Drones de largo alcance lanzados por Rusia", "value": 433, "display": "433" },
+            { "label": "Derribados por Ucrania", "value": 371, "display": "371", "highlight": true },
+            { "label": "Drones ucranianos que Rusia dice haber derribado", "value": 235, "display": "235" }
+          ],
+          "footnote": "Fuentes: Fuerza Aérea de Ucrania y Ministerio de Defensa ruso, vía Reuters / NBC News y ABC News (1 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "La energía, frente y moneda de cambio",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Los dos bandos han convertido la energía en el eje de la campaña de invierno: Rusia, contra la red eléctrica ucraniana; Ucrania, contra la capacidad de refino rusa. Washington presionó durante semanas a Kyiv para que parara, y la pausa duró solo unos días. El viceprimer ministro ruso Alexander Novak asegura que Ucrania ha alcanzado tres refinerías y un complejo gasoquímico desde que la retomó, y presenta los ataques como un problema para el mercado mundial de combustibles."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "El resultado de las legislativas de EE.UU. del martes y si cambia la presión de la Casa Blanca sobre Kyiv; el suministro de interceptores Patriot, que Zelenski señala como el cuello de botella; y la propuesta rusa, repetida el domingo por un asesor del Kremlin, de negociar solo entre Rusia, Ucrania y EE.UU., sin europeos en la mesa."
+            }
+          ],
+          "key": "Para tu TFG, fíjate en el patrón: la escasez de interceptores es una dependencia de capacidades estadounidenses idéntica en lógica a la de Starlink. Europa paga —el préstamo de 90.000 millones—, pero no controla ni el escudo antimisiles ni, según Moscú, el asiento en la negociación."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EE.UU. · Legislativas, 3 nov",
+              "title": "Un Congreso en juego mañana",
+              "text": "Los republicanos llegan con 53 escaños frente a 47 en el Senado y una mayoría «mínima» en la Cámara de Representantes. Los pronósticos dan ventaja clara a los demócratas en la Cámara, donde hacen falta 218 escaños, y un Senado mucho más disputado: Fox News califica la pelea de «toss-up», con Alaska, Iowa, Maine, Carolina del Sur y Texas como plazas republicanas en juego, y Michigan del lado demócrata. Se eligen además 36 gobernadores y se votan 145 medidas estatales. Trump pide «una Cámara republicana y un Senado republicano» para seguir con «America First».",
+              "link": {
+                "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+                "source": "Fox News"
+              }
+            },
+            {
+              "kicker": "Irán · Estrecho de Ormuz",
+              "title": "Dos petroleros, contra las minas",
+              "text": "La Guardia Revolucionaria iraní asegura que dos petroleros chocaron con minas y se incendiaron en el estrecho, mientras los países del Golfo condenan el ataque del viernes contra un metanero catarí. El ministro de Exteriores, Abbas Araghchi, dice que siguen las conversaciones con los mediadores sobre un plan de dos días para reabrir Ormuz y confía en que EE.UU. tenga «el suficiente sentido común para elegir la diplomacia». Trump replica que la guerra terminará «muy pronto, de una forma u otra». Las versiones iraníes sobre las minas no se han verificado de forma independiente.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Rusia · Diplomacia, 1 nov",
+              "title": "El Kremlin quiere una mesa a tres",
+              "text": "Un asesor del Kremlin afirmó el domingo que Putin «nunca ha rechazado las conversaciones» y que atendería una llamada de Zelenski si este la hiciera. Pero puso condición al formato: las negociaciones iniciales deberían limitarse a Rusia, Ucrania y Estados Unidos, sin otros países europeos. Es la misma línea que Moscú mantiene desde hace meses y deja fuera a los europeos, que reclaman estar presentes en cualquier acuerdo que afecte a la seguridad del continente.",
+              "link": {
+                "url": "https://www.abc.net.au/news/2026-11-01/russia-opens-terrorism-case-over-ukraine-oil-refinery-attack/107334242",
+                "source": "ABC News (Australia)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "II",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "IRIS² · Canadá–UE · 30 oct",
+        "title": "Canadá entra en IRIS² por la industria",
+        "dek": "MDA Space firma con Thales Alenia Space un acuerdo inicial de más de 100 millones de dólares canadienses para las antenas de los 66 primeros satélites de la constelación segura europea. El mismo día, Ottawa y Bruselas anuncian conversaciones exploratorias para la participación canadiense en el programa.",
+        "body": [
+          "La empresa canadiense ha recibido autorización para empezar a desarrollar antenas digitales de barrido electrónico (<em>phased array</em>) y su controlador para la primera capa de IRIS², el sistema de conectividad segura de la UE. MDA valora el acuerdo inicial en más de 100 millones de dólares canadienses, unos 64 millones de euros; el contrato definitivo con todo el alcance del trabajo aún no está cerrado. En esa primera capa, Airbus Defence and Space fabrica las plataformas e integra los satélites, y Thales Alenia Space desarrolla las cargas útiles de comunicaciones en banda Ka. Los lanzamientos deberían empezar en 2029.",
+          "El resto de la constelación ya está adjudicado: el 31 de agosto, SES encargó a la alemana OHB las 18 plataformas para órbita media por casi 1.000 millones de euros, y el 10 de septiembre la belga Aerospacelab se llevó 2.400 millones por los 264 satélites restantes de órbita baja. La novedad política es la declaración conjunta del 30 de octubre, en plena cumbre de Montreal: Canadá y la UE explorarán un marco para que Ottawa participe en IRIS². No hay aún calendario ni condiciones conocidas."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/CentreSpatialCannes_SiegeThalesAleniaSpace.jpg/1280px-CentreSpatialCannes_SiegeThalesAleniaSpace.jpg",
+          "alt": "Edificio de la sede de Thales Alenia Space en el Centro Espacial de Cannes-Mandelieu, con palmeras delante",
+          "credit": "Guy Lebègue · Wikimedia Commons · CC BY-SA 3.0",
+          "caption": "Sede de Thales Alenia Space en Cannes-Mandelieu. La empresa, responsable de las cargas útiles de IRIS², es la que contrata a MDA."
+        },
+        "link": {
+          "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement",
+          "source": "European Spaceflight"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "IRIS², por capas y contratos",
+          "note": "Datos de los contratos adjudicados en 2026",
+          "items": [
+            { "value": "66", "label": "satélites de la primera capa (Airbus y Thales Alenia), con lanzamientos desde 2029" },
+            { "value": "264", "label": "satélites de órbita baja restantes, encargados a Aerospacelab por 2.400 M€" },
+            { "value": "18", "label": "plataformas de órbita media, encargadas a OHB por casi 1.000 M€" },
+            { "value": "≈ 64 M€", "label": "acuerdo inicial de MDA Space para las antenas digitales" }
+          ],
+          "footnote": "Fuente: European Spaceflight (1 nov 2026), a partir del anuncio de MDA Space (30 oct)."
+        },
+        {
+          "type": "analysis",
+          "title": "Autonomía estratégica con socios de confianza",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "IRIS² es la respuesta europea a la dependencia de Starlink y Starshield en comunicaciones seguras gubernamentales. Hasta ahora, el debate se planteaba como un binario: soberanía europea o proveedor estadounidense. La entrada de Canadá —primero como proveedor industrial, quizá luego como participante— introduce una tercera vía: una soberanía «compartida» con aliados no comunitarios, como ya ocurre con Noruega en otros programas espaciales de la Unión."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Para Bruselas, sumar socios ayuda a financiar y dar escala a la constelación; para Ottawa, es una alternativa a depender en exclusiva de EE.UU. en la órbita, coherente con la «Alianza para el Futuro» de Montreal. La pregunta abierta es de gobernanza: qué derechos de acceso y qué control sobre el servicio tendría un tercer país que no es Estado miembro, en un sistema pensado para usos de defensa."
+            }
+          ],
+          "key": "Esto encaja de lleno en tu capítulo sobre IRIS². Plantea una hipótesis: la autonomía estratégica europea en el espacio no excluye a terceros, sino que selecciona a sus socios. El caso canadiense te permite contrastarla con el modelo Artemis, donde la adhesión es individual y el núcleo industrial y de decisión sigue siendo estadounidense."
+        },
+        {
+          "type": "timeline",
+          "title": "BepiColombo, la recta final hacia Mercurio",
+          "note": "Misión ESA–JAXA · lanzada en 2018",
+          "items": [
+            { "when": "20 oct 2018", "title": "Lanzamiento desde Kurú", "text": "Despega en un Ariane 5 con dos orbitadores: el europeo MPO y el japonés Mio." },
+            { "when": "3 sep 2026", "title": "Se suelta el módulo de transferencia", "text": "A más de 200 millones de km de la Tierra; confirmado desde las antenas de Cebreros (Ávila) y Malargüe." },
+            { "when": "21 nov 2026", "title": "Inserción en órbita", "text": "El conjunto entra en órbita de Mercurio, con casi un año de retraso por problemas en los propulsores eléctricos.", "highlight": true },
+            { "when": "9–10 dic 2026", "title": "Separación de MPO y Mio", "text": "Cada orbitador pasa a su propia órbita científica." },
+            { "when": "Abr 2027", "title": "Empieza la ciencia", "text": "Arranca la fase científica de la primera misión europea a Mercurio." }
+          ],
+          "footnote": "Fuentes: ESA (actualización del 6 oct 2026), Sci.News (6 sep 2026)."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EEI · Canadá en órbita, 29 oct",
+              "title": "El primer paseo espacial de Kutryk",
+              "text": "El astronauta de la Agencia Espacial Canadiense Joshua Kutryk y el de la NASA Anil Menon pasaron 7 horas y 11 minutos fuera de la Estación Espacial Internacional para instalar y desplegar el séptimo de los ocho paneles solares enrollables iROSA, que darán energía a la estación hasta su desorbitado. Kutryk se convierte en el quinto canadiense en salir al espacio; el comentarista de la NASA Rob Navias calificó la salida de «prácticamente impecable». El octavo panel se instalará en otro paseo previsto para el 5 de noviembre.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CSA_astronaut_Joshua_Kutryk_tries_on_a_spacesuit_to_ensure_a_good_fit_%28iss075e0227203%29.jpg/1280px-CSA_astronaut_Joshua_Kutryk_tries_on_a_spacesuit_to_ensure_a_good_fit_%28iss075e0227203%29.jpg",
+                "alt": "El astronauta canadiense Joshua Kutryk se prueba un traje espacial dentro de la Estación Espacial Internacional",
+                "credit": "NASA · Dominio público",
+                "caption": "Kutryk se prueba el traje a bordo de la EEI el 22 de octubre, una semana antes de su primera salida."
+              },
+              "link": {
+                "url": "https://www.theweathernetwork.com/en/news/science/space/on-first-time-in-space-canadian-astronaut-joshua-kutryk-to-conduct-first-spacewalk",
+                "source": "The Weather Network"
+              }
+            },
+            {
+              "kicker": "SpaceX · Starship",
+              "title": "El vuelo 15 quiere atrapar las dos etapas",
+              "text": "SpaceX apunta a noviembre, sin fecha oficial, para el decimoquinto vuelo de prueba de Starship. El Super Heavy B22 encendió sus 33 motores Raptor durante unos 15 segundos el 25 de octubre, y la nave Ship 42 está en revisiones finales. El objetivo más ambicioso: que la torre de Starbase atrape por primera vez la etapa superior tras su vuelo orbital, además del propulsor. La transferencia de propelente en órbita, imprescindible para el módulo lunar de Artemis III, queda para un ensayo posterior.",
+              "link": {
+                "url": "https://interestingengineering.com/space/spacex-starship-flight-15-launch-date-objectives",
+                "source": "Interesting Engineering"
+              }
+            },
+            {
+              "kicker": "ESA–JAXA · Mercurio",
+              "title": "BepiColombo, a 19 días de llegar",
+              "text": "Tras casi ocho años de viaje, la primera misión europea a Mercurio entrará en órbita el 21 de noviembre. Desde que se desprendió el módulo de transferencia en septiembre, el orbitador MPO ha probado sus propulsores —un encendido de 8 minutos y 42 segundos— y ha encendido sus instrumentos: el altímetro láser BELA disparó más de 700.000 pulsos y la cámara SIMBIO-SYS tomó su primera imagen. La ESA dice que todos están en buen estado.",
+              "link": {
+                "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+                "source": "ESA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "III",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "3,88",
+        "statLabel": "nota de Feijóo, que supera por primera vez a Sánchez (3,51) como líder mejor valorado, en una encuesta hecha en plena crisis de Urda",
+        "title": "Urda reordena la valoración de los líderes",
+        "body": [
+          "El sondeo de Target Point para <em>El Debate</em>, con trabajo de campo entre la tarde del 28 de octubre —el día del choque de trenes— y la mañana del 30, sitúa a Alberto Núñez Feijóo como el candidato mejor valorado, con un 3,88 sobre 10, 61 centésimas más que a principios de octubre. Pedro Sánchez cae tres décimas, hasta el 3,51, y Santiago Abascal sube casi medio punto, hasta el 3,49. Ninguno aprueba, y las notas se sostienen sobre todo en el voto propio: Abascal recibe un 8,56 de los votantes de Vox, Sánchez un 7,63 de los del PSOE y Feijóo un 7,39 de los del PP.",
+          "Sobre el Gobierno que saldría del 29-N, el 44,2 % prefiere alguna fórmula encabezada por el PP: un 16,5 % una coalición con Vox, un 14 % un Ejecutivo de Feijóo en solitario y un 8,6 % un Gobierno del PP con apoyo externo de Vox. En la izquierda, la opción más citada (19,2 %) es un Gobierno del PSOE con Frente Amplio u otras fuerzas de izquierda. La encuesta, de 1.024 entrevistas en línea y un margen de error de ±3,1 puntos, no publica intención de voto. Faltan 27 días para las elecciones."
+        ],
+        "link": {
+          "url": "https://www.eldebate.com/espana/20261102/feijoo-adelanta-sanchez-como-lider-politico-mejor-valorado-accidente-urda_475809.html",
+          "source": "El Debate"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Valoración de los seis candidatos",
+          "note": "Nota media de 0 a 10",
+          "bars": [
+            { "label": "Alberto Núñez Feijóo (PP)", "value": 3.88, "display": "3,88", "highlight": true },
+            { "label": "Pedro Sánchez (PSOE)", "value": 3.51, "display": "3,51" },
+            { "label": "Santiago Abascal (Vox)", "value": 3.49, "display": "3,49" },
+            { "label": "Ada Colau (Frente Amplio)", "value": 3.00, "display": "3,00" },
+            { "label": "Irene Montero (Podemos)", "value": 2.79, "display": "2,79" },
+            { "label": "Alvise Pérez (SALF)", "value": 2.29, "display": "2,29" }
+          ],
+          "footnote": "Fuente: Target Point para El Debate (campo: 28–30 oct 2026; 1.024 entrevistas CAWI; ±3,1 %). Publicado el 2 nov."
+        },
+        {
+          "type": "analysis",
+          "title": "Una campaña que empieza bajo el luto",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Es la primera foto demoscópica tomada en caliente tras Urda, y castiga sobre todo al presidente: la gestión del accidente y el debate sobre el mantenimiento de la alta velocidad han dominado la semana. Pero conviene leerla con cautela: es una sola encuesta, en línea, hecha en las 36 horas posteriores a la tragedia y sin datos de voto."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si otras casas confirman el cambio en los próximos días; la comparecencia de Óscar Puente en el Congreso; y el peso de Vox, que en esta encuesta crece en valoración y aparece en dos de las tres fórmulas preferidas por los votantes de derecha. En la circunscripción de Tarragona, el futuro del AVE y del Avant será tema de campaña."
+            }
+          ],
+          "key": "Cuando cites encuestas en un trabajo académico, haz como aquí: fecha de campo, muestra, método y margen de error. Una nota de 3,88 frente a 3,51 con ±3,1 puntos de error en la muestra no es lo mismo que una tendencia consolidada."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Tarragona · Petroquímica, 3–4 nov",
+              "title": "Huelga en Repsol: «A grandes resultados, grandes convenios»",
+              "text": "El Sindicat de Treballadors (STR) mantiene los paros de mañana y el miércoles en la refinería de Repsol Fuels y en las plantas químicas de Repsol Materials en Tarragona, además de las refinerías de A Coruña, Cartagena y Puertollano. Reclama mejoras salariales, complementos, plantillas suficientes y medidas de conciliación, tras una mediación sin acuerdo. El sindicato recuerda que Repsol ganó 5.419 millones de euros ajustados entre enero y septiembre y avisa de que estos dos días pueden ser solo el principio. UGT no se suma a la convocatoria.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Petroqu%C3%ADmica_de_Tarragona_-_vista_a%C3%A9rea.jpg/1280px-Petroqu%C3%ADmica_de_Tarragona_-_vista_a%C3%A9rea.jpg",
+                "alt": "Vista aérea del complejo petroquímico de Tarragona, con depósitos, chimeneas y unidades industriales junto al mar",
+                "credit": "FMARINP · Wikimedia Commons · Dominio público",
+                "caption": "El complejo petroquímico de Tarragona, donde Repsol tiene refinería y plantas químicas."
+              },
+              "link": {
+                "url": "https://radiociutat.com/ultimes-noticies-tarragona/croniques-actualitat/lstr-mante-les-aturades-a-repsol-despres-dels-resultats-economics-de-la-companyia/",
+                "source": "Ràdio Ciutat de Tarragona"
+              }
+            },
+            {
+              "kicker": "Reus · Seguridad, 6 nov",
+              "title": "Un cartel anónimo convoca en la plaza de la Llibertat",
+              "text": "La asociación de comerciantes El Tomb alerta de un cartel que llama a concentrarse el viernes 6 de noviembre a las 18.30 en la plaza de la Llibertat, con la cara tapada. Los responsables de seguridad del Ayuntamiento ya están informados, y El Tomb pide no difundir rumores. Los Mossos han avisado a los comerciantes de Tarragona de que podrían repetirse los disturbios del 24 de octubre en Barcelona, en una comunicación «preventiva e informativa». No hay convocatoria oficial confirmada.",
+              "link": {
+                "url": "https://www.catalunyapress.cat/article/municipis/2026-10-27/6068461-els-mossos-avisen-als-comerciants-tarragona-i-reus-poden-reproduir-els-disturbis-barcelona",
+                "source": "CatalunyaPress"
+              }
+            },
+            {
+              "kicker": "Reus · Cultura, 4–7 nov",
+              "title": "Memorimage abre con la guerra química del Rif",
+              "text": "La 21.ª edición del único festival de España dedicado al cine con imágenes de archivo llena el Teatre Bartrina con 22 películas, nueve de ellas estrenos en Catalunya, y entrada libre. Abre el miércoles <em>Operació Iperita</em>, de Toni Orensanz y Joana Zapata, sobre el uso de armas químicas por España en la guerra del Rif y el papel de la industria catalana. «Las imágenes de archivo resultan especialmente valiosas ahora, en un presente que se tambalea», dice la nueva directora artística, Maria Colomer.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/reus/274132/memorimage-torna-reus-amb-22-pel-licules-i-nou-estrenes-catalanes.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "145",
+            "text": "Medidas que se votan mañana en los estados de EE.UU. junto a las legislativas, entre ellas iniciativas sobre identificación del votante y la Proposición 40 de California, un impuesto puntual del 5 % sobre grandes patrimonios, según Fox News."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "3 nov", "what": "EE.UU. · Legislativas de mitad de mandato; Tarragona · Huelga en Repsol (3–4 nov)" },
+              { "when": "4 nov", "what": "Reus · Arranca Memorimage en el Teatre Bartrina (hasta el 7)" },
+              { "when": "5 nov", "what": "EEI · Segundo paseo de Menon y Kutryk para el último iROSA" },
+              { "when": "21 nov", "what": "ESA–JAXA · BepiColombo entra en órbita de Mercurio" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Abre un apartado sobre la participación de terceros países en IRIS² con el caso canadiense. Revisa el Reglamento (UE) 2023/588, que crea el programa, y busca qué dice sobre la asociación de terceros países y organizaciones internacionales. Compáralo con el Reglamento 2021/696 del Programa Espacial que ya tienes y con la vía de los Acuerdos Artemis.",
+                "La guerra energética en Ucrania ofrece un argumento lateral: la escasez de interceptores Patriot muestra que la dependencia de EE.UU. no es solo orbital. Si incluyes un marco de «capas de dependencia», sitúa el espacio junto a la defensa antimisiles y no como un caso aislado."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "El acuerdo de MDA demuestra que en IRIS² la puerta para nuevos proveedores está en el segundo nivel: los grandes contratistas (Thales Alenia, Airbus, OHB, Aerospacelab) subcontratan antenas, controladores y subsistemas. Para Business Development, el mapa útil no es la lista de adjudicatarios, sino sus cadenas de suministro y los plazos hasta los lanzamientos de 2029. Si Canadá formaliza su participación, también se abrirá un corredor para socios transatlánticos."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: NBC News / Reuters (1 nov), ABC News Australia (1 nov), Al Jazeera (2 nov), Fox News (2 nov), European Spaceflight (1 nov), MDA Space (30 oct), ESA (6 oct), Sci.News (6 sep), NASA (29 oct), The Weather Network (27 oct), Spaceflight Now (29 oct), Interesting Engineering (31 oct), El Debate / Target Point (2 nov), Ràdio Ciutat de Tarragona (30 oct), Diari Més (30 oct), CatalunyaPress (27 oct), Diari de Tarragona (27 oct). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 02.11.2026."
+}
