@@ -39,7 +39,8 @@ issues/NN.json        Contenido de cada número
   pieza de `briefs`. Solo de bancos con licencia libre (Wikimedia Commons, NASA,
   ESA…), siempre con crédito.
 
-Antes de publicar: `python3 -I tools/validate.py` tiene que decir OK.
+Antes de publicar: `python3 -I tools/validate.py` tiene que decir OK. Con
+`--peso issues/NN.json` muestra cuánto ocupa cada sección (en palabras).
 
 Las secciones, sus números romanos y el menú superior salen de `sections`, así
 que se pueden cambiar de una semana a otra.

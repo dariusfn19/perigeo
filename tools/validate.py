@@ -102,3 +102,27 @@ if errors:
     print('\n'.join(errors))
     sys.exit(1)
 print(f'OK · {len(numbers)} número(s)')
+
+
+# Peso de cada sección en palabras, para ajustar el reparto: --peso issues/NN.json
+SKIP = {'url', 'src', 'id', 'type', 'numeral', 'highlight', 'value', 'ratio'}
+
+
+def words(x):
+    if isinstance(x, str):
+        return len(re.sub(r'<[^>]+>', ' ', x).split())
+    if isinstance(x, list):
+        return sum(words(v) for v in x)
+    if isinstance(x, dict):
+        return sum(words(v) for k, v in x.items() if k not in SKIP)
+    return 0
+
+
+if '--peso' in sys.argv:
+    import re
+    d = json.load(open(sys.argv[sys.argv.index('--peso') + 1], encoding='utf-8'))
+    counts = [(s.get('name', s.get('id')), words(s)) for s in d['sections']]
+    total = sum(c for _, c in counts) or 1
+    for name, c in counts:
+        print(f'{round(c * 100 / total):>3} %  {c:>5} palabras  {name}')
+    print(f'      {total:>5} palabras en total')
