@@ -8,6 +8,7 @@
   var MONO = "font-family: 'IBM Plex Mono', monospace;";
   var SERIF_D = "font-family: 'Instrument Serif', serif;";
   var LABEL = MONO + ' font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase;';
+  var PILL = 'min-height: 44px; padding: 0 16px; background: transparent; color: var(--ink); border: 1px solid var(--ink); border-radius: 999px; ' + MONO + ' font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer;';
 
   var app = document.getElementById('app');
   var root = document.documentElement;
@@ -28,7 +29,10 @@
         '<span>Nº ' + pad(d.number) + ' — Semana ' + d.week + '</span>' +
         '<span>' + d.dateLabel + '</span>' +
         '<span>' + d.edition + ' · Lectura ' + d.readingTime + '</span>' +
-        '<button type="button" data-action="theme" aria-pressed="' + dark + '" style="min-height: 44px; padding: 0 16px; background: transparent; color: var(--ink); border: 1px solid var(--ink); border-radius: 999px; ' + MONO + ' font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; cursor: pointer;">' + (dark ? 'Modo claro' : 'Modo oscuro') + '</button>' +
+        '<span style="display: flex; flex-wrap: wrap; gap: 8px;">' +
+          '<button type="button" data-action="refresh" aria-live="polite" style="' + PILL + '">Actualizar</button>' +
+          '<button type="button" data-action="theme" aria-pressed="' + dark + '" style="' + PILL + '">' + (dark ? 'Modo claro' : 'Modo oscuro') + '</button>' +
+        '</span>' +
       '</div>' +
       '<div style="display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px 48px; padding: 40px 0 28px;">' +
         '<h1 style="margin: 0; ' + SERIF_D + ' font-weight: 400; font-size: clamp(88px, 15vw, 196px); line-height: 0.82; letter-spacing: -0.02em;">Perigeo<span style="color: var(--accent);">.</span></h1>' +
@@ -377,8 +381,33 @@
     }
   }
 
+  // Botón «Actualizar»: comprueba al momento si hay un número nuevo publicado.
+  var refreshing = false;
+  function refresh(btn) {
+    if (refreshing) return;
+    refreshing = true;
+    btn.textContent = 'Buscando…';
+    function done(label) {
+      refreshing = false;
+      var b = app.querySelector('[data-action="refresh"]');
+      if (!b) return;
+      b.textContent = label;
+      setTimeout(function () { if (b.isConnected) b.textContent = 'Actualizar'; }, 2500);
+    }
+    getJSON('issues/index.json').then(function (idx) {
+      issues = idx.issues || [];
+      var latest = issues.reduce(function (m, it) { return !m || it.number > m.number ? it : m; }, null);
+      if (!latest || (current && latest.number === current.number)) return done('Al día');
+      history.pushState(null, '', location.pathname);
+      current = null;
+      return Promise.resolve(route()).then(function () { window.scrollTo(0, 0); done('Nº ' + pad(latest.number) + ' nuevo'); });
+    }).catch(function () { done('Sin conexión'); });
+  }
+
   app.addEventListener('click', function (e) {
     if (e.target.closest('[data-action="theme"]')) { setTheme(!isDark()); return; }
+    var refreshBtn = e.target.closest('[data-action="refresh"]');
+    if (refreshBtn) { refresh(refreshBtn); return; }
     // Navegación interna sin recargar (archivo de números y anclas de sección)
     var a = e.target.closest('a[href]');
     if (!a) return;
