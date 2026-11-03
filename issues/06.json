@@ -1,0 +1,399 @@
+{
+  "number": 6,
+  "week": 45,
+  "date": "2026-11-03",
+  "dateLabel": "Martes, 3 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Rusia mata al menos a 29 personas en un punto de reparto de ayuda en Zaporiyia y bombardea un hospital de Járkov, mientras Witkoff convoca a rusos y ucranianos en Abu Dabi el 10 y 11 de noviembre y EE.UU. vota hoy su Congreso.",
+      "China pone calendario a su alunizaje tripulado: prueba de Mengzhou en 2027, aterrizaje sin tripulación en 2028, ensayo general en 2029 y taikonautas en la Luna en 2030.",
+      "Óscar Puente rinde cuentas esta tarde por Urda ante la Diputación Permanente sin plantearse dimitir, y en el Camp de Tarragona la huelga de Repsol abre una semana de conflicto laboral que sigue con el metal el día 9."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Zaporiyia · 2 nov",
+        "title": "Bombas sobre la cola de la ayuda",
+        "dek": "Un ataque ruso contra una escuela de Komyshuvaja que servía de refugio y de punto de reparto humanitario deja al menos 29 muertos y 48 desaparecidos. Horas antes, Washington había anunciado la vuelta de las negociaciones a tres.",
+        "body": [
+          "El golpe llegó el lunes, cuando los vecinos de Komyshuvaja, un pueblo de la región de Zaporiyia muy cerca del frente, acudían al reparto semanal de paquetes de ayuda en una escuela cerrada a los alumnos que hacía también de refugio. Según Zelenski, Rusia lanzó bombas aéreas primero sobre la gente que llegaba y después sobre el refugio. El gobernador en funciones, Mijailo Semikin, confirmó al menos 29 muertos —entre ellos dos rescatadores y cuatro policías—, cinco heridos hospitalizados y 48 personas desaparecidas. Moscú no hizo comentarios. Zelenski lo llamó «un vil ataque terrorista» y «una prueba más» de que Rusia «no quiere ningún tipo de desescalada».",
+          "El ataque coincidió con el anuncio del enviado especial estadounidense, Steve Witkoff: delegaciones de Ucrania y Rusia se reunirán con EE.UU. en Abu Dabi el 10 y 11 de noviembre para hablar de «acuerdos de seguridad de posguerra, desescalada, medidas humanitarias» y de los pasos hacia la paz. Es la primera ronda a tres desde febrero, antes de la guerra con Irán, y llega tras la reunión de Witkoff con Putin en San Petersburgo el 21 de octubre. Zelenski reprochó a Moscú haber desaprovechado la tregua humanitaria de Oleshky —«Nosotros lo propusimos. Pero Rusia sigue matando»— y pidió a Washington presionar a Rusia «de forma que no tenga más alternativa que acabar con esta guerra»."
+        ],
+        "quote": {
+          "text": "Es una prueba más de que Rusia no quiere ningún tipo de desescalada, ninguna justicia real.",
+          "author": "Volodímir Zelenski · Presidente de Ucrania, 2 nov"
+        },
+        "link": {
+          "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
+          "source": "Al Jazeera"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "La noche del 2 al 3 de noviembre, en proyectiles",
+          "note": "Lanzados por Rusia contra Ucrania, según Kyiv",
+          "bars": [
+            {
+              "label": "Drones de ataque",
+              "value": 289,
+              "display": "289"
+            },
+            {
+              "label": "Misiles de crucero",
+              "value": 59,
+              "display": "59",
+              "highlight": true
+            },
+            {
+              "label": "Misiles balísticos",
+              "value": 17,
+              "display": "17",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuente: Volodímir Zelenski, vía Al Jazeera (3 nov 2026). Cifras de una de las partes, sin verificación independiente."
+        },
+        {
+          "type": "analysis",
+          "title": "Negociar con la artillería encendida",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En menos de 24 horas, Rusia golpeó un reparto de ayuda, un hospital y la red eléctrica de nueve regiones, justo cuando Washington ponía fecha a la reanudación del diálogo. No es una contradicción: ambas partes llevan meses usando la presión militar para mejorar su posición en la mesa. Kyiv había avisado de que Moscú preparaba un gran ataque coincidiendo con las legislativas estadounidenses, cuando la atención de la Casa Blanca estaría en casa."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "La reunión de esta semana en Bruselas entre los negociadores estadounidenses y Reino Unido, Francia, Alemania, la UE y la OTAN sobre garantías de seguridad y arquitectura europea de posguerra; el resultado de las legislativas de hoy, que puede cambiar la presión de Trump sobre ambas partes; y si Abu Dabi pasa de la agenda humanitaria a discutir territorio y sanciones energéticas."
+            }
+          ],
+          "key": "Para tu TFG, fíjate en la geometría: los europeos discuten la seguridad del continente en Bruselas, pero la mesa donde se negocia el fin de la guerra está en Abu Dabi y es a tres. Es el mismo patrón que estudias en el espacio: Europa financia y aporta, pero el formato de decisión lo marcan otros."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Járkov y red eléctrica, 3 nov",
+              "title": "Un hospital y nueve regiones bajo el ataque",
+              "text": "En la madrugada del martes, misiles balísticos y bombas aéreas alcanzaron un hospital clínico de Járkov: al menos 73 heridos, el departamento de cardiología dañado y más de 1.000 ventanas rotas, según el alcalde Ígor Terejov. Zelenski habló de un ataque «complejo y masivo» cuyo «principal objetivo era la energía», con daños en centrales y subestaciones de Odesa, Cherkasi, Zhitómir, Vínnytsia, Járkov, Dnipró, Chernivtsí, Chernígov y Rivne. Más de 180.000 personas amanecieron sin luz en Zhitómir. Moscú asegura que atacó instalaciones que abastecen al ejército. En Rusia, un dron ucraniano provocó un incendio en una refinería de Yaroslavl.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Legislativas, hoy",
+              "title": "El Congreso, a las urnas",
+              "text": "Se renuevan los 435 escaños de la Cámara de Representantes, 35 del Senado y 36 gobernaciones. Los republicanos defienden una mayoría de solo tres escaños en la Cámara y de 53 a 47 en el Senado; los demócratas necesitan ganar en neto tres escaños en la primera y cuatro en el segundo. Entre las carreras clave, Georgia (Ossoff), Maine (Collins), Carolina del Norte, Ohio, Texas y Michigan. Se votan además la Proposición 40 de California —un impuesto puntual del 5 % a los milmillonarios— y más de 40 medidas locales sobre centros de datos. Los primeros colegios cierran a las 23.00 GMT (medianoche en Reus), pero el recuento final puede tardar días.",
+              "link": {
+                "url": "https://www.cbsnews.com/news/what-us-voting-on-november-2026-elections/",
+                "source": "CBS News"
+              }
+            },
+            {
+              "kicker": "Irán · Estrecho de Ormuz, 2–3 nov",
+              "title": "Ataques «defensivos» en Qeshm y un plan de dos días",
+              "text": "Fuerzas estadounidenses lanzaron el lunes «ataques defensivos limitados» contra objetivos iraníes en la isla de Qeshm, según funcionarios citados por CBS, en respuesta a disparos de la Guardia Revolucionaria contra un avión de EE.UU. Trump insiste en que un acuerdo «podría producirse»; el presidente del Parlamento iraní, Mohammad Bagher Ghalibaf, dice que «la pelota está ahora en el tejado de EE.UU.». Teherán propone reducir de siete a dos días la aplicación de un pacto: Washington actuaría el primer día y Ormuz reabriría el segundo, a cambio de levantar el bloqueo naval y las sanciones y descongelar activos. El Brent cayó un 7,4 %, hasta 105,03 dólares. El martes, un buque indio fue alcanzado frente a Omán: un tripulante murió.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/QeshmIsland_NASA.jpg/1280px-QeshmIsland_NASA.jpg",
+                "alt": "Imagen de satélite de la isla de Qeshm, alargada y árida, separada de la costa iraní por un estrecho canal en el estrecho de Ormuz",
+                "credit": "NASA · Dominio público",
+                "caption": "La isla de Qeshm, la mayor del golfo Pérsico, vista desde el satélite Landsat. Es el objetivo de los ataques estadounidenses del 2 de noviembre."
+              },
+              "link": {
+                "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+                "source": "CBS News"
+              }
+            },
+            {
+              "kicker": "Diplomacia · Abu Dabi y Bruselas",
+              "title": "Witkoff abre dos mesas en una semana",
+              "text": "Además de la cita a tres en Abu Dabi, los negociadores estadounidenses se verán esta semana en Bruselas con Reino Unido, Francia, Alemania, la UE y la OTAN para hablar de garantías de seguridad para Ucrania, de la arquitectura de seguridad europea de posguerra y de la reconstrucción. Witkoff dice querer construir sobre «los avances logrados en Kyiv, Oslo y San Petersburgo» hacia un acuerdo «integral y duradero». Moscú se declaró en octubre dispuesta «en principio» a volver a la mesa. Zelenski, por su parte, pidió a EE.UU. no rebajar la presión sobre la energía rusa: «No debemos jugar con los ingresos del petróleo o del gas de Rusia».",
+              "link": {
+                "url": "https://www.upi.com/Top_News/World-News/2026/11/03/US-Russia-Ukraine-war-talks/4041793679837/",
+                "source": "UPI"
+              }
+            },
+            {
+              "kicker": "Polonia · Estado de derecho, 30 oct–2 nov",
+              "title": "Choque institucional en el Tribunal Constitucional",
+              "text": "Los jueces elegidos este año por el Parlamento entraron el viernes en el Tribunal Constitucional y la jueza Anna Korwin-Piotrowska suspendió a su presidente, Bogdan Święczkowski, con la policía rodeando el edificio. El presidente Karol Nawrocki, alineado con PiS, volvió antes de tiempo de Senegal, entró en la sede y espetó a los magistrados: «No sois jueces del Tribunal Constitucional». Habló de «una toma por la fuerza de un órgano constitucional»; la oposición, de «golpe de Estado». El ministro de Justicia, Waldemar Żurek, respalda a los jueces y Tusk dice que restaurar el Estado de derecho «exige una acción decidida». Es el episodio más grave de una disputa sobre la legitimidad del tribunal que arrastra Polonia desde 2015.",
+              "link": {
+                "url": "https://notesfrompoland.com/2026/10/31/polish-president-in-physical-confrontation-with-judges-amid-power-struggle-at-constitutional-court/",
+                "source": "Notes from Poland"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "170",
+        "statLabel": "veces que ha fallado este año el sistema de control de trenes LZB, según el propio Óscar Puente, que comparece hoy por Urda",
+        "title": "Puente, ante la Diputación Permanente",
+        "body": [
+          "El ministro de Transportes comparece esta tarde, hacia las 17.00, ante la Diputación Permanente del Congreso, el único órgano que funciona en la Cámara tras la disolución de las Cortes, para explicar el choque de trenes de Urda (Toledo), que dejó al menos 69 muertos. Antes entrega un informe al Consejo de Ministros, que hoy aprobará ayudas para los afectados: según Pedro Sánchez, se duplicará la indemnización del seguro obligatorio de viajeros, se acelerarán las compensaciones, se activarán procedimientos de incapacidad temporal y habrá oficinas de atención integral en las delegaciones del Gobierno. Puente ha dicho que no dimitirá: asegura que ofreció su cargo y que Sánchez lo rechazó por considerarlo «injusto».",
+          "El ministro apuntó desde el principio a una orden «inexplicable» del centro de control de Adif, que permitió a un AVE circular a velocidad normal por una vía donde había un tren de Iryo detenido tras un fallo del LZB. El organismo investigador independiente estima que los trenes chocaron a entre 160 y 200 km/h. Renfe limitará a 40 km/h la circulación cuando falle ese sistema, y Puente propondrá endurecer los protocolos entre maquinistas y el centro de control, sin que el ministerio haya concretado cómo. Vox se ha querellado contra él ante el Supremo y el PP se personará en la causa; también ha pedido la comparecencia de Sánchez. Piden su salida, además, Colau, Podemos, PNV, Junts y CCOO."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Madrid_-_Hemiciclo_del_Congreso_-_141203_100648.jpg/1280px-Madrid_-_Hemiciclo_del_Congreso_-_141203_100648.jpg",
+          "alt": "Hemiciclo del Congreso de los Diputados vacío, con los escaños en semicírculo frente a la tribuna de oradores",
+          "credit": "Barcex · Wikimedia Commons · CC BY-SA 3.0",
+          "caption": "El hemiciclo del Congreso. Con las Cortes disueltas, Puente rinde cuentas ante la Diputación Permanente."
+        },
+        "link": {
+          "url": "https://www.elindependiente.com/espana/2026/11/02/oscar-puente-acude-manana-al-congreso-para-rendir-cuentas-por-el-accidente-de-urda-pero-sin-plantearse-dimitir/",
+          "source": "El Independiente"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Urda, en cuatro cifras",
+          "items": [
+            {
+              "value": "69",
+              "label": "muertos, cifra que las fuentes siguen tratando como provisional"
+            },
+            {
+              "value": "160–200",
+              "label": "km/h, velocidad estimada del choque por la investigación independiente"
+            },
+            {
+              "value": "40",
+              "label": "km/h, nuevo límite de Renfe cuando falle el LZB"
+            },
+            {
+              "value": "26",
+              "label": "días para las elecciones generales del 29-N"
+            }
+          ],
+          "footnote": "Fuentes: El Independiente (2 nov 2026) y Moncloa.com (3 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Del luto al debate sobre el AVE",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "La comparecencia llega en precampaña —la campaña oficial empieza el 13 de noviembre— y con la oposición al completo pidiendo la cabeza del ministro. Pero el debate de fondo ya no es solo quién falló en Urda, sino qué hacer con la línea Madrid–Barcelona: Puente ha planteado cerrarla entre 12 y 24 meses para renovarla, y Salvador Illa rechaza el cierre total y pide hacer las obras, ya previstas para 2027, afectando lo menos posible al servicio."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si Puente concreta los nuevos protocolos y el calendario de renovación de la alta velocidad; la letra pequeña del decreto de ayudas que aprueba hoy el Consejo de Ministros; y el recorrido de la querella de Vox en el Supremo, que mantendrá Urda en campaña hasta el 29-N."
+            }
+          ],
+          "key": "Para ti, la pregunta es qué pasa con la estación del Camp de Tarragona si la línea se cierra o se reduce: es tu conexión con Madrid y con Barcelona en alta velocidad. Sigue la posición de Illa, que defiende mantener el servicio durante las obras."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Generalitat · Palau, 2–3 nov",
+              "title": "Dimite el jefe de gabinete de Illa",
+              "text": "Eduard Rivas, exalcalde de Esparreguera y jefe de gabinete del president, presentó su renuncia después de que el juzgado levantara el secreto de sumario de una causa por presunta malversación en los contratos entre el Ayuntamiento y la Fundació per a la Inclusió Laboral durante su mandato. Fue informado el 29 de octubre y dimitió al día siguiente; el Govern lo formaliza hoy. Rivas mantiene que actuó conforme a la ley y seguirá vinculado al PSC. Le sustituye Xavier Amor, hasta ahora secretario de Governs Locals. En abril, Illa le había mantenido la confianza.",
+              "link": {
+                "url": "https://www.3cat.cat/3catinfo/plega-el-cap-de-gabinet-dilla-investigat-per-uns-contractes-quan-era-alcalde-desparreguera/noticia/3437444/",
+                "source": "3CatInfo"
+              }
+            },
+            {
+              "kicker": "Barcelona · Disturbios de Blocus, 2 nov",
+              "title": "Dos menores, detenidas por coordinar los saqueos",
+              "text": "Mossos y Policía Nacional detuvieron a dos chicas de 14 y 17 años como presuntas administradoras de los grupos de mensajería que sirvieron para organizar los saqueos del 24 de octubre. Según el TSJC, ya son 79 los menores detenidos por los disturbios, cinco de ellos internados. El ministro de Exteriores, José Manuel Albares, dijo que el Gobierno investiga posibles «injerencias extranjeras» en los incidentes de Barcelona y Bilbao, que calificó de «muy puntuales», y advirtió de actores que buscan influir en momentos electorales. Por ahora es una hipótesis de investigación, sin pruebas públicas.",
+              "link": {
+                "url": "https://www.eldiario.es/catalunya/detenidas-menores-14-17-anos-barcelona-planificar-difundir-saqueos-blocus_1_13632377.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "Camp de Tarragona · Industria, 3–11 nov",
+              "title": "Repsol hoy, el metal el día 9",
+              "text": "Desde la medianoche, el Sindicat de Treballadors (STR) mantiene 48 horas de huelga en la refinería y las plantas químicas de Repsol en Tarragona, con piquete en el acceso al complejo; en Puertollano, el sindicato asegura que las plantas operan «a producción mínima». No es el único frente: la Plataforma del Metall de Tarragona, con CGT, COS, co.bas, FTC-IAC y SITU, convoca una huelga indefinida desde el 9 de noviembre contra el convenio 2026-2027 firmado por CCOO, UGT y la patronal APEMTA, que afecta a unos 22.000 trabajadores, también de la química. El 11 llega la huelga general en Catalunya por el coste de la vida y la vivienda.",
+              "link": {
+                "url": "https://horitzosocialista.cat/actualitat/el-metall-de-tarragona-es-planta-i-convoca-vaga-indefinida-a-partir-del-9-de-novembre/",
+                "source": "Horitzó Socialista"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "China · Programa lunar tripulado · 31 oct–2 nov",
+        "title": "China pone fecha a cada paso hacia la Luna",
+        "dek": "El diseñador jefe del programa lunar, Wang Xiang, presenta en Pekín la arquitectura «dos lanzamientos, encuentro en órbita lunar» y un calendario año a año que culmina con taikonautas en la superficie en 2030.",
+        "body": [
+          "En el 7.º Simposio de Vuelos Espaciales Tripulados, Wang Xiang explicó cómo funcionará la misión: dos cohetes Larga Marcha 10 lanzarán por separado la nave tripulada Mengzhou («nave del sueño») y el módulo de alunizaje Lanyue («abrazar la Luna»), que se acoplarán en órbita lunar. Dos de los tres taikonautas pasarán al Lanyue para bajar a la superficie y volver, y regresarán a la Tierra en la Mengzhou. Según una diapositiva difundida por CNSpaceflight y recogida por SpacePolicyOnline, el plan prevé un vuelo sin tripulación de la Mengzhou a órbita terrestre en 2027, un alunizaje sin tripulación del Lanyue en 2028 y un ensayo general completo en 2029.",
+          "El calendario se conoce justo cuando el administrador de la NASA, Jared Isaacman, presiona para que los estadounidenses vuelvan a la Luna antes que los chinos: el 23 de octubre culpó del retraso de Artemis al «peso de la inercia institucional y las prioridades equivocadas». NASA apunta a un Artemis III en órbita terrestre en 2027 —para ensayar el acoplamiento de Orion con los módulos de SpaceX y Blue Origin— y al alunizaje en 2028. China no parece planear un ensayo tripulado equivalente."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chinese_crewed_lunar_lander_mockup_01_-_NMC.jpg/1280px-Chinese_crewed_lunar_lander_mockup_01_-_NMC.jpg",
+          "alt": "Maqueta del módulo de alunizaje tripulado chino Lanyue expuesta en una sala del Museo Nacional de China",
+          "credit": "Shujianyang · Wikimedia Commons · CC0",
+          "caption": "Maqueta del módulo lunar tripulado chino en el Museo Nacional de China (2023). Su primer alunizaje sin tripulación está previsto para 2028."
+        },
+        "link": {
+          "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/",
+          "source": "SpacePolicyOnline"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Dos carreras hacia la Luna",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            {
+              "when": "2027",
+              "title": "China · Mengzhou sin tripulación",
+              "text": "Primer vuelo de prueba de la nave tripulada a órbita terrestre."
+            },
+            {
+              "when": "2027",
+              "title": "EE.UU. · Artemis III",
+              "text": "Ensayo tripulado en órbita terrestre del acoplamiento de Orion con los módulos lunares."
+            },
+            {
+              "when": "2028",
+              "title": "China · Lanyue sin tripulación",
+              "text": "Prueba de alunizaje del módulo lunar."
+            },
+            {
+              "when": "2028",
+              "title": "EE.UU. · Alunizaje tripulado",
+              "text": "Objetivo de NASA con Starship y Blue Moon MK2.",
+              "highlight": true
+            },
+            {
+              "when": "2029",
+              "title": "China · Ensayo general",
+              "text": "Dos Larga Marcha 10, encuentro en órbita lunar y alunizaje, sin astronautas."
+            },
+            {
+              "when": "2030",
+              "title": "China · Taikonautas en la Luna",
+              "text": "Dos tripulantes en la superficie; el tercero espera en órbita.",
+              "highlight": true
+            }
+          ]
+        },
+        {
+          "type": "analysis",
+          "title": "Un calendario también es un mensaje",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "China repite desde 2023 que llegará «antes de 2030»; la novedad es el desglose anual, que convierte la promesa en hitos verificables. La arquitectura es casi un espejo de la de Blue Origin para Artemis: el módulo viaja solo a órbita lunar y espera a la tripulación. La diferencia es de gobernanza: programa estatal integrado frente a dos contratistas privados."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Cada hito chino cumplido refuerza su capacidad de atracción para la Estación Internacional de Investigación Lunar (ILRS) frente a los Acuerdos Artemis. Y acelerar Artemis suele significar más dependencia de SpaceX y menos margen para socios como la ESA."
+            }
+          ],
+          "key": "En tu TFG, compara hitos anunciados y cumplidos en ambos bloques. La credibilidad de un calendario es poder blando, y en la fase normativa de los recursos lunares, quien llegue primero tendrá más voz sobre las «zonas de seguridad» y el uso de los recursos."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "ESA · Hera · 3 nov",
+              "title": "Hera ya distingue los dos asteroides",
+              "text": "La sonda de defensa planetaria de la ESA ha captado por primera vez Dídimo y Dimorfo como dos objetos separados, y no como un único punto de luz. En la imagen, tomada el 18 de octubre a unos 1.280 km, Dimorfo —unos 151 metros— es apenas un píxel junto a Dídimo. Las primeras imágenes detalladas de Dimorfo, el asteroide que la sonda DART de la NASA desvió en 2022, llegarán el 25 de noviembre.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hera_glides_past_Didymos.jpg/1280px-Hera_glides_past_Didymos.jpg",
+                "alt": "Ilustración de la sonda Hera, con sus paneles solares desplegados, sobrevolando el asteroide Dídimo y su pequeña luna Dimorfo",
+                "credit": "ESA – Science Office · CC BY-SA 3.0 IGO",
+                "caption": "Recreación de Hera junto al sistema Dídimo–Dimorfo, objetivo de su «investigación del lugar del impacto»."
+              },
+              "link": {
+                "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
+                "source": "ESA"
+              }
+            },
+            {
+              "kicker": "ESA · Lanzadores reutilizables · 2 nov",
+              "title": "BEST!2: la ESA quiere ver volver una primera etapa",
+              "text": "La agencia ha publicado una nueva convocatoria de su iniciativa Boosters for European Space Transportation para financiar demostraciones en vuelo, dirigidas por la industria, de primeras etapas reutilizables: recuperación y nuevo vuelo. Aún no tiene presupuesto ni calendario públicos. En la fase anterior, ArianeGroup propuso reutilizar la primera etapa de MaiaSpace como propulsores de un Ariane 6 evolucionado, e Isar Aerospace un demostrador para su Spectrum.",
+              "link": {
+                "url": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
+                "source": "European Spaceflight"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "−7,4 %",
+            "text": "Caída del Brent el lunes, hasta 105,03 dólares por barril, por el optimismo ante un posible fin de la guerra con Irán, según CBS News. Desde el inicio del conflicto ha oscilado entre unos 70 y 120 dólares."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "3 nov",
+                "what": "EE.UU. · Legislativas; Congreso · Comparecencia de Óscar Puente (17.00)"
+              },
+              {
+                "when": "9 nov",
+                "what": "Tarragona · Huelga indefinida del metal convocada por la Plataforma del Metall"
+              },
+              {
+                "when": "10–11 nov",
+                "what": "Abu Dabi · Negociaciones EE.UU.–Rusia–Ucrania; 11 nov · Huelga general en Catalunya"
+              },
+              {
+                "when": "25 nov",
+                "what": "ESA · Primeras imágenes detalladas de Dimorfo tomadas por Hera"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Construye una tabla de hitos lunares anunciados frente a cumplidos (China desde 2023, Artemis desde 2019): te servirá para argumentar qué bloque gana credibilidad ante los terceros países que dudan entre Artemis y la ILRS."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "BEST!2 abre la puerta a financiación de la ESA para demostraciones de reutilización: vigila qué empresas se presentan más allá de ArianeGroup e Isar, y qué proveedores de recuperación, aviónica y ensayos necesitarán."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera (2 y 3 nov), UPI (3 nov), CBS News (2 y 3 nov), Notes from Poland (31 oct), Just Security (2 nov), El Independiente (2 nov), Moncloa.com (3 nov), Crónica Global (2 y 3 nov), 3CatInfo (2 nov), elDiario.es (2 nov), SEGRE (3 nov), Horitzó Socialista (3 nov), Tarragona Ràdio y La Comarca de Puertollano (3 nov), Diari de Tarragona (oct), SpacePolicyOnline (2 nov), ESA (3 nov), European Spaceflight (2 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 03.11.2026."
+}
