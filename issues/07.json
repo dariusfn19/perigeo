@@ -1,0 +1,380 @@
+{
+  "number": 7,
+  "week": 45,
+  "date": "2026-11-04",
+  "dateLabel": "Miércoles, 4 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Los demócratas recuperan la Cámara de Representantes y, según las proyecciones, también el Senado, con seis escaños republicanos arrebatados; Trump dice que acepta el resultado y que trabajará con ellos.",
+      "Mientras Irán califica de «poco convincente» la respuesta de Washington sobre Ormuz y el Kremlin confirma que Medinski encabezará su delegación en Abu Dabi, el mapa de poder en Washington cambia a dos años de las presidenciales.",
+      "Óscar Puente dimite por sorpresa al final de su comparecencia por Urda y renuncia a encabezar la lista por Valladolid; en el Camp de Tarragona, la plantilla de Dow fija cuatro días de huelga del 10 al 13 de noviembre."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "EE.UU. · Legislativas · 3–4 nov",
+        "title": "Un Congreso demócrata para la segunda mitad de Trump",
+        "dek": "Las proyecciones dan a los demócratas una mayoría amplia en la Cámara y el control del Senado tras arrebatar seis escaños a los republicanos, incluidos Texas, Ohio y Carolina del Norte. Trump, que no estaba en la papeleta, asegura que acepta el resultado.",
+        "body": [
+          "El vuelco llegó por la noche europea. Según las proyecciones de la AP y del equipo electoral de CNBC, actualizadas pasada la medianoche del miércoles en la costa este, los demócratas tendrían al menos 235 escaños en la Cámara de Representantes —la mayoría está en 218— frente a un mínimo de 160 republicanos, con decenas de distritos aún por contar. Hakeem Jeffries se perfila como presidente de la Cámara a partir de enero: sería el primer afroamericano en el cargo. En el Senado, donde los republicanos defendían un 53 a 47, la AP proyecta seis vuelcos demócratas: Josh Turek en Iowa, Adam Hamilton en Kansas frente al senador Roger Marshall, Roy Cooper en Carolina del Norte, Sherrod Brown en Ohio frente a Jon Husted, Annie Andrews en Carolina del Sur y James Talarico en Texas frente a Ken Paxton. Jon Ossoff retiene Georgia y Chris Pappas gana el escaño abierto de New Hampshire. Michigan y Minnesota seguían en recuento.",
+          "La ola alcanza también a los gobernadores: Amy Acton gana Ohio a Vivek Ramaswamy, Gina Hinojosa derrota a Greg Abbott en Texas —que reconoció la derrota poco después de las 23.00 hora del este— y Keisha Lance Bottoms se impone en Georgia. Los republicanos conservan Florida con Byron Donalds. La reacción de Trump llegó en dos tonos: en Truth Social escribió que «no estaba en la papeleta» y que, de haberlo estado, habrían ganado «por goleada», y culpó a Fox News de la derrota; al <em>New York Times</em> le dijo que acepta los resultados y que espera «trabajar con los demócratas». La Casa Blanca no tiene actos públicos previstos hoy. Las cifras son proyecciones y pueden moverse en los próximos días."
+        ],
+        "quote": {
+          "text": "Estoy absolutamente dispuesto a aceptar esos resultados. Trabajaremos con los demócratas.",
+          "author": "Donald Trump · Presidente de EE.UU., a The New York Times, 3–4 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/1280px-United_States_Capitol_west_front_edit2.jpg",
+          "alt": "Fachada oeste del Capitolio de Estados Unidos, con su cúpula blanca, vista desde los jardines al atardecer",
+          "credit": "Architect of the Capitol · Wikimedia Commons · Dominio público",
+          "caption": "El Capitolio, en Washington. Desde enero, ambas cámaras tendrían mayoría demócrata si se confirman las proyecciones."
+        },
+        "link": {
+          "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+          "source": "CNBC"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La noche electoral, en cifras",
+          "items": [
+            {
+              "value": "235+",
+              "label": "escaños demócratas proyectados en la Cámara (mayoría: 218)"
+            },
+            {
+              "value": "6",
+              "label": "escaños del Senado que pasan de republicanos a demócratas, según la AP"
+            },
+            {
+              "value": "53–47",
+              "label": "ventaja republicana en el Senado antes de votar"
+            },
+            {
+              "value": "2028",
+              "label": "presidenciales: Trump gobernará dos años con el Congreso en contra"
+            }
+          ],
+          "footnote": "Fuente: proyecciones de la AP y del Election Desk de CNBC (4 nov 2026, 00.18 h ET). Recuento en curso."
+        },
+        {
+          "type": "analysis",
+          "title": "Lo que cambia (y lo que no) para Europa",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En política exterior, el presidente de EE.UU. conserva casi todo el margen: negocia en Abu Dabi, ordena ataques limitados contra Irán y decide la ayuda que ya está aprobada. Lo que gana el Congreso es el control del dinero y de la supervisión. Una Cámara demócrata puede abrir investigaciones —por ejemplo, sobre quién ordenó restringir Starlink en Ucrania en octubre, que ya interesa a senadores de ambos partidos— y condicionar los presupuestos de defensa y de la NASA para 2027."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si el resultado endurece o suaviza la presión de Trump sobre Moscú antes de Abu Dabi (10 y 11 de noviembre); si los planes del Mando Central para atacar Irán «a partir del miércoles», de los que hablan medios estadounidenses, se activan ahora que han pasado las elecciones; y qué hacen los demócratas con su nueva mayoría hasta que se constituya el Congreso en enero."
+            }
+          ],
+          "key": "Para tu TFG, apunta que en EE.UU. el presupuesto espacial lo escribe el Congreso, no la Casa Blanca: con mayoría demócrata, los recortes a la ciencia de la NASA tienen aún menos recorrido, pero Artemis tiene apoyo de ambos partidos. Para la ESA, lo relevante es si sobreviven las misiones en las que Europa es socia."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · Estrecho de Ormuz, 3–4 nov",
+              "title": "«Poco convincente»: Teherán no reabre Ormuz",
+              "text": "El secretario del Consejo Supremo de Seguridad Nacional iraní, Mohsen Rezaei, calificó de «poco convincente» la respuesta de Washington y exigió que atienda «plena y explícitamente» las siete condiciones de Irán —entre ellas, el fin del bloqueo naval y de las sanciones—: «Solo en ese caso se reabrirá el estrecho de Ormuz». Trump confirmó que EE.UU. atacó el martes una instalación antiaérea en la isla de Qeshm, que describió como «un ataque menor» que «no era una guerra». Medios estadounidenses informan de que el Mando Central tiene listos planes de ataques breves e intensos que podrían empezar desde hoy, con tres portaaviones en la zona. Catar asegura que ambas partes siguen «comprometidas» con la negociación. La UKMTO informó de dos proyectiles contra un petrolero a 14 millas náuticas de Limah (Omán), sin víctimas.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Rusia · Diplomacia, 3 nov",
+              "title": "Medinski a Abu Dabi, y una cumbre a tres en el aire",
+              "text": "El Kremlin confirmó las conversaciones con Ucrania y EE.UU. en Abu Dabi la semana que viene y, según su portavoz Dmitri Peskov, el asesor de Putin Vladímir Medinski encabezará la delegación rusa. Peskov añadió que Moscú espera cerrar «en los próximos días» los planes de una reunión entre los líderes de Rusia, EE.UU. y China. Zelenski ya rechazó en octubre cualquier formato sin Kyiv: «Nada sobre Ucrania sin Ucrania». Además, la Casa Blanca anunció que Melania Trump reunirá el jueves a representantes rusos y ucranianos para hablar de un alto el fuego local en Jersón, tras la pausa de seis días en Oleshky que terminó el lunes y que, según Kyiv, Rusia aprovechó para reforzarse.",
+              "link": {
+                "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+                "source": "CNBC"
+              }
+            },
+            {
+              "kicker": "Mar Negro · Seguridad alimentaria, 3 nov",
+              "title": "El trigo paga la guerra naval",
+              "text": "Los ataques contra buques en el mar Negro amenazan las exportaciones de grano ucranianas y ya se notan en los precios: el trigo en el mercado de Chicago ha pasado de 5,03 a 6,03 dólares por bushel en un año. El 28 de octubre, drones navales y aéreos hundieron frente a Bulgaria el portacontenedores <em>Contship Jet</em>, con bandera de Liberia; sus 18 tripulantes fueron rescatados. Kyiv atribuye el ataque a Rusia; Zelenski dice que Ucrania no operaba en esa zona. Según autoridades búlgaras y rumanas, al menos 30 marinos han muerto o desaparecido en esta oleada. Con Odesa paralizada por los bombardeos, apenas el 50 % del grano puede salir por tierra. La Comisión respalda una moratoria de ataques en el mar Negro.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Chequia · Libertad de prensa, 3 nov",
+              "title": "La televisión y la radio públicas, en huelga",
+              "text": "La plantilla de la Televisión Checa y de la Radio Checa paró durante 24 horas contra el proyecto del Gobierno de Andrej Babiš de suprimir la tasa audiovisual —205 coronas al mes por hogar— y financiar ambos medios con el presupuesto del Estado. Los trabajadores dicen que la reforma supone menos dinero y pone en riesgo su independencia editorial; según Reuters, el recorte propuesto del 15 % devolvería el presupuesto de la televisión al nivel de 2008. ČT24 emitió boletines breves y archivo, y miles de personas se concentraron en la plaza de Wenceslao. Babiš dice cumplir una promesa electoral y niega querer controlar los contenidos. El proyecto superó la primera lectura el 24 de octubre; hay nuevas protestas el 10 y el 15 de noviembre.",
+              "link": {
+                "url": "https://www.expats.cz/czech-news/article/thousands-rally-in-central-prague-as-czech-tv-and-radio-employees-strike",
+                "source": "Expats.cz"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "115",
+        "statLabel": "muertos en dos accidentes ferroviarios en algo más de nueve meses —Adamuz (46) y Urda (69)—, la cifra que Puente invocó para irse",
+        "title": "Puente dimite en la tribuna",
+        "body": [
+          "Nadie lo esperaba. Tras más de cuatro horas ante la Diputación Permanente del Congreso, Óscar Puente anunció en su turno de cierre que deja el Ministerio de Transportes y que renuncia a encabezar la lista del PSOE por Valladolid el 29-N; según El Independiente, la sustituirá la ministra de Igualdad, Ana Redondo. Avisó a Pedro Sánchez solo unos minutos antes; ni su equipo, presente en la sala, ni la dirección del grupo socialista lo sabían. El ministro argumentó que quien ocupa su cargo «no puede continuar» tras dos accidentes de esta gravedad en menos de un año, citó al exministro portugués Jorge Coelho —«la culpa no puede morir soltera»— y cerró con un «mi ego nunca ha sido mayor que mi partido y mi país». Durante la sesión había defendido la transparencia de su ministerio: «No culpabilizo a un trabajador, pero tampoco oculto los hechos».",
+          "Sánchez, que había rechazado su renuncia por «injusta», le elogió en X: políticos como él «dignifican a nuestro país». La Moncloa dice que el relevo llegará «en los próximos días», y Puente sigue en funciones hasta entonces. El PP, por boca de Ester Muñoz, le llamó «negligente, frívolo e incompetente»; Vox abandonó la sala. Todos los grupos salvo PSOE y Bildu habían pedido su salida. El Consejo de Ministros aprobó el mismo martes ayudas para las víctimas y medidas de seguridad ferroviaria a corto plazo, sin que se hayan detallado aún importes ni plazos."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%C3%93scar_Puente_2023_%28cropped%29.jpg",
+          "alt": "Retrato de Óscar Puente, ministro de Transportes, con traje oscuro durante un acto oficial en 2023",
+          "credit": "La Moncloa – Gobierno de España · Wikimedia Commons · Reutilización con atribución",
+          "caption": "Óscar Puente en 2023, al llegar al Ministerio de Transportes. Seguirá en funciones hasta que Sánchez nombre a su relevo."
+        },
+        "link": {
+          "url": "https://www.elindependiente.com/espana/2026/11/03/oscar-puente-comparecencia-diputacion-permanente-congreso-accidente-urda/",
+          "source": "El Independiente"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Dos accidentes en nueve meses",
+          "note": "Víctimas mortales en la red de alta velocidad",
+          "bars": [
+            {
+              "label": "Adamuz (Córdoba)",
+              "value": 46,
+              "display": "46"
+            },
+            {
+              "label": "Urda (Toledo)",
+              "value": 69,
+              "display": "69",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuente: El Independiente (3 nov 2026). La cifra de Urda sigue siendo provisional."
+        },
+        {
+          "type": "analysis",
+          "title": "Una dimisión que también es campaña",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En el PSOE se lee la salida como una forma de cerrar la herida de Urda antes de la campaña, que empieza el 13 de noviembre. Los sondeos publicados a finales de octubre daban mayoría a PP y Vox, y el primero hecho tras el accidente (SocioMétrica) apuntaba a una caída socialista. Puente se marcha además con un aviso: que un Gobierno de derechas sería «desastroso» y que los servicios públicos «nunca se fortalecen con recortes»."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "A quién nombra Sánchez —o si reparte la cartera entre otros ministros— a menos de un mes de que el Gobierno entre en funciones; si el relevo mantiene la idea de cerrar entre 12 y 24 meses la línea Madrid–Barcelona para renovarla; y si la dimisión cambia la tendencia de las encuestas."
+            }
+          ],
+          "key": "Para ti, la pregunta sigue siendo la estación del Camp de Tarragona. Si el nuevo ministro o ministra hereda el plan de renovación de la línea Madrid–Barcelona, el calendario de obras de 2027 decidirá cómo te mueves hacia Madrid y Barcelona."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Parlament · Huelga general del 11N, 3 nov",
+              "title": "La Cámara se alinea con la huelga, pero sin lectura en el pleno",
+              "text": "La Junta de Portavoces aprobó una declaración institucional de apoyo a las «legítimas reivindicaciones» de la huelga general del 11 de noviembre —salarios, vivienda y control de precios—, impulsada por PSC-Units, ERC, Comuns y CUP. Junts, PP y Vox votaron en contra y Aliança Catalana se abstuvo. Al no alcanzar dos tercios, no se leerá en el pleno. El texto pide al Govern medidas contra la especulación y más vivienda pública, a la patronal que desbloquee la negociación colectiva y que los servicios mínimos se limiten a lo estrictamente esencial.",
+              "link": {
+                "url": "https://www.democrata.es/en/catalunya/the-parliament-backs-the-general-strike-with-the-support-of-psc-erc-comuns-and-cup/",
+                "source": "Demócrata"
+              }
+            },
+            {
+              "kicker": "Parlament · Amnistía, 3 nov",
+              "title": "Comín vuelve al Parlament nueve años después",
+              "text": "El presidente del Parlament, Josep Rull, recibió a Toni Comín, exconseller y eurodiputado de Junts, en su primera visita a Catalunya desde el 1-O. Rull lo llamó «una excelente noticia para la Generalitat y la nación». Comín presentó la amnistía como un fracaso de la estrategia represiva del Estado: «No volvemos indemnes, pero volvemos vencedores». Los representantes del PSC en la Mesa no asistieron.",
+              "link": {
+                "url": "https://www.democrata.es/ca/catalunya/rull-rep-al-parlament-a-comin-nou-anys-despres-de-l-1-o/",
+                "source": "Demócrata"
+              }
+            },
+            {
+              "kicker": "Camp de Tarragona · Industria, 2 nov",
+              "title": "Dow: cuatro días de huelga contra 116 despidos",
+              "text": "Un centenar de trabajadores de Dow se concentraron en el polígono norte, en La Pobla de Mafumet, para exigir una «negociación real». La química quiere despedir a 116 personas en España —había empezado con 138—, la mayoría en Tarragona, donde están 690 de sus 730 empleos en el país, dentro de un plan global de unos 4.500 despidos. Tras seis reuniones del periodo de consultas quedan cuatro, y la asamblea votó huelga del 10 al 13 de noviembre. El comité, con David Navarro y Sergi Ferrer, califica la oferta de «una vergüenza» y avisa de que menos plantilla significa reaccionar más tarde ante un error en la planta. La empresa dice buscar «el mejor acuerdo posible».",
+              "link": {
+                "url": "https://tarragonadigital.com/societat/centenar-treballadors-dow-reclament-negociacio-real-reduir-acomiadaments.html",
+                "source": "Tarragona Digital"
+              }
+            },
+            {
+              "kicker": "Tarragona · Vivienda, 3 nov",
+              "title": "Primeras llaves de alquiler asequible en Les Oliveres",
+              "text": "El Ayuntamiento empezó a entregar unas 80 de las 192 viviendas de alquiler asequible de Les Oliveres, en Campclar; el resto llegará antes de final de año. Son pisos de uno a tres dormitorios, con plaza de aparcamiento y trastero, por entre 427 y 680 euros al mes. El alcalde, Rubén Viñuales, admitió que «tenemos un problema muy serio» con unos alquileres «inasumibles» por la escasa oferta y los pisos turísticos, y prevé un millar de pisos asequibles en cinco años, entre ellos 200 en La Floresta, 200 en el PP-10 y entre 200 y 300 en el entorno del Francolí.",
+              "link": {
+                "url": "https://tarragonadigital.com/societat/nous-pisos-lloguer-assequible-les-oliveres-tarragona-primers-inquilins.html",
+                "source": "Tarragona Digital"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "NewSpace europeo · Suiza · 2–3 nov",
+        "title": "Un alunizador suizo con motor de detonación",
+        "dek": "Stellar Alpina, una start-up de nueve meses fundada por exmiembros de la iniciativa estudiantil ARIS, presenta un vehículo de transferencia orbital capaz de llegar al espacio cislunar y un pequeño módulo lunar, ambos basados en un motor de detonación rotativa.",
+        "body": [
+          "La empresa ha desvelado dos vehículos: Monarch, un remolcador orbital para llevar hasta 200 kg a distintas órbitas, incluida la cislunar, y ofrecer alojamiento de cargas, inspección y operaciones de proximidad; y Morpho, un alunizador para posar hasta 50 kg en la superficie, que describe como «la infraestructura de transporte para una economía lunar próspera». Primero irá Monarch, que servirá de base técnica para Morpho. Ambos usarían Genziana, un motor de detonación rotativa de 1 a 5 kilonewtons alimentado con propano y peróxido de hidrógeno. Según la empresa, el programa de pruebas suma más de 150 encendidos en 23 configuraciones. No hay fecha de primer vuelo.",
+          "La financiación es todavía de etapa temprana: una ronda presemilla de 3,5 millones de francos suizos (3,8 millones de euros), cerrada en mayo y liderada por Founderful. Las cifras de rendimiento son de la propia compañía, sin verificación independiente. Pero el anuncio encaja en una tendencia: Europa, sin un alunizador propio en servicio, empieza a tener empresas que quieren vender transporte hacia la Luna, mientras la ESA financia demostradores de reutilización (BEST!2) y de propulsión (FLPP, con la licitación THRUST!2 prevista para mediados de noviembre)."
+        ],
+        "link": {
+          "url": "https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/",
+          "source": "European Spaceflight"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La NASA que heredará el nuevo Congreso",
+          "items": [
+            {
+              "value": "24.400 M$",
+              "label": "presupuesto aprobado por el Congreso para 2026"
+            },
+            {
+              "value": "18.800 M$",
+              "label": "lo que pide la Casa Blanca para 2027 (−23 %)"
+            },
+            {
+              "value": "−47 %",
+              "label": "recorte propuesto a la dirección de ciencia"
+            },
+            {
+              "value": "9.000 M$",
+              "label": "para ciencia que reclamaron 103 congresistas de ambos partidos"
+            }
+          ],
+          "footnote": "Fuentes: Space.com y Planetary Society (abril 2026). El Comité de Asignaciones de la Cámara ya propuso mantener los 24.400 M$."
+        },
+        {
+          "type": "analysis",
+          "title": "Empresas pequeñas, ambición cislunar",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En EE.UU., el transporte lunar comercial se sostiene sobre contratos públicos (CLPS) y una industria que se concentra: Voyager ha absorbido a Astrobotic, rebautizada Voyager Lunar Systems, a la espera del lanzamiento de Griffin-1, previsto para finales de 2026. En Europa no existe un programa ancla equivalente; las start-ups como Stellar Alpina dependen del capital riesgo y de los programas de la ESA."
+            },
+            {
+              "label": "Qué implica",
+              "text": "El resultado electoral en EE.UU. refuerza la probabilidad de que el Congreso vuelva a frenar los recortes a la ciencia de la NASA, lo que protege misiones con participación europea. Pero la autonomía lunar europea no puede depender de eso: sin un cliente institucional para el transporte a la Luna, las empresas europeas acabarán vendiendo a programas estadounidenses."
+            }
+          ],
+          "key": "Para tu TFG, este es el eslabón débil: Europa firma normas (Acuerdos Artemis, Carta Cero Basura) pero no tiene un comprador público de servicios lunares. Compara CLPS con lo que la ESA podría hacer con Argonaut, su alunizador logístico."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Servicio en órbita · EE.UU., 3 nov",
+              "title": "Falla el primer Otter de Starfish Space",
+              "text": "El primer vehículo de servicio en órbita Otter, de la estadounidense Starfish Space, falló poco después del lanzamiento: según la empresa, su sistema de protección ante fallos bloqueó las comunicaciones. El Otter está vinculado a la misión SSPICY de la NASA, financiada con un contrato SBIR de 15 millones de dólares para inspeccionar varios satélites estadounidenses fuera de servicio. Es un revés en un mercado donde compiten ClearSpace, Astroscale UK o D-Orbit.",
+              "link": {
+                "url": "https://spacenews.com/starfish-spaces-first-otter-servicing-spacecraft-fails/",
+                "source": "SpaceNews"
+              }
+            },
+            {
+              "kicker": "Gobernanza · Brasilia, 4–5 nov",
+              "title": "La Carta Cero Basura de la ESA se firma en Brasil",
+              "text": "La 8.ª Cumbre para la Sostenibilidad Espacial, organizada por la Secure World Foundation y la Agencia Espacial Brasileña, se celebra hoy y mañana en Brasilia, y la ESA ha programado allí una ceremonia de firma de su Carta Cero Basura. La carta, no vinculante, reúne desde 2023 a más de 250 organizaciones de 35 países. Aún no se ha publicado quién firmará. Que la ceremonia sea en Brasil, socio de los Acuerdos Artemis y de los BRICS, es un ejemplo de diplomacia normativa europea fuera del continente.",
+              "link": {
+                "url": "https://www.swfsummit.org/home",
+                "source": "Summit for Space Sustainability"
+              }
+            },
+            {
+              "kicker": "ESA–JAXA · BepiColombo",
+              "title": "A 17 días de entrar en órbita de Mercurio",
+              "text": "BepiColombo entrará en órbita de Mercurio el 21 de noviembre, tras ocho años de viaje y un año de retraso por un fallo de los propulsores detectado en 2024. Los orbitadores MPO, europeo, y Mio, japonés, se separarán el 9 y 10 de diciembre, y la fase científica empezará en abril de 2027. Las pruebas de octubre muestran los instrumentos del MPO «en buen estado».",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BepiColombo_hugs_Mercury_ESA24939504.png/1280px-BepiColombo_hugs_Mercury_ESA24939504.png",
+                "alt": "Imagen en blanco y negro de la superficie craterizada de Mercurio tomada de cerca por una cámara de BepiColombo, con parte de la nave en primer plano",
+                "credit": "ESA/BepiColombo/MTM · CC BY-SA 3.0 IGO",
+                "caption": "Mercurio visto por una cámara de vigilancia de BepiColombo durante uno de sus sobrevuelos."
+              },
+              "link": {
+                "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+                "source": "ESA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "+20 %",
+            "text": "Subida del trigo en el mercado de Chicago en un año, de 5,03 a 6,03 dólares por bushel, con la guerra naval en el mar Negro como uno de los factores, según Al Jazeera."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "5 nov",
+                "what": "Casa Blanca · Melania Trump reúne a rusos y ucranianos para un alto el fuego en Jersón"
+              },
+              {
+                "when": "10–13 nov",
+                "what": "Abu Dabi · Negociaciones EE.UU.–Rusia–Ucrania (10–11); Tarragona · Huelga en Dow"
+              },
+              {
+                "when": "11 nov",
+                "what": "Catalunya · Huelga general por los salarios y la vivienda"
+              },
+              {
+                "when": "21 nov",
+                "what": "ESA–JAXA · BepiColombo entra en órbita de Mercurio"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Sigue quién firma la Carta Cero Basura en Brasilia: es un buen caso de cómo la ESA exporta normas no vinculantes a terceros países, un camino paralelo al de los Acuerdos Artemis que puedes comparar con la COPUOS."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "El fallo del Otter deja hueco a los competidores europeos de servicio en órbita. Y las start-ups como Stellar Alpina necesitarán clientes para Monarch: lo que falta es desarrollo de negocio que les busque cargas institucionales y comerciales."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: CNBC (3 y 4 nov), Al Jazeera (3 y 4 nov), Expats.cz (3 nov), El Independiente (3 nov), Infobae (3 nov), Demócrata (1 y 3 nov), Tarragona Digital (2 y 3 nov), European Spaceflight (2 y 3 nov), SpaceNews (3 nov), Space.com y Planetary Society (abr), Summit for Space Sustainability, ESA (oct). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 04.11.2026."
+}
