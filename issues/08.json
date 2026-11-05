@@ -1,0 +1,407 @@
+{
+  "number": 8,
+  "week": 45,
+  "date": "2026-11-05",
+  "dateLabel": "Jueves, 5 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Bruselas pone calendario a la ampliación: Montenegro podría cerrar sus negociaciones este año, Albania en 2027, Moldavia a principios de 2028 y Ucrania a finales de 2028, mientras Georgia queda «de facto» frenada.",
+      "Con el balance del bombardeo de Komishuvaja ya en 40 muertos, Melania Trump reúne hoy en la Casa Blanca a rusos y ucranianos; en el Golfo, Trump avisa de «algo grande» contra Irán mientras el Brent cae por debajo de 100 dólares.",
+      "Carlos Cuerpo asume en funciones Transportes a 24 días del 29-N; en el Parlament, ERC avisa a Illa de que el adelanto electoral lo deja «en molt mala situació», y OHB se adjudica 554 millones de la ESA para el nuevo Sentinel-3."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "UE · Ampliación · 4 nov",
+        "title": "La ampliación ya tiene fechas",
+        "dek": "El paquete anual de la Comisión incluye por primera vez hojas de ruta con hitos concretos para Montenegro, Albania, Moldavia y Ucrania, y un marco común de «integración gradual» que permitiría a los candidatos entrar en políticas europeas antes de ser miembros.",
+        "body": [
+          "La Comisión Europea aprobó el miércoles su paquete de ampliación de 2026 con un cambio de método: además de evaluar a cada candidato, propone <b style=\"font-weight: 600;\">hojas de ruta indicativas</b> con hitos y objetivos para el año que viene a los cuatro países más avanzados. Montenegro, que ha cerrado provisionalmente 21 capítulos —nueve de ellos este año—, podría cerrar los restantes antes de que acabe 2026. Albania aspira a terminar las negociaciones en 2027, Moldavia a principios de 2028 y Ucrania a finales de 2028. Según Bruselas, Moldavia ya cumple las condiciones para abrir todos los grupos de capítulos pendientes, y Ucrania ha seguido avanzando en reformas sectoriales clave pese a la guerra.",
+          "El resto del mapa es menos amable. Serbia no ha hecho «avances sustanciales»; el proceso de Georgia está «de facto detenido» y Turquía retrocede. A Kosovo se le pide acelerar sus reformas. La comisaria de Ampliación, Marta Kos, presentó tres novedades: las hojas de ruta, el nuevo modelo de integración gradual —con un diálogo que arrancará en el primer trimestre de 2027— y un vínculo explícito entre ampliación y seguridad. Ese mismo día, la Comisión reunió a delegaciones de Alemania, Francia, Reino Unido, Ucrania y EE.UU., con la OTAN y el Banco Mundial, para preparar la reconstrucción ucraniana de posguerra: la UE calcula que ha aportado 231.500 millones de euros desde el inicio de la invasión."
+        ],
+        "quote": {
+          "text": "La ampliación es una inversión directa en la seguridad de Europa.",
+          "author": "Kaja Kallas · Alta Representante de la UE, 4 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+          "alt": "Fachada del edificio Berlaymont, sede de la Comisión Europea, en el barrio Schuman de Bruselas",
+          "credit": "EmDee · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "El Berlaymont, sede de la Comisión Europea en Bruselas, donde se aprobó el paquete de ampliación de 2026."
+        },
+        "link": {
+          "url": "https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en",
+          "source": "Comisión Europea"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Calendario de las cuatro hojas de ruta",
+          "note": "Objetivos de cierre de negociaciones · indicativos",
+          "items": [
+            {
+              "when": "Fin 2026",
+              "title": "Montenegro",
+              "text": "21 capítulos cerrados provisionalmente; podría cerrar el resto este año.",
+              "highlight": true
+            },
+            {
+              "when": "2027",
+              "title": "Albania",
+              "text": "Aspira a concluir las negociaciones de adhesión."
+            },
+            {
+              "when": "Inicio 2028",
+              "title": "Moldavia",
+              "text": "Cumple ya las condiciones para abrir todos los grupos pendientes."
+            },
+            {
+              "when": "Fin 2028",
+              "title": "Ucrania",
+              "text": "Objetivo de cierre en plena guerra y con la reconstrucción en preparación.",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuente: Comisión Europea, paquete de ampliación 2026 (4 nov 2026). Las fechas son objetivos, no compromisos de adhesión."
+        },
+        {
+          "type": "analysis",
+          "title": "Ampliar como política de defensa",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Desde 2022, la ampliación ha dejado de ser solo un ejercicio técnico de reformas para convertirse en una herramienta geopolítica: anclar a Ucrania y Moldavia antes de que Rusia lo impida. Las hojas de ruta con fechas son la respuesta de Bruselas a quienes, en los Balcanes, llevan dos décadas esperando sin horizonte. La integración gradual permitiría acceso a partes del mercado único y a fondos antes de la adhesión plena."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si los Veintisiete, que deciden por unanimidad cada paso, respaldan estas fechas; cómo encaja una adhesión ucraniana en 2028 con las negociaciones de Abu Dabi (10 y 11 de noviembre); y si el frenazo de Georgia abre un debate sobre sanciones a su Gobierno."
+            }
+          ],
+          "key": "Para tu TFG, fíjate en la frase de Kallas: si la ampliación es seguridad, también lo es la integración de los candidatos en programas como Galileo, Copernicus o IRIS². La «integración gradual» podría ser la vía para que Ucrania participe en el espacio europeo antes de ser miembro."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Zaporiyia, 4 nov",
+              "title": "Komishuvaja: 40 muertos y 59 desaparecidos",
+              "text": "El balance del bombardeo ruso del lunes contra un punto de reparto de ayuda en Komishuvaja, en la región de Zaporiyia, subió el miércoles a 40 muertos, entre ellos dos rescatistas y cuatro policías. Iván Fedorov, copresidente del Consejo de Defensa regional, cifró en 59 los desaparecidos. Según Zelenski, Rusia lanzó primero bombas aéreas sobre una escuela subterránea usada como refugio y centro de reparto los lunes, y después volvió a golpear el refugio. Es uno de los ataques más letales contra civiles este año. El Ministerio de Defensa ruso asegura que atacó unidades militares y que mató a hasta 25 soldados. Zelenski pidió en X más defensa antiaérea «ahora mismo». El ataque llegó un día después de que expirara la tregua de seis días en Oleshky.",
+              "link": {
+                "url": "https://www.nbcnews.com/world/ukraine/russia-bomb-aid-center-ukraine-dead-missing-zelenskyy-bodies-rcna607458",
+                "source": "NBC News (Reuters)"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Diplomacia, hoy 5 nov",
+              "title": "Rusos y ucranianos, en la Casa Blanca",
+              "text": "Melania Trump reúne hoy en Washington a representantes rusos y ucranianos y hablará sobre la tregua de Oleshky a las 11.00 hora del este (17.00 en Reus). La Casa Blanca no ha dicho quién asistirá; según la agencia estatal rusa TASS, que cita al Kremlin, Moscú enviaría al emisario Kiril Dmítriev y a la comisionada de derechos humanos Yana Lantrátova, si la logística lo permite. La Casa Blanca presenta la tregua local como un éxito propio; Kyiv acusa a Rusia de haberla aprovechado para reforzar sus posiciones. Es el aperitivo de Abu Dabi, donde Steve Witkoff mediará el 10 y 11 de noviembre.",
+              "link": {
+                "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
+                "source": "Casa Blanca"
+              }
+            },
+            {
+              "kicker": "Irán · Ormuz, 4–5 nov",
+              "title": "«Algo grande» frente a «no a la guerra»",
+              "text": "Trump dijo a Fox News que «tenemos que hacer algo grande» con Irán y sopesa entre nuevos ataques, un acuerdo o mantener la presión. El negociador jefe iraní, Mohammad Bagher Ghalibaf, leyó el resultado de las legislativas como un mensaje: «Por conciencia o por el coste de la vida, los estadounidenses dijeron NO A LA GUERRA». La Guardia Revolucionaria asegura que cuatro petroleros quedaron destruidos tras chocar con minas en el estrecho, una afirmación sin verificar. Los mercados apuestan por la vía diplomática: el Brent cayó un 7,8 % el miércoles, por debajo de 100 dólares, y cotizaba a 93,63 este jueves por la mañana. Catar sigue mediando en un borrador de memorando que, según medios árabes, ya habría visto Washington.",
+              "link": {
+                "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100",
+                "source": "Gulf News"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Senado, 4 nov",
+              "title": "Schumer promete «alambre de espino legislativo»",
+              "text": "Con al menos 54 escaños asegurados según CBS —y la posibilidad de llegar a 56 si caen Misisipi y Alaska, aún en el aire—, los demócratas controlarán el Senado desde enero. Michigan eligió a Abdul El-Sayed, que será el primer senador musulmán, y Maine se suma a la lista de vuelcos con Troy Jackson frente a Susan Collins. Chuck Schumer avisó de que, cuando Trump desafíe la ley, abrirán investigaciones, irán a los tribunales y lo enredarán «en alambre de espino legislativo»: «Se acabaron los días del Senado suplicante de Trump». El presidente respondió que tiene «el poder del veto»: anularlo exige 290 votos en la Cámara y 67 en el Senado, lejos del alcance demócrata. Cinco senadores electos demócratas dicen que no votarán a Schumer como líder.",
+              "link": {
+                "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+                "source": "CBS News"
+              }
+            },
+            {
+              "kicker": "Ucrania · Reconstrucción, 4 nov",
+              "title": "Bruselas prepara el día después",
+              "text": "La Comisión reunió en Bruselas al E3 —Alemania, Francia y Reino Unido—, Ucrania y EE.UU., con la OTAN y el Banco Mundial, para preparar la reconstrucción de posguerra, tras las reuniones previas en Miami. El comunicado insiste en «estabilidad, confianza de los inversores y atracción de capital privado» y en que la UE sigue «unida y firme» con Kyiv. Es diplomacia de preparación para Abu Dabi: Europa quiere llegar con un plan económico propio y no solo como pagadora de lo que pacten Washington y Moscú.",
+              "link": {
+                "url": "https://www.eunews.it/en/2026/11/04/the-eu-commission-brings-together-international-partners-to-prepare-for-ukraines-reconstruction/",
+                "source": "Eunews"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "24",
+        "statLabel": "días hasta las elecciones generales del 29 de noviembre; la campaña empieza el 13",
+        "title": "Cuerpo, ministro de dos carteras",
+        "body": [
+          "Pedro Sánchez no ha buscado un nuevo ministro. En una declaración institucional en la Moncloa, anunció el miércoles que el vicepresidente primero y ministro de Economía, Carlos Cuerpo, asume «de forma transitoria» el Ministerio de Transportes y Movilidad Sostenible tras la dimisión de Óscar Puente, que la anunció el martes en el Congreso. Cuerpo llevará las dos carteras hasta que se forme el Gobierno que salga de las urnas el 29-N. Sánchez justificó la marcha de Puente «por empatía con las víctimas, por coherencia y por dignidad política» y aseguró que Cuerpo «dará continuidad a las reformas iniciadas» en el ministerio, en referencia al plan de seguridad ferroviaria aprobado tras el accidente de Urda.",
+          "La oposición no ha cambiado de tono. Vox llamó a Cuerpo «otro fusible» y el PP habló de «puro cálculo electoral» en la dimisión. La elección evita un nombramiento nuevo a pocas semanas de que el Gobierno entre en funciones, pero concentra en una sola persona Economía y la gestión de la peor crisis ferroviaria en décadas. Los sondeos publicados antes de Urda ya daban mayoría a PP y Vox; la incógnita es cuánto les ha movido el accidente."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Carlos_Cuerpo_2024_%28cropped%29.png",
+          "alt": "Retrato de Carlos Cuerpo, vicepresidente primero y ministro de Economía, con traje oscuro",
+          "credit": "Pool Moncloa / Fernando Calvo · Wikimedia Commons · Reutilización con atribución",
+          "caption": "Carlos Cuerpo, que suma Transportes a Economía hasta que haya nuevo Gobierno."
+        },
+        "link": {
+          "url": "https://www.publico.es/politica/gobierno/sanchez-elige-carlos-cuerpo-sustituto-oscar-puente-frente-ministerio-transportes.html",
+          "source": "Público"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "El último sondeo antes de Urda",
+          "note": "Estimación de voto · elecciones generales del 29-N",
+          "bars": [
+            {
+              "label": "PP",
+              "value": 29.2,
+              "display": "29,2 %",
+              "highlight": true
+            },
+            {
+              "label": "PSOE",
+              "value": 26.9,
+              "display": "26,9 %"
+            },
+            {
+              "label": "Vox",
+              "value": 19.2,
+              "display": "19,2 %"
+            },
+            {
+              "label": "Frente Amplio",
+              "value": 7.2,
+              "display": "7,2 %"
+            },
+            {
+              "label": "ERC",
+              "value": 2.6,
+              "display": "2,6 %"
+            },
+            {
+              "label": "Junts",
+              "value": 1.3,
+              "display": "1,3 %"
+            }
+          ],
+          "footnote": "Fuente: Sondaxe para La Voz de Galicia, vía Electográfica (1 nov 2026). Campo: 26–28 oct, 1.200 entrevistas, ±2,8 %. Hecho antes de que pudiera medirse el efecto de Urda."
+        },
+        {
+          "type": "analysis",
+          "title": "Una legislatura catalana que depende del 29-N",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En el control al Govern del miércoles, el presidente del grupo de ERC, Josep Maria Jové, preguntó a Illa si es consciente de que el adelanto electoral le impide cumplir «la paraula» dada a los republicanos. En juego están la financiación singular, la condonación de parte de la deuda del FLA, el traspaso de Rodalies, el consorcio de inversiones y la mayoría catalana en el Consorci de la Zona Franca: todo depende de un Gobierno central que podría cambiar en un mes."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si ERC pasa de la advertencia a dejar de apoyar al Govern —Jové no lo concretó—; si la oposición de Junts sigue atando a Illa a la gestión de Puente; y cómo afecta la salida de Eduard Rivas, exjefe de gabinete del president, investigado en un caso de Esparreguera."
+            }
+          ],
+          "key": "Para ti, el traspaso de Rodalies es lo más tangible: las líneas R14 y R15 que pasan por Reus dependen de él. Un cambio de Gobierno en Madrid podría frenar el calendario pactado, justo cuando Transportes queda en manos de un ministro interino."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Parlament · Sesión de control, 4 nov",
+              "title": "Illa celebra la derrota de Trump y apunta a Vox y Aliança",
+              "text": "Salvador Illa abrió la sesión de control celebrando las «bones notícies» de la victoria demócrata en EE.UU. y de la de Lula frente a Flávio Bolsonaro en Brasil, y las convirtió en munición contra la extrema derecha catalana. A Ignacio Garriga (Vox) le dijo: «Espero que vostè no fugi del país quan Abascal perdi les eleccions com va fer Bolsonaro». A Sílvia Orriols (Aliança Catalana) la llamó «demagoga, mal educada, ignorant i provocadora». Garriga replicó que ni él ni Abascal se irán de España. Illa defendió también la gestión de Puente ante Mònica Sales, de Junts.",
+              "link": {
+                "url": "https://www.elnacional.cat/ca/politica/illa-treu-pit-derrota-trump-estats-units-avisa-vox-alianca-tenen-males-noticies_1720335_102.html",
+                "source": "El Nacional"
+              }
+            },
+            {
+              "kicker": "Govern · Investigación, 4 nov",
+              "title": "Los mensajes que rodean a Eduard Rivas",
+              "text": "Según RAB, mensajes de móvil del caso de presunta corrupción en Esparreguera podrían implicar a Eduard Rivas, que dimitió esta semana como jefe de gabinete de Illa. Los Mossos investigan supuestos favores en la adjudicación del servicio de limpieza entre 2022 y 2024, cuando Rivas era alcalde del municipio. Él defiende su inocencia y sus abogados sostienen que las conversaciones «s’han interpretat fora de context». El Govern ha defendido en el Parlament su honorabilidad; Junts ha criticado la forma de su salida.",
+              "link": {
+                "url": "https://rab.cat/2026/11/04/actualitat-4-novembre-de-2026-catalunya/",
+                "source": "RAB"
+              }
+            },
+            {
+              "kicker": "Supremo · Amnistía, 4 nov",
+              "title": "Llarena da otro paso hacia el archivo del 1-O",
+              "text": "Según RAB, el juez del Supremo Pablo Llarena ha dejado sin efecto el procesamiento de Carles Puigdemont, Toni Comín y Lluís Puig y ha trasladado la causa a la Sala Penal para su archivo definitivo, tras el aval del Constitucional a la amnistía de la malversación. El juez mantiene, sin embargo, que «hi ha indicis dels fets investigats». Llarena ya había levantado el 19 de octubre las órdenes de detención nacionales. El sobreseimiento definitivo corresponde ahora a la sala que preside Manuel Marchena.",
+              "link": {
+                "url": "https://rab.cat/2026/11/04/actualitat-4-novembre-de-2026-catalunya/",
+                "source": "RAB"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "ESA · Copernicus · 4 nov",
+        "title": "554 millones para medir el nivel del mar",
+        "dek": "La ESA elige a la alemana OHB como contratista principal del Sentinel-3 Next Generation Topography, el altímetro radar que dará continuidad a Copernicus más allá de 2030, con opción a un segundo satélite.",
+        "body": [
+          "OHB System AG liderará un consorcio industrial europeo para desarrollar el Sentinel-3 Next Generation Topography (S3NG-T) con un contrato de 554 millones de euros, anunciado el 4 de noviembre. La misión medirá la altura de la superficie del océano, de las aguas costeras e interiores y del hielo, y está pensada para relevar a los Sentinel-3 C y D. El diseño cambia respecto a la generación actual: los instrumentos ópticos —color del océano y temperatura de superficie— pasan a una misión separada, y esta lleva solo los altímetros radar, en una pareja prevista de satélites idénticos en órbita heliosíncrona.",
+          "Las mejoras anunciadas son mediciones de altura más precisas, una franja de cobertura más ancha y revisitas más frecuentes, con una resolución a lo largo de la traza de unos 300 metros tras el procesado y radares en bandas Ku y C. OHB ya desarrolla para la ESA el Sentinel-2 de nueva generación. Para Europa, es una pieza de soberanía de datos climáticos: el nivel del mar y el hielo son variables que hoy Europa mide con medios propios con capacidades propias."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Maquette_Sentinel_3_DSC_0047.JPG/1280px-Maquette_Sentinel_3_DSC_0047.JPG",
+          "alt": "Maqueta del satélite Sentinel-3 expuesta en el Salón de Le Bourget, con su panel solar desplegado",
+          "credit": "Pline · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "Maqueta del Sentinel-3 actual en el Salón de Le Bourget (2015). Su sucesor separará los altímetros de los instrumentos ópticos."
+        },
+        "link": {
+          "url": "https://newspaceeconomy.ca/2026/11/04/ohb-wins-554-million-sentinel-3-next-generation-topography-contract/",
+          "source": "New Space Economy"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Sentinel-3 NG Topography, en cifras",
+          "items": [
+            {
+              "value": "554 M€",
+              "label": "contrato de la ESA con OHB como contratista principal"
+            },
+            {
+              "value": "1 + 1",
+              "label": "satélites: uno contratado y opción a un segundo idéntico"
+            },
+            {
+              "value": "~300 m",
+              "label": "resolución a lo largo de la traza tras el procesado"
+            },
+            {
+              "value": "Ku + C",
+              "label": "bandas de los altímetros radar"
+            }
+          ],
+          "footnote": "Fuente: New Space Economy (4 nov 2026), con datos de la ESA."
+        },
+        {
+          "type": "analysis",
+          "title": "Copernicus, la parte que Europa sí controla",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En observación de la Tierra, Europa tiene lo que le falta en conectividad o en transporte lunar: un programa institucional estable, financiado por la UE y ejecutado por la ESA, que actúa como cliente ancla de su industria. Es el mismo modelo que se discute para IRIS² y que no existe para la Luna."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Mientras el nuevo Congreso de EE.UU. se prepara para revisar los presupuestos de la NASA —incluidos los de ciencias de la Tierra, que la Casa Blanca quería recortar—, Europa refuerza una capacidad propia."
+            }
+          ],
+          "key": "Para tu TFG, Copernicus es el contraejemplo útil: demuestra que la autonomía estratégica europea en el espacio funciona cuando hay un comprador público. Puedes contrastarlo con la dependencia de Starlink en comunicaciones y con la falta de un programa lunar comprador."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Lanzadores · España, 4 nov",
+              "title": "PLD Space prueba en Utah el sistema de autodestrucción del MIURA 5",
+              "text": "La ilicitana PLD Space completó el 30 de octubre, en las instalaciones de Delta-V Energetics en Utah (EE.UU.), la prueba con explosivos del sistema de terminación de vuelo del MIURA 5; eligió EE.UU. por la complejidad administrativa de manejar cargas explosivas en Europa. La empresa dice que aporta la evidencia necesaria para una «aprobación regulatoria importante». El primer vuelo, ya retrasado al primer semestre de 2027, saldrá de Kourou.",
+              "link": {
+                "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test",
+                "source": "European Spaceflight"
+              }
+            },
+            {
+              "kicker": "EE.UU. · NASA, 4 nov",
+              "title": "El nuevo Congreso mira a la NASA y a SpaceX",
+              "text": "Con los demócratas al frente de ambas cámaras desde enero, el sector espacial estadounidense se pregunta cómo abordará el nuevo Congreso los presupuestos de la NASA y la relación de la agencia con SpaceX, según SpaceNews. El punto de partida: la Casa Blanca pidió 18.800 millones para 2027, un 23 % menos que lo aprobado para 2026, con un recorte del 47 % a ciencia que el Comité de Asignaciones de la Cámara ya había rechazado.",
+              "link": {
+                "url": "https://spacenews.com/new-congress-to-examine-nasa-budgets-and-programs",
+                "source": "SpaceNews"
+              }
+            },
+            {
+              "kicker": "Gobernanza · Brasilia, 4–5 nov",
+              "title": "Segundo día de la cumbre de sostenibilidad espacial",
+              "text": "La 8.ª Cumbre para la Sostenibilidad Espacial, la primera en América Latina y el Caribe, cierra hoy en Brasilia con la Secure World Foundation, la Agencia Espacial Brasileña y el Gobierno del Distrito Federal como anfitriones. La ESA presenta los avances de su Carta Cero Basura y ofrece a las organizaciones firmarla allí; la carta, no vinculante, busca un futuro sin basura espacial en 2030 y suma más de 250 firmantes de 35 países. Aún no se han publicado los nuevos firmantes.",
+              "link": {
+                "url": "https://www.swfsummit.org/",
+                "source": "Summit for Space Sustainability"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "231.500 M€",
+            "text": "Lo que la UE calcula que ha aportado a Ucrania desde el inicio de la invasión rusa, según la Comisión Europea (4 nov 2026)."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "Hoy, 17.00",
+                "what": "Casa Blanca · Melania Trump con rusos y ucranianos sobre la tregua de Oleshky"
+              },
+              {
+                "when": "10–11 nov",
+                "what": "Abu Dabi · Negociaciones EE.UU.–Rusia–Ucrania"
+              },
+              {
+                "when": "13 nov",
+                "what": "España · Empieza la campaña del 29-N"
+              },
+              {
+                "when": "21 nov",
+                "what": "ESA–JAXA · BepiColombo entra en órbita de Mercurio"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda el paquete de ampliación: el marco de «integración gradual» es un buen argumento sobre cómo la UE podría asociar a Ucrania y Moldavia a sus programas espaciales —Galileo, Copernicus, IRIS²— antes de la adhesión, igual que hace con Noruega o Suiza vía la ESA."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "El contrato de OHB abre una cadena de subcontratos en el consorcio del S3NG-T: radar, segmento terrestre y procesado de datos. Y el retraso del MIURA 5 a 2027 deja a PLD Space buscando clientes de lanzamiento para sus primeras misiones comerciales: dos frentes para desarrollo de negocio."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Comisión Europea (4 nov), Eunews (4 nov), NBC News/Reuters (4 nov), Casa Blanca (nov), Gulf News (4 y 5 nov), CBS News (4 nov), Cronkite News (4 nov), Público (4 nov), Electográfica/Sondaxe (1 nov), El Nacional (4 nov), VilaWeb (4 nov), RAB (4 nov), New Space Economy (4 nov), European Spaceflight (4 nov), SpaceNews (4 nov), Summit for Space Sustainability. El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 05.11.2026."
+}
