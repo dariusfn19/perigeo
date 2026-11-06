@@ -1,0 +1,397 @@
+{
+  "number": 9,
+  "week": 45,
+  "date": "2026-11-06",
+  "dateLabel": "Viernes, 6 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Melania Trump sienta en la Casa Blanca a enviados de Putin y de Zelenski y pide convertir la tregua de Oleshky en algo «más duradero», a cuatro días de que Abu Dabi acoja una mesa a tres en la que el Kremlin no quiere a Europa.",
+      "Irán manda a Washington, vía Catar, una propuesta nuclear condicionada a siete exigencias, mientras el miedo a que el nuevo Congreso demócrata frene la IA y los centros de datos hunde el Nasdaq un 5,5 % y arrastra a SpaceX.",
+      "A 23 días del 29-N, la UCO detiene a seis personas en una nueva pieza del caso Koldo y pide contratos a Adif; en Reus, el Sindicat d’Habitatge señala al PSC antes de la huelga por la vivienda del 11 de noviembre."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "EE.UU. · Rusia · Ucrania · 5 nov",
+        "title": "Una primera dama entre dos países en guerra",
+        "dek": "Melania Trump reunió en la Casa Blanca a Kiril Dmítriev y Yana Lantrátova, por Rusia, y a David Arajamia y Dmitró Lubinets, por Ucrania, para celebrar la tregua de Oleshky y pedir que sea el principio de algo más. La negociación de verdad llega el martes en Abu Dabi.",
+        "body": [
+          "La Casa Blanca lo presentó como un hecho sin precedentes: por primera vez, una primera dama reunía personalmente a representantes de dos naciones en guerra. A la cita del jueves acudieron el enviado especial de Putin, <b style=\"font-weight: 600;\">Kiril Dmítriev</b>, y la comisionada rusa de derechos humanos, Yana Lantrátova; por Kyiv, el líder del grupo parlamentario de Servidor del Pueblo, David Arajamia, y el defensor del pueblo, Dmitró Lubinets. Melania Trump aseguró que su papel de «intermediaria exclusiva» quedó fijado en acuerdos escritos firmados por ambos países y que participó en todo, del desminado a las rutas de evacuación. Los ucranianos le entregaron la Orden de la Princesa Olga, de primera clase, y ella les dio cartas para Putin y para Zelenski.",
+          "La tregua de seis días en Oleshky, ciudad ocupada de la región de Jersón, permitió entrar ayuda y evacuar a casi 800 personas de los unos 2.000 civiles que seguían allí. Ha sido la tregua de varios días más larga desde 2022, aunque el papa León XIV también presionó a ambas partes para permitirla. Expiró el domingo sin prórroga, y al día siguiente un bombardeo ruso sobre un punto de reparto de ayuda en Komishuvaja mató al menos a 40 personas, según Zelenski. El gesto de Washington es el preludio de Abu Dabi, donde el 10 y 11 de noviembre Steve Witkoff y Jared Kushner mediarán entre rusos y ucranianos sobre «arreglos de seguridad de posguerra, desescalada y asuntos humanitarios». Moscú enviará de nuevo a <b style=\"font-weight: 600;\">Vladímir Medinski</b>, el historiador que encabezó las conversaciones de Estambul de 2025, que solo produjeron canjes de prisioneros. El portavoz del Kremlin, Dmitri Peskov, ha descartado que Europa tenga asiento en la mesa."
+        ],
+        "quote": {
+          "text": "Juntos podemos crear algo más duradero que un alto el fuego temporal.",
+          "author": "Melania Trump · Primera dama de EE.UU., 5 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/North_Fa%C3%A7ade_White_House.JPG/1280px-North_Fa%C3%A7ade_White_House.JPG",
+          "alt": "Fachada norte de la Casa Blanca, en Washington, con su pórtico de columnas blancas",
+          "credit": "Nishkid64 · Wikimedia Commons · Dominio público",
+          "caption": "La fachada norte de la Casa Blanca, escenario del encuentro del jueves entre enviados rusos y ucranianos."
+        },
+        "link": {
+          "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials",
+          "source": "Al Jazeera"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "El jueves negro de la IA",
+          "note": "Caída en bolsa el 5 de noviembre · en %",
+          "bars": [
+            {
+              "label": "Nvidia",
+              "value": 9.2,
+              "display": "−9,2 %",
+              "highlight": true
+            },
+            {
+              "label": "SpaceX",
+              "value": 9.0,
+              "display": "≈ −9 %",
+              "highlight": true
+            },
+            {
+              "label": "Nasdaq",
+              "value": 5.5,
+              "display": "−5,5 %"
+            },
+            {
+              "label": "S&P 500",
+              "value": 4.4,
+              "display": "−4,4 %"
+            },
+            {
+              "label": "Dow Jones",
+              "value": 3.4,
+              "display": "−3,4 %"
+            }
+          ],
+          "footnote": "Fuentes: CBS News (índices y Nvidia, cierre del 5 nov 2026) y 24/7 Wall St. (SpaceX, cotización durante la sesión). NPR cifra en más de 2 billones de dólares el valor bursátil perdido."
+        },
+        {
+          "type": "analysis",
+          "title": "Abu Dabi, una mesa sin Europa",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Washington ha montado dos carriles: el gesto humanitario de la primera dama y la negociación de seguridad de Witkoff y Kushner. En ninguno de los dos está Europa. Kaja Kallas respondió desde Portugal que la UE debe hablar con una sola voz y que «hasta ahora Rusia solo ha puesto sobre la mesa sus exigencias máximas», mientras la presión ha recaído sobre Ucrania. Los ministros de Exteriores europeos ya han fijado un punto de partida común para cualquier negociación."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Quién encabeza la delegación ucraniana, aún sin confirmar; si de Abu Dabi sale una tregua más amplia o, como en Estambul, solo canjes; y si los demócratas, que controlarán el Congreso desde enero, condicionan la línea de Trump. Kallas les ha pedido mantener el apoyo a Kyiv y aumentar la presión sobre Moscú."
+            }
+          ],
+          "key": "Para tu TFG, el patrón es útil: cuando las garantías de seguridad se negocian entre Washington y Moscú, Europa queda como pagadora. Es el mismo dilema que en el espacio: sin capacidades propias —lanzadores, IRIS², inteligencia satelital— no hay asiento en la mesa."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · Diplomacia, 5 nov",
+              "title": "Una propuesta nuclear con siete condiciones",
+              "text": "Irán ha enviado a EE.UU., a través de Catar, una propuesta nuclear que solo se discutiría después de que Washington cumpla siete exigencias, según dijo a Reuters un alto cargo iraní que pidió el anonimato; EE.UU. la estaría estudiando. Entre esas exigencias figuran el levantamiento de sanciones, la liberación de activos congelados y reparaciones de guerra. Mohsen Rezaei, alto responsable de seguridad iraní, lo resumió durante una visita a Rusia: «Mientras no cumplan nuestras siete condiciones, no abriremos el estrecho de Ormuz ni negociaremos». Washington insiste en que el programa nuclear debe estar en la primera ronda. Trump, preguntado por la propuesta: «No van a tener un arma nuclear». La Guardia Revolucionaria asegura haber derribado un quinto dron de reconocimiento estadounidense, sin confirmación independiente.",
+              "link": {
+                "url": "https://www.jpost.com/middle-east/article-914025",
+                "source": "The Jerusalem Post (Reuters)"
+              }
+            },
+            {
+              "kicker": "Mercados · EE.UU. y Taiwán, 5–6 nov",
+              "title": "El miedo a un freno a la IA borra 2 billones",
+              "text": "Un día después de que el Dow firmara su mayor subida del año, Wall Street se desplomó el jueves: el Nasdaq cayó un 5,5 % y entró en corrección; el S&P 500, un 4,4 %, y el Dow, 1.833 puntos. Según CBS y NPR, los inversores temen que el Congreso demócrata y los nuevos gobiernos estatales regulen la IA y frenen la construcción de centros de datos, muy impopulares entre los votantes. Nvidia perdió un 9,2 %. La onda llegó a Asia: el Gobierno de Taiwán ordenó a su regulador financiero «estabilizar» la bolsa tras caídas de hasta el 9,8 % en TSMC, y el índice TAIEX cerró con un descenso del 4,51 %, según Taipei Times. Para Capital Economics, el susto refuerza la idea de que el auge bursátil de la IA está «en sus últimas entradas».",
+              "link": {
+                "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+                "source": "CBS News"
+              }
+            },
+            {
+              "kicker": "UE · Ucrania, 5 nov",
+              "title": "Kallas: «No debemos hablar con voces distintas»",
+              "text": "La Alta Representante, Kaja Kallas, se alineó con Giorgia Meloni en una rueda de prensa en Portugal: «Estoy de acuerdo con la primera ministra Meloni en que no debemos hablar con voces distintas». Según Kallas, las cuestiones que plantea Rusia exigen también una decisión europea, y solo un frente unido hará que la influencia de la UE «se tome en serio». Añadió que una paz justa implica no solo el fin del conflicto, sino «la garantía de que la guerra no pueda volver a estallar». Es la respuesta europea a una negociación en la que Moscú y Washington han decidido prescindir de Bruselas.",
+              "link": {
+                "url": "https://uk.lapresse.it/world-en/2026/11/05/ukraine-kallas-i-agree-with-meloni-we-shouldnt-speak-with-different-voices",
+                "source": "LaPresse"
+              }
+            },
+            {
+              "kicker": "Ucrania · Abu Dabi, 10–11 nov",
+              "title": "Medinski repite como jefe negociador ruso",
+              "text": "Peskov confirmó a RIA Nóvosti que Vladímir Medinski, exministro de Cultura y asesor de Putin, volverá a encabezar la delegación rusa. Kyiv lo acusó de amenazar a sus negociadores en Estambul en 2025, y según el Instituto para el Estudio de la Guerra su elección indica que Moscú no tiene prisa por acabar la guerra. Witkoff ha fijado la agenda: arreglos de seguridad de posguerra, desescalada, asuntos humanitarios y «próximos pasos hacia la paz». Finlandia y Noruega han ejercido de mediadores en llamadas recientes con el Kremlin; fuentes europeas citadas por ANSA admiten que «no se puede resolver con conversaciones directas con Putin».",
+              "link": {
+                "url": "https://www.kyivpost.com/analysis/89010",
+                "source": "Kyiv Post"
+              }
+            },
+            {
+              "kicker": "Líbano · Israel, 6 nov",
+              "title": "El sur del Líbano hace las maletas",
+              "text": "En el sur del Líbano crece el miedo a una tercera ofensiva israelí desde 2024. Vecinos de zonas castigadas en marzo preparan bolsas, medicinas y comida, según Al Jazeera. Desde octubre de 2023, Israel ha matado a unas 9.000 personas en el Líbano, según el Ministerio de Sanidad libanés, y ocupa hasta 10 kilómetros de territorio tras la llamada «Línea Amarilla», donde sigue destruyendo pueblos. La tregua de abril y el acuerdo marco de junio, mediado por EE.UU. —«zonas piloto» de las que se retiraría Israel para que el ejército libanés desarme a Hezbolá—, han reducido los combates, pero no los ataques.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "China · Japón, 6 nov",
+              "title": "Un año congelados por Taiwán",
+              "text": "Se cumple un año desde que la primera ministra japonesa, Sanae Takaichi, dijo en la Dieta que un bloqueo naval chino de Taiwán podría ser una «situación que amenaza la supervivencia» de Japón, la única condición legal para que sus fuerzas ejerzan la autodefensa colectiva. Según Nikkei, Pekín no ha aflojado: en enero endureció los controles a la exportación a Japón de productos de doble uso, incluidas tierras raras; en mayo detuvo en Dalian a dos empleados de Fuji Electric, y desalienta el turismo hacia Japón. Tokio tampoco puede apoyarse del todo en Trump, que busca un acuerdo directo con Pekín. No está claro si habrá cumbre bilateral en el foro APEC de Shenzhen, el 18 de noviembre.",
+              "link": {
+                "url": "https://en.sedaily.com/international/2026/11/06/a-year-after-takaichis-taiwan-remark-china-japan-ties-stay",
+                "source": "Seoul Economic Daily (Nikkei)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "23",
+        "statLabel": "días hasta las elecciones generales del 29 de noviembre; la campaña empieza el 13",
+        "title": "La UCO vuelve a Transportes",
+        "body": [
+          "La Unidad Central Operativa de la Guardia Civil abrió el jueves un nuevo frente del caso Koldo: seis detenidos en Valencia, Córdoba, Madrid y Sevilla dentro de una <b style=\"font-weight: 600;\">pieza separada y secreta</b> que instruye el juez de la Audiencia Nacional Ismael Moreno sobre el presunto amaño de adjudicaciones en el Ministerio de Transportes en la etapa de José Luis Ábalos y el blanqueo posterior de las comisiones. Entre los arrestados están Andrea de la Torre, pareja del exministro, detenida durante el registro de la casa de Ábalos en Valencia, y el empresario Cristian Corvillo, al que el PP sitúa como antiguo chófer de Sánchez. Los seis se negaron a declarar y quedaron en libertad por la tarde, a la espera de que el juez los cite como investigados.",
+          "Los agentes se presentaron también en la sede de Adif, que entregó sin registro la documentación de licitaciones de 2018, adjudicadas en 2019, cuando la presidía Isabel Pardo de Vera, ya imputada. Y pidieron papeles a la constructora Azvi, que Víctor de Aldama señaló como pagadora de «mordidas» y que llegó a contratar a Koldo García como consultor. La operación coincide con un audio de Koldo desde prisión a la Cadena SER y cae sobre un ministerio que, desde esta semana, dirige en funciones Carlos Cuerpo tras la dimisión de Óscar Puente por el accidente de Urda."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Audiencia_Nacional.jpg/1280px-Audiencia_Nacional.jpg",
+          "alt": "Sede de la Audiencia Nacional en Madrid, edificio de fachada clara con el escudo de España",
+          "credit": "Midir · Wikimedia Commons · Dominio público",
+          "caption": "La Audiencia Nacional, en Madrid, donde el juez Ismael Moreno instruye la nueva pieza del caso Koldo."
+        },
+        "link": {
+          "url": "https://www.eldiario.es/politica/uco-despliega-operacion-secreto-caso-koldo-investiga-audiencia-nacional_1_13639620.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "La corrupción entra en campaña",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El PSOE afronta el 29-N con tres frentes en Transportes: la tragedia de Urda, la dimisión de Puente y ahora una operación judicial sobre contratos de la época de Ábalos. Los sondeos publicados antes del accidente ya daban a PP y Vox la suma de una mayoría. La estrategia socialista pasa por convertir el audio de Koldo, que acusa al PP de ofrecerle dinero, en un contraataque; Ferraz estudia querellarse."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Cuándo cita el juez Moreno a los seis investigados, si la pieza alcanza a altos cargos en activo y si los primeros sondeos posteriores a la dimisión de Puente recogen el efecto. El arranque oficial de la campaña es el 13 de noviembre."
+            }
+          ],
+          "key": "Para ti, Transportes es el ministerio del que dependen el Corredor Mediterráneo y el traspaso de Rodalies. Con un ministro en funciones y la UCO pidiendo papeles en Adif, no esperes decisiones de inversión en el Camp hasta que haya nuevo Gobierno."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Caso Koldo · Prisión, 5 nov",
+              "title": "Koldo acusa al abogado del PP de prometerle un millón",
+              "text": "Koldo García, condenado por el Supremo a 19 años, aseguró en un audio enviado desde la cárcel a la Cadena SER que pactó con Alberto Durán, abogado del PP, que este le pagaría la defensa y un millón de euros a cambio de declaraciones contra el Gobierno. Son afirmaciones de Koldo; el PP lo niega. Félix Bolaños exigió explicaciones a Feijóo y el PSOE estudia acciones legales: «Es muy grave influir en una declaración para derrocar al Gobierno», recoge elDiario.es.",
+              "link": {
+                "url": "https://www.eltriangle.eu/es/2026/11/05/koldo-garcia-asegura-que-pacto-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-realizar-declaraciones-contra-sanchez/",
+                "source": "El Triangle"
+              }
+            },
+            {
+              "kicker": "Diplomacia · Madrid, 4–5 nov",
+              "title": "Milei, frío con Sánchez en la Cumbre Iberoamericana",
+              "text": "La XXX Cumbre Iberoamericana se cerró en Madrid con Felipe VI presentándola como un «contrapunto» a un mundo de bloques. Javier Milei faltó a la inauguración en el Teatro Real y a la cena de gala, pero acudió al plenario: saludó con calidez al Rey y con un apretón rápido a Sánchez, y después equiparó socialismo y fascismo. La Moncloa respondió que el insulto no forma parte de su forma de hacer política. Lula, Sheinbaum, Delcy Rodríguez y Bukele no viajaron y mandaron representantes.",
+              "link": {
+                "url": "https://www.lanacion.com.ar/politica/milei-saludo-a-sanchez-en-la-cumbre-iberoamericana-de-madrid-y-luego-ataco-al-socialismo-nid05112026/",
+                "source": "La Nación"
+              }
+            },
+            {
+              "kicker": "Parlament · Moción, 5 nov",
+              "title": "El Parlament no reprocha a Illa abandonar a Catalunya",
+              "text": "El pleno rechazó el punto de una moción de Junts que acusaba al Govern de haber renunciado a defender «amb la fermesa necessària» los intereses de Catalunya: votaron en contra PSC, PP y Vox; a favor, Junts, ERC y la CUP, y se abstuvieron Comuns y Aliança Catalana. También cayó, con los Comuns en contra, el punto que acusaba al Gobierno de Sánchez de «cronificar» los «greuges històrics». El mapa de votos anticipa el de la campaña: ERC se distancia de Illa, pero sin romper.",
+              "link": {
+                "url": "https://naciodigital.cat/politica/el-parlament-evita-criticar-illa-per-no-defensar-els-interessos-de-catalunya.html",
+                "source": "Nació Digital"
+              }
+            },
+            {
+              "kicker": "Reus · Vivienda, 4 nov",
+              "title": "El Sindicat d’Habitatge señala al PSC antes del 11-N",
+              "text": "El Sindicat d’Habitatge de Reus se concentró ante la sede del PSC, en la plaça del Castell, en una acción coordinada con Tarragona, Barcelona, Sabadell, Lleida, Granollers, Mataró y Manresa, a una semana de la huelga general por la vivienda del 11 de noviembre. «Són ells els qui estan governant, són ells qui han creat aquesta crisi», dijo su portavoz. La Confederació Sindical d’Habitatge pide una mesa de negociación con el Govern y cuatro medidas: gestión pública de los cerca de 13.000 pisos de la Sareb en Catalunya, eliminar los ingresos mínimos de acceso —critican el umbral de 16.800 euros de Casa 47—, más presupuesto para alquileres sociales y ampliar el parque público expropiando a grandes tenedores.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/reus/274914/sindicat-d-habitatge-concentra-davant-seu-psc-reus-son-ells-qui-han-creat-aquesta-crisi.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Tarragona · Turismo, 6 nov",
+              "title": "Menos pisos turísticos en la Part Alta",
+              "text": "Un informe de BIM Consultors encargado por el Ayuntamiento de Tarragona propone reducir las viviendas de uso turístico en la Part Alta y frenar su expansión en el Eixample y la Part Baixa. Servirá de base al Pla Especial, cuya redacción el gobierno municipal quiere licitar en el primer trimestre de 2027, antes de que acabe la moratoria de la Generalitat a finales de 2028. El concejal de Urbanismo, Nacho García Latorre, admite que en la Part Alta «incluso se plantea la posibilidad de decrecer»; el consistorio lleva año y medio revisando las licencias una a una.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tarragona_-_Part_Alta.jpg/1280px-Tarragona_-_Part_Alta.jpg",
+                "alt": "Calle estrecha del casco antiguo de Tarragona, la Part Alta, con edificios de piedra",
+                "credit": "Jorge Franganillo · Wikimedia Commons · CC BY 4.0",
+                "caption": "La Part Alta de Tarragona, donde el Ayuntamiento estudia reducir los pisos turísticos."
+              },
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275014/tarragona-plantea-reducir-pisos-turisticos-part-alta-limitar-expansion-eixample.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "NewSpace · Mercados · 5 nov",
+        "title": "SpaceX paga en bolsa el vuelco electoral",
+        "dek": "La acción de SpaceX cayó en torno a un 9 % el jueves: a la venta masiva de valores de IA se sumó el cambio político en Texas, donde los nuevos gobernador y fiscal general prometen frenar los centros de datos e investigar las ayudas a Starlink.",
+        "body": [
+          "SpaceX, que cotiza en el Nasdaq desde su salida a bolsa en junio, cayó el jueves alrededor de un 9 %, hasta el entorno de 123 dólares, en la misma sesión en que Tesla perdía otro 9 % y Rocket Lab y AST SpaceMobile se dejaban un 13 %, según 24/7 Wall St. Más allá del pánico general por la IA, el golpe tiene un origen concreto: Texas. Elon Musk invirtió casi 500 millones de dólares en estas elecciones, la mayoría para que Ken Paxton ganara el Senado, según CNN. Perdió, y además los demócratas ganaron el Gobierno estatal y la fiscalía. La gobernadora electa, Gina Hinojosa, ha prometido una <b style=\"font-weight: 600;\">moratoria a nuevos centros de datos</b>, y el fiscal general electo, Nathan Johnson, dijo en julio que investigaría si Starlink recibió de forma indebida subvenciones para la banda ancha rural.",
+          "El riesgo no es menor para la nueva SpaceX, cuya división de soluciones e infraestructura de IA ingresó 7.600 millones de dólares en el tercer trimestre y es ya su mayor negocio. A eso se suma Washington: los analistas citan la posibilidad de que comités del Congreso controlados por demócratas revisen los contratos de la empresa con la NASA y el Pentágono, y de un examen antimonopolio más duro de una eventual fusión con Tesla. Musk respondió en X que los centros de datos en el espacio resultan atractivos."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Falcon_9_Starlink_4-43_Launch_%288281484%29.jpg/1280px-Falcon_9_Starlink_4-43_Launch_%288281484%29.jpg",
+          "alt": "Cohete Falcon 9 despegando de noche con una misión de satélites Starlink, con una estela de fuego",
+          "credit": "U.S. Space Force / Joshua Conti · Dominio público",
+          "caption": "Lanzamiento de un Falcon 9 con satélites Starlink desde Cabo Cañaveral."
+        },
+        "link": {
+          "url": "https://247wallst.com/investing/2026/11/05/spacex-and-tesla-sink-9-as-texas-election-fallout-threatens-musks-data-center-plans-rocket-lab-and-ast-spacemobile-tumble-13/",
+          "source": "24/7 Wall St."
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La resaca electoral de Musk, en cifras",
+          "items": [
+            {
+              "value": "≈ −9 %",
+              "label": "caída de SpaceX en la sesión del 5 de noviembre"
+            },
+            {
+              "value": "−13 %",
+              "label": "Rocket Lab y AST SpaceMobile, arrastradas por el sector"
+            },
+            {
+              "value": "7.600 M$",
+              "label": "ingresos de la división de IA de SpaceX en el tercer trimestre"
+            },
+            {
+              "value": "≈ 500 M$",
+              "label": "lo que Musk invirtió en las elecciones de medio mandato"
+            }
+          ],
+          "footnote": "Fuentes: 24/7 Wall St. y CNN (5 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Cuando el proveedor depende de la política",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Europa ha justificado IRIS² y sus lanzadores propios por el riesgo de depender de un proveedor estadounidense sujeto a decisiones políticas ajenas. El jueves se vio la otra cara: SpaceX también es vulnerable a la política interna de EE.UU., de Texas al Congreso."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Un Congreso demócrata que revise los contratos de SpaceX con la NASA y Defensa podría frenar o encarecer programas que hoy dependen de ella, de Starship a Starshield. Para los clientes europeos que usan Starlink, sobre todo gobiernos, la incertidumbre regulatoria se suma a la geopolítica."
+            }
+          ],
+          "key": "Para tu TFG, este es un argumento de doble filo: la dependencia de capacidades orbitales estadounidenses no solo es un riesgo por lo que decida la Casa Blanca, sino también por la volatilidad de un único proveedor privado y cotizado. Cítalo al defender IRIS² como seguro, no como sustituto."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Lanzadores · Italia, 6 nov",
+              "title": "Avio recorta su demostrador reutilizable",
+              "text": "Avio ha reducido el alcance y la financiación de su programa STS, que debía desarrollar dos demostradores para validar sus motores de metano MR10 y MR60 y tecnologías para un futuro lanzador reutilizable. La empresa reconoce dificultades técnicas «más complejas de lo previsto» y que la ESA, de acuerdo con ella, modificó el contrato. El programa recibió 217,5 millones de euros en 2022, parte del Plan de Recuperación italiano; según OpenPNRR, se han gastado unos 101,1 millones, el 46,47 %. El primer demostrador, de una etapa, está integrado y debería terminar sus pruebas en tierra a finales de 2026 antes de volar desde el polígono militar de Salto di Quirra, en Cerdeña.",
+              "link": {
+                "url": "https://europeanspaceflight.com/avio-scales-back-demonstrator-programme-amid-technical-challenges",
+                "source": "European Spaceflight"
+              }
+            },
+            {
+              "kicker": "NASA · Reentrada, 4 nov",
+              "title": "Adiós a Swift tras 22 años cazando estallidos",
+              "text": "El observatorio Neil Gehrels Swift de la NASA reentró en la atmósfera el 4 de noviembre a las 12.39 UTC sobre el sudeste asiático, según Space-Track; desde Malasia se vieron restos incandescentes compatibles. Lanzado en 2004 para una misión de dos años, Swift revolucionó el estudio de los estallidos de rayos gamma. La actividad solar del ciclo 25 aceleró su caída, y el intento de rescate de Katalyst Space con la nave LINK falló en septiembre por una avería eléctrica. Es un caso de estudio para los servicios de mantenimiento en órbita, un nicho donde Europa también compite.",
+              "link": {
+                "url": "https://skyandtelescope.org/astronomy-news/swift-observatory-ends-reenters-the-earths-atmosphere/",
+                "source": "Sky & Telescope"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "2 billones $",
+            "text": "El valor bursátil que, según NPR, se esfumó el jueves por el temor a que el Congreso demócrata frene la IA y los centros de datos."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "10–11 nov",
+                "what": "Abu Dabi · Negociaciones EE.UU.–Rusia–Ucrania"
+              },
+              {
+                "when": "11 nov",
+                "what": "Catalunya · Huelga general por la vivienda"
+              },
+              {
+                "when": "13 nov",
+                "what": "España · Empieza la campaña del 29-N"
+              },
+              {
+                "when": "18 nov",
+                "what": "Shenzhen · Cumbre de líderes de APEC"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda la caída de SpaceX junto a las promesas de Texas: es una prueba documentada de que la dependencia de Starlink tiene también un riesgo regulatorio y bursátil en EE.UU., no solo geopolítico. Encaja en el capítulo sobre IRIS² como seguro de soberanía."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Si las acciones del NewSpace estadounidense caen y Washington revisa contratos, los clientes institucionales europeos tienen más argumentos para diversificar proveedores. Es buen momento para acercarse a operadores y agencias con soluciones europeas de conectividad, observación y servicios en órbita."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera (5 y 6 nov), The Jerusalem Post/Reuters (5 nov), Dainik Jagran (6 nov), Kyiv Post (nov), LaPresse (5 nov), Il Sole 24 Ore (nov), CBS News (5–6 nov), NPR (5 nov), Taipei Times (6 nov), Seoul Economic Daily/Nikkei (6 nov), elDiario.es (5 nov), El Triangle (5 nov), La Nación (5 nov), Infobae (4–5 nov), Nació Digital (5 nov), Diari de Tarragona (4 y 6 nov), 24/7 Wall St. (5 nov), CNN (5 nov), European Spaceflight (6 nov), Sky & Telescope (nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 06.11.2026."
+}
