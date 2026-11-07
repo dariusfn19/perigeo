@@ -1,0 +1,310 @@
+{
+  "number": 10,
+  "week": 45,
+  "date": "2026-11-07",
+  "dateLabel": "Sábado, 7 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "A tres días de Abu Dabi, Trump dice estar «muy cerca» de un acuerdo tras recibir al enviado de Putin, mientras Kallas, Sikorski y Sybiha avisan desde Varsovia de que Europa no aplicará nada que se pacte sin ella; esta madrugada, misiles balísticos sobre las afueras de Kyiv.",
+      "El Senado de Paraguay destituye por 44 votos a Santiago Peña, que acaba detenido por el hundimiento del banco Ueno; en Washington, Trump cesa a su jefa de Gabinete y asciende a Stephen Miller.",
+      "A 22 días del 29-N, Sánchez reanuda la campaña en València y la policía detiene a la cúpula de Núcleo Nacional; en el espacio, China fija su calendario lunar y New Glenn no volverá a volar hasta enero."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "UE · Ucrania · Varsovia, 6 nov",
+        "title": "Europa pide silla antes de que se sirva la mesa",
+        "dek": "Kaja Kallas, Radosław Sikorski y Andrí Sybiha cierran filas en Varsovia: la UE no aplicará ningún acuerdo de paz del que no forme parte. El mismo día, Trump recibía al enviado de Putin y hablaba de un pacto «grande» que implicaría a «toda Europa».",
+        "body": [
+          "La rueda de prensa llegó tras la reunión ministerial del Consejo de Estados del Mar Báltico, en la capital polaca, y tuvo un destinatario evidente: el Kremlin, que ha descartado que Europa se siente en la mesa trilateral de Abu Dabi del 10 y 11 de noviembre, y también Washington. La alta representante de la UE fue directa: de las garantías de seguridad a las sanciones, la reconstrucción o la adhesión de Ucrania, «no hay forma de sortear a la Unión Europea». Kallas recordó que las decisiones sobre sanciones y sobre los activos rusos congelados son de los Veintisiete y añadió que esta semana Bruselas ha desembolsado otros <b style=\"font-weight: 600;\">4.360 millones de euros</b> del préstamo de apoyo a Kyiv. «No somos mediadores. Estamos firmemente del lado ucraniano», dijo. Sikorski fue más allá: un acuerdo sobre el futuro de Ucrania sin Europa «no solo sería imprudente; es imposible». Sybiha resumió la posición de Kyiv —«ninguna decisión sobre Ucrania sin Ucrania, ninguna sobre la seguridad de Europa sin Europa»— y enumeró sus prioridades para Abu Dabi: garantías de seguridad, desescalada en el mar Negro, una tregua energética, el regreso de los niños deportados e intercambios de prisioneros.",
+          "Al otro lado del Atlántico, el tono era distinto. Tras reunirse en el Despacho Oval con <b style=\"font-weight: 600;\">Kiril Dmítriev</b>, el enviado especial de Putin, Trump aseguró: «Creo que vamos a estar muy cerca de resolver lo de Rusia y Ucrania». Habló de un acuerdo que «implicará a más que Ucrania» y podría incluir a «toda Europa», sin dar detalles, y no recibió a la delegación ucraniana que estaba en Washington. Entre el 4 y el 5 de noviembre, en Bruselas, Ucrania discutió con EE.UU., Reino Unido, Francia, Alemania, la UE, el Banco Mundial y el fondo BlackRock la reconstrucción, la financiación de 2027 y las garantías de seguridad. Y la realidad del frente no acompaña: el balance del bombardeo ruso sobre un punto de reparto de ayuda en Komishuvaja (Zaporiyia) sube ya a <b style=\"font-weight: 600;\">50 muertos</b>, según el Servicio de Emergencias ucraniano, y este sábado misiles balísticos golpearon infraestructuras en las afueras de Kyiv, dañando dos edificios de viviendas y uno que alberga una guardería."
+        ],
+        "quote": {
+          "text": "Cualquier acuerdo del que no seamos parte, tampoco lo vamos a aplicar.",
+          "author": "Kaja Kallas · Alta representante de la UE, Varsovia, 6 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaja_Kallas_in_Italy_-_2025_-_P065502-14450.jpg/1280px-Kaja_Kallas_in_Italy_-_2025_-_P065502-14450.jpg",
+          "alt": "Kaja Kallas, alta representante de la UE para Asuntos Exteriores, durante una visita oficial a Italia en 2025",
+          "credit": "Marco Zeppetella / Unión Europea · Wikimedia Commons · CC BY 4.0",
+          "caption": "Kaja Kallas, en una imagen de archivo de 2025. En Varsovia advirtió que la UE no ejecutará un acuerdo pactado sin ella."
+        },
+        "link": {
+          "url": "https://www.kyivpost.com/post/89388",
+          "source": "Kyiv Post"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Ucrania, a tres días de Abu Dabi",
+          "items": [
+            { "value": "50", "label": "muertos en el bombardeo de Komishuvaja, según Emergencias de Ucrania" },
+            { "value": "4.360 M€", "label": "desembolsados por la UE esta semana con su préstamo de apoyo" },
+            { "value": "> 54.000", "label": "bajas rusas en octubre, según Kyiv (cifra no verificada de forma independiente)" },
+            { "value": "10–11 nov", "label": "ronda EE.UU.–Rusia–Ucrania en Abu Dabi, sin europeos" }
+          ],
+          "footnote": "Fuentes: Al Jazeera (7 nov 2026), Kyiv Post y The Nation (6–7 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Lo que Europa sí tiene en la mano",
+          "columns": [
+            { "label": "Contexto", "text": "Washington y Moscú negocian el marco; Europa paga buena parte de la factura. La UE no tiene asiento en Abu Dabi, pero controla tres piezas sin las que ningún acuerdo funciona: el levantamiento de sus sanciones, los activos rusos congelados en su territorio y la financiación de la reconstrucción y de la adhesión. Por eso el mensaje de Varsovia no es una queja, sino un aviso de veto práctico. La frase de Trump sobre un acuerdo que abarque «toda Europa» alimenta el temor a una arquitectura de seguridad continental negociada entre dos." },
+            { "label": "Qué vigilar", "text": "Primero, si en Abu Dabi aparece algún texto sobre sanciones o activos: sería la prueba de que se decide sobre competencias europeas sin Europa. Segundo, si la tregua energética que pide Kyiv sobrevive a la ofensiva invernal rusa contra la red eléctrica y los puentes del Dniéper, de la que avisó Zelenski. Tercero, si el formato de Bruselas —con BlackRock y el Banco Mundial— se convierte en el canal europeo para entrar en el proceso por la vía económica." }
+          ],
+          "key": "Para tu TFG, el caso es de manual: la autonomía estratégica europea se mide menos por sentarse a la mesa que por controlar los instrumentos —sanciones, dinero, normas— sin los que el acuerdo no se ejecuta. Es el mismo razonamiento que aplicarás a la gobernanza de los recursos lunares."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Kyiv, 7 nov",
+              "title": "Misiles balísticos antes de la cumbre",
+              "text": "Rusia atacó con misiles balísticos infraestructuras de las afueras de Kyiv en la madrugada del sábado. Los restos dañaron un edificio de cinco plantas en un distrito del oeste de la capital y la fachada de otro; hay dos heridos y un inmueble con una guardería afectado, según la administración militar. Zelenski había advertido la víspera de que Moscú preparaba nuevos golpes contra objetivos energéticos y puentes.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents", "source": "Al Jazeera" }
+            },
+            {
+              "kicker": "EE.UU. · Rusia, 5–6 nov",
+              "title": "Trump ve el acuerdo «muy cerca»",
+              "text": "Tras recibir en la Casa Blanca a Kiril Dmítriev el mismo día en que Melania Trump reunió a rusos y ucranianos para celebrar la tregua de Oleshky, el presidente aseguró que habrá «un gran acuerdo» que irá «más allá de Ucrania». No dio detalles. Trump ha anunciado muchas veces un pacto inminente, pero las conversaciones se han acelerado en las últimas semanas: Steve Witkoff y Jared Kushner mediarán en Abu Dabi, donde Moscú enviará de nuevo a Vladímir Medinski.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians", "source": "Al Jazeera" }
+            },
+            {
+              "kicker": "Irán · Catar, 6 nov",
+              "title": "Un puente de dos días hacia la mesa nuclear",
+              "text": "Irán estudia las propuestas del mediador catarí para acercar posiciones con EE.UU. sobre su programa nuclear. El esquema discutido es un «acuerdo puente» en dos días: Washington levantaría el bloqueo de los puertos iraníes y liberaría parte de los fondos congelados; Teherán dejaría entrar a los inspectores del OIEA en las instalaciones bombardeadas y, al día siguiente, reabriría Ormuz según un pacto con Omán que EE.UU. no ha aprobado. Irán sigue sin querer negociar hasta que se acepten sus condiciones, y Trump confirmó nuevos ataques «menores» contra sus defensas aéreas. El Brent, aun así, encara su mayor caída semanal, en torno al 17 %, según Reuters.",
+              "link": { "url": "https://www.business-standard.com/world-news/iran-reviewing-qatar-s-proposals-on-nuclear-deal-with-us-amid-war-126110700056_1.html", "source": "Business Standard / AP" }
+            },
+            {
+              "kicker": "EE.UU. · Casa Blanca, 6 nov",
+              "title": "Primera víctima de las legislativas: Susie Wiles",
+              "text": "Trump anunció en Truth Social el cese de su jefa de Gabinete, Susie Wiles, y en el mismo mensaje ascendió a <b style=\"font-weight: 600;\">Stephen Miller</b>, el ideólogo de la política migratoria más dura. Es la primera respuesta del presidente a la derrota del martes, que dio a los demócratas la Cámara y, según las proyecciones, el Senado. Lejos de moderarse, la Casa Blanca refuerza su ala más radical de cara a dos años de gobierno dividido. Para Europa, menos margen de previsibilidad en Washington justo cuando se negocia su seguridad.",
+              "link": { "url": "https://www.eldiario.es/internacional/trump-fulmina-jefa-gabinete-debacle-midterms-asciende-ultra-stephen-miller_1_13645625.html", "source": "elDiario.es" }
+            },
+            {
+              "kicker": "Paraguay · Asunción, 6 nov",
+              "title": "Peña, destituido y detenido por un banco",
+              "text": "El Senado paraguayo declaró culpable a Santiago Peña por «mal desempeño de funciones» con los votos de los 44 senadores presentes, la mayoría de su propio Partido Colorado, y poco después la policía lo detuvo en su residencia. El detonante: la intervención del banco digital Ueno, al que el presidente estuvo vinculado y que congeló los ahorros de unos tres millones de paraguayos —cerca de la mitad del país, según la acusación—. Peña había anunciado su renuncia en X el jueves, pero los diputados colorados rompieron el quórum para tramitarla. El vicepresidente <b style=\"font-weight: 600;\">Pedro Alliana</b> gobernará hasta agosto de 2028.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palacio_de_L%C3%B3pez_2023.jpg/1280px-Palacio_de_L%C3%B3pez_2023.jpg",
+                "alt": "Fachada del Palacio de los López, sede de la Presidencia de Paraguay, en Asunción",
+                "credit": "Oficina de la Presidencia de Taiwán · Wikimedia Commons · CC BY 2.0",
+                "caption": "El Palacio de los López, en Asunción, sede del Gobierno paraguayo."
+              },
+              "link": { "url": "https://www.eldiario.es/internacional/policia-paraguay-detiene-expresidente-santiago-pena-destitucion_1_13645965.html", "source": "elDiario.es / EFE" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "22",
+        "statLabel": "días hasta las elecciones generales del 29 de noviembre; la campaña arranca el viernes 13",
+        "title": "Sánchez vuelve a la calle; las encuestas siguen con el PP",
+        "body": [
+          "Pedro Sánchez reanudó el viernes la precampaña socialista en València, interrumpida por el accidente ferroviario de Urda. El mitin empezó con un minuto de silencio por las víctimas y giró en torno a una idea: convertir la dimisión de Óscar Puente en argumento. «La ejemplaridad que ha ejercido Óscar Puente jamás la practican PP y Vox», dijo el presidente en la tierra de Carlos Mazón, dos años después de la dana. El PSOE busca así movilizar a un electorado de izquierdas desencantado, mientras Feijóo prepara para este fin de semana sus primeros mítines tras la tragedia.",
+          "Las encuestas privadas mantienen al PP en cabeza, con estimaciones de entre el 28,3 % (More in Common) y el 32,9 % (NC Report). El PSOE oscila entre el 24,6 % de Sigma Dos y el 29,1 % de SW Demoscopia, y Vox se consolida como tercera fuerza en todas, entre el 18,2 % y el 20,8 %. El promedio simple de ocho encuestadoras da al PP <b style=\"font-weight: 600;\">4,4 puntos de ventaja</b>, aunque necesitaría a Vox para gobernar; algunos sondeos sitúan al bloque de la derecha cerca de los 200 escaños. El dato más favorable al Gobierno sigue siendo el barómetro de octubre del CIS, elaborado antes de Urda."
+        ],
+        "link": {
+          "url": "https://www.eldiario.es/politica/sanchez-reinicia-campana-ejemplaridad-puente-antitesis-politica-pp-vox_1_13644941.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Cuánto vota al PP, según quién pregunte",
+          "note": "Estimación de voto al PP · % · últimos sondeos publicados",
+          "bars": [
+            { "label": "NC Report", "value": 32.9, "display": "32,9 %", "highlight": true },
+            { "label": "SocioMétrica", "value": 32.0, "display": "32,0 %" },
+            { "label": "Target Point", "value": 31.8, "display": "31,8 %" },
+            { "label": "GAD3", "value": 31.4, "display": "31,4 %" },
+            { "label": "Sigma Dos", "value": 30.6, "display": "30,6 %" },
+            { "label": "More in Common", "value": 28.3, "display": "28,3 %", "highlight": true }
+          ],
+          "footnote": "Fuente: recopilación de Periodista Digital (6 nov 2026). More in Common deja al PSOE a 0,7 puntos (27,6 %); el CIS de octubre, anterior a Urda, daba ventaja al PSOE."
+        },
+        {
+          "type": "analysis",
+          "title": "Una campaña entre el luto y los juzgados",
+          "columns": [
+            { "label": "Contexto", "text": "La precampaña llega a su última semana marcada por tres frentes: el accidente de Urda y su derivada judicial —ahora también europea—, la corrupción en Transportes por el caso Koldo y el auge de Vox. El PSOE intenta convertir la dimisión de Puente en un contraste moral con PP y Vox; el PP confía en que la suma de la derecha le dé la Moncloa aunque las cifras de escaños bailen de un sondeo a otro." },
+            { "label": "Qué implica", "text": "La horquilla es amplia: del empate técnico de More in Common a los más de siete puntos de otras encuestas. Con el voto de Vox cerca del 20 %, la pregunta ya no es solo quién gana, sino con qué condiciones se forma gobierno. En Catalunya, la huelga general del 11 de noviembre por los salarios y la vivienda será la primera gran prueba de calle antes del arranque oficial de la campaña." }
+          ],
+          "key": "En Catalunya, donde Vox sube en las proyecciones, y en una circunscripción como Tarragona, el reparto del último escaño puede depender de pocas décimas. Fíjate en cómo cambian los mensajes sobre vivienda e infraestructuras en el Camp durante la primera semana de campaña."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Interior · Operación policial, 6 nov",
+              "title": "Cae la cúpula de Núcleo Nacional",
+              "text": "La Policía Nacional detuvo a 14 personas, entre ellas la dirección del grupo neonazi Núcleo Nacional, por asociación ilícita, tenencia de armas y delito de odio, en una operación ordenada por un juzgado de Gijón con arrestos en Madrid, Asturias, Valladolid, Guadalajara, Burgos, Pontevedra y Alicante. Entre los arrestados está <b style=\"font-weight: 600;\">Enrique Lemus</b>, que acababa de inscribir el partido Noviembre Nacional, con el que la organización quería concurrir a las elecciones. La investigación nació de unos altercados ante un colegio de Gijón.",
+              "link": { "url": "https://www.eldiario.es/politica/policia-detiene-decena-miembros-nucleo-nacional-distintos-puntos-espana_1_13643279.html", "source": "elDiario.es" }
+            },
+            {
+              "kicker": "Urda · Fiscalía Europea, 6 nov",
+              "title": "Bruselas también investiga la vía del AVE",
+              "text": "La Fiscalía Europea abrió una segunda investigación por un posible fraude con fondos comunitarios destinados a renovar la seguridad, la señalización y las comunicaciones de la línea de alta velocidad Madrid-Sevilla, donde se produjeron los accidentes de Urda y Adamuz. Agentes de la UCO requirieron documentación en Adif, en la Agencia Estatal de Seguridad Ferroviaria y en el Tribunal de Cuentas. El caso se suma a la pieza secreta del caso Koldo sobre adjudicaciones en Transportes.",
+              "link": { "url": "https://www.eldiario.es/politica/fiscalia-europea-abre-investigacion-fraude-alta-velocidad-accidente-urda_1_13643016.html", "source": "elDiario.es" }
+            },
+            {
+              "kicker": "Agricultura · BOE, 6 nov",
+              "title": "Por primera vez, aceite fuera del mercado",
+              "text": "El Gobierno obliga a las almazaras a almacenar el 12 % de la producción que declaren cada mes, unas 188.000 toneladas, que no podrán venderse hasta el 30 de septiembre de 2027. La medida busca evitar un desplome de precios ante una cosecha 2026/2027 estimada en 1,6 millones de toneladas, un 23 % más que la anterior. La obligación alcanza a todas las almazaras, también a las del Camp de Tarragona; la industria se opone a la medida.",
+              "link": { "url": "https://www.eldiario.es/economia/gobierno-decreta-retirada-aceite-oliva-mercado-primera-vez-evitar-desplome-precios_1_13642909.html", "source": "elDiario.es / EFE" }
+            },
+            {
+              "kicker": "Reus · Cultura, 7 nov",
+              "title": "El Fortuny, cerrado al menos hasta junio de 2027",
+              "text": "Las obras bajo la cubierta del teatro destaparon problemas estructurales que obligan a una rehabilitación de fondo. El edificio es propiedad de El Círcol y lo gestiona en alquiler un consorcio del Ayuntamiento (67 %) y la Diputación (33 %), que no puede asumir inversiones de esa envergadura en un inmueble ajeno y protegido como BCIN. Se negocia un derecho de superficie temporal que permita pedir fondos, sobre todo a la Generalitat, que dejó el consorcio hace años.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Teatre_Fortuny_de_Reus.JPG/1280px-Teatre_Fortuny_de_Reus.JPG",
+                "alt": "Fachada del Teatre Fortuny en la plaza del Teatre de Reus",
+                "credit": "Santi Gomà · Wikimedia Commons · CC BY-SA 3.0",
+                "caption": "El Teatre Fortuny de Reus, cerrado desde el verano."
+              },
+              "link": { "url": "https://www.diaridetarragona.com/reus/275075/guia-entendre-crisi-teatre-fortuny-reus-propietat-diners-manteniment.html", "source": "Diari de Tarragona" }
+            },
+            {
+              "kicker": "Reus · Vivienda, 6 nov",
+              "title": "Quince pisos protegidos en Vallroquetes",
+              "text": "La alcaldesa Sandra Guaita firmó en el Palau de la Generalitat, en un acto presidido por Salvador Illa, el convenio para levantar hasta 15 alojamientos temporales de protección en un solar municipal de la calle Vallroquetes, entre la plaza de Catalunya y la de la Farinera. El Ayuntamiento cede el suelo durante 75 años y la Agència de l’Habitatge licitará la obra; parte de las viviendas se reservará a jóvenes y personas vulnerables. Llega a cinco días de la huelga por la vivienda del 11-N.",
+              "link": { "url": "https://www.diaridetarragona.com/reus/275077/reus-formalitza-l-acord-amb-generalitat-per-construir-15-pisos-protegits-carrer-vallroquetes.html", "source": "Diari de Tarragona" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "China · Programa lunar tripulado · 3–4 nov",
+        "title": "Pekín pone fechas a su primer alunizaje",
+        "dek": "El diseñador jefe del programa lunar chino detalla la arquitectura y el calendario: pruebas no tripuladas desde 2027, acoplamiento en órbita lunar en 2029 y astronautas en la superficie «antes de 2030».",
+        "body": [
+          "Wang Xiang, subdiseñador jefe del programa tripulado y diseñador jefe de la exploración lunar, presentó el plan en el VII Simposio de Vuelo Espacial Tripulado, en la Universidad de Beihang, y lo desarrolló después en la televisión estatal CCTV. La arquitectura es de «dos lanzamientos y encuentro en órbita lunar»: dos cohetes <b style=\"font-weight: 600;\">Long March 10</b> enviarán por separado la nave Mengzhou, con tres astronautas, y el aterrizador Lanyue; ambos se acoplarán alrededor de la Luna y dos tripulantes bajarán a la superficie.",
+          "La validación será escalonada. Una versión reducida del cohete, el Long March 10A, lanzará una Mengzhou «de órbita baja» hacia la estación Tiangong para probar el reingreso; la versión lunar, con capacidad para unas 27 toneladas, llegará después. Lanyue hará un vuelo no tripulado antes de llevar personas. El calendario la coloca en paralelo con Artemis, que apunta a 2028 para volver a pisar la Luna."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Long_March_10_mockup_-_NMC.jpg/1280px-Long_March_10_mockup_-_NMC.jpg",
+          "alt": "Maqueta del cohete chino Long March 10 expuesta en el Museo Nacional de China",
+          "credit": "Shujianyang · Wikimedia Commons · CC0",
+          "caption": "Maqueta del Long March 10, el cohete con el que China quiere llevar astronautas a la Luna."
+        },
+        "link": {
+          "url": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+          "source": "Universe Today"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Dos carreras hacia la Luna, recalendarizadas",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            { "when": "23 nov", "title": "Ariane 6 · Europa", "text": "Vuelta al vuelo (VA271) con 36 satélites Amazon Leo, no antes de esa fecha." },
+            { "when": "Ene 2027", "title": "New Glenn · Blue Origin", "text": "Regreso al vuelo tras la explosión de mayo, según un memorando interno." },
+            { "when": "2027", "title": "China · Pruebas no tripuladas", "text": "Long March 10, Mengzhou y Lanyue empiezan a volar sin tripulación." },
+            { "when": "2027", "title": "Artemis III · NASA", "text": "Ensayo tripulado de acoplamiento con los aterrizadores en órbita baja.", "highlight": true },
+            { "when": "2028", "title": "Artemis IV · NASA", "text": "Objetivo de regreso de astronautas a la superficie lunar." },
+            { "when": "2029", "title": "China · Ensayo en órbita lunar", "text": "Demostración de acoplamiento alrededor de la Luna." },
+            { "when": "< 2030", "title": "China · Alunizaje tripulado", "text": "Dos taikonautas en la superficie con Lanyue.", "highlight": true }
+          ],
+          "footnote": "Fuentes: Universe Today y AIAA (3–4 nov 2026), The Register (6 nov 2026), European Spaceflight (15 oct 2026), Space.com (21 oct 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Un calendario que también es un argumento",
+          "columns": [
+            { "label": "Contexto", "text": "Hasta ahora, Pekín hablaba de «antes de 2030» sin detallar el camino. Publicar hitos intermedios —2027, 2029— es una forma de dar credibilidad al programa ante sus socios de la ILRS, la estación lunar que impulsa con Rusia, justo cuando el lado estadounidense acumula retrasos: Artemis III ya no alunizará y Blue Origin, que aporta uno de los dos aterrizadores, no volverá a volar con New Glenn hasta 2027." },
+            { "label": "Qué implica", "text": "Si China cumple, la llegada de ambos bloques al polo sur se solapará a finales de la década. Eso traslada la competencia a las reglas: quién fija primero prácticas sobre zonas de seguridad, uso de recursos y coordinación de actividades. Es el terreno donde Europa, sin capacidad propia de transporte tripulado, todavía puede pesar a través de COPUOS y de los Acuerdos Artemis." }
+          ],
+          "key": "Incorpora este calendario a tu capítulo comparativo Artemis–ILRS: por primera vez tienes fechas oficiales chinas para contrastar con las de la NASA, y un argumento sólido de que la fase normativa se decidirá antes que la carrera física."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Blue Origin · Lanzadores, 5–6 nov",
+              "title": "Más empuje, menos prisa",
+              "text": "Blue Origin presentó GS3, una tercera etapa para New Glenn con un motor BE-7 —el mismo de su aterrizador Blue Moon— para inyección directa a órbita geoestacionaria y trayectorias de escape; ya tiene contratada una misión cislunar con un cliente gubernamental en 2028. También mostró <b style=\"font-weight: 600;\">Northstar</b>, un motor con la mitad de piezas que el BE-4 y más empuje. Pero el anuncio quedó eclipsado por un memorando del consejero delegado, Dave Limp: el regreso al vuelo pasa a enero de 2027, lo que estrecha el margen antes del ensayo de Artemis III.",
+              "link": { "url": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138", "source": "The Register" }
+            },
+            {
+              "kicker": "NewSpace · Integración vertical, 6 nov",
+              "title": "AST SpaceMobile se fabrica su propio cohete",
+              "text": "La operadora de conectividad directa al móvil construirá Blacklift, un cohete reutilizable de 20 toneladas con motores Miranda y Vira de Firefly Aerospace, capaz de llevar hasta cinco satélites BlueBird por lanzamiento desde finales de 2028. Comprará la licencia perpetua para fabricar los motores en una nueva planta en EE.UU.",
+              "link": { "url": "https://www.sec.gov/Archives/edgar/data/0001780312/000149315226050513/ex99-1.htm", "source": "AST SpaceMobile (comunicado ante la SEC)" }
+            },
+            {
+              "kicker": "ESA · ExoMars, 7 nov",
+              "title": "¿Magma bajo Marte?",
+              "text": "El Trace Gas Orbiter de la misión europea ExoMars ha detectado cloruro de hidrógeno cerca de Alba Mons, uno de los mayores volcanes marcianos, un gas que en la Tierra puede salir de conductos magmáticos. El estudio, publicado en <em>Science Advances</em> con participación del Instituto de Astrofísica de Andalucía (IAA-CSIC), no confirma magma activo, pero combina la señal atmosférica con fracturas en el terreno para pedir una investigación más detallada.",
+              "link": { "url": "https://www.eldiario.es/spin/marte-seguir-teniendo-actividad-volcanica-satelite-europeo-descubre-nuevas-pistas-superficie-pm_1_13644096.html", "source": "elDiario.es" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "44 de 45",
+            "text": "Senadores paraguayos que votaron la destitución de Santiago Peña: todos los presentes, la mayoría de su propio partido."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "9–20 nov", "what": "Antalya · COP31, con cumbre de líderes el 11 y 12" },
+              { "when": "10–11 nov", "what": "Abu Dabi · Negociaciones EE.UU.–Rusia–Ucrania" },
+              { "when": "11 nov", "what": "Catalunya · Huelga general por los salarios y la vivienda" },
+              { "when": "13 nov", "what": "España · Empieza la campaña del 29-N" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda la intervención de Wang Xiang en el VII Simposio de Vuelo Espacial Tripulado (31 oct–1 nov) como fuente primaria del calendario chino. Contrástala con el plan de la NASA para Artemis III y IV y con los compromisos de la ILRS: te servirá para fechar el «momento normativo» de tu tesis."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "GS3 y Blacklift confirman que el cuello de botella sigue siendo el acceso al espacio y que los clientes buscan alternativas. Con Ariane 6 volviendo el 23 de noviembre y New Glenn parado hasta enero, hay una ventana para ofrecer a operadores europeos servicios de integración, seguros de lanzamiento y planificación multi-lanzador."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Kyiv Post (6 nov), The Nation/AFP (7 nov), Al Jazeera (6 y 7 nov), Business Standard/AP (7 nov), elDiario.es (6 y 7 nov), Infobae (6 nov), Periodista Digital (6 nov), Diari de Tarragona (6 y 7 nov), Universe Today (4 nov), AIAA (3 nov), The Register (6 nov), AST SpaceMobile/SEC (6 nov), European Spaceflight (15 oct), Space.com (21 oct). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 07.11.2026."
+}
