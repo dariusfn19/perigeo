@@ -1,0 +1,408 @@
+{
+  "number": 11,
+  "week": 45,
+  "date": "2026-11-08",
+  "dateLabel": "Domingo, 8 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Rusia lanza 36 misiles balísticos y 172 drones contra la red eléctrica ucraniana a tres días de Abu Dabi, mientras Trump promete un «acuerdo masivo» cuyo mecanismo ni los diplomáticos europeos saben explicar.",
+      "En el Golfo, explosiones en Qeshm y Jask, dos petroleros contra minas en Ormuz y la Guardia Revolucionaria que levanta su límite de 2.000 km para los misiles, mientras Catar intenta salvar la vía diplomática.",
+      "A 21 días del 29-N, Sánchez pide en Tarragona una mayoría «amplia y progresista» e Illa acusa a Feijóo de «bajeza moral»; en el espacio, la NASA reparte contratos para su base lunar sin un solo socio internacional."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Kyiv, 7 nov",
+        "title": "Misiles para preparar la mesa",
+        "dek": "La madrugada del sábado, Rusia lanzó 36 misiles balísticos —entre ellos KN-23 norcoreanos— y 172 drones contra Ucrania. El objetivo, otra vez, la energía. Faltan tres días para la ronda trilateral de Abu Dabi.",
+        "body": [
+          "Fue uno de los mayores ataques con misiles balísticos de la guerra. Según Zelenski, los 36 iban dirigidos contra Kyiv y su región; las defensas solo interceptaron <b style=\"font-weight: 600;\">cuatro</b>, según Al Jazeera. Los proyectiles alcanzaron el Puente Norte de la capital, un edificio que albergaba una guardería y subestaciones de alta tensión que conectan las centrales nucleares de Rivne y Jmelnitski con el centro del país. Hubo daños en infraestructuras de otras doce regiones y subestaciones afectadas en cinco. El balance oficial habla de al menos dos muertos en todo el país y una decena de heridos —nueve civiles, entre ellos un niño, solo en el área de Kyiv, según el Kyiv Post—. Kyiv vive apagones rotatorios desde mediados de octubre, y el jefe de la inteligencia militar, Kirilo Budánov, sostiene que Moscú golpea la red para provocar protestas.",
+          "La ofensiva llega en la víspera de la primera ronda trilateral desde febrero: delegaciones de EE.UU., Rusia y Ucrania se verán en Abu Dabi el <b style=\"font-weight: 600;\">10 y 11 de noviembre</b>, con Steve Witkoff y Jared Kushner como mediadores, Vladímir Medinski al frente de la parte rusa y Rustem Umérov de la ucraniana. Mientras tanto, el balance del bombardeo del 4 de noviembre sobre un punto de reparto de ayuda en Komishuvaja (Zaporiyia) sigue subiendo: 55 muertos según el último recuento citado por el Kyiv Post; la misión de derechos humanos de la ONU considera que el ataque probablemente violó el derecho internacional. Ucrania, por su parte, respondió esta semana con más de 200 drones contra la región rusa de Riazán y su refinería."
+        ],
+        "quote": {
+          "text": "Rusia se prepara para las conversaciones trilaterales lanzando misiles balísticos contra la infraestructura crítica de Ucrania.",
+          "author": "Volodímir Zelenski · Presidente de Ucrania, 7 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Zelensky_2025.jpg",
+          "alt": "Volodímir Zelenski durante una visita de trabajo a Estados Unidos en diciembre de 2025",
+          "credit": "Oficina del Presidente de Ucrania · Wikimedia Commons · Dominio público",
+          "caption": "Zelenski, en una imagen de archivo de diciembre de 2025. Ucrania acudirá a Abu Dabi con la prioridad de una tregua energética."
+        },
+        "link": {
+          "url": "https://www.kyivpost.com/post/89424",
+          "source": "Kyiv Post"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La noche del 7 de noviembre, en cifras",
+          "items": [
+            {
+              "value": "36",
+              "label": "misiles balísticos lanzados por Rusia, incluidos KN-23 norcoreanos"
+            },
+            {
+              "value": "4",
+              "label": "de esos misiles interceptados, según Al Jazeera"
+            },
+            {
+              "value": "172",
+              "label": "drones de ataque lanzados la misma noche"
+            },
+            {
+              "value": "55",
+              "label": "muertos ya en el bombardeo de Komishuvaja del 4 de noviembre"
+            }
+          ],
+          "footnote": "Fuentes: Al Jazeera y Kyiv Post (7 nov 2026), con datos del Gobierno ucraniano no verificados de forma independiente."
+        },
+        {
+          "type": "analysis",
+          "title": "Un «gran acuerdo» que nadie sabe explicar",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Trump aseguró el viernes en Palm Beach que Rusia y Ucrania quieren, «por primera vez», cerrar un acuerdo, y habló de un «arreglo masivo». La base es un esquema de cinco pilares presentado por Jared Kushner que, según el Kyiv Post, reserva a la OTAN un papel definido. Pero tres funcionarios europeos consultados por la CNN no supieron explicar su mecanismo central, y diplomáticos europeos subrayan que el texto omite las invasiones rusas anteriores. En paralelo, Moscú negocia con Washington el levantamiento de sanciones a su fondo soberano, el RDIF, que dirige Kiril Dmítriev."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Tres señales en Abu Dabi. Primera, si la «tregua energética» que pide Kyiv entra en la agenda después de la noche del sábado. Segunda, si aparece alguna concesión sobre sanciones: la exención temporal que EE.UU. dio al diésel ruso ya muestra los límites del atajo —ningún barril ha llegado aún a puertos estadounidenses—. Tercera, la respuesta europea: Kallas avisó el jueves de que la UE no aplicará lo que se pacte sin ella, y Polonia aportó esta semana ocho millones de esloti para generadores."
+            }
+          ],
+          "key": "Para tu TFG, fíjate en el patrón: la presión militar sobre infraestructuras críticas se usa como palanca negociadora justo antes de cada ronda. Es la misma lógica de dependencia que estudias en el espacio —quien controla la infraestructura (eléctrica u orbital) fija las condiciones de la mesa."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · Estrecho de Ormuz, 7–8 nov",
+              "title": "Explosiones, minas y un límite que desaparece",
+              "text": "La televisión estatal iraní informó el sábado de dos explosiones en la isla de Qeshm y varias en el puerto de Jask, de causa no aclarada; Teherán no confirmó ataques, aunque Trump había reconocido la víspera nuevos golpes «menores» de EE.UU. contra defensas aéreas en Qeshm. El domingo, la marina iraní dijo que dos petroleros ardieron tras chocar con minas al usar una «ruta no autorizada». Según la UKMTO, al menos 11 barcos fueron atacados en la semana que acabó el 6 de noviembre y tres se hundieron; los tránsitos están un <b style=\"font-weight: 600;\">65 % por debajo</b> de los niveles previos al conflicto. Y la Guardia Revolucionaria anunció que levanta su límite autoimpuesto de 2.000 km para los misiles balísticos: «Esta limitación ha sido levantada para nosotros», dijo su portavoz, Hossein Mohebbi. Un alcance mayor pondría al alcance partes de Grecia y los Balcanes.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg/1280px-Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg",
+                "alt": "Imagen de satélite del estrecho de Ormuz entre Irán y la península arábiga",
+                "credit": "NASA GSFC / MODIS · Wikimedia Commons · Dominio público",
+                "caption": "El estrecho de Ormuz visto por el satélite Terra de la NASA. Qeshm es la gran isla alargada frente a la costa iraní."
+              },
+              "link": {
+                "url": "https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730",
+                "source": "ABC News (AP/Reuters)"
+              }
+            },
+            {
+              "kicker": "Irán · Catar · EE.UU., 6–7 nov",
+              "title": "Doce ministros en 48 horas",
+              "text": "Mientras se acumulan los incidentes, la diplomacia no se ha cerrado. Trump habló el viernes con el emir de Catar sobre su mediación, orientada a «un acuerdo integral». El ministro de Exteriores iraní, Abbás Araqchí, dijo haber hablado con 12 homólogos en 48 horas —entre ellos Omán, Catar, Arabia Saudí y Pakistán— para exponer las siete exigencias de Teherán para reabrir el estrecho y pedir «arreglos de seguridad regionales sin injerencia de potencias extrarregionales». Al mismo tiempo, el Mando Central de EE.UU. lanzó la <b style=\"font-weight: 600;\">Task Force Iron Gate</b>, con sede en Tampa, para cortar el tránsito iraní de armas y material sancionado por tierra y por el Caspio. Analistas citados por Al Jazeera, como Trita Parsi, creen que tras las legislativas el riesgo de guerra abierta aumenta si las conversaciones no avanzan.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Rusia · EE.UU. · Energía, 7 nov",
+              "title": "El diésel ruso que nadie quiere descargar",
+              "text": "El acuerdo anunciado por Trump tras su llamada con Putin del 9 de octubre —con una exención temporal de sanciones hasta el 7 de abril— todavía no ha llevado ni un barril de diésel ruso a EE.UU. Al menos tres petroleros que salieron de Primorsk rumbo a la costa este han cambiado de destino, hacia Brasil, el Mediterráneo o «a la espera de órdenes». La gobernadora de Nueva Jersey, Mikie Sherrill, pidió a puertos y terminales que rechacen los barcos, y el veto del Congreso a la energía rusa sigue vigente. Para Moscú, «todo el diésel encontrará compradores» (Peskov); Dmítriev llama «falsas» las informaciones. Es una lección práctica sobre los límites de levantar sanciones por decreto.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Italia · Ciberseguridad, 7 nov",
+              "title": "Los datos de Tajani, en la web oscura",
+              "text": "El ministro de Exteriores y vicepresidente italiano, Antonio Tajani, denunció que unos ciberdelincuentes llevan días publicando sus datos personales en la web oscura y ofrecen pagar por más información sobre él y su familia. Giorgia Meloni atribuyó el ataque a hackers prorrusos y lo calificó de asunto «de grave preocupación». Tajani lo vincula a su posición sobre Ucrania y asegura que no se dejará intimidar. El caso se suma a la ola de amenazas híbridas en Europa —falsas alertas de bomba, desvíos de vuelos, ataques a sistemas de refrigeración de supermercados— que la UE trata ya como parte de la guerra.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web",
+                "source": "Al Jazeera / AFP"
+              }
+            },
+            {
+              "kicker": "China · Taiwán, 8 nov",
+              "title": "Más de cien buques en el Pacífico occidental",
+              "text": "Un informe conjunto del American Enterprise Institute y el Institute for the Study of War sugiere que China podría estar realizando un gran ejercicio no anunciado que simula el aislamiento de Taiwán, mayor que el «Justice Mission 2025». Implicaría a fuerzas de los mandos oriental, septentrional y meridional, con cuatro agrupaciones navales entre Taiwán y Guam —entre ellas la del portaaviones Liaoning— y buques de la Guardia Costera alrededor de la isla. El secretario general del Consejo de Seguridad Nacional taiwanés, Joseph Wu, cifró en <b style=\"font-weight: 600;\">más de 100</b> los buques de la Armada y la Guardia Costera chinas en la zona; Defensa detectó 49 aeronaves el lunes.",
+              "link": {
+                "url": "https://www.taipeitimes.com/News/front/archives/2026/11/08/2003867351",
+                "source": "Taipei Times"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "21",
+        "statLabel": "días hasta las elecciones generales del 29 de noviembre; la campaña oficial arranca el viernes 13",
+        "title": "Sánchez se lleva la precampaña a Tarragona",
+        "body": [
+          "Un día después de València, Pedro Sánchez eligió Tarragona para su primer gran acto en Catalunya tras la dimisión de Óscar Puente. En el mitin del PSC pidió algo más que ganar: «A mí no me basta, después de ocho años, con tener una mayoría simple», dijo, y reclamó una mayoría «amplia y progresista» frente a lo que llamó el «desmoronamiento de la ola ultraderechista», en alusión a la derrota republicana en EE.UU. Sobre el accidente de Urda, que dejó 69 muertos, defendió que su Gobierno ha tenido que «revertir los recortes» de quince años en inversión ferroviaria. También presumió de la subida del salario mínimo —un 66 % en seis años— y de su negativa a elevar el gasto en defensa al 5 % del PIB. «Este 29 de noviembre les vamos a decir con nuestro voto que España se gobierna desde España», cerró.",
+          "La derecha hizo campaña en clave opuesta. Feijóo llevó su mitin a Valladolid, la ciudad de Puente, y acusó al Gobierno de haber dado «más abrazos al ministro dimitido que a las víctimas»; también tuvo que corregir a su portavoz, Ester Muñoz, sobre las pensiones: «Pero si las vamos a subir, conforme al IPC». Ayuso, en València, habló de «mafia» y «corrupción», y Abascal, en Guadalajara, pidió a los suyos «no confiarse». En el flanco izquierdo, el Frente Amplio llenó un acto en Barcelona y ERC y Podemos se reunieron en Madrid para llamar a la huelga general del miércoles."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tarragona_-_Rambla_Nova_01.jpg/1280px-Tarragona_-_Rambla_Nova_01.jpg",
+          "alt": "La Rambla Nova de Tarragona, con sus árboles y edificios a ambos lados",
+          "credit": "Zarateman · Wikimedia Commons · CC0",
+          "caption": "La Rambla Nova de Tarragona. La ciudad acogió el sábado el primer mitin de Sánchez en Catalunya tras Urda."
+        },
+        "link": {
+          "url": "https://www.eldiario.es/politica/sanchez-pide-mayoria-amplia-progresista-desmoronamiento-ola-ultraderechista_1_13646333.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La semana que viene, en cuatro cifras",
+          "items": [
+            {
+              "value": "21",
+              "label": "días hasta el 29-N"
+            },
+            {
+              "value": "11-N",
+              "label": "huelga general por salarios y vivienda, convocada en todo el Estado"
+            },
+            {
+              "value": "> 2.300",
+              "label": "personas rescatadas cerca de El Hierro en la última semana"
+            },
+            {
+              "value": "10 %",
+              "label": "objetivo de voto que se marca el Frente Amplio"
+            }
+          ],
+          "footnote": "Fuentes: elDiario.es y Canarias Ahora (5–7 nov 2026); UGT Catalunya."
+        },
+        {
+          "type": "analysis",
+          "title": "Catalunya, el campo donde se juega el bloque progresista",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Catalunya concentró el sábado buena parte de la precampaña de la izquierda: Sánchez en Tarragona, el Frente Amplio de Colau, Delgado y Urtasun en Barcelona, y Rufián, cabeza de lista de ERC, con Irene Montero en Madrid. El PSOE necesita repetir aquí sus resultados para compensar la ventaja del PP en el resto del Estado, mientras sus socios intentan diferenciarse —«no podemos estar sometidas al PSOE», dijo Montero— y Junts ya pone precio: Míriam Nogueras exige la recaudación y gestión de los impuestos en Catalunya para apoyar al próximo Gobierno."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La huelga general del 11-N será la primera prueba de calle. El PSC de Illa se ve obligado a defenderla sin incomodar a Sánchez, y el PP la ha convertido en arma al pedir que se desconvoque por el luto de Urda. El riesgo para el bloque progresista es la fragmentación: tres o cuatro candidaturas a la izquierda del PSOE compitiendo por los mismos votos en circunscripciones medianas."
+            }
+          ],
+          "key": "En Tarragona se reparten seis escaños, y una lista dividida a la izquierda puede costar uno. Si te mueves el miércoles por Reus o Tarragona, verás si la huelga del 11-N tiene músculo fuera de Barcelona: es un buen termómetro de la movilización en el Camp."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Catalunya · Palau de la Generalitat, 7 nov",
+              "title": "Illa: «una bajeza moral»",
+              "text": "En una entrevista con elDiario.es, el president Salvador Illa acusó a Feijóo de utilizar a las 69 víctimas de Urda para pedir que no se convoque la huelga general: «Me parece una bajeza moral». Defendió su gestión con cifras —el alquiler en zonas tensionadas sube un 0,7 % frente a una inflación del 6,9 %, y baja un 4,4 % en Barcelona— y avisó de que Feijóo «no entiende a Catalunya ni la quiere como es». Reconoció que Rodalies sigue arrastrando las secuelas del temporal de enero, con 151 actuaciones en marcha.",
+              "link": {
+                "url": "https://www.eldiario.es/catalunya/salvador-illa-bajeza-moral-feijoo-utilice-69-victimas-urda-no-convoque-huelga-general_128_13643854.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "Izquierda · Madrid y Barcelona, 7 nov",
+              "title": "Rufián, Montero y Colau, contra el PSOE y a la huelga",
+              "text": "En el segundo acto conjunto de ERC y Podemos, Rufián y Montero llamaron a secundar la huelga del miércoles «para paralizar el país»; Rufián calificó Adif de «carcasa vacía» y pidió una revisión integral del sistema ferroviario. En Barcelona, el Frente Amplio prometió una ley para «expropiar a los fondos buitre» viviendas vacías y subir impuestos a las rentas altas. Su meta: superar el 10 % de los votos.",
+              "link": {
+                "url": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "Inmigración · Canarias, 7 nov",
+              "title": "Comisión de urgencia por El Hierro",
+              "text": "La Comisión Interministerial de Inmigración se reunirá el martes 10 en La Moncloa, presidida por Ángel Víctor Torres, con la asistencia extraordinaria de Fernando Clavijo y del presidente del Cabildo de El Hierro, Alpidio Armas. Solo en la última semana se ha rescatado a más de 2.300 personas cerca de la isla. Clavijo ha pedido reuniones urgentes con Ursula von der Leyen y el comisario Magnus Brunner: «No podemos seguir actuando únicamente cuando la situación se agrava».",
+              "link": {
+                "url": "https://www.eldiario.es/canariasahora/politica/gobierno-espana-celebrara-comision-interministerial-abordar-repunte-ruta-migratoria_1_13647121.html",
+                "source": "Canarias Ahora / elDiario.es"
+              }
+            },
+            {
+              "kicker": "Tribunales · Caso Koldo, 6 nov",
+              "title": "Pardo de Vera, cerca del banquillo",
+              "text": "La Fiscalía Anticorrupción pidió a la Audiencia Nacional que avance hacia el juicio contra la expresidenta de Adif Isabel Pardo de Vera, Jéssica Rodríguez —expareja de Ábalos—, Koldo García y Víctor de Aldama, por la compra de material sanitario y la contratación de Rodríguez en Ineco y Tragsatec. Pide en cambio archivar la causa para varios excargos de Transportes. Ábalos, Koldo y Aldama ya fueron condenados por el Supremo a 24, 19 y 4 años en el caso mascarillas.",
+              "link": {
+                "url": "https://www.eldiario.es/politica/anticorrupcion-pide-pardo-vera-koldo-aldama-sean-llevados-juicio_1_13645330.html",
+                "source": "elDiario.es / Europa Press"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "NASA · Moon Base · Kennedy, 7 nov",
+        "title": "La base lunar se licita pieza a pieza",
+        "dek": "La NASA adjudica de una vez el transporte, la energía y un rover nuclear para su Moon Base: hasta 10.000 millones de dólares en un nuevo contrato de aterrizadores y 1.300 millones en lanzamientos. Todo para la industria estadounidense.",
+        "body": [
+          "El anuncio llegó el sábado en una feria aeroespacial en el Centro Espacial Kennedy. La pieza mayor es <b style=\"font-weight: 600;\">CLPS 2</b>, la nueva fase de los servicios comerciales de carga lunar: un contrato marco a diez años, con un valor máximo combinado de 10.000 millones de dólares, al que podrán optar ocho empresas —Blue Origin, Firefly, Intuitive Machines, ispace-U.S., Lockheed Martin, Northrop Grumman, SpaceX y Voyager—. El CLPS original sube de 2.600 a 4.200 millones. Blue Origin gana además el transporte de <b style=\"font-weight: 600;\">PROMISE</b>, un rover de seis ruedas con energía nuclear que el JPL construirá con piezas de repuesto de Curiosity y Perseverance y que viajará al polo sur en su aterrizador Mark 1 a finales de 2028: 94 millones de base y una opción de otros 140.",
+          "Hay más: seis encargos de lanzamiento por unos 1.300 millones a Arrow Science and Technology, Blue Origin e Impulse Space, con New Glenn, Terran R y Falcon 9, y remolcadores de Blue Origin, Firefly, Impulse y Quantum Space; una misión de SpaceX para desplegar con Starship satélites de comunicaciones cislunares en 2028; y el proyecto miniCAST de energía con Honeybee Robotics, Redwire y Yank Technologies. «Estamos construyendo la Moon Base misión a misión», dijo el administrador, Jared Isaacman. El comunicado solo habla de «industria estadounidense»: no menciona a ningún socio internacional."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Blue_Moon_Mark_1_%28mo8a3794-26%29.jpg/1280px-Blue_Moon_Mark_1_%28mo8a3794-26%29.jpg",
+          "alt": "El aterrizador lunar Blue Moon Mark 1 de Blue Origin en unas instalaciones de pruebas",
+          "credit": "NASA · Dominio público",
+          "caption": "Blue Moon Mark 1, el aterrizador de Blue Origin que llevará el rover nuclear PROMISE al polo sur lunar."
+        },
+        "link": {
+          "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+          "source": "NASA"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Lo que la NASA pone sobre la mesa lunar",
+          "note": "Millones de dólares · valores máximos o adjudicados anunciados el 7 nov",
+          "bars": [
+            {
+              "label": "CLPS 2 (máx., 10 años)",
+              "value": 10000,
+              "display": "10.000",
+              "highlight": true
+            },
+            {
+              "label": "VADR (techo total)",
+              "value": 5000,
+              "display": "5.000"
+            },
+            {
+              "label": "CLPS 1 (ampliado)",
+              "value": 4200,
+              "display": "4.200"
+            },
+            {
+              "label": "VADR · 6 encargos",
+              "value": 1300,
+              "display": "≈ 1.300"
+            },
+            {
+              "label": "PROMISE (base + opción)",
+              "value": 234,
+              "display": "234",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuente: NASA, comunicado RELEASE26-095 (7 nov 2026). CLPS 2 y VADR son techos de contratos marco, no gasto comprometido."
+        },
+        {
+          "type": "analysis",
+          "title": "Una base lunar «made in USA»",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Hace dos semanas Isaacman presentó el plan para acelerar Artemis y volver a pisar la Luna en 2028; ahora convierte ese plan en contratos. La arquitectura es comercial y modular: la NASA compra servicios de transporte, energía y comunicaciones a varias empresas y reparte el riesgo entre ellas. Blue Origin sale reforzada pese a que New Glenn no volverá a volar hasta enero, y SpaceX suma la red de comunicaciones cislunar a su papel de aterrizador."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La infraestructura que sostendrá la presencia permanente en el polo sur —transporte, energía, enlaces— se está adjudicando sin participación extranjera. Para los socios de los Acuerdos Artemis, la contribución quedará en módulos, instrumentos o astronautas, no en los servicios críticos. Y la red de comunicaciones cislunar de SpaceX repetiría en la Luna la dependencia que Europa ya tiene con Starlink en órbita baja."
+            }
+          ],
+          "key": "Es un argumento central para tu TFG: la autonomía estratégica europea en la Luna no se juega en la firma de los Acuerdos Artemis, sino en quién posee las infraestructuras de servicio. Contrasta este reparto con el papel de la ESA en Gateway y con lo que IRIS² intenta corregir en órbita terrestre."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "SpaceX · Starbase, 7 nov",
+              "title": "Starship apunta a la doble captura el viernes 13",
+              "text": "SpaceX fija el vuelo 15 de Starship para el 13 de noviembre como pronto, pendiente de la autorización de la FAA. El plan es inédito: el propulsor Super Heavy intentará ser atrapado por la torre minutos después del despegue y la nave, tras desplegar satélites Starlink V3 —tres de ellos modificados para fotografiar su escudo térmico— y pasar unas 21 horas en órbita, regresará a Starbase para ser capturada en la plataforma 2. Si ambas maniobras salen bien, por primera vez todas las partes de un cohete orbital volverían intactas. Es la pieza que necesita el aterrizador lunar de SpaceX, que depende de repostar en órbita.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Starship_5_Booster_Landing_on_Mechzilla.jpg/1280px-Starship_5_Booster_Landing_on_Mechzilla.jpg",
+                "alt": "El propulsor Super Heavy de Starship atrapado por los brazos de la torre de lanzamiento en Starbase",
+                "credit": "Steve Jurvetson · Wikimedia Commons · CC BY 2.0",
+                "caption": "Primera captura de un propulsor Super Heavy, en el vuelo 5 (2024). En el 15, SpaceX quiere atrapar también la nave."
+              },
+              "link": {
+                "url": "https://teslanorth.com/2026/11/07/spacex-starship-flight-15-tower-catch",
+                "source": "TeslaNorth"
+              }
+            },
+            {
+              "kicker": "NASA · Astronautas, 7 nov",
+              "title": "Se buscan astronautas para la Luna",
+              "text": "La NASA abrió la convocatoria para su 25.ª promoción de astronautas, con plazo hasta el 3 de diciembre y selección a finales de 2027. Solo tiene 32 astronautas en activo. «Tenemos mucho más trabajo que astronautas», resumió Randy Bresnik, comandante de Artemis III, cuya tripulación ensayará el verano próximo el acoplamiento con los aterrizadores de SpaceX y Blue Origin. La convocatoria está abierta solo a ciudadanos estadounidenses.",
+              "link": {
+                "url": "https://abcnews.com/Technology/wireStory/fly-moon-nasa-new-astronauts-grow-artemis-program-137943323",
+                "source": "ABC News / AP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "32",
+            "text": "Astronautas en activo que tiene hoy la NASA, la cifra que justifica su nueva convocatoria en plena carrera por volver a la Luna."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "9–20 nov",
+                "what": "Antalya · COP31, presidida por Turquía con Australia al frente de las negociaciones"
+              },
+              {
+                "when": "10–11 nov",
+                "what": "Abu Dabi · Ronda trilateral EE.UU.–Rusia–Ucrania; el 10, comisión de inmigración en La Moncloa"
+              },
+              {
+                "when": "11 nov",
+                "what": "España · Huelga general por los salarios y la vivienda"
+              },
+              {
+                "when": "13 nov",
+                "what": "Arranca la campaña del 29-N · Starship vuelo 15, no antes de esa fecha"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda el comunicado RELEASE26-095 de la NASA como fuente primaria: es la primera vez que la Moon Base se concreta en contratos, y ninguno incluye socios internacionales. Úsalo para contrastar la retórica multilateral de los Acuerdos Artemis con el reparto real de capacidades críticas."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "CLPS 2 abre diez años de misiones de carga con ocho contratistas principales, entre ellos ispace-U.S., filial de una empresa japonesa. Las empresas europeas no pueden ser contratistas directas, pero sí proveedoras de subsistemas e instrumentos: es el momento de mapear qué necesita cada uno de los ocho y llegar antes que la competencia."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Kyiv Post (7 nov), Al Jazeera (7 nov), ABC News Australia/AP-Reuters (8 nov), Taipei Times (8 nov), elDiario.es y Canarias Ahora (6–8 nov), UGT Catalunya, NASA (7 nov), ABC News/AP (7 nov), NASA Watch (7 nov), TeslaNorth (7 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 08.11.2026."
+}
