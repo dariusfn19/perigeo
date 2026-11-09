@@ -1,0 +1,443 @@
+{
+  "number": 12,
+  "week": 46,
+  "date": "2026-11-09",
+  "dateLabel": "Lunes, 9 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Rusia sube el nivel de su delegación para Abu Dabi —con Riabkov y el jefe del GRU— y Francia confirma que los europeos estarán en la mesa de mañana, mientras otros 850.000 ucranianos se quedan sin luz.",
+      "Rubio admite que con Irán no hay «avance inminente», los hutíes alcanzan un edificio de Aramco en Riad y en Israel Herzog encarga el Gobierno a Eisenkot, no a Netanyahu; en Cracovia, un ultraderechista mata a seis personas.",
+      "A 20 días del 29-N, la encuesta de elDiario.es sitúa al PSOE en el 28,6 % pero mantiene la mayoría absoluta de PP y Vox; en el espacio, Isaacman avisa de que la carrera lunar con China decidirá «en qué garantías de seguridad confiar»."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Abu Dabi, 10–11 nov",
+        "title": "Moscú sube el nivel; Europa pide sitio",
+        "dek": "Rusia enviará a Abu Dabi su delegación más pesada desde que empezaron los contactos, con un viceministro experto en control de armas y el jefe de la inteligencia militar. París asegura que los europeos estarán presentes. La víspera, otra noche de ataques contra la red eléctrica.",
+        "body": [
+          "El portavoz del Kremlin, Dmitri Peskov, confirmó que Vladímir Medinski volverá a encabezar la delegación rusa en la ronda trilateral de <b style=\"font-weight: 600;\">martes y miércoles</b>, la primera desde febrero. La novedad es quién le acompaña: los viceministros de Exteriores Serguéi Riabkov —que lleva la relación con EE.UU. y el control de armas y se estrena en este formato— y Mijaíl Galuzin, responsable de la CEI y de Ucrania; el almirante Ígor Kostiukov, jefe del GRU, y el oficial del Estado Mayor Yuri Zhigarlovski. Según el Kyiv Post, observadores diplomáticos lo leen como un salto de rango que podría anticipar conversaciones más sustantivas, tanto militares como políticas. Por Ucrania irán Rustem Umérov, Kirilo Budánov y David Arajamia; por EE.UU., Steve Witkoff y Jared Kushner.",
+          "El domingo, el ministro francés de Exteriores, Jean-Noël Barrot, anunció que Europa también estará en Abu Dabi, aunque sin precisar quién representará a Francia. Es la respuesta a la advertencia de Kallas de que la UE no aplicará un acuerdo cerrado sin ella. Mientras tanto, el frente energético sigue marcando el tono: un ataque nocturno dejó sin electricidad a más de <b style=\"font-weight: 600;\">600.000 personas</b> en la región de Dnipropetrovsk y a otras 250.000 en la de Járkiv, según DTEK y las autoridades locales, y el Ministerio de Defensa ruso anunció que seguirá golpeando infraestructuras energéticas que, según Moscú, sirven al ejército ucraniano. En Odesa, otro ataque mató a una persona el sábado."
+        ],
+        "quote": {
+          "text": "Los europeos estarán representados, y Francia estará presente en Abu Dabi para participar en estas conversaciones.",
+          "author": "Jean-Noël Barrot · Ministro francés de Exteriores, 8 nov (según Reuters)"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Abu_Dhabi_Skyline.jpg/1280px-Abu_Dhabi_Skyline.jpg",
+          "alt": "Vista panorámica de los rascacielos de Abu Dabi junto al mar",
+          "credit": "Comedian44 · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "Abu Dabi acoge desde mañana la primera ronda trilateral EE.UU.–Rusia–Ucrania desde febrero."
+        },
+        "link": {
+          "url": "https://www.kyivpost.com/post/89466",
+          "source": "Kyiv Post"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La víspera de Abu Dabi, en cifras",
+          "items": [
+            {
+              "value": "> 600.000",
+              "label": "personas sin luz en la región de Dnipropetrovsk tras el ataque del domingo"
+            },
+            {
+              "value": "250.000",
+              "label": "personas sin luz en la región de Járkiv el mismo día"
+            },
+            {
+              "value": "5",
+              "label": "miembros de la delegación rusa, con dos viceministros y el jefe del GRU"
+            },
+            {
+              "value": "9 meses",
+              "label": "desde la última ronda trilateral, en febrero"
+            }
+          ],
+          "footnote": "Fuentes: Al Jazeera con datos de DTEK (8 nov 2026) y Kyiv Post, con información del Kremlin (8 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Una mesa más alta, unas exigencias iguales",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Las rondas de Miami, Abu Dabi, Alaska, Estambul y Ginebra apenas movieron las exigencias centrales de Moscú, recuerda el Kyiv Post. Esta vez el marco es más amplio: Kushner ha propuesto cinco pilares para una arquitectura de seguridad europea —consultas permanentes, canales de crisis, transparencia militar, reducción de riesgos y un papel definido para la OTAN— y Trump habla de un acuerdo «muy grande» que iría más allá de Ucrania. Que Riabkov, el hombre del control de armas, viaje a Abu Dabi encaja con esa ambición."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Tres cosas. Si la presencia europea es real —con voz en la sala— o testimonial. Si la tregua energética que pide Kyiv entra en el orden del día tras dos noches de apagones masivos. Y si Washington mezcla en el mismo paquete el alivio de sanciones a Rusia, que ya está chocando con el veto del Congreso. Después del 3 de noviembre, ese Congreso será demócrata en enero, y Trump ha dicho que quiere hablar con Putin y Xi en la cumbre de APEC de Shenzhen, los días 18 y 19."
+            }
+          ],
+          "key": "Para tu TFG sobre autonomía estratégica, apunta el patrón: Europa no tiene silla por derecho propio y tiene que anunciar que «estará». Es la misma lógica que en el espacio, donde la UE participa en marcos diseñados por otros —Artemis— salvo cuando construye capacidad propia, como IRIS²."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · EE.UU., 8–9 nov",
+              "title": "Rubio: «No diría que estamos al borde de un avance»",
+              "text": "El secretario de Estado, Marco Rubio, defendió el domingo la guerra contra Irán como impopular pero «necesaria» y calificó algunas de las exigencias de Teherán de «escandalosas y ridículas». Trump, en cambio, dijo a la CNN que si hay progresos y un «acuerdo sólido», es «muy improbable» que haga falta volver a atacar, y aseguró que el bloqueo terrestre contra Irán ya está en vigor. Hoy recibe en la Casa Blanca al primer ministro catarí, Mohammed bin Abdulrahman Al Thani, cuyo plan estudia Teherán. Araqchí, por su parte, mantiene su oferta de reabrir Ormuz en dos días si se cumplen sus condiciones, entre ellas el fin de la guerra «en todos los frentes». La derrota republicana en las legislativas pesa: el vicepresidente Vance la ha atribuido a la guerra.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Arabia Saudí · Yemen, 8 nov",
+              "title": "Los hutíes alcanzan un edificio de Aramco en Riad",
+              "text": "La coalición que lidera Arabia Saudí en Yemen dijo haber interceptado al menos cinco misiles y un dron lanzados por los hutíes contra Riad y el sur del reino. Aun así, restos de un proyectil cayeron sobre un edificio administrativo de <b style=\"font-weight: 600;\">Saudi Aramco</b> en la capital y causaron daños «menores», sin heridos, según el Ministerio de Energía. Los hutíes, aliados de Irán, afirman haber atacado también instalaciones de Aramco en Abqaiq. Es la ampliación del conflicto que más temen los mercados: el Golfo como frente, no solo Ormuz.",
+              "link": {
+                "url": "https://www.eldiario.es/internacional/arabia-saudi-intercepta-misiles-disparados-huties-riad_1_13647534.html",
+                "source": "elDiario.es / EFE"
+              }
+            },
+            {
+              "kicker": "Israel · Jerusalén, 8 nov",
+              "title": "Herzog encarga el Gobierno a Eisenkot, no a Netanyahu",
+              "text": "El presidente israelí, Isaac Herzog, encargó oficialmente formar Gobierno al opositor Gadi Eisenkot, líder de Yashar!, después de que reuniera el apoyo de <b style=\"font-weight: 600;\">67 de los 120 diputados</b> de la Knéset, incluidos los partidos árabes de la Lista Conjunta y Ra’am, pese a que el Likud de Netanyahu fue el más votado el 27 de octubre. Eisenkot tiene 28 días, prorrogables 14, y pide un Gobierno de «emergencia nacional»: «Estamos ante un punto de no retorno», dijo, y tendió la mano al Likud y al Sionismo Religioso.",
+              "link": {
+                "url": "https://www.eldiario.es/internacional/gadi-eisenkot-insiste-necesidad-gobierno-emergencia-nacional-israel-designado-liderar-nuevo-gobierno_1_13648068.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "Polonia · Cracovia, 7–8 nov",
+              "title": "Terrorismo ultraderechista en la plaza del Mercado",
+              "text": "Un hombre de 24 años mató a seis personas —entre ellas un británico y una austriaca— e hirió a quince, dos de ellos policías, tras irrumpir en la plaza del Mercado de Cracovia y disparar contra los transeúntes. En su casa de Ostrowiec Świętokrzyski aparecieron los cuerpos de sus padres y su hermana. La Fiscalía investiga el ataque como terrorista y el ministro del Interior, Marcin Kierwiński, dijo que el autor estaba influido por ideas de extrema derecha y ultranacionalistas; tenía licencia de armas y ningún antecedente. Polonia guarda dos días de luto, y el toque de trompeta de la basílica de Santa María se suspendió por primera vez desde 1939.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Krakow_Rynek_Glowny_2.jpg/1280px-Krakow_Rynek_Glowny_2.jpg",
+                "alt": "La plaza del Mercado de Cracovia con el edificio de los Paños y la basílica de Santa María",
+                "credit": "Andrzej Otrębski · Wikimedia Commons · CC BY-SA 4.0",
+                "caption": "La plaza del Mercado (Rynek Główny), en el centro histórico de Cracovia, en una imagen de archivo."
+              },
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe",
+                "source": "Al Jazeera / PAP"
+              }
+            },
+            {
+              "kicker": "Moldavia · Chisináu, 8 nov",
+              "title": "La «línea de la independencia energética»",
+              "text": "Moldavia inauguró la línea de 400 kV entre Vulcănești y Chisináu, que la conecta con Rumanía y la red europea y reduce su dependencia de la central de Cuciurgan, en la Transnistria prorrusa. «Durante décadas, Moscú usó la energía para chantajearnos», escribió la presidenta, Maia Sandu, junto a la comisaria Marta Kos. Llega con dos años de retraso. En paralelo, Ucrania, Rumanía y Bulgaria han pedido a la OTAN acelerar la vigilancia del mar Negro para proteger el tráfico comercial.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia",
+                "source": "Al Jazeera / Reuters"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Congreso, 8 nov",
+              "title": "Los demócratas apuntan a Hegseth",
+              "text": "Hakeem Jeffries, previsible próximo presidente de la Cámara de Representantes, dijo ser un «sí rotundo» a la moción de <em>impeachment</em> contra el secretario de Defensa, Pete Hegseth, impulsada por el republicano saliente Thomas Massie: le acusa de haber «diseñado esta guerra elegida, temeraria y costosa en Irán». Los demócratas controlarán ambas cámaras desde el 3 de enero y preparan investigaciones sobre la Administración. Para Europa, un Congreso con más capacidad de frenar a la Casa Blanca en Irán, sanciones a Rusia y presupuesto de defensa.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Alemania · Berlín, 8 nov",
+              "title": "Merz propone a la primera presidenta federal",
+              "text": "El canciller Friedrich Merz propondrá a Ilse Aigner (CSU), presidenta del Parlamento bávaro y exministra de Agricultura con Merkel, como sucesora de Frank-Walter Steinmeier. Si CDU y CSU lo confirman hoy y el SPD lo acepta, la Asamblea Federal la elegiría el 30 de enero y sería la primera mujer jefa del Estado alemán. El cargo es sobre todo ceremonial, pero la candidatura cierra una fricción de meses entre CDU y CSU.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president",
+                "source": "Al Jazeera"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "20",
+        "statLabel": "días hasta las elecciones generales del 29 de noviembre; la campaña oficial empieza el viernes 13",
+        "title": "El PSOE sube, pero la mayoría sigue a la derecha",
+        "body": [
+          "La encuesta de Ateneo del Dato para elDiario.es, la primera tras la dimisión de Óscar Puente, da al PP el <b style=\"font-weight: 600;\">31,5 %</b> y al PSOE el <b style=\"font-weight: 600;\">28,6 %</b>, un punto más que a finales de octubre. Pero la distancia entre bloques apenas se mueve —13,9 puntos— porque los socios de los dos grandes caen: Vox baja del 19,8 % al 18,6 %, el Frente Amplio del 6,8 % al 6,1 % y Podemos del 2,7 % al 1,5 %. PP y Vox suman el 50,1 % y mantendrían la mayoría absoluta. Sánchez sigue siendo el preferido como presidente, aunque solo con un 26 %, frente al 23 % de Feijóo y el 19 % de Abascal.",
+          "El último domingo de precampaña lo confirmó. Sánchez, en Bilbao, pidió un «voto en masa contra la involución» y prometió blindar en la Constitución la revalorización de las pensiones y el derecho al aborto; a Feijóo, que dijo que una coalición con Vox «no depende» de él, le respondió: «No insulte a la inteligencia de la gente». Feijóo, en Málaga junto a Juanma Moreno, llamó a Sánchez «personaje de cartón piedra», le pidió «menos mirar a Trump y más a los trenes» y repitió promesas ya conocidas: un millón de viviendas y pensiones ligadas al IPC. Vox abrirá la campaña el viernes en Colón con el lema «Es sentido común»."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Congreso_de_los_Diputados%2C_Madrid.jpg/1280px-Congreso_de_los_Diputados%2C_Madrid.jpg",
+          "alt": "Fachada del Congreso de los Diputados en Madrid, con sus columnas y leones",
+          "credit": "AMPERIO · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "El Congreso de los Diputados. El 29-N se eligen sus 350 escaños y la parte electiva del Senado."
+        },
+        "link": {
+          "url": "https://www.eldiario.es/politica/psoe-crece-dimision-oscar-puente-pp-vox-mantienen-mayoria-absoluta_1_13643551.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Estimación de voto para el 29-N",
+          "note": "% de voto · encuesta de Ateneo del Dato para elDiario.es · primera semana de noviembre",
+          "bars": [
+            {
+              "label": "PP",
+              "value": 31.5,
+              "display": "31,5 %",
+              "highlight": true
+            },
+            {
+              "label": "PSOE",
+              "value": 28.6,
+              "display": "28,6 %",
+              "highlight": true
+            },
+            {
+              "label": "Vox",
+              "value": 18.6,
+              "display": "18,6 %"
+            },
+            {
+              "label": "Frente Amplio",
+              "value": 6.1,
+              "display": "6,1 %"
+            },
+            {
+              "label": "Podemos",
+              "value": 1.5,
+              "display": "1,5 %"
+            }
+          ],
+          "footnote": "Fuente: Ateneo del Dato para elDiario.es (noviembre de 2026; sondeo anterior, 25 oct). Bloque PP+Vox: 50,1 %; PSOE+Frente Amplio+Podemos: 36,2 %."
+        },
+        {
+          "type": "analysis",
+          "title": "Un trasvase dentro de cada bloque",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "La dimisión de Puente y el luto por Urda han reordenado los votos dentro de cada bloque, no entre ellos. El PSOE recoge voto útil de su izquierda y el PP de Vox, que fue el único partido que no paró la campaña tras el accidente. El resultado es una foto más bipartidista pero con el mismo saldo: la derecha conserva una ventaja de casi 14 puntos. Las encuestas no podrán publicarse a partir del 24 de noviembre."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Para Sánchez, la única vía es la movilización: de ahí el discurso de «frontera» contra la involución y el intento de nacionalizar el efecto de la derrota republicana en EE.UU. En Catalunya, la competición se ha vuelto triple: Rufián estrenó en Badalona un discurso catalanista —«quiero un PSOE sometido a fuerzas soberanistas»— y Junqueras cargó contra los Comuns, mientras el Frente Amplio fía su remontada a superar el 10 %."
+            }
+          ],
+          "key": "En la circunscripción de Tarragona se reparten seis escaños, y un trasvase de un par de puntos entre PSOE y sus socios puede decidir el último. Fíjate en cómo reaccionan los partidos a las protestas del corredor ferroviario: es el tema que más moviliza ahora en el Camp."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Tarragona · Corredor sur, 7 nov",
+              "title": "300 personas contra los «muros» de Adif",
+              "text": "Unas 300 personas, según la organización, marcharon el sábado del Balcó del Mediterrani a la plaça de la Font contra las pantallas acústicas que Adif quiere instalar en el corredor del litoral: unos <b style=\"font-weight: 600;\">14,2 km</b> en varios municipios del Camp, con tramos de seis a ocho metros de altura. Mercaderies per l’Interior propone barreras bajas, de unos 1,35 metros y junto a la vía, alerta del impacto en el paisaje y en los rescates en caso de accidente, y pide sacar los trenes de mercancías del litoral. Roda de Berà, donde ya hay pantallas, sirvió de ejemplo; su alcalde confía en que el proyecto aún pueda cambiar, aunque las alegaciones se han rechazado.",
+              "link": {
+                "url": "https://laciutat.cat/laciutatdetarragona/tarragona-pren-carrers-contra-murs-adif-300-persones-rebutgen-pantalles-fins-8-metres_904714_102.html",
+                "source": "La Ciutat de Tarragona"
+              }
+            },
+            {
+              "kicker": "Camp de Tarragona · Aceite, 7–8 nov",
+              "title": "«En Tarragona no podemos retirar el 12 %»",
+              "text": "La DOP Siurana rechaza que se aplique a todo el Estado la retirada obligatoria del 12 % del aceite de la campaña 2026/27, que deberá quedar almacenado hasta el 30 de septiembre de 2027 —unas 188.000 toneladas en total—. Sus siete comarcas, en el Camp y las Terres de l’Ebre, prevén una cosecha corta, y el aumento previsto en Andalucía equivale a casi 28 veces todo el aceite que dejará de producir la demarcación, según el Diari de Tarragona. Su presidente, Pere Albà, pide revisar antes las importaciones de Túnez, Marruecos y Portugal y ha solicitado una reunión urgente con el Departament d’Agricultura.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/gastronomia/275060/tarragona-retirar-12-aceite-dop-siurana-carga-gobierno.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Ferrocarril · Renfe, 10–12 nov",
+              "title": "Una semana de huelgas sobre raíles",
+              "text": "El sindicato de maquinistas Semaf mantiene su huelga del martes 10 y los paros parciales del jueves 12 en Renfe, tras reunirse con Carlos Cuerpo, que asumió Transportes tras la dimisión de Puente. Los servicios mínimos van del 75 % en hora punta de Cercanías al 65 % en Media Distancia, el 72 % en Alta Velocidad y el 20 % en Mercancías. Entre medias, el miércoles 11, la huelga general por los salarios y la vivienda. El domingo, Rodalies ya acumuló retrasos de 30 a 60 minutos en toda la red, incluidas las Regionals Sud, por una «incidencia operativa».",
+              "link": {
+                "url": "https://www.eldiario.es/economia/son-servicios-minimos-renfe-huelga-maquinistas-10-12-noviembre_1_13647598.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "Catalunya · Badalona, 8 nov",
+              "title": "Rufián, catalanista y contra Junts",
+              "text": "En su primer mitin sin Irene Montero, ante unas 2.000 personas, Gabriel Rufián se comparó con el Noi del Sucre —que pactó con Romanones la jornada de ocho horas— para defender la negociación frente a quienes la llaman «rendición», en alusión a Junts. «No hay una manera correcta de ser catalán», dijo, contra la «búsqueda de la pureza» de Junts y Aliança. ERC y Podemos no volverán a aparecer juntos en Catalunya durante la campaña.",
+              "link": {
+                "url": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
+                "source": "elDiario.es"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "NASA · Entrevista, 7 nov",
+        "title": "Isaacman: la Luna como garantía de seguridad",
+        "dek": "El administrador de la NASA reconoce que China está «muy cerca» y que llegará a la Luna. Lo que está en juego, dice, no es una bandera: es en quién confiará el mundo para su tecnología y su seguridad.",
+        "body": [
+          "En una entrevista exclusiva con Space.com, Jared Isaacman admitió que la competencia con China es «una carrera espacial real», pero distinta de la de los años sesenta: «Durante la Guerra Fría teníamos ventaja en todos los dominios tecnológicos. Con China no es así; están muy cerca». EE.UU. se ha fijado el regreso a la superficie a finales de <b style=\"font-weight: 600;\">2028</b>, con Artemis IV; China, antes de que acabe <b style=\"font-weight: 600;\">2029</b>. «¿Lo conseguirán? Sí», dijo, y enumeró sus aterrizadores, rovers, trajes y una arquitectura de dos lanzamientos.",
+          "Lo más relevante es el argumento político. Si EE.UU. pierde, «se sentirá en todo el mundo», advirtió: los países se preguntarán si usar inteligencia artificial estadounidense o china, comprar sus ordenadores, coches o barcos, y «en qué garantías de seguridad confiar». Isaacman insiste en una cadencia mínima de un lanzamiento del SLS al año: Artemis III, en 2027, ensayará en órbita baja el acoplamiento de Orion con los aterrizadores de SpaceX y Blue Origin. «Una vez al año es el mínimo», dijo, «y lo defendería ante el Congreso»."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jared_isaacman_official_portrait.jpg/1280px-Jared_isaacman_official_portrait.jpg",
+          "alt": "Retrato oficial de Jared Isaacman, administrador de la NASA",
+          "credit": "NASA · Wikimedia Commons · Dominio público",
+          "caption": "Jared Isaacman, administrador de la NASA. Su mensaje: la carrera lunar es una carrera por la confianza de los aliados."
+        },
+        "link": {
+          "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
+          "source": "Space.com"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Quince días de tráfico intenso",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            {
+              "when": "10 nov",
+              "title": "Senado de EE.UU.",
+              "text": "La Comisión de Comercio examina los nombramientos del director financiero y del inspector general de la NASA."
+            },
+            {
+              "when": "13 nov",
+              "title": "Vulcan · ULA",
+              "text": "Primer lanzamiento desde febrero, con 40 satélites Amazon Leo."
+            },
+            {
+              "when": "13 nov",
+              "title": "Starship · Vuelo 15",
+              "text": "Intento de capturar en la torre el propulsor y, por primera vez, la nave.",
+              "highlight": true
+            },
+            {
+              "when": "18 nov",
+              "title": "Voyager 1",
+              "text": "Primera nave a un día luz de la Tierra, unos 25.900 millones de km."
+            },
+            {
+              "when": "21 nov",
+              "title": "BepiColombo · ESA-JAXA",
+              "text": "Inserción en órbita de Mercurio tras ocho años de viaje."
+            },
+            {
+              "when": "23 nov",
+              "title": "Ariane 6 · Europa",
+              "text": "Vuelta al vuelo con 36 satélites Amazon Leo, no antes de esa fecha.",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuentes: SpacePolicyOnline (8 nov 2026), European Spaceflight, ESA y Science News."
+        },
+        {
+          "type": "analysis",
+          "title": "Del cohete a la alianza",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Isaacman habló el mismo día en que la NASA repartía los contratos de la Moon Base sin socios internacionales, y a cuatro días de la victoria demócrata en las legislativas. El nuevo Congreso, con mayoría demócrata en ambas cámaras desde el 3 de enero, tendrá que aprobar presupuestos o prorrogar antes del 11 de diciembre la financiación provisional. El SLS, que Isaacman quiere lanzar al menos una vez al año, depende de esa voluntad."
+            },
+            {
+              "label": "Qué implica",
+              "text": "El discurso convierte la Luna en un instrumento de política de alianzas: llegar primero sería la prueba de fiabilidad que decide a qué bloque se alinean terceros países, como los firmantes de los Acuerdos Artemis frente a los socios de la ILRS. Para Europa, es la confirmación de que el programa lunar estadounidense se piensa como palanca geopolítica, no como proyecto multilateral."
+            }
+          ],
+          "key": "Esta entrevista es una fuente citable para tu TFG: el máximo responsable de la NASA vincula explícitamente la exploración lunar con las «garantías de seguridad». Contrástala con el discurso de la ESA sobre cooperación y pregúntate qué margen de autonomía queda a Europa si la Luna se convierte en un test de alineamiento."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Lanzadores · Cabo Cañaveral y Starbase, 13 nov",
+              "title": "Un viernes 13 con dos cohetes clave",
+              "text": "ULA lanzará Vulcan por primera vez desde febrero, cuando uno de los propulsores sólidos de Northrop Grumman volvió a fallar —la etapa central compensó y la carga llegó a su órbita—. La Fuerza Espacial ha suspendido sus misiones en Vulcan hasta que se resuelva el problema, así que este vuelo será comercial: 40 satélites Amazon Leo. Esa misma tarde, SpaceX intentará el vuelo 15 de Starship y, por primera vez, capturar propulsor y nave en la torre, con la segunda captura prevista unas 22,5 horas después del despegue.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vulcan_Cert_2_Launch_%288699035%29.jpg/1280px-Vulcan_Cert_2_Launch_%288699035%29.jpg",
+                "alt": "Despegue de un cohete Vulcan de ULA desde Cabo Cañaveral",
+                "credit": "U.S. Space Force · Wikimedia Commons · Dominio público",
+                "caption": "Lanzamiento del vuelo Cert-2 de Vulcan (2024), el primero en sufrir una anomalía en un propulsor sólido."
+              },
+              "link": {
+                "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/",
+                "source": "SpacePolicyOnline"
+              }
+            },
+            {
+              "kicker": "Ariane 6 · Kurú, 23 nov",
+              "title": "Europa vuelve al espacio con un cliente estadounidense",
+              "text": "Arianespace fija para el 23 de noviembre, como pronto, la vuelta al vuelo de Ariane 6 tras un problema en una turbobomba de hidrógeno detectado en pruebas de motor. El retraso ronda las siete semanas. Llevará 36 satélites de Amazon Leo, la constelación rival de Starlink, en la versión de cuatro propulsores. Con esa demora, Arianespace cerrará 2026 con unos seis lanzamientos, frente a los siete u ocho previstos, y apunta a nueve o diez en 2027. El último del año debería llevar el MetOp-SG-B1 de EUMETSAT.",
+              "link": {
+                "url": "https://europeanspaceflight.com/arianespace-targets-23-nov-ariane-6-return-following-reported-turbopump-fix/",
+                "source": "European Spaceflight"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "1939",
+            "text": "Último año en que se había interrumpido el toque de trompeta de la basílica de Santa María de Cracovia, suspendido 12 horas por el atentado del sábado."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "9–20 nov",
+                "what": "Antalya · COP31, con presidencia de Turquía y Australia al frente de la negociación"
+              },
+              {
+                "when": "10–11 nov",
+                "what": "Abu Dabi · Ronda trilateral EE.UU.–Rusia–Ucrania, con presencia europea · Huelga de maquinistas de Renfe (10 y 12)"
+              },
+              {
+                "when": "11 nov",
+                "what": "España · Huelga general por los salarios y la vivienda"
+              },
+              {
+                "when": "13 nov",
+                "what": "Arranca la campaña del 29-N · Vulcan y Starship vuelo 15"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda la entrevista de Isaacman en Space.com (7 nov) junto al comunicado de la Moon Base: la primera da el marco discursivo —la Luna como prueba de fiabilidad aliada— y el segundo, la práctica —contratos solo para la industria estadounidense—. Juntas sostienen la tesis de que Artemis funciona como alianza jerárquica."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Amazon Leo vuela en Vulcan y en Ariane 6 la misma quincena: es el gran cliente comercial de los lanzadores occidentales. Para una empresa europea de subsistemas o servicios en tierra, la cadena de suministro de Amazon Leo —y su necesidad de capacidad de lanzamiento redundante— es una puerta de entrada más rápida que esperar a IRIS²."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Kyiv Post (8 nov), Al Jazeera (8–9 nov), SANA/Reuters (8 nov), elDiario.es y EFE (7–9 nov), La Ciutat de Tarragona (7 nov), Diari de Tarragona (7–8 nov), Reusdigital (8 nov), Space.com (7 nov), SpacePolicyOnline (8 nov), European Spaceflight, ESA, Science News. El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 09.11.2026."
+}

@@ -76,6 +76,13 @@
       "week": 45,
       "date": "2026-11-08",
       "dateLabel": "Domingo, 8 nov 2026"
+    },
+    {
+      "number": 12,
+      "file": "12.json",
+      "week": 46,
+      "date": "2026-11-09",
+      "dateLabel": "Lunes, 9 nov 2026"
     }
   ]
 }
