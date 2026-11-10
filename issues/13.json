@@ -1,0 +1,414 @@
+{
+  "number": 13,
+  "week": 46,
+  "date": "2026-11-10",
+  "dateLabel": "Martes, 10 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Arranca hoy en Abu Dabi la primera ronda trilateral EE.UU.–Rusia–Ucrania desde febrero, con los europeos en el edificio pero fuera de la sala; desde el G7 de París, Wadephul le dice a Rubio que «Europa pertenece a esta mesa».",
+      "Trump da la guerra con Irán por «efectivamente terminada» en lo militar tras recibir al primer ministro catarí, pero mantiene el bloqueo; los hutíes vuelven a golpear el oleoducto Este-Oeste saudí y Teherán habla de «noticias falsas».",
+      "En Tarragona, la huelga indefinida del metal reduce un 87 % el tráfico del puerto en la víspera de la huelga general; en el espacio, la proclamación de Trump sobre la «libertad en el espacio» abre el debate jurídico que interesa a tu TFG."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Abu Dabi y París, 9–11 nov",
+        "title": "La mesa de Abu Dabi, con Europa en el pasillo",
+        "dek": "Rusia, Ucrania y EE.UU. se sientan hoy y mañana en Abu Dabi por primera vez desde febrero, con las garantías de seguridad como primer punto. Los europeos han viajado, pero el Kremlin insiste en que el formato es a tres. Desde París, el G7 sirvió para que Alemania lo dijera en voz alta.",
+        "body": [
+          "La ronda, la tercera del año en la capital emiratí y la primera trilateral desde la de Ginebra del 18 de febrero, durará dos días. Por Rusia negocia de nuevo Vladímir Medinski, con los viceministros Serguéi Riabkov y Mijaíl Galuzin, el jefe de la inteligencia militar, Ígor Kostiukov, y el oficial del Estado Mayor Yuri Zhigarlovski. Por Ucrania, Rustem Umérov, con Kirilo Budánov, David Arajamia, Serhí Kislitsia y Vadim Skibitski; por EE.UU., Steve Witkoff y Jared Kushner. Lavrov espera que la seguridad abra el orden del día. Según Meduza, que cita a Pravda Europea, la UE estará representada por los jefes de gabinete de la Comisión y del Consejo; Alemania, Francia y el Reino Unido, por sus asesores de seguridad nacional, y la OTAN, por Geoffrey van Leeuwen. Umérov celebrará con ellos reuniones de coordinación por separado. Peskov, en cambio, lo dejó claro: son conversaciones «trilaterales».",
+          "Trump dijo el lunes que ve una <b style=\"font-weight: 600;\">«inclinación muy fuerte»</b> a terminar la guerra, y un funcionario estadounidense contó a Reuters que Moscú y Kyiv muestran en privado cierta flexibilidad sobre un posible intercambio territorial, con garantías inspiradas en el artículo 5 de la OTAN. Un alto cargo ucraniano lo negó: cualquier discusión territorial exige a los líderes y garantías previas. Rusia sigue reclamando todo el Donbás, incluido lo que no ha conquistado, y ocupa en torno al 20 % del país. Zelenski aseguró en su mensaje nocturno que sus tropas están «reforzando de verdad» la posición negociadora de Ucrania. En París, en la primera reunión de Rubio con los aliados tras las legislativas, el alemán Johann Wadephul pidió a Rusia renunciar a sus «exigencias maximalistas», advirtió contra un «espectáculo de negociación» y rechazó que haga falta cambiar la arquitectura de seguridad europea, como plantea Kushner."
+        ],
+        "quote": {
+          "text": "Europa pertenece a esta mesa. No puede haber solución sin Europa; solo con Europa.",
+          "author": "Johann Wadephul · Ministro alemán de Exteriores, G7 de París, 9 nov (según AFP y Reuters)"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Johann_Wadephul_and_Andrij_Sybiha_in_Kyiv_%28Aug_2026%29.jpg/1280px-Johann_Wadephul_and_Andrij_Sybiha_in_Kyiv_%28Aug_2026%29.jpg",
+          "alt": "El ministro alemán de Exteriores, Johann Wadephul, junto a su homólogo ucraniano, Andrí Sibiha, en Kyiv",
+          "credit": "Steffen Wurzel · Wikimedia Commons · CC BY 4.0",
+          "caption": "Wadephul y Sibiha en Kyiv, en agosto. Hoy coinciden de nuevo en el G7 de París, mientras sus enviados esperan en Abu Dabi."
+        },
+        "link": {
+          "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks",
+          "source": "Al Jazeera / AFP y Reuters"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Abu Dabi, en cuatro cifras",
+          "items": [
+            {
+              "value": "3.ª",
+              "label": "ronda del año en Abu Dabi; la última trilateral fue en Ginebra, el 18 de febrero"
+            },
+            {
+              "value": "≈ 20 %",
+              "label": "del territorio ucraniano bajo ocupación rusa"
+            },
+            {
+              "value": "≈ 1.200 km",
+              "label": "de línea de frente activa"
+            },
+            {
+              "value": "400.000–450.000",
+              "label": "militares rusos muertos entre febrero de 2022 y junio de 2026, según estimación del CSIS"
+            }
+          ],
+          "footnote": "Fuentes: Al Jazeera (10 nov 2026), France 24 (9 nov 2026) y CNBC, con la estimación del CSIS (9 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Dos mesas para una misma guerra",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Washington quiere dos cosas a la vez: cerrar Ucrania y abrir una negociación más amplia sobre la seguridad europea, que Kushner ha planteado sin consultar antes a las capitales, según el Financial Times. Europa responde con un orden de prioridades: primero, el acuerdo sobre Ucrania; después, y en sus propias estructuras, la arquitectura de seguridad. Kallas lo dijo el lunes en París: Rusia «finge» negociar mientras bombardea a civiles, y los debates sobre la seguridad del continente deben pasar por la UE y sus tratados, no por formatos ad hoc."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si de Abu Dabi sale algo concreto sobre una tregua energética o sobre canjes de territorio, y cómo se reparte la responsabilidad de las garantías: un «artículo 5» sin tropas europeas —Moscú las rechaza— dependería casi entero de EE.UU. Mañana, Sibiha participa en la sesión sobre Ucrania del G7. Y la UE sigue negociando su 22.º paquete de sanciones, que Washington no acompaña."
+            }
+          ],
+          "key": "Para tu TFG, la escena de hoy es un ejemplo de manual: Europa presente en la ciudad pero no en la sala, reivindicando que la seguridad del continente se discuta «en sus estructuras». Es el mismo dilema que en el espacio: actor normativo con voz, pero sin la capacidad —militar u orbital— que da un asiento propio."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · Washington, 9 nov",
+              "title": "Trump: la guerra está «efectivamente terminada»",
+              "text": "Tras reunirse a puerta cerrada con el primer ministro catarí, Mohammed bin Abdulrahman Al Thani, y el vicepresidente Vance, Trump apareció por sorpresa en la sala de prensa: «Irán, en lo militar, está efectivamente terminado». Eso sí, el «statu quo» incluye mantener el bloqueo naval de los puertos iraníes y la nueva Task Force Iron Gate, que busca cortar el comercio terrestre y por el Caspio; los aliados del Golfo, dijo, prefieren que siga. Doha presentó una propuesta de Teherán para cerrar la guerra en dos días. El secretario del Consejo Supremo de Seguridad Nacional iraní, Mohsen Rezaei, habló de «noticias falsas», e Irán mantiene sus siete condiciones, entre ellas levantar sanciones, liberar fondos y reconocer una nueva ruta por Ormuz pactada con Omán. En el Congreso, el republicano Thomas Massie registró ocho artículos de <em>impeachment</em> contra Pete Hegseth; la votación podría llegar el miércoles.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Arabia Saudí · Yemen, 9–10 nov",
+              "title": "Los hutíes vuelven al oleoducto que sortea Ormuz",
+              "text": "El oleoducto Este-Oeste, en la región de Medina, sufrió el lunes un nuevo ataque que causó un «incendio limitado», ya extinguido; según el Ministerio de Energía, sus operaciones no se vieron afectadas. Es la vía por la que Arabia Saudí exporta crudo mientras Irán restringe el paso por Ormuz. Este martes, la coalición interceptó un misil balístico y uno de crucero sobre Riad y otro balístico sobre el sur del reino; los residentes de la capital recibieron alertas para refugiarse. Según la agencia hutí Saba, la coalición respondió con bombardeos en Saná contra una instalación de gas y un edificio de la petrolera estatal.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline",
+                "source": "Al Jazeera / AFP"
+              }
+            },
+            {
+              "kicker": "UE · G7 de París, 9 nov",
+              "title": "Kallas: Rusia «finge» negociar",
+              "text": "La alta representante, Kaja Kallas, dijo en la reunión de ministros de Exteriores del G7 que no ve «buena voluntad» en Moscú y recordó que Rusia ya firmó numerosos acuerdos que sostienen la seguridad europea y no los respetó. Defendió que el futuro de esa seguridad se discuta «de acuerdo con los tratados» de la UE y avanzó que varios Estados miembros compartirán en los próximos días sus sospechas sobre la oleada de falsas amenazas de bomba en el continente. A la reunión asisten también Arabia Saudí, Egipto, Corea del Sur y Brasil; hoy se habla de Irán.",
+              "link": {
+                "url": "https://www.timeslive.co.za/news/world/2026-11-09-eus-kallas-accuses-russia-of-targeting-civilians-amid-stalled-talks/",
+                "source": "TimesLIVE / Reuters"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Política interna, 9–10 nov",
+              "title": "Trump ahora duda de las urnas que perdió",
+              "text": "Menos de una semana después de felicitar a los demócratas, Trump preguntó en Truth Social: «¿De verdad alguien cree que estas “elecciones” fueron honestas?», sin aportar pruebas. Un día antes había dicho en <em>60 Minutes</em> que aceptaba el resultado. Chuck Schumer respondió que la vuelta al negacionismo era «inevitable». Una encuesta de YouGov para el Eurasia Group, cerrada la víspera del 3 de noviembre, ayuda a entender la derrota: el <b style=\"font-weight: 600;\">44 %</b> era menos propenso a votar a un candidato que apoyara la guerra con Irán, frente a un 13 % más propenso, y el 53 % cree que el Congreso debe decidir cuándo termina, frente al 29 % que se lo atribuye al presidente.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Clima · COP31, Antalya, 9–20 nov",
+              "title": "Turquía quiere la «era de la electricidad»",
+              "text": "La cumbre del clima arrancó en Antalya con la presidencia turca empujando un compromiso no vinculante, «35 para 2035»: que la electricidad sea al menos el 35 % de la demanda mundial de energía en 2035, frente a una quinta parte hoy, según la AIE. «La energía que importas es energía que no controlas», dijo el presidente de la COP, Murat Kurum. Los ecologistas critican que no exige que esa electricidad sea baja en carbono; los pequeños Estados insulares piden una hoja de ruta para dejar los fósiles, y Arabia Saudí defiende su papel con captura de emisiones. La guerra de Irán y Ormuz pesan sobre toda la negociación.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open",
+                "source": "Al Jazeera / AFP y Reuters"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "87 %",
+        "statLabel": "menos tráfico de camiones y turismos en el Puerto de Tarragona hasta el mediodía del lunes, primer día de la huelga indefinida del metal",
+        "title": "El metal cierra el puerto en la víspera de la huelga general",
+        "body": [
+          "Más de 600 trabajadores del metal de Tarragona iniciaron el lunes una huelga indefinida con piquetes en la A-27, la N-340 y los accesos del puerto —Moll de Reus y Dic de Llevant—. Hasta las doce, la circulación había caído un <b style=\"font-weight: 600;\">87,24 %</b>, según la ACN. El sistema de entrega de graneles agroalimentarios registró 29 entregas de cereal, frente a 693 en la misma franja de 2025, y se cancelaron las tres salidas de tren previstas. Los fabricantes de piensos de Catalunya y Aragón alertan de una «greu afectació» y piden corredores logísticos u horarios específicos. La Autoridad Portuaria ha habilitado un carril de entrada y otro de salida para emergencias y mercancías peligrosas.",
+          "La convoca la Plataforma del Metall de Tarragona, que considera «precipitat i insuficient» el convenio firmado por CCOO y UGT tras un año y dieciocho reuniones. Su tabla tiene 21 puntos: jubilación a los 60, jornada de 35 horas, igualar los salarios con Barcelona —entre 500 y 600 euros al mes de diferencia, según su portavoz, Raül Samarra— y pluses de peligrosidad para el personal de contratas en las refinerías. «L’única força que tenim és sortir al carrer», resume Samarra. Mañana se le suma la huelga general por los salarios y la vivienda, con servicios mínimos fijados por Transportes, y hoy y el jueves, los paros de los maquinistas de Renfe."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Port_de_Tarragona_-_51313194198.jpg/1280px-Port_de_Tarragona_-_51313194198.jpg",
+          "alt": "Vista del Puerto de Tarragona con muelles, grúas y buques",
+          "credit": "Jorge Franganillo · Wikimedia Commons · CC BY 2.0",
+          "caption": "El Puerto de Tarragona, uno de los grandes nodos de graneles agroalimentarios del Mediterráneo, en una imagen de archivo."
+        },
+        "link": {
+          "url": "https://reusdigital.cat/noticies/economia/la-protesta-del-sector-del-metall-redueix-un-88-la-circulacio-de-camions-i",
+          "source": "Reusdigital / ACN"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Servicios mínimos de Renfe para la huelga general del 11-N",
+          "note": "% de trenes garantizados · Cercanías en hora punta",
+          "bars": [
+            {
+              "label": "Cercanías (punta)",
+              "value": 75,
+              "display": "75 %",
+              "highlight": true
+            },
+            {
+              "label": "Larga distancia y AV",
+              "value": 73,
+              "display": "73 %"
+            },
+            {
+              "label": "Media distancia",
+              "value": 65,
+              "display": "65 %",
+              "highlight": true
+            },
+            {
+              "label": "Cercanías (resto)",
+              "value": 50,
+              "display": "50 %"
+            },
+            {
+              "label": "Mercancías",
+              "value": 26,
+              "display": "26 %"
+            }
+          ],
+          "footnote": "Fuente: Ministerio de Transportes, recogido por elDiario.es (9 nov 2026). Horas punta: 6.00–9.00, 13.30–15.30 y 18.30–20.30. Las Regionals del Camp cuentan como media distancia."
+        },
+        {
+          "type": "analysis",
+          "title": "Una semana de conflictos en plena precampaña",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El metal, los maquinistas, los agricultores encerrados en los servicios territoriales de Agricultura y la huelga general coinciden en la última semana antes de que arranque la campaña, el viernes 13. Feijóo llamó a la huelga general «un disparate sin precedentes» que «no existe» en otros países de la UE y lamentó que se convoque al día siguiente del funeral de Estado por las víctimas de Urda. Sánchez no se pronunció sobre ella —«yo lo respeto»—, pero dijo que el disparate es cuestionar el derecho a la huelga."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Los conflictos laborales se han convertido en terreno electoral. El Frente Amplio ve el 11-N como un «hito» para su campaña, centrada en vivienda y coste de la vida, y el PP los usa para describir un país desgobernado. En Catalunya, Illa ha pedido buscar «servicios alternativos» al tren y ha dicho que entiende el ánimo de los maquinistas tras Urda, pero no su «actitud de no ir a trabajar»; el director de Rodalies avisa de que el Govern «actuará» si no se cumplen los mínimos."
+            }
+          ],
+          "key": "Si vas a Barcelona o a Tarragona esta semana, cuenta con dos días de paros en Renfe y la huelga general en medio: los usuarios de la R-13 ya denuncian que no se cumplen los mínimos. Y fíjate en el puerto: su bloqueo es la prueba de cuánto depende el Camp de la logística de graneles."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "29-N · Debates, 9 nov",
+              "title": "La Academia de la Televisión organizará los debates",
+              "text": "Tras días de bloqueo por el veto del PP a RTVE, el PSOE propuso que la Academia de las Ciencias y las Artes de Televisión produzca los debates con una «señal neutral y abierta», como en 2015 y 2019. Por la tarde, el PP aceptó, con la condición de que las direcciones de campaña participen en el diseño. Podemos apoya la fórmula y pide que Irene Montero esté presente, algo que Atresmedia había descartado.",
+              "link": {
+                "url": "https://www.eldiario.es/politica/psoe-propone-academia-television-organice-debates-electorales-si-pp-mantiene-veto-rtve_1_13649719.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "29-N · Sánchez, 9 nov",
+              "title": "Sánchez pide investigar los pagos a Koldo García",
+              "text": "En La Séptima, el presidente dijo que «hay pruebas» para investigar si se pagó a Koldo García, exasesor de Ábalos, para difundir falsedades contra el Gobierno, y citó una factura de <b style=\"font-weight: 600;\">264.000 euros</b> abonada por la editora de Okdiario a su abogada. «Mientras nosotros hemos expulsado la corrupción, el Partido Popular la ha comprado», afirmó. Gamarra reconoce la reunión del abogado del PP con Koldo, pero niega que se le ofreciera dinero. Sánchez prevé una participación «histórica», por encima del 70 % de 2023.",
+              "link": {
+                "url": "https://www.eldiario.es/politica/sanchez-pide-justicia-investigue-pagos-koldo-garcia-mintiera-gobierno_1_13650855.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "29-N · Frente Amplio, 9 nov",
+              "title": "Dieciséis provincias, Tarragona incluida",
+              "text": "La alianza de Ada Colau y Emilio Delgado concentrará la campaña en 16 provincias donde cree poder pelear el último escaño, entre ellas Tarragona, Barcelona, Madrid y Sevilla. El lema será «Un voto como una casa». Su objetivo es el 10 %; la última encuesta de Ateneo del Dato le da el 6,1 %. «El escaño que se va a jugar el Frente Amplio se lo juega con el PP y con Vox», dijo el portavoz, Pablo Bustinduy. El miércoles, Abascal hace campaña en el Recinte Firal de Tarragona, a las 19.30.",
+              "link": {
+                "url": "https://www.eldiario.es/politica/frente-amplio-centrara-campana-16-provincias-pelear-ultimo-escano_1_13650440.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "Tarragona · Ayuntamiento, 10 nov",
+              "title": "Los presupuestos de Viñuales, después del 29-N",
+              "text": "El gobierno de Rubén Viñuales (PSC) no llevará las cuentas de 2027 a la comisión del jueves ni al pleno del 20 de noviembre: no tiene acuerdo con En Comú Podem ni con Junts. Sería la primera vez en el mandato que la ciudad empieza el año sin presupuesto actualizado. ECP ha cerrado una bonificación del 95 % del ICIO para quien construya vivienda social; Junts no descarta abstenerse si hay un pacto de mínimos.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275320/vinuales-deja-votacion-cuentas-despues-elecciones-29-n.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "EE.UU. · Proclamación 11079, 3–8 nov",
+        "title": "La «libertad en el espacio», sin tratado y sin dinero",
+        "dek": "Trump firmó el día de las legislativas una proclamación que declara el sistema solar abierto a la presencia permanente de ciudadanos estadounidenses. No nombra el Tratado del Espacio Exterior ni los Acuerdos Artemis, no asigna fondos y, según SpaceNews, reafirma sobre todo lo que ya existía.",
+        "body": [
+          "«La Declaración Estadounidense de Libertad en el Espacio», publicada el 6 de noviembre en el Registro Federal, tiene una sola cláusula operativa: el sistema solar y todo el espacio más allá de la Tierra son <b style=\"font-weight: 600;\">«provincia de toda la humanidad»</b> y están abiertos a la exploración, el desarrollo, el uso y una presencia permanente de ciudadanos estadounidenses, «de forma coherente con la legislación de Estados Unidos y sus obligaciones internacionales». El resto es programa: volver a la Luna en <b style=\"font-weight: 600;\">2028</b>, sentar las bases de una presencia lunar permanente y acercar el día en que un estadounidense pise Marte. Sobre recursos, una frase genérica: «Construiremos las instalaciones, desarrollaremos los recursos y estableceremos una presencia permanente en el espacio».",
+          "Las lecturas divergen. Scott Pace, exsecretario ejecutivo del Consejo Nacional del Espacio, sostiene que hablar de «provincia de toda la humanidad» es «plenamente coherente» con el derecho espacial, pero matiza que no convierte el espacio en un bien común global en sentido jurídico. SpacePolicyOnline subraya que no da directrices ni financiación. New Space Economy recuerda lo que no resuelve: el artículo II del Tratado de 1967 prohíbe la apropiación nacional, el artículo VI hace a los Estados responsables de sus empresas, y la propiedad de recursos sigue descansando en la ley estadounidense de 2015."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Artemis_Era_Earthrise_%28art002e009280b%29.jpg/1280px-Artemis_Era_Earthrise_%28art002e009280b%29.jpg",
+          "alt": "La Tierra asomando sobre el horizonte lunar, fotografiada desde la nave Orion durante Artemis II",
+          "credit": "NASA/JSC · Wikimedia Commons · Dominio público",
+          "caption": "Salida de la Tierra fotografiada durante Artemis II, en abril. La proclamación cita esa misión como el inicio de una «presencia permanente»."
+        },
+        "link": {
+          "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/",
+          "source": "SpacePolicyOnline"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "De la orden ejecutiva a la base lunar",
+          "note": "Hitos de la política lunar de EE.UU. · fechas futuras, objetivo oficial",
+          "items": [
+            {
+              "when": "Dic 2025",
+              "title": "Orden ejecutiva",
+              "text": "Fija la vuelta a la Luna en 2028 y un primer puesto avanzado lunar en 2030."
+            },
+            {
+              "when": "Abr 2026",
+              "title": "Artemis II",
+              "text": "Primera misión tripulada alrededor de la Luna desde 1972."
+            },
+            {
+              "when": "3 nov 2026",
+              "title": "Proclamación 11079",
+              "text": "«Declaración de Libertad en el Espacio», firmada el día de las legislativas.",
+              "highlight": true
+            },
+            {
+              "when": "2027",
+              "title": "Artemis III",
+              "text": "Ensayo en órbita baja del acoplamiento de Orion con los aterrizadores de SpaceX y Blue Origin."
+            },
+            {
+              "when": "2028",
+              "title": "Artemis IV",
+              "text": "Regreso de astronautas a la superficie lunar.",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuentes: Registro Federal (91 FR 70767, 6 nov 2026), SpacePolicyOnline (4 nov 2026) y New Space Economy (4 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Un texto ambiguo a propósito",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "La proclamación llega una semana después de que la NASA repartiera los contratos de la Moon Base sin socios internacionales. Su lenguaje —«provincia de toda la humanidad»— está tomado del artículo I del Tratado de 1967, pero lo une a una «presencia permanente» estadounidense y a la promesa de «desarrollar los recursos», sin mencionar ni el tratado ni los Acuerdos Artemis."
+            },
+            {
+              "label": "Qué implica",
+              "text": "No crea derechos ni obligaciones nuevas, pero fija un relato: EE.UU. interpreta el derecho espacial vigente como compatible con asentarse y explotar recursos, y lo hace por decisión unilateral, no en el COPUOS. Para China y Rusia, que acusan a Artemis de querer reescribir las normas fuera de la ONU, es un argumento más; para Europa, una nueva señal de que la fase normativa de los recursos lunares se está decidiendo por la vía de los hechos consumados."
+            }
+          ],
+          "key": "Este documento es oro para tu capítulo normativo: cita textualmente la cláusula operativa y compárala con el artículo II del Tratado del Espacio Exterior y con la sección 10 de los Acuerdos Artemis. La ausencia de ambos en el texto es, en sí misma, un dato."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Lanzadores europeos · SaxaVord, 9 nov",
+              "title": "RFA ONE se va a 2027; Londres entra en SaxaVord",
+              "text": "Rocket Factory Augsburg, participada en un 65,1 % por OHB, ha confirmado que el primer vuelo de RFA ONE desde la isla escocesa de Unst se retrasa a 2027, tras desmontar el cohete en julio por un problema en pruebas que nunca detalló. El mismo día se supo que el Gobierno británico controla ya entre el 25 % y el 50 % de la sociedad que opera SaxaVord, tras una inversión público-privada de unos 60 millones de libras —30 públicos— para terminar tres plataformas y un segundo hangar.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Latitude_Test_Zone_at_SaxaVord_Spaceport_1.jpg/1280px-Latitude_Test_Zone_at_SaxaVord_Spaceport_1.jpg",
+                "alt": "Zona de pruebas de motores de la empresa Latitude en el puerto espacial de SaxaVord, en las islas Shetland",
+                "credit": "Latitude · Wikimedia Commons · CC BY-SA 4.0",
+                "caption": "Instalaciones de pruebas en SaxaVord (Shetland), desde donde debe despegar RFA ONE."
+              },
+              "link": {
+                "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/",
+                "source": "European Spaceflight"
+              }
+            },
+            {
+              "kicker": "Comunicaciones · París y Tampa, 9 nov",
+              "title": "Francia autoriza la constelación de Globalstar",
+              "text": "Francia ha dado a Globalstar —la operadora estadounidense que da servicio satelital a los iPhone— la autorización para lanzar y operar sus <b style=\"font-weight: 600;\">54 satélites</b> de nueva generación de conexión directa al móvil, que quiere empezar a desplegar el año que viene. Es un caso curioso de soberanía regulatoria: un sistema estadounidense que compite en el mismo mercado que Starlink y Amazon se licencia bajo jurisdicción europea.",
+              "link": {
+                "url": "https://spacenews.com/globalstar-gets-approval-to-deploy-next-gen-direct-to-device-constellation/",
+                "source": "SpaceNews"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "29 / 693",
+            "text": "Entregas de cereal en el Puerto de Tarragona hasta el mediodía del lunes, frente a las de la misma franja de 2025: una caída del 95,8 %."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "10–11 nov",
+                "what": "Abu Dabi · Ronda trilateral EE.UU.–Rusia–Ucrania · París · G7 de Exteriores, con Sibiha e Irán en el orden del día"
+              },
+              {
+                "when": "11 nov",
+                "what": "España · Huelga general · Tarragona · Abascal en el Recinte Firal (19.30) · Posible votación sobre Hegseth en la Cámara de EE.UU."
+              },
+              {
+                "when": "13 nov",
+                "what": "Arranca la campaña del 29-N · Vulcan con Amazon Leo y Starship, vuelo 15"
+              },
+              {
+                "when": "13–14 nov",
+                "what": "Reus · Fira de l’Oli DOP Siurana"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Descarga la Proclamación 11079 del Registro Federal (91 FR 70767) y ponla junto a la orden ejecutiva de diciembre de 2025 y la entrevista de Isaacman: forman una secuencia de discurso —«libertad», «presencia permanente», «garantías de seguridad»— que puedes contrastar con la posición europea en el COPUOS."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "El Reino Unido acaba de convertirse en accionista de su propio puerto espacial y Alemania sigue sosteniendo a RFA pese al retraso: los Estados europeos están comprando capacidad soberana de lanzamiento. Para una empresa de servicios en tierra, telemetría o integración, los puertos de SaxaVord, Andøya o Esrange son clientes con financiación pública asegurada."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera (9–10 nov), AFP y Reuters (9–10 nov), Meduza (9 nov), France 24 (9 nov), CNBC (9 nov), The Globe and Mail/AP (9 nov), TimesLIVE/Reuters (9 nov), Reusdigital/ACN (9 nov), elDiario.es (9–10 nov), Diari de Tarragona (9–10 nov), SpacePolicyOnline (4 nov), Registro Federal de EE.UU. (6 nov), New Space Economy (4 nov), SpaceNews (8–9 nov), European Spaceflight (9 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 10.11.2026."
+}
