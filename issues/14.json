@@ -1,0 +1,418 @@
+{
+  "number": 14,
+  "week": 46,
+  "date": "2026-11-11",
+  "dateLabel": "Miércoles, 11 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Cuatro horas de conversación en Abu Dabi, calificadas de «constructivas» por Zelenski y «muy productivas» por Rubio, con canje de prisioneros y garantías de seguridad sobre la mesa; hoy se cierra la ronda mientras Europa discute la «arquitectura de seguridad» que Kushner quiere reabrir.",
+      "En Washington, los republicanos frenan por 211 votos a 204 el <em>impeachment</em> de Hegseth; en Europa, Merz ata el presupuesto de la UE a la ayuda a Ucrania y Fico lo llama «chantaje», mientras Francia acusa a Irán del primer gran sabotaje informático en su territorio.",
+      "España vive su primera huelga general de CCOO y UGT desde 2012, con el petroquímico de Tarragona al 83,5 % según los sindicatos; en el espacio, la avanzadilla robótica de la base lunar de la NASA se queda sin un solo aterrizaje en 2026."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Abu Dabi y Bruselas, 10–11 nov",
+        "title": "Abu Dabi habla de presos; Europa, de arquitectura",
+        "dek": "La primera trilateral en nueve meses duró cuatro horas y se centró en lo humanitario y en las garantías de seguridad. Hoy es el segundo y último día. En paralelo, la propuesta de Kushner de rediseñar la seguridad del continente ha tocado un nervio en las capitales europeas.",
+        "body": [
+          "Zelenski, que siguió la jornada desde Copenhague, la calificó de «constructiva y bastante sustanciosa»: se habló de canjes de prisioneros, del regreso de civiles cautivos y de los niños deportados a Rusia, y de garantías de seguridad. Un alto cargo ucraniano contó a AP que se discutió un <b style=\"font-weight: 600;\">intercambio de prisioneros a gran escala</b>, cuyos detalles se cerrarán en los próximos días. Kushner abrió la sesión hablando de «un nuevo marco y un nuevo entendimiento» que dure «décadas, si no siglos», y Medinski presumió de una delegación rusa «más grande y más profesional». Desde el G7 de París, Rubio la vio «muy productiva», pero pidió paciencia: «No es algo que esté a punto de resolverse en las próximas 24 horas». Antes de la reunión principal, el equipo de Rustem Umérov se coordinó por separado con los representantes de la UE, la OTAN y los europeos; Moscú sigue sin ver sitio para ellos en la sala.",
+          "La guerra no se detuvo. Rusia dice haber derribado <b style=\"font-weight: 600;\">146 drones</b> sobre la región de Leningrado, donde el lunes ardió la refinería de Kirishi, la segunda mayor del país, y un incendio afectó al puerto báltico de Ust-Luga; Letonia y Lituania pidieron a sus vecinos refugiarse. En Copenhague, Dinamarca anunció un paquete militar de 4.800 millones de coronas (unos 643 millones de euros). Y en Bruselas creció la inquietud por la palabra de moda: tras el mensaje de Kushner, que atribuye la guerra a «décadas de desconfianza» entre Europa y Rusia, Kallas, Wadephul y Von der Leyen respondieron con la misma idea: la arquitectura existe —Helsinki 1975, la Carta de París de 1990, el Memorándum de Budapest de 1994— y quien la ha roto es Moscú. Para Von der Leyen, cualquier debate serio sobre ella llegará «solo una vez lograda una tregua en Ucrania»."
+        ],
+        "quote": {
+          "text": "Tenemos una arquitectura de seguridad europea. El único que la está violando es Rusia.",
+          "author": "Kaja Kallas · Alta representante de la UE, G7 de París, 9 nov (según Euronews)"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaja_Kallas_in_Switzerland_-_2026_-_%28P-069130%29.jpg/1280px-Kaja_Kallas_in_Switzerland_-_2026_-_%28P-069130%29.jpg",
+          "alt": "La alta representante de la UE, Kaja Kallas, durante una visita oficial a Zúrich",
+          "credit": "Unión Europea · Wikimedia Commons · CC BY 4.0",
+          "caption": "Kaja Kallas en Zúrich, en marzo. Esta semana ha liderado la respuesta europea a la idea de una nueva «arquitectura de seguridad»."
+        },
+        "link": {
+          "url": "https://www.euronews.com/2026/11/11/why-talk-of-security-architecture-has-struck-a-nerve-in-europe",
+          "source": "Euronews"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Ucrania, entre la mesa y el frente",
+          "items": [
+            {
+              "value": "≈ 4 h",
+              "label": "duró la primera sesión trilateral en Abu Dabi, la primera en nueve meses"
+            },
+            {
+              "value": "146",
+              "label": "drones que Rusia dice haber derribado sobre la región de Leningrado"
+            },
+            {
+              "value": "643 M€",
+              "label": "nuevo paquete militar danés para Ucrania"
+            },
+            {
+              "value": "≈ 45.000 M€",
+              "label": "los dos tercios del agujero ucraniano de 70.000 millones para 2027 que la UE promete cubrir"
+            }
+          ],
+          "footnote": "Fuentes: NPR/AP (10 nov 2026), Al Jazeera/Reuters (11 nov 2026) y Euronews (10 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "La palabra que inquieta a Europa",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Trump habló de un acuerdo «muy grande y bonito» que «podría implicar a toda Europa», y Kushner lo desarrolló en un largo mensaje con principios para un entorno de seguridad «más estable y predecible». Los europeos leen ahí una trampa: si la negociación pasa de Ucrania a la seguridad del continente, Moscú gana voz sobre despliegues de la OTAN y decisiones que hoy no le corresponden, y la agresión queda diluida en un «malentendido» de treinta años."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si el segundo día de Abu Dabi cierra un canje de prisioneros con cifra y fecha, que sería el primer resultado tangible. Si Kushner concreta el «contacto directo» entre Rusia y los europeos que anunció el lunes. Y el Consejo Europeo informal de Dublín de esta semana, donde Costa ha prometido «una discusión amplia» sobre Ucrania tras el ultimátum de Merz."
+            }
+          ],
+          "key": "Para tu TFG es un paralelo casi perfecto: Europa defiende el marco jurídico existente —Helsinki, la Carta de París— frente a un socio que propone reescribirlo con «nuevos entendimientos». Es la misma tensión que entre el Tratado del Espacio Exterior y los Acuerdos Artemis, y en ambos casos Europa argumenta desde las normas porque le falta peso material."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EE.UU. · Cámara de Representantes, 10 nov",
+              "title": "Hegseth sobrevive: 211 a 204",
+              "text": "La Cámara, aún de mayoría republicana hasta enero, votó remitir a la Comisión Judicial los ocho artículos de <em>impeachment</em> que Thomas Massie registró contra el secretario de Defensa, lo que en la práctica congela el proceso. Massie fue el único republicano en contra; once demócratas no votaron. Los artículos le acusan de violar la Ley de Poderes de Guerra en Irán, de un ataque a una escuela con más de 200 civiles muertos, de los bombardeos a lanchas en el Caribe y el Pacífico (243 muertos) y de ejecutar la captura de Maduro, que el texto llama «secuestro». Hegseth habló de «farsa»; Trump celebró que el intento «fracasó miserablemente».",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth",
+                "source": "Al Jazeera / AP"
+              }
+            },
+            {
+              "kicker": "UE · Presupuesto, 10 nov",
+              "title": "Merz ata el presupuesto a Ucrania; Fico habla de «chantaje»",
+              "text": "En una carta a António Costa, el canciller alemán exige que el compromiso de nueva ayuda a Ucrania sea un «requisito previo esencial» para aprobar el próximo marco financiero plurianual. La UE prometió cubrir dos tercios del agujero de 70.000 millones que Kyiv afronta el año que viene, previsiblemente con deuda común. Eslovaquia, Chequia, Hungría y Bulgaria se oponen: Fico lo llamó «un caso de manual de chantaje» y amenazó con su propio veto; Babiš recordó que el presupuesto ya reserva 100.000 millones para Ucrania, aunque a partir de 2028, y Péter Magyar dijo en Berlín que Hungría no puede asumir más deuda. Costa quiere llevar el debate a una cumbre especial a final de mes.",
+              "link": {
+                "url": "https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid",
+                "source": "Euronews"
+              }
+            },
+            {
+              "kicker": "Francia · Irán, 10 nov",
+              "title": "París atribuye a Irán un sabotaje a 700 supermercados",
+              "text": "El ministro Jean-Noël Barrot convocó al embajador iraní tras atribuir a la Guardia Revolucionaria el ciberataque del 11 y 12 de octubre que accedió en remoto a las neveras de más de 700 supermercados para lanzar «ciclos de descongelación anormales e indefinidos». Lo describió como «el primer ciberataque a gran escala con fines de sabotaje» en suelo francés, pedirá sanciones europeas y no descarta medidas que «quizá no se hagan públicas». Teherán califica las acusaciones de «infundadas».",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+                "source": "Al Jazeera / Reuters"
+              }
+            },
+            {
+              "kicker": "Irán · Reino Unido y EE.UU., 10 nov",
+              "title": "Cargos por el complot contra la base de Fairford",
+              "text": "El Departamento de Justicia acusa a tres hombres, a los que vincula con la Guardia Revolucionaria y con la milicia iraquí Kataib Hezbolá, de participar en casi veinte ataques o intentos en EE.UU. y Europa. El caso gira en torno a RAF Fairford, en el suroeste de Inglaterra, desde donde despegaban bombarderos estadounidenses contra Irán: en septiembre, un granjero alertó de furgonetas camufladas como camiones de combustible, algunas con bidones. EE.UU. retiró después sus B-1 de la base y esta semana ha trasladado aviones de una segunda base británica.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Israel · Knesset, 10 nov",
+              "title": "Herzog pide evitar otras elecciones",
+              "text": "En la sesión inaugural de la 26.ª Knesset, el presidente pidió a los partidos «hacer concesiones» y hacer «todo lo posible» para no repetir los comicios, y reclamó una investigación sobre el 7 de octubre sin dejar «piedra sin remover». Gadi Eisenkot, encargado de formar Gobierno, tiene 28 días, prorrogables 14, y promete un «Gobierno de emergencia nacional»; su bloque, también sin mayoría, quiere aprobar cuanto antes una comisión independiente, que Netanyahu, ahora primer ministro en funciones, siempre rechazó.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Golfo · Kuwait, 10 nov",
+              "title": "El CCG crea un cuartel avanzado en Kuwait",
+              "text": "Los ministros de Defensa de Arabia Saudí, Bahréin, Catar, Emiratos, Kuwait y Omán acordaron instalar en Kuwait un cuartel general avanzado de su Mando Militar Unificado, creado en 2013 y con sede en Riad desde 2021, y asignarle fuerzas «apropiadas», sin detallar cuántas. Es la respuesta a una guerra que ha llevado misiles y drones iraníes y hutíes a sus infraestructuras energéticas. Los analistas debaten si es un paso hacia menos dependencia de Washington o solo una capa más de protección.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Rusia · Moscú, 11 nov",
+              "title": "La OTSC se reúne con la silla de Armenia vacía",
+              "text": "Putin preside hoy el Consejo de Seguridad Colectiva de la Organización del Tratado de Seguridad Colectiva, el bloque militar postsoviético que lidera Moscú. Armenia tiene congelada su participación desde febrero de 2024, tras culpar a la organización de no ayudarla frente a Azerbaiyán, y su primer ministro, Nikol Pashinián, dijo el 5 de noviembre que el interés de su país por la OTSC «ha seguido su curso». La cumbre medirá cuánto control le queda al Kremlin sobre sus antiguos aliados.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies",
+                "source": "Al Jazeera"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "83,5 %",
+        "statLabel": "de seguimiento de la huelga general en el sector petroquímico de Tarragona en las primeras horas, según CCOO y UGT",
+        "title": "La primera huelga general en catorce años para el Camp",
+        "body": [
+          "CCOO y UGT, junto al Sindicato de Inquilinas y CGT, paran hoy España durante 24 horas bajo el lema «salarios, vivienda, precios»; es la primera huelga general de las dos grandes centrales desde 2012. El detonante fue el desahucio en septiembre de Maricarmen Abascal, de 87 años, que acabó desembocando en el adelanto electoral. Según el Banco de España, al país le faltan <b style=\"font-weight: 600;\">750.000 viviendas</b>, y el Consejo de la Juventud calcula un alquiler medio de 1.176 euros frente a un salario joven de 1.190. En Catalunya, la Generalitat ha fijado un 25 % de transporte público en las franjas de 6.30 a 9.30 y de 16.30 a 21.00, sin mínimos fuera de ellas, y los piquetes han cortado una treintena de carreteras, entre ellas la AP-7 y la Ronda Litoral.",
+          "En Tarragona, los piquetes arrancaron a las 5.45 en la plaza Imperial Tàrraco y cortaron los puentes del Francolí y de Joan XXIII y el acceso por el Parc Central, con quema de neumáticos; un piquete fue atropellado en el puente de Joan Miró y atendido por una ambulancia. En Reus, un vehículo habría intentado arremeter contra los manifestantes en la T-11, en la salida hacia Agro-Reus. Los secretarios generales de CCOO y UGT en Tarragona, Mercè Puig y Jorge Porté, hacen un «balance positivo» y denuncian que algunas empresas sacaron más autobuses de los permitidos; la EMT circula al 25 %. La manifestación unitaria sale a las 18.00 de la plaza Imperial Tàrraco. Foment Empresarial de Tarragona rechaza el paro y pide diálogo."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tarragona_-_Plaza_Imperial_Tarraco_1.jpg/1280px-Tarragona_-_Plaza_Imperial_Tarraco_1.jpg",
+          "alt": "Vista de la plaza Imperial Tàrraco de Tarragona, con su rotonda y los edificios que la rodean",
+          "credit": "Zarateman · Wikimedia Commons · CC0",
+          "caption": "La plaza Imperial Tàrraco, punto de partida de los piquetes de madrugada y de la manifestación de esta tarde."
+        },
+        "link": {
+          "url": "https://www.diaridetarragona.com/tarragona/275395/huelga-general-comarcas-tarragona-minuto-minuto.html",
+          "source": "Diari de Tarragona"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "El 11-N, en cuatro cifras",
+          "items": [
+            {
+              "value": "2012",
+              "label": "última huelga general convocada por CCOO y UGT"
+            },
+            {
+              "value": "750.000",
+              "label": "viviendas que faltan en España, según el Banco de España; más de un millón en 2028"
+            },
+            {
+              "value": "1.176 / 1.190 €",
+              "label": "alquiler medio frente a salario medio de un joven, según el Consejo de la Juventud"
+            },
+            {
+              "value": "25 %",
+              "label": "de transporte público en Catalunya en las horas punta; ningún mínimo fuera de ellas"
+            }
+          ],
+          "footnote": "Fuentes: Al Jazeera (10 nov 2026), Diari Més y Diari de Tarragona (11 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Una huelga que ya es campaña",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El paro llega un día después del funeral de Estado por las 69 víctimas de Urda y dos antes del arranque oficial de la campaña. El Gobierno se ha colocado del lado de los convocantes —Sánchez no lo respalda explícitamente, pero reivindica la jornada de ocho horas y la sanidad pública como «conquistas colectivas»— y el PP ha pasado de pedir «medidas excepcionales» contra desahucios a cargar contra la huelga; Ayuso llamó «basura» a los sindicatos."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La vivienda vuelve al centro del debate, que es lo que buscaba Moncloa. Pero el analista Luke Stobart advierte a Al Jazeera de que no está claro que las grandes centrales y el Gobierno controlen el relato: ELA, LAB, CIG o CGT también culpan a los gobiernos de no frenar la especulación, y la protesta podría derivar en una ola social que se vuelva contra el PSOE."
+            }
+          ],
+          "key": "En el Camp, la huelga general se suma al tercer día de la indefinida del metal y a las protestas agrarias: si te mueves hoy entre Reus y Tarragona, evita la T-11 y la A-27 en hora punta y cuenta con un autobús cada hora u hora y media."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "29-N · PP, 10 nov",
+              "title": "El PP incorpora la «prioridad nacional» de Vox",
+              "text": "El programa de Feijóo promete «criterios de prioridad» en ayudas y servicios públicos para quien tenga un «arraigo real, duradero y verificable» con España —empadronamiento, cotizaciones, permanencia—, «dentro de los límites constitucionales y europeos», sin basarse solo en la nacionalidad. Es la fórmula que PP y Vox ya aplican en cuatro comunidades. Incluye también llevar al ámbito estatal la ley madrileña del concebido no nacido, modificar el ingreso mínimo vital y atajar el «absentismo injustificado». En vivienda, propone derogar la ley estatal y su regulación de precios en zonas tensionadas.",
+              "link": {
+                "url": "https://www.eldiario.es/politica/pp-asume-programa-electoral-prioridad-nacional-vox-modificar-imv-atajar-absentismo-injustificado_1_13652361.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "29-N · Gobierno, 10 nov",
+              "title": "Sánchez duplica los Consejos de Ministros en campaña",
+              "text": "Moncloa celebrará consejos extraordinarios los dos primeros viernes de campaña para aprobar más medidas sociales antes del 29-N. Este martes, Pablo Bustinduy presentó un paquete de casi <b style=\"font-weight: 600;\">1.800 millones</b>, con un real decreto-ley de más de 820 millones para proteger a las familias monomarentales y monoparentales y mejoras en la dependencia. El Gobierno rechaza las acusaciones de electoralismo: «Prometimos que gobernaríamos hasta el último día».",
+              "link": {
+                "url": "https://www.eldiario.es/politica/sanchez-duplica-consejos-ministros-campana-aprobar-medidas-sociales-elecciones_1_13653496.html",
+                "source": "elDiario.es"
+              }
+            },
+            {
+              "kicker": "Tarragona · Metal, 10 nov",
+              "title": "Los Mossos desalojan el acceso al puerto",
+              "text": "En el segundo día de huelga indefinida del metal, un centenar de trabajadores bloqueó la entrada de la A-27 al puerto y los accesos al complejo químico. Tras negociar la apertura de un carril, los Mossos desalojaron a mediodía sin cargar y retiraron neumáticos y obstáculos. La plataforma les acusa de «coaccionar» la protesta, y su portavoz, Manuel Vidal, sostiene que la patronal presionó porque el bloqueo «les toca el bolsillo». En Repsol, el cambio de turno de las seis se hizo con retraso.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275333/tension-cortes-segunda-jornada-huelga-metal-tarragona.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Catalunya · Campo, 10 nov",
+              "title": "Unió de Pagesos levanta los encierros",
+              "text": "El sindicato agrario alcanzó un principio de acuerdo con el conseller Òscar Ordeig para que todos los agricultores profesionales reciban ayudas por la crisis del sector, con módulos más altos para los más afectados, a través de un decreto ley. Las cantidades están por concretar y deben validarlo el resto de organizaciones agrarias. «Queríamos que la ayuda llegara a todos y de la manera más rápida posible», resumió la coordinadora nacional, Raquel Serrat. El lunes, sus miembros se habían encerrado en los Serveis Territorials d’Agricultura de Tarragona.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275368/principio-acuerdo-unio-pagesos-govern-sobre-ayudas-levantan-encierros.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "NASA · Moon Base, 7–10 nov",
+        "title": "La base lunar, más dinero y menos aterrizajes",
+        "dek": "La NASA amplía hasta 4.200 millones su programa de aterrizadores comerciales y abre otro de hasta 10.000. Pero ninguna de las tres misiones previstas para 2026 despegará este año, y en 2027 solo se esperan cuatro de las diez prometidas.",
+        "body": [
+          "En el marco del evento MAX POWER de Isaacman en el Centro Espacial Kennedy, el responsable de Moon Base, Carlos García-Galán, admitió que Griffin, de Astrobotic —ahora propiedad de Voyager—, no despegará antes de enero, por las ventanas lunares y porque siguen las pruebas de motor. Con él, las tres misiones bautizadas Moon Base 1, 2 y 3 —el Blue Moon MK1 <em>Endurance</em> de Blue Origin, Griffin y el IM-3 <em>Trinity</em> de Intuitive Machines— pasan a 2027. El lunes, Lori Glaze rebajó la previsión de ese año a <b style=\"font-weight: 600;\">cuatro misiones CLPS</b>, esas tres y una de Firefly; el ritmo de diez al año se aplaza a 2028.",
+          "El dinero, en cambio, crece. CLPS 1.0 pasa de 2.600 a <b style=\"font-weight: 600;\">4.200 millones de dólares</b>, y CLPS 2.0 tendrá un techo de 10.000 millones en diez años y ocho empresas elegibles. Se suman seis órdenes de lanzamiento por 1.300 millones para llevar carga a órbita lunar —en New Glenn, Terran R y Falcon 9, con remolcadores de Blue Origin, Firefly, Impulse Space y Quantum Space—, una demostración de despliegue de comunicaciones cislunares de SpaceX y PROMISE, un modelo de pruebas de los rovers marcianos con generador de radioisótopos, que Blue Origin llevará al polo sur en 2028 por 94 millones más una opción de 140."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Blue_Moon_Mark_1_Endurance_%28mo8a3794-26%29_%28cropped%29.jpg/1280px-Blue_Moon_Mark_1_Endurance_%28mo8a3794-26%29_%28cropped%29.jpg",
+          "alt": "El aterrizador lunar Blue Moon Mark 1 Endurance, de Blue Origin, en una instalación de pruebas",
+          "credit": "NASA · Wikimedia Commons · Dominio público",
+          "caption": "El Blue Moon MK1 <em>Endurance</em>, en febrero. Iba a ser Moon Base 1 este año; ahora vuela en 2027."
+        },
+        "link": {
+          "url": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/",
+          "source": "SpacePolicyOnline"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Misiones CLPS a la Luna: plan frente a previsión",
+          "note": "Número de aterrizajes comerciales con carga de la NASA",
+          "bars": [
+            {
+              "label": "2026 · previstas en mayo",
+              "value": 3,
+              "display": "3"
+            },
+            {
+              "label": "2026 · previsión actual",
+              "value": 0,
+              "display": "0",
+              "highlight": true
+            },
+            {
+              "label": "2027 · plan de marzo",
+              "value": 10,
+              "display": "10"
+            },
+            {
+              "label": "2027 · previsión actual",
+              "value": 4,
+              "display": "4",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuente: SpacePolicyOnline (10 nov 2026), con declaraciones de Carlos García-Galán y Lori Glaze (NASA). El objetivo de diez misiones al año se traslada a 2028."
+        },
+        {
+          "type": "analysis",
+          "title": "Llegar primero, pero más tarde",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "La arquitectura de Isaacman, presentada en marzo, descansa en una avanzadilla robótica: aterrizadores y rovers que caractericen el polo sur —regolito, luz, temperatura— antes de que lleguen astronautas en 2028. De los cuatro CLPS lanzados hasta ahora, solo el Blue Ghost de Firefly fue un éxito completo; Astrobotic no llegó a la Luna y los dos de Intuitive Machines volcaron."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La NASA responde a los retrasos con más contratos y más proveedores, no con menos ambición. El riesgo es que el calendario robótico se comprima contra el tripulado: con cuatro misiones en 2027, la base de datos sobre el terreno será menor de lo previsto cuando haya que elegir emplazamientos. Y todos los contratos anunciados son estadounidenses."
+            }
+          ],
+          "key": "Para tu capítulo sobre recursos lunares, apunta esto: la «presencia» que da peso a las zonas de seguridad de los Acuerdos Artemis se construye con aterrizadores, y su ritmo real es mucho más lento que el discurso. Es un buen contrapunto a la proclamación de la «libertad en el espacio»."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "UIT · Doha, 9–27 nov",
+              "title": "La UIT elige mañana a quien gestiona las órbitas",
+              "text": "La Conferencia de Plenipotenciarios de la Unión Internacional de Telecomunicaciones, su máximo órgano, reúne en Doha a los 194 Estados miembros. Desde el 12 de noviembre elegirá secretario general, vicesecretario y directores de las tres oficinas, entre ellas la de Radiocomunicaciones, y después a los 12 miembros de la Junta del Reglamento de Radiocomunicaciones, que aplica e interpreta el tratado que reparte el espectro y las posiciones orbitales. La expansión de las tecnologías espaciales figura entre los grandes temas de la conferencia.",
+              "link": {
+                "url": "https://www.itu.int/en/mediacentre/Pages/PR-2026-11-09-PP-opening.aspx",
+                "source": "UIT"
+              }
+            },
+            {
+              "kicker": "Alemania · DLR, 10–11 nov",
+              "title": "Un invernadero lunar, con un incendio de por medio",
+              "text": "El DLR alemán trabaja con la NASA y la agencia canadiense en el Lunar Agriculture Module, un demostrador terrestre de invernadero conectado a un hábitat simulado; los tres socios decidirán como tarde en 2032 si lo construyen. Su base es EDEN ISS, que produjo cerca de una tonelada de verduras en la Antártida durante varias campañas desde 2018. Su sucesor, EDEN-LUNA, se instalará en la instalación LUNA de Colonia —gestionada con la ESA— en el segundo trimestre de 2027: según una respuesta del Gobierno al Bundestag, un incendio en la empresa que lo renovaba retrasó el calendario.",
+              "link": {
+                "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/",
+                "source": "European Spaceflight / Euronews"
+              }
+            },
+            {
+              "kicker": "Lanzadores europeos · Andøya, 10 nov",
+              "title": "Isar podría volar su tercer Spectrum el 26 de noviembre",
+              "text": "Un aviso aeronáutico noruego abre una ventana de lanzamiento desde Andøya entre el 26 de noviembre y el 17 de febrero, de 20.00 a 21.30 UTC. Isar Aerospace no ha anunciado fecha, pero el cohete ya estaba en montaje final tras el primer vuelo con éxito, el 5 de septiembre. Llevará, entre otros, el satélite AT-Astra de la austriaca R-Space.",
+              "link": {
+                "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
+                "source": "European Spaceflight"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "1.176 / 1.190 €",
+            "text": "Alquiler medio en España frente al salario medio de un joven, según el Consejo de la Juventud: una vivienda se lleva el 99 % del sueldo."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "11 nov",
+                "what": "Abu Dabi · Último día de la ronda trilateral · Moscú · Cumbre de la OTSC · España · Huelga general (Tarragona, manifestación a las 18.00)"
+              },
+              {
+                "when": "12 nov",
+                "what": "Doha · Empiezan las elecciones a la dirección de la UIT"
+              },
+              {
+                "when": "13 nov",
+                "what": "Arranca la campaña del 29-N · Vulcan con 40 satélites Amazon Leo (18.54 h) · Starship, vuelo 15, con doble captura (desde las 23.45 h)"
+              },
+              {
+                "when": "17–19 nov",
+                "what": "Bremen · Space Tech Expo Europe"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Sigue las elecciones de la UIT en Doha: quien dirija la Oficina de Radiocomunicaciones y la composición de la Junta del Reglamento influyen en cómo se reparten espectro y órbitas, el terreno donde se juega de verdad la competencia entre Starlink, Kuiper e IRIS². Es un foro multilateral menos citado que el COPUOS, pero con decisiones vinculantes."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "CLPS 2.0 abre hasta 10.000 millones en diez años y los remolcadores orbitales ya tienen contratos: los integradores estadounidenses van a necesitar subsistemas, pruebas y cargas útiles. Space Tech Expo Europe, en Bremen del 17 al 19, es el sitio para hablar con proveedores europeos que buscan entrar en esa cadena."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera (10–11 nov), AP y Reuters (10–11 nov), NPR (10 nov), Euronews (10–11 nov), elDiario.es (10 nov), Diari de Tarragona (10–11 nov), Diari Més (11 nov), COPE/ACN (11 nov), SpacePolicyOnline (8 y 10 nov), Unión Internacional de Telecomunicaciones (9 nov), European Spaceflight (10–11 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 11.11.2026."
+}
