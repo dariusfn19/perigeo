@@ -1,0 +1,434 @@
+{
+  "number": 15,
+  "week": 46,
+  "date": "2026-11-12",
+  "dateLabel": "Jueves, 12 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Abu Dabi se cierra con un gran canje de prisioneros y sin avance sobre territorio; hoy Witkoff y Kushner ven a Putin en Moscú y por la tarde a Zelenski en Dublín, donde la Comunidad Política Europea discute quién debe hablar por Europa en la mesa.",
+      "El gabinete de seguridad israelí ordena preparar un posible ataque a Irán mientras Teherán amenaza las bases «de Asia occidental a Europa» y mantiene Ormuz cerrado; en Washington muere de forma repentina el embajador ruso, Alexander Darchiev.",
+      "España sale de su primera huelga general en catorce años con la calle llena y el balance en disputa, a horas de que arranque la campaña del 29-N; en el espacio, mañana Starship intentará la primera recuperación completa de un cohete orbital."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Abu Dabi, Moscú y Dublín, 11–12 nov",
+        "title": "Un canje en Abu Dabi; la silla europea, en Dublín",
+        "dek": "Dos días de negociación trilateral terminan con un acuerdo de intercambio de prisioneros a gran escala, pero sin avances sobre el territorio. Los enviados de Trump llevan hoy el resultado a Putin y después a Zelenski, que pide a los europeos elegir este mismo mes a quién sientan en la mesa.",
+        "body": [
+          "El jefe negociador ruso, Vladímir Medinski, anunció en Abu Dabi que ambas partes habían pactado un canje «a gran escala» y alcanzado un «entendimiento mutuo» en algunas cuestiones; la agencia TASS sitúa el intercambio dentro de <b style=\"font-weight: 600;\">dos o tres semanas</b>. Jared Kushner dijo que la cifra se cerraría este jueves; Zelenski habló de unos 1.000 prisioneros por bando, que podrían llegar a 1.500, según NPR. Kushner describió la ronda como «muy dura, pero productiva»: el territorio seguirá siendo lo más difícil, aunque hubo «progreso» sobre un marco de seguridad para la posguerra. Medinski no se opone a que participe la UE, pero se preguntó qué hay que hablar con ella si, a su juicio, no ha presentado propuestas. El ucraniano David Arajamia pidió que la próxima ronda sea multilateral y con Europa representada. Hoy, Kushner y Steve Witkoff viajan a Moscú para trasladar a Putin lo discutido —«vemos algunas aperturas», dijo Kushner—, y por la tarde volarán a Dublín.",
+          "Allí está Zelenski, en la novena cumbre de la <b style=\"font-weight: 600;\">Comunidad Política Europea</b>, que reúne a líderes de más de 45 países. La víspera, junto al taoiseach Micheál Martin, insistió en que terminar la guerra sin Europa sería «injusto» e «imposible», y pidió elegir en noviembre «personalidades muy concretas» que representen a los europeos. Kushner aseguró que buscará la «bendición» de Putin para un papel europeo directo. La guerra, mientras, se asoma a la OTAN: en la noche del martes, cuatro drones procedentes de Bielorrusia entraron en el espacio aéreo báltico; cazas aliados fallaron dos veces al intentar derribar uno sobre Biržai, en el norte de Lituania, que acabó cruzando Letonia y Estonia hasta Rusia. Nausėda habló de una noche «inquieta y difícil». Y la cumbre de Dublín arranca con la seguridad reforzada tras una oleada de falsas amenazas de bomba contra cientos de colegios en Irlanda, Reino Unido e Italia."
+        ],
+        "quote": {
+          "text": "Esta guerra es en Ucrania, y terminarla sin la participación de Europa sería injusto, y sería imposible.",
+          "author": "Volodímir Zelenski · Presidente de Ucrania, Dublín, 11 nov (según Euronews)"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Convention_Centre_Dublin_in_2019.jpg/1280px-The_Convention_Centre_Dublin_in_2019.jpg",
+          "alt": "Fachada acristalada e inclinada del Convention Centre Dublin junto al río Liffey",
+          "credit": "Metro Centric · Wikimedia Commons · CC BY 2.0",
+          "caption": "El Convention Centre Dublin, sede hoy de la cumbre de la Comunidad Política Europea y mañana del Consejo Europeo informal."
+        },
+        "link": {
+          "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
+          "source": "Al Jazeera / Reuters"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Ucrania, entre la mesa y el cielo báltico",
+          "items": [
+            {
+              "value": "≈ 1.000",
+              "label": "prisioneros por bando en el canje discutido en Abu Dabi, según Zelenski; podrían ser 1.500"
+            },
+            {
+              "value": "2–3 sem.",
+              "label": "plazo para el intercambio, según la agencia rusa TASS"
+            },
+            {
+              "value": "45+",
+              "label": "países convocados hoy en Dublín a la cumbre de la Comunidad Política Europea"
+            },
+            {
+              "value": "4",
+              "label": "drones llegados desde Bielorrusia al espacio aéreo báltico en una sola noche"
+            }
+          ],
+          "footnote": "Fuentes: Al Jazeera/Reuters y NPR (11 nov 2026), Euronews (11 y 12 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "¿Quién habla por Europa?",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En Abu Dabi los europeos estuvieron en el edificio, pero no en la sala. Moscú dice ahora no oponerse a su presencia y Washington la explorará con Putin, pero ambos ponen la carga en Europa: tiene que llegar con propuestas y con una voz reconocible. Zelenski quiere nombres antes de diciembre; en la UE conviven Kallas, Costa, Von der Leyen y los líderes de Berlín, París, Roma y Londres, con agendas que no siempre coinciden."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Lo que Putin responda hoy sobre un formato multilateral. Si de Dublín sale un nombre o un grupo de contacto, y si el Consejo Europeo informal de mañana, convocado solo para hablar de inteligencia artificial, acaba dedicando tiempo a Ucrania, como pidió Meloni. Y si el canje se cierra con cifra y fecha: sería el primer resultado tangible de esta ronda."
+            }
+          ],
+          "key": "Para tu TFG, el dilema es el mismo que en el espacio: Europa aporta normas y dinero, pero si no decide quién la representa, otros negocian la arquitectura por ella. Es la versión diplomática del debate entre sumarse a los Acuerdos Artemis país a país o hablar con una sola voz a través de la UE y la ESA."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Israel · Irán, 11–12 nov",
+              "title": "Netanyahu ordena preparar un ataque contra Irán",
+              "text": "El gabinete de seguridad israelí, presidido por un Netanyahu ya en funciones, ordenó al ejército intensificar los preparativos para un posible ataque, según la televisión pública KAN, que advierte de que las directrices «podrían desencadenar una guerra». La orden se conoció después de que Gadi Eisenkot, encargado de formar Gobierno, le pidiera no usar el ejército «sin una amenaza directa e inmediata» hasta que haya nuevo Ejecutivo. Desde Teherán, el jefe de seguridad Mohsen Rezaei respondió que, si EE.UU. vuelve a la guerra, «toda base militar implicada, de Asia occidental a Europa», será objetivo legítimo.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Irán · Ormuz, 10–11 nov",
+              "title": "Teherán niega negociar y mantiene Ormuz cerrado",
+              "text": "Rezaei calificó de «pura mentira» que haya conversaciones o una reunión en Catar y dijo que el estrecho no se reabrirá hasta que Washington acepte las siete condiciones iraníes, que incluyen levantar sanciones y el bloqueo naval y poner fin a los ataques de Israel en Líbano; Araghchi asegura que podría reabrirse en dos días. El presidente del Parlamento, Ghalibaf, dijo a Al Jazeera que Ormuz «nunca volverá» a su estatus de antes de la guerra. Rubio replicó desde el G7 de París que la presión económica es tan «devastadora» que no hacen falta grandes operaciones de combate. La Guardia Revolucionaria afirma que tres petroleros chocaron con minas en una ruta «no autorizada».",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Rusia · EE.UU., 11 nov",
+              "title": "Muere de repente el embajador ruso en Washington",
+              "text": "Alexander Darchiev, de 66 años, «falleció repentinamente» el miércoles, según el Ministerio de Exteriores ruso, que no dio más detalles. Llevaba año y medio en el cargo: fue nombrado tras el regreso de Trump a la Casa Blanca y era el gran especialista de Moscú en la relación con EE.UU., con pasos previos como embajador en Canadá (2014–2021) y director del departamento de Norteamérica. Su muerte deja vacante la embajada en plena negociación sobre Ucrania.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Darchiev_05.2025_%28cropped%29.jpg",
+                "alt": "Retrato del diplomático ruso Alexander Darchiev",
+                "credit": "Catedral ortodoxa rusa de San Juan Bautista (Washington) · Wikimedia Commons · CC BY-SA 2.0",
+                "caption": "Alexander Darchiev, en mayo de 2025."
+              },
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Senado, 11 nov",
+              "title": "Un demócrata gana en Mississippi por primera vez desde 1982",
+              "text": "El fiscal Scott Colom derrotó por estrecho margen a la senadora republicana Cindy Hyde-Smith tras más de una semana de recuento, en uno de los grandes vuelcos de las legislativas del 3 de noviembre: Trump ganó el estado por más de 22 puntos en 2024. Será el primer senador negro de Mississippi en más de 140 años y ha hecho campaña, entre otras cosas, por terminar la guerra con Irán. Con su escaño, los demócratas tendrán al menos 55 de los 100 asientos del Senado en enero, con Alaska aún por decidir.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Polonia · Varsovia, 11 nov",
+              "title": "La marcha nacionalista, cuatro días después de Cracovia",
+              "text": "Decenas de miles de personas desfilaron por Varsovia en el Día de la Independencia, bajo el lema «El polaco es el anfitrión en Polonia», con delegaciones extranjeras como Revuelta, el movimiento juvenil vinculado a Vox, y el húngaro Mi Hazánk. Asistió el presidente Karol Nawrocki, que cargó contra las «élites políticas». Tusk había pedido contención: el autor del tiroteo del 7 de noviembre en la plaza del Mercado de Cracovia, que mató a seis personas, se interesaba por Breivik, según el ministro de Justicia.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march",
+                "source": "Al Jazeera / Reuters"
+              }
+            },
+            {
+              "kicker": "Yemen · Arabia Saudí, 11–12 nov",
+              "title": "Los hutíes niegan haber apuntado a La Meca",
+              "text": "Riad asegura haber interceptado tres misiles de crucero lanzados contra la capital y drones dirigidos hacia La Meca; restos de dos misiles balísticos cayeron en una aldea de la provincia. Los hutíes lo niegan: dicen que atacaron una estación de bombeo en Yanbu y el aeropuerto de Riad. Dentro de Yemen, el ejército respaldado por Arabia Saudí habla de 138 combatientes hutíes muertos o heridos, mientras los hutíes siguen bombardeando Adén, sede del Gobierno reconocido.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Indonesia · Yakarta, 12 nov",
+              "title": "Dimite el vicepresidente Gibran, hijo de Jokowi",
+              "text": "Gibran Rakabuming Raka, de 39 años, presentó su renuncia a Prabowo y al Parlamento después de que el Constitucional y el Supremo concluyeran que sus credenciales académicas no cumplían los requisitos electorales; 120 diputados de ocho partidos habían iniciado ya un proceso que podía acabar en destitución. La vacante no obliga a elecciones: la Asamblea Consultiva elegirá sustituto entre dos candidatos que propondrá el presidente en 60 días. Llega en plena ola de protestas por la economía y la corrupción.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Irán · Argentina, 11 nov",
+              "title": "Teherán declara «terroristas» a la Armada y la Fuerza Aérea argentinas",
+              "text": "Es la respuesta, «por reciprocidad», a la designación de la Guardia Revolucionaria como organización terrorista que Milei aprobó en marzo invocando el atentado contra la AMIA de 1994. Buenos Aires la rechaza como «completamente infundada». El gesto confirma a Argentina como el aliado más firme de EE.UU. e Israel en una América Latina que, en general, ha evitado tomar partido en la guerra.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist",
+                "source": "Al Jazeera"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "−25,6 %",
+        "statLabel": "cayó la demanda eléctrica industrial durante la huelga general del 11-N, uno de los pocos indicadores objetivos de la jornada",
+        "title": "La huelga llenó la calle; el balance, en disputa",
+        "body": [
+          "La primera huelga general de CCOO y UGT desde 2012 —la octava desde la Transición— sacó a cientos de miles de personas a la calle pese a la lluvia, con cifras tan dispares como siempre: más de medio millón en Madrid según el Sindicato de Inquilinas, 120.000 según la Delegación del Gobierno; 400.000 en Barcelona según los organizadores, 55.000 según la Guardia Urbana. Los sindicatos hablan de éxito sin dar una cifra nacional y citan paros del 90 % en los puertos y en la automoción, con Volkswagen Navarra y Seat parados por completo; la patronal habla de fracaso. Hubo más de 70 detenidos y 1.500 incidencias en toda España, y cargas en Madrid y Barcelona contra grupos encapuchados. Feijóo avisó de que los sindicatos pueden haber cometido un «error histórico»; Illa, que no secundó el paro, defendió que «la protesta es legítima, la violencia no».",
+          "En Tarragona, miles de personas recorrieron Prat de la Riba desde la plaza Imperial Tàrraco encabezadas por las asociaciones de inquilinos, con docentes de USTEC y pensionistas entre los grupos más visibles; en Tortosa se reunieron 2.500. Al terminar, parte de los manifestantes se desplazó hacia el Palau Firal i de Congressos, donde Santiago Abascal celebraba ante unas mil personas el gran mitin de Vox en la provincia («Elegimos entre España o una mafia criminal en el poder»): se lanzaron piedras contra el cordón policial y los Mossos respondieron con proyectiles de <em>foam</em>. La campaña del 29-N arranca esta medianoche, a <b style=\"font-weight: 600;\">17 días</b> de las urnas."
+        ],
+        "link": {
+          "url": "https://www.euronews.com/2026/11/12/spain-holds-its-first-general-strike-in-14-years-amid-mass-protests-and-police-charges",
+          "source": "Euronews"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Dos huelgas distintas según quién cuente",
+          "note": "Asistentes a las manifestaciones del 11-N, en miles de personas",
+          "bars": [
+            {
+              "label": "Madrid · organizadores",
+              "value": 500,
+              "display": "> 500.000"
+            },
+            {
+              "label": "Madrid · Delegación del Gobierno",
+              "value": 120,
+              "display": "120.000",
+              "highlight": true
+            },
+            {
+              "label": "Barcelona · organizadores",
+              "value": 400,
+              "display": "400.000"
+            },
+            {
+              "label": "Barcelona · Guardia Urbana",
+              "value": 55,
+              "display": "55.000",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuente: Euronews (12 nov 2026), con datos del Sindicato de Inquilinas, la Delegación del Gobierno en Madrid y la Guardia Urbana de Barcelona."
+        },
+        {
+          "type": "analysis",
+          "title": "Una campaña que empieza en la calle",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Todas las encuestas dan mayoría a PP y Vox —en torno a 200 escaños en el sondeo de SocioMétrica para El Español— y el PSOE confía en que la vivienda movilice a la izquierda. Pero la huelga no fue solo contra la derecha: el Sindicato de Inquilinas la definió como un paro «contra todos los gobiernos», incluido el «progresista», cuya política de vivienda calificó de «desastrosa». Vox, por su parte, hizo de los sindicatos su blanco en Tarragona."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si los incidentes tras las marchas —en Barcelona, en Madrid y ante el mitin de Vox en Tarragona— dominan el relato del primer día de campaña por encima de los salarios y el alquiler. Y la Comisión Bilateral Generalitat-Estado prevista para hoy, a doce horas del arranque oficial, que Junts pide aplazar."
+            }
+          ],
+          "key": "El Camp sigue con dos conflictos abiertos a la vez: la huelga general ya pasó, pero la del metal continúa y hoy ha cortado la T-750 entre Perafort y la Pobla de Mafumet. Si te mueves hacia el polígono norte o el puerto, cuenta con cortes sin previo aviso."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Tarragona · Metal, 11–12 nov",
+              "title": "El polo químico, al límite por la huelga del metal",
+              "text": "La Asociación Empresarial Química de Tarragona advierte de que varias instalaciones ya sufren «importantes alteraciones», con unidades productivas paradas y otras que no han podido arrancar, por los bloqueos a sus accesos y al puerto. La patronal del transporte (FEAT) califica de «intolerable» cortar carreteras y pide una actuación «contundente» de la policía. La Plataforma del Metal rechaza el convenio provincial 2026–2027 que firmaron UGT, CCOO y la patronal, publicado el 29 de octubre, y mantiene la huelga indefinida desde el lunes.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275482/plataforma-metal-tensiona-actividad-economica-pone-limite-polo-petroquimico.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Catalunya · Bilateral, 12 nov",
+              "title": "Junts pide a Illa aplazar la Comisión Bilateral",
+              "text": "En una carta, la presidenta del grupo de Junts en el Parlament, Mònica Sales, considera «inaudito» reunir hoy la Comisión Bilateral Generalitat-Estado, «solo doce horas antes del inicio oficial de la campaña», y lo atribuye a una «operación de propaganda» del PSC y el PSOE. Recuerda compromisos pendientes de reuniones anteriores, como las nuevas competencias sobre el IRPF o el cálculo de lo que se debe por la disposición adicional tercera del Estatut, la de las inversiones del Estado.",
+              "link": {
+                "url": "https://theobjective.com/espana/politica/2026-11-12/junts-illa-comision-bilateral-propaganda-psc-psoe/",
+                "source": "The Objective"
+              }
+            },
+            {
+              "kicker": "Tarragona · Justicia, 11 nov",
+              "title": "Licitada la última fase del Fòrum de la Justícia",
+              "text": "La Generalitat ha publicado en el Diario Oficial de la UE la licitación, por 71,7 millones de euros, de fachadas, cubiertas, interiores e instalaciones del futuro edificio judicial de Tarragona. Las obras, de 24 meses, empezarían en julio de 2027; el conjunto supera los 94 millones y reunirá a unos 700 trabajadores. «No trece sedes judiciales dispersas», resumió el conseller Ramon Espadaler.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275462/generalitat-activa-segunda-fase-forum-justicia-tarragona-71-7-millones.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Port de Tarragona · Náutica, 12 nov",
+              "title": "Lürssen abre en Tarragona su base mediterránea",
+              "text": "El mayor astillero de megayates del mundo ha inaugurado en el Moll de Lleida de Port Tarraco un centro de asistencia para toda su flota en el Mediterráneo, con taller, repuestos y un equipo de respuesta rápida disponible 24 horas. Consolida a Tarragona como plaza de mantenimiento de grandes yates, un nicho de empleo cualificado para el Camp.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275464/mayor-astillero-yates-lujo-mundo-inaugura-tarragona-centro-mediterraneo.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "SpaceX y ULA · Texas y Florida, 13–14 nov",
+        "title": "Mañana, la primera recuperación completa de un cohete orbital",
+        "dek": "Starship intentará atrapar con la torre tanto la primera etapa como la nave tras catorce órbitas. Horas antes, Vulcan vuelve a volar por primera vez desde febrero con 40 satélites de Amazon Leo.",
+        "body": [
+          "El vuelo 15 de Starship tiene ventana a partir de las 23.45 (hora peninsular) del viernes desde la segunda plataforma de Starbase, que nunca ha atrapado un cohete. Volarán el Booster 22 y la Ship 42, de la nueva versión V3; la nave desplegará 26 satélites Starlink V3, dará 14 vueltas a la Tierra y, si todo va bien, volverá a la torre <b style=\"font-weight: 600;\">22 horas, 32 minutos y 34 segundos</b> después del despegue. SpaceX ha atrapado la primera etapa tres veces, pero no desde marzo de 2025, y nunca ha reutilizado una nave. Musk lo define como «la primera vez que un vehículo de lanzamiento orbital se recupera por completo» y ve el éxito «más probable que no»; la empresa puede cancelar la captura por seguridad.",
+          "A las 18.54, ULA lanzará Vulcan desde Cabo Cañaveral por primera vez desde que, en febrero, falló por segunda vez uno de sus propulsores sólidos de Northrop Grumman. La Fuerza Espacial suspendió entonces sus misiones en el cohete y reasignó lanzamientos a SpaceX hasta que Vulcan cumpla sus especificaciones; mientras tanto, ULA lo usa para clientes comerciales como Amazon. Si Starship completa la doble captura, SpaceX promete vuelos semanales en la primera mitad de 2027 y dos por semana a final de año."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Starship_5_Booster_Landing_on_Mechzilla.jpg/1280px-Starship_5_Booster_Landing_on_Mechzilla.jpg",
+          "alt": "La primera etapa Super Heavy de Starship descendiendo entre los brazos de la torre de lanzamiento de Starbase",
+          "credit": "Steve Jurvetson / Bech · Wikimedia Commons · CC BY 2.0",
+          "caption": "Primera captura de un Super Heavy por la torre, en el vuelo 5. Mañana SpaceX intentará repetirlo y atrapar también la nave."
+        },
+        "link": {
+          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/",
+          "source": "SpacePolicyOnline"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Treinta horas decisivas",
+          "note": "Horas peninsulares · sujetas a cambios",
+          "items": [
+            {
+              "when": "Vie 13 · 18.54",
+              "title": "Vulcan · Amazon Leo",
+              "text": "ULA vuelve tras el fallo de un propulsor en febrero, con 40 satélites de Amazon."
+            },
+            {
+              "when": "Vie 13 · 23.45",
+              "title": "Starship · vuelo 15",
+              "text": "Se abre la ventana. Booster 22 y Ship 42, versión V3, desde la plataforma 2.",
+              "highlight": true
+            },
+            {
+              "when": "Vie 13 · noche",
+              "title": "Captura del Super Heavy",
+              "text": "Regreso de la primera etapa a la torre minutos después del despegue."
+            },
+            {
+              "when": "Sáb 14 · ≈ 22.17",
+              "title": "Captura de la nave",
+              "text": "Tras 14 órbitas y el despliegue de 26 Starlink V3, si despega al abrirse la ventana.",
+              "highlight": true
+            }
+          ],
+          "footnote": "Fuentes: SpacePolicyOnline (8 nov 2026) y Teslarati (21 oct 2026). Hora estimada de la captura de la nave a partir de la duración anunciada de 22 h 32 min 34 s."
+        },
+        {
+          "type": "analysis",
+          "title": "La reutilización total y el hueco europeo",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En septiembre, Ariane 6 reconoció retrasos por una anomalía en una turbobomba que recortaba sus vuelos de 2026, y el consejero delegado de Avio contaba que le llegaban clientes rechazados por una SpaceX que ya prioriza sus propias cargas. Europa tiene más demanda que capacidad, y sus demostradores de reutilización —Themis o Callisto, que prepara un primer salto en 2027— solo apuntan a recuperar la primera etapa."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Si la doble captura sale bien, el coste por kilo en órbita baja dará otro salto y la ventaja de SpaceX se medirá en cadencia, no solo en precio. A la vez, la dependencia de EE.UU. ya no es solo europea: la propia Fuerza Espacial tuvo que pasar misiones a SpaceX cuando Vulcan falló. Un único proveedor dominante es un riesgo incluso para Washington."
+            }
+          ],
+          "key": "Para tu TFG es el argumento material de la autonomía estratégica: sin acceso propio y barato al espacio, IRIS² o una contribución lunar europea dependen del calendario de otro. Apunta la fecha de mañana como posible punto de inflexión, salga bien o mal."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Francia · Defensa, 9–10 nov",
+              "title": "París encarga sus nuevos satélites espía por 1.500 millones",
+              "text": "La DGA ha adjudicado a Airbus y Thales Alenia Space dos satélites militares de observación del sistema IRIS, que sustituirán a los tres CSO actuales y garantizarán la inteligencia por imagen más allá de 2035, con imágenes de muy alta resolución de día y de noche. También fotografiarán objetos en órbita para la vigilancia espacial. Francia es de los pocos aliados europeos con una constelación óptica soberana de alta gama, y Macron sostiene que aporta dos tercios de la inteligencia que recibe Ucrania.",
+              "link": {
+                "url": "https://www.defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion/",
+                "source": "Defense News"
+              }
+            },
+            {
+              "kicker": "China · Cislunar, 11 nov",
+              "title": "Pekín busca socios para una constelación hasta la distancia lunar",
+              "text": "China recluta socios internacionales para una constelación de pequeñas naves en órbitas elípticas de nueve días que alcanzan la distancia de la Luna, con lanzamiento previsto en 2030, según SpaceNews, que habla de 34 satélites. El programa, presentado en septiembre por el Laboratorio de Exploración del Espacio Profundo, ofrece gratis tres cargas útiles estándar —para clima espacial y estallidos de rayos gamma— y ya cuenta con Egipto, Indonesia, Senegal, Serbia y Tailandia.",
+              "link": {
+                "url": "https://spacenews.com/china-recruits-international-partners-for-34-satellite-cislunar-constellation/",
+                "source": "SpaceNews"
+              }
+            },
+            {
+              "kicker": "NewSpace europeo · Francia, 12 nov",
+              "title": "Gama capta 15 millones para paneles solares desplegables",
+              "text": "La empresa francesa, que nació desarrollando velas solares, ha reorientado su negocio a grandes paneles solares desplegables para satélites y ha cerrado una ronda de 15 millones de euros. La energía en órbita se ha convertido en un cuello de botella para las constelaciones de nueva generación y los proyectos de centros de datos espaciales.",
+              "link": {
+                "url": "https://spacenews.com/gama-raises-15-million-euros-for-large-deployable-solar-arrays/",
+                "source": "SpaceNews"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "22 h 32 min 34 s",
+            "text": "Lo que debería pasar entre el despegue de Starship y la captura de la nave por la torre: el primer cohete orbital recuperado entero."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "12 nov",
+                "what": "Moscú · Witkoff y Kushner con Putin · Dublín · Cumbre de la Comunidad Política Europea · Catalunya · Comisión Bilateral Generalitat-Estado"
+              },
+              {
+                "when": "13 nov",
+                "what": "Dublín · Consejo Europeo informal sobre IA · España · Arranca la campaña del 29-N · Vulcan (18.54) y Starship (23.45)"
+              },
+              {
+                "when": "17–19 nov",
+                "what": "Bremen · Space Tech Expo Europe"
+              },
+              {
+                "when": "29 nov",
+                "what": "Elecciones generales en España"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "La constelación cislunar china es un buen caso de diplomacia científica: cargas útiles gratis para socios del Sur Global, el mismo patrón con el que Pekín intenta atraer miembros a la ILRS. Compáralo con los Acuerdos Artemis, que piden adhesión a principios antes de ofrecer participación material."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "La energía es el nuevo cuello de botella orbital: Gama capta 15 millones y la alemana SINGULUS anunció esta semana un contrato inicial de más de 60 millones con SpaceX para una línea de células solares, según sus comunicaciones bursátiles. Proveedores europeos de subsistemas de potencia son un buen objetivo para conversaciones en Bremen."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera (11–12 nov), Reuters y NPR (11 nov), Euronews (11–12 nov), Diari de Tarragona (11–12 nov), The Objective (12 nov), SocioMétrica/El Español (vía Diari Més, 9 nov), SpacePolicyOnline (8 nov), Teslarati (21 oct), European Spaceflight (16 y 21 sep), Defense News (10 nov), SpaceNews (11–12 nov), Global Times/Xinhua (5 sep), now.solar (11 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 12.11.2026."
+}
