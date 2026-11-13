@@ -1,0 +1,409 @@
+{
+  "number": 16,
+  "week": 46,
+  "date": "2026-11-13",
+  "dateLabel": "Viernes, 13 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Tras más de dos horas con Putin en el Kremlin, Witkoff y Kushner anuncian en Dublín que habrá europeos en la próxima ronda de negociación; hoy, el Consejo Europeo informal convocado para hablar de inteligencia artificial tendrá que discutir quién ocupa esa silla.",
+      "Ucrania denuncia que Starshield, la versión militar de Starlink, vuelve a cortar la conexión a todo lo que vuela a más de 161 km/h en el frente; nadie asume la decisión, y la dependencia europea de capacidades orbitales de EE.UU. deja de ser teoría.",
+      "Arranca la campaña del 29-N con un CIS que da ocho puntos de ventaja al PSOE frente a encuestas privadas que dan mayoría a PP y Vox; el decreto antidesahucios sobrevive por un voto y la huelga del metal cumple cinco días en el polígono norte de Tarragona."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Moscú y Dublín, 12–13 nov",
+        "title": "Kushner: Putin está dispuesto a «probar» con Europa en la mesa",
+        "dek": "Los enviados de Trump salen del Kremlin con un compromiso: la próxima ronda tendrá representación europea. Zelenski habla de una «ventana de oportunidad» hasta principios de 2027; Putin, de que cualquier tropa extranjera en Ucrania sería «continuación de la guerra».",
+        "body": [
+          "Steve Witkoff y Jared Kushner pasaron más de dos horas con Vladímir Putin en el Palacio del Senado del Kremlin, acompañado por Yuri Ushakov, Kiril Dmítriev y Vladímir Medinski, el jefe negociador de Abu Dabi. «Creo que hubo progreso», dijo Witkoff al salir: «La gente no pensaba que íbamos a reanudar el formato trilateral. Lo hemos reanudado. Hemos fijado una nueva reunión». Añadió que un representante europeo estará en la siguiente fase, que abordará la arquitectura de seguridad del continente. Kushner fue más prudente —reconoció que siguen existiendo «diferencias significativas»— y, ya en Dublín, dijo creer que Putin «está dispuesto a intentarlo». El Kremlin, que se dice abierto a que participen países europeos, rebajó enseguida las expectativas. Putin insistió en su rechazo a cualquier fuerza de paz extranjera y Ushakov anunció que seguirá hablando de Ucrania con Trump en la cumbre de la APEC en China, a finales de mes. El territorio sigue bloqueado: Kiev rechaza entregar todo el Donbás.",
+          "En Dublín, donde casi <b style=\"font-weight: 600;\">50 líderes</b> se reunieron en la novena cumbre de la Comunidad Política Europea, Zelenski confirmó tras ver a los enviados que los europeos participarán directamente en la próxima ronda y habló de un «resultado real». También advirtió de que Rusia quiere aprovechar la negociación para reescribir el orden de seguridad europeo, y calificó de «un poco extraño» que Washington discuta ese orden con Moscú. Macron fue el más contundente: «ya no hay apoyo de EE.UU.» para Ucrania, dijo, y Europa debe tomar el control. La presión económica continúa: Von der Leyen prepara el 22.º paquete de sanciones y una propuesta para cubrir las necesidades financieras de Ucrania en 2027; el ministro francés Benjamin Haddad avanzó que el lunes la UE sancionará a 150 entidades y 50 bancos más, y el primer ministro británico, Andy Burnham, anunció sanciones contra las diez mayores petroleras rusas."
+        ],
+        "quote": {
+          "text": "Al final, seremos nosotros quienes decidamos sobre nuestra seguridad futura como europeos.",
+          "author": "Emmanuel Macron · Presidente de Francia, Dublín, 12 nov (según RTÉ)"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Moscow_-_2026_-_Senate_Palace.jpg/1280px-Moscow_-_2026_-_Senate_Palace.jpg",
+          "alt": "Fachada amarilla y cúpula verde del Palacio del Senado, dentro del Kremlin de Moscú",
+          "credit": "Юрий Д.К. · Wikimedia Commons · CC BY 4.0",
+          "caption": "El Palacio del Senado del Kremlin, donde Putin recibió ayer a Witkoff y Kushner."
+        },
+        "link": {
+          "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/",
+          "source": "Time / Reuters"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "La presión que acompaña a la mesa",
+          "items": [
+            {
+              "value": "150 + 50",
+              "label": "entidades y bancos que la UE añadirá el lunes a sus sanciones contra Rusia, según París"
+            },
+            {
+              "value": "10",
+              "label": "mayores petroleras rusas sancionadas ayer por el Reino Unido"
+            },
+            {
+              "value": "≈ 50",
+              "label": "líderes reunidos en Dublín en la cumbre de la Comunidad Política Europea"
+            },
+            {
+              "value": "26–27 nov",
+              "label": "Consejo Europeo en Bruselas sobre la financiación de Ucrania y el presupuesto"
+            }
+          ],
+          "footnote": "Fuentes: Time/Reuters (12 nov 2026), Just Security/Reuters (12 nov 2026), The Irish Times (13 nov 2026), Euronews (13 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Una silla, demasiados candidatos",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El Consejo Europeo informal de hoy en Dublín iba a ser la primera discusión de los líderes sobre inteligencia artificial, con Arthur Mensch (Mistral) y Geoffrey Hinton como invitados. La pregunta de quién representa a Europa se lo ha comido. Costa se ofrece apelando a los Tratados y tiene el apoyo de Luxemburgo; Kallas recuerda el reparto de 2024, que la incluía a ella; Merz defiende el formato E3 con Francia y el Reino Unido, abierto a Polonia e Italia. Meloni ya había avisado por carta de que tantos formatos restan credibilidad."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si hoy sale un nombre o se aplaza al Consejo del 26–27 de noviembre, como sugieren Macron y Merz, que restan urgencia. Si Moscú acepta en la práctica a un representante de la UE y no solo a capitales concretas. Y la fecha de la nueva ronda: Zelenski quiere a los europeos decididos antes de fin de mes."
+            }
+          ],
+          "key": "Para tu TFG es un caso de manual: la UE tiene competencia, dinero y sanciones, pero su representación exterior depende de quién se la reconozca. Es el mismo dilema que en el COPUOS o ante los Acuerdos Artemis, donde firman los Estados y no la Unión. Anota la fórmula que salga: será un precedente."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · EE.UU., 12–13 nov",
+              "title": "Ataque en Sirik, drones hacia Bahréin y Vance apartado",
+              "text": "La agencia IRNA informó de un ataque «enemigo» contra Sirik, en la costa de Ormuz, donde Irán tiene parte de su red de radares; la Guardia Revolucionaria dijo haber destruido en represalia un radar estadounidense de alerta temprana en Bahréin. El CENTCOM lo desmiente: los dos drones lanzados fueron derribados, sin daños. La víspera, Trump escribió que ya no necesita un acuerdo con Irán —«Tenemos su dinero (…) y tenemos su estrecho»— y pidió a JD Vance, que había liderado los contactos con Teherán, centrarse en la delincuencia en las ciudades demócratas. También advirtió de que Irán «no existirá mucho tiempo más» si mata a un alto cargo estadounidense.",
+              "link": {
+                "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html",
+                "source": "RFE/RL"
+              }
+            },
+            {
+              "kicker": "Báltico · Golfo de Finlandia, 11–13 nov",
+              "title": "Finlandia detecta un ataque contra un buque de guerra ruso",
+              "text": "El ejército finlandés confirmó a Reuters que detectó «un ataque contra un buque de guerra ruso en la zona del golfo de Finlandia», sin precisar origen ni lugar, y aseguró que el país no está bajo «ninguna amenaza militar inmediata». Según la televisión pública Yle, el Servicio de Seguridad de Ucrania lo reivindica; la prensa local habla de una pequeña nave que regresó a San Petersburgo. Rusia dice haber interceptado en los últimos días al menos 146 drones ucranianos en la región de Leningrado, y el puerto de Ust-Luga ardió el miércoles tras otro ataque.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys",
+                "source": "Al Jazeera / Reuters"
+              }
+            },
+            {
+              "kicker": "Europa · Ataques híbridos, 11–12 nov",
+              "title": "Miles de colegios evacuados y la seguridad híbrida, a escena",
+              "text": "El jueves, más de 3.700 colegios italianos recibieron falsas amenazas de bomba, un día después de que otros 6.300 sufrieran la misma alerta; también hubo avisos en más de 700 escuelas de Escocia e Irlanda del Norte. Se suman a una cadena reciente de bulos y ciberataques contra supermercados, bancos de sangre, aerolíneas y medios. Meloni dijo que no se ha detectado «peligro concreto» y que parece una estrategia para sembrar alarma. El taoiseach Micheál Martin cerró la cumbre de Dublín con la cooperación frente a los ataques híbridos entre sus cuatro conclusiones: quienes los lanzan, dijo, buscan «sembrar la división y debilitar la confianza» en las democracias.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Cuba, 12 nov",
+              "title": "Trump quiere «resolver Cuba» antes de dejar el cargo",
+              "text": "En una entrevista radiofónica, Trump dijo que «sin duda consideraría» usar la fuerza contra Cuba y que quiere «tener resuelto» el asunto antes de 2029; según Politico, es la primera vez que pone plazo a una posible operación. Llamó a la isla «nación fallida» y dijo que Rubio «estaría encantado» de hacerlo. Cuba vive desde enero bajo un bloqueo petrolero de facto, impuesto tras la captura de Nicolás Maduro por EE.UU. y el corte del crudo venezolano.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Gaza · Jan Yunis, 12 nov",
+              "title": "Muere de frío un bebé de nueve meses en una tienda",
+              "text": "Kinan Ahmed Raqiq murió de hipotermia en la tienda de su familia desplazada, según su padre y un médico citado por AFP. El mismo día, una coalición de más de 50 países y organizaciones encabezada por el Reino Unido, Catar y Jordania pidió a Israel la entrada inmediata de material de refugio, combustible y agua ante el invierno. Netanyahu, en funciones, responde que Israel ha permitido la entrada de 91.000 tiendas y culpa a Hamás. Ese mismo día, un ataque israelí alcanzó un edificio del hospital Nasser, entre cuyos muertos habría un cirujano; Israel dice que apuntaba a un mando de Hamás.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid",
+                "source": "Al Jazeera / AFP"
+              }
+            },
+            {
+              "kicker": "Yemen · Arabia Saudí, 12 nov",
+              "title": "Nuevos ataques hutíes y la ONU prorroga las sanciones",
+              "text": "La coalición saudí dice haber interceptado drones sobre Riad y la Provincia Oriental; los hutíes afirman haber atacado una estación de bombeo del oleoducto Este-Oeste y la instalación de Yanbu, por donde Riad desvía unos 4 millones de barriles diarios para sortear Ormuz, cerca del 4 % de la oferta mundial. El Consejo de Seguridad aprobó por unanimidad prorrogar las sanciones contra el grupo.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+                "source": "Al Jazeera / Reuters"
+              }
+            },
+            {
+              "kicker": "OTAN · Albania, 12–13 nov",
+              "title": "Rama: la cumbre aliada no será en Tirana en 2027",
+              "text": "El primer ministro albanés dijo en Dublín que no hay posición común sobre la fecha, pero que «seguro que no en 2027»; un portavoz de la OTAN insiste en que la próxima cumbre «se celebrará en Albania», sin fecha. Tirana es criticada por su bajo gasto en defensa, y la Alianza estudia dejar de reunirse cada año, lo que evitaría un encuentro tenso con Trump al final de su mandato.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana",
+                "source": "Al Jazeera / Reuters"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "33,3 %",
+        "statLabel": "estimación de voto del PSOE en el macrosondeo preelectoral del CIS, ocho puntos por delante del PP; las encuestas privadas dibujan lo contrario",
+        "title": "La campaña arranca con dos Españas demoscópicas",
+        "body": [
+          "El CIS publicó ayer, a horas del arranque oficial, su estudio preelectoral con 45.074 entrevistas hechas entre el 7 y el 30 de octubre: PSOE 33,3 %, PP 25,5 %, Vox 18,4 % y Frente Amplio 4,7 %. En escaños, 134–143 para los socialistas, 98–106 para el PP y 57–65 para Vox, su mejor resultado histórico; la suma de PP y Vox se quedaría en 171 incluso en el mejor caso, cinco por debajo de la mayoría absoluta. Es una foto muy distinta de la del resto de sondeos: el de IMOP del 8 de noviembre da 196 diputados a PP y Vox. Sánchez abrió la campaña en Sevilla, Feijóo en Badalona junto a Xavier García Albiol y Vox en la plaza de Colón; quedan <b style=\"font-weight: 600;\">16 días</b> para las urnas y aún no hay fecha para un cara a cara.",
+          "En la provincia de Tarragona, que reparte seis escaños, el CIS da al PSC entre tres y cuatro —en 2023 obtuvo dos—, a ERC entre uno y dos, uno a Vox, que entraría por primera vez por la circunscripción, y entre cero y uno al PP; Junts y Frente Amplio perderían el suyo. La candidata socialista, Ione Montalvo, apela al voto útil porque el último escaño, dice, irá «al bloque de la involución» o al PSC; la republicana Norma Pujol centra su discurso en el tren regional y las infraestructuras del territorio."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Congreso_de_los_Diputados%2C_Madrid.jpg/1280px-Congreso_de_los_Diputados%2C_Madrid.jpg",
+          "alt": "Fachada neoclásica del Congreso de los Diputados en Madrid, con sus columnas y los leones de bronce",
+          "credit": "AMPERIO · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "El Congreso de los Diputados, cuyos 350 escaños se renuevan el 29 de noviembre."
+        },
+        "link": {
+          "url": "https://www.eldiario.es/politica/cis-preelectoral-aleja-resto-encuestas-situa-suma-pp-vox-lejos-mayoria-absoluta_1_13658236.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "El Congreso que dibuja el CIS",
+          "note": "Horquilla de escaños del estudio preelectoral; la barra marca el punto medio",
+          "bars": [
+            {
+              "label": "PSOE",
+              "value": 138.5,
+              "display": "134–143",
+              "highlight": true
+            },
+            {
+              "label": "PP",
+              "value": 102,
+              "display": "98–106"
+            },
+            {
+              "label": "Vox",
+              "value": 61,
+              "display": "57–65"
+            },
+            {
+              "label": "ERC",
+              "value": 12,
+              "display": "10–14"
+            },
+            {
+              "label": "Frente Amplio",
+              "value": 9,
+              "display": "7–11"
+            }
+          ],
+          "footnote": "Fuente: CIS, estudio preelectoral de las generales del 29-N (12 nov 2026), vía elDiario.es. Mayoría absoluta: 176 escaños."
+        },
+        {
+          "type": "analysis",
+          "title": "La vivienda, aprobada por un voto y en el aire",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El día después de la huelga general, la Diputación Permanente convalidó por 35 votos a 34 el nuevo decreto que protege frente al desahucio a inquilinos vulnerables cuando la administración autonómica no les ofrece alternativa. El segundo, que impedía a empresas inmobiliarias comprar por debajo del 70 % del valor, cayó por 34 a 35 cuando el PNV votó con el bloque de la derecha. El PP ya ha anunciado que derogará las medidas si gobierna."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si la vivienda sostiene la movilización de la izquierda que recoge el CIS o la inflación —4,9 % en España y 4,8 % en Catalunya en octubre, máximos desde febrero de 2023, empujada por el gas— desplaza el debate hacia el coste de la vida, terreno más cómodo para la oposición. Y los cara a cara, todavía sin fecha."
+            }
+          ],
+          "key": "En tu provincia, el sexto escaño se disputa entre PSC y el bloque PP-Vox: Tarragona es una de las circunscripciones donde unos pocos miles de votos pueden mover la mayoría. Si votas en Reus, tu voto pesa más de lo que parece."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Catalunya · Bilateral, 12 nov",
+              "title": "1.148 millones para Rodalies y un órgano para los aeropuertos",
+              "text": "La cuarta Comisión Bilateral de la legislatura acordó que el Estado transfiera a la Generalitat 1.148 millones para el funcionamiento de Rodalies y Regionales entre 2025 y 2028, ampliar el convenio para que la Generalitat mejore el firme de la AP-7 y la AP-2, y crear un «espacio estable de cooperación» sobre los aeropuertos catalanes, a semejanza del vasco. También se pactó «avanzar» en el traspaso de la infraestructura de la R1 entre la Sagrera y Maçanet. El Govern renunció a la rueda de prensa por «neutralidad institucional».",
+              "link": {
+                "url": "https://www.eldebate.com/espana/cataluna/20261112/comision-bilateral-entre-gobierno-generalitat-concluye-1148-millones-cataluna_480218.html",
+                "source": "El Debate"
+              }
+            },
+            {
+              "kicker": "España · Justicia, 12–13 nov",
+              "title": "Una jueza suspende la actividad de Núcleo Nacional",
+              "text": "Un juzgado de Gijón ordenó cerrar la sede del grupo ultraderechista, bloquear sus redes y sus cuentas bancarias, dentro de una investigación por delitos de odio y asociación ilícita. La semana pasada fueron detenidos 14 de sus miembros y la policía se incautó de más de 20 armas de fuego, algunas sin licencia. El grupo, muy activo contra la inmigración desde la llegada de miles de migrantes a Ceuta en julio, habla de «persecución».",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes",
+                "source": "Al Jazeera / Reuters"
+              }
+            },
+            {
+              "kicker": "Tarragona · Metal, 13 nov",
+              "title": "Quinto día de huelga a las puertas del polígono norte",
+              "text": "Unos 300 trabajadores cruzan una y otra vez los pasos de peatones de la T-750 en la Pobla de Mafumet, con colas que llegan a la A-27 y la N-240; los antidisturbios de los Mossos los apartaron a las diez y volvieron poco después. La AEQT habla de «situación límite» y de riesgo de «crisis de suministro». Mientras, el conseller Miquel Sàmper celebró la inversión de unos 400 millones de Repsol y Enagás en el electrolizador de la Ecoplanta de Tarragona, que según él producirá 22.000 toneladas de hidrógeno renovable y creará 1.000 empleos. El sábado por la tarde, nueva marcha del metal en el centro.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275620/trabajadores-metal-concentran-nuevo-poligono-quimico-norte-tarragona.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Reus · Urbanismo, 13 nov",
+              "title": "Un parque fluvial contra las riadas en la zona oeste",
+              "text": "La Junta de Govern Local ha aprobado el proyecto para renaturalizar la confluencia de los barrancos del Molí y de la Font dels Capellans: una gran zona inundable que multiplicará por más de cinco la capacidad de laminación, hasta 11.003 m³, y evitará desbordamientos en episodios de retorno de 100 años. Costará 2,62 millones, beneficiará a unos 10.000 vecinos y unirá con una pasarela de 30 metros el Parc de la Festa y el del Lliscament. Falta lo principal: no tiene financiación ni fecha de inicio.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/reus/275638/nou-parc-fluvial-connectara-dos-espais-verds-reus-i-protegira-10-000-veins-d-inundacions.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "Starshield · Ucrania, 12–13 nov",
+        "title": "Un techo de 161 km/h sobre el frente ucraniano",
+        "dek": "Por segunda vez en un mes, el servicio militar de SpaceX deja de funcionar para lo que se mueve rápido. Los interceptores ucranianos no alcanzan a los Shahed a reacción, nadie asume la decisión y el contrato de Kiev con Washington caduca el año que viene.",
+        "body": [
+          "Zelenski denunció el jueves en Telegram que unidades del frente registran desde hace varios días una limitación «sistémica» de Starshield, la versión militar de Starlink que SpaceX presta al Gobierno de EE.UU.: todo lo que se desplaza a más de <b style=\"font-weight: 600;\">161 km/h</b> pierde la conexión, a lo largo de la línea de contacto y en los territorios ocupados. Fuentes del Ministerio de Defensa precisaron a Kyiv Post que no se detectan restricciones en la zona bajo control ucraniano. Las consecuencias son directas: los drones interceptores no pueden perseguir a los Shahed a reacción. «Por las restricciones, simplemente no podemos alcanzarlos a tiempo», dijo ante la cumbre de Dublín. Un responsable ucraniano dijo a Axios que todas las misiones de drones afectadas fracasan.",
+          "Nadie asume la autoría. SpaceX respondió a Ars Technica que «es falso» y que «no ha habido ningún cambio»; el Pentágono y la Casa Blanca no han contestado. Es el mismo patrón de octubre: el 14 aparecieron límites idénticos, en plena tensión con Washington por los ataques ucranianos a refinerías rusas, y el servicio volvió el 24 sin que nadie se responsabilizara. Ese día Musk escribió que Starshield lo controla el Gobierno de EE.UU. y acusó al ejército ucraniano de violar las condiciones de uso con ataques ofensivos. Varios senadores estadounidenses exigen restablecer el servicio y saber quién lo cortó, y Kiev quiere negociar cuanto antes un nuevo contrato."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/UA_Support_Forces_Starlink_01.jpg",
+          "alt": "Un soldado ucraniano instala una antena plana de Starlink sobre el terreno",
+          "credit": "Mando de las Fuerzas de Apoyo de Ucrania · Wikimedia Commons · CC BY 4.0",
+          "caption": "Un militar ucraniano instala un terminal Starlink en 2022. Cuatro años después, Kiev sigue dependiendo de él en el frente."
+        },
+        "link": {
+          "url": "https://www.kyivpost.com/post/90036",
+          "source": "Kyiv Post"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Una dependencia con interruptor ajeno",
+          "items": [
+            {
+              "value": "161 km/h",
+              "label": "velocidad máxima a la que Starshield mantiene la conexión en el frente, según Kiev"
+            },
+            {
+              "value": "10 días",
+              "label": "duró el primer corte, del 14 al 24 de octubre, sin que nadie lo reivindicara"
+            },
+            {
+              "value": "115",
+              "label": "misiles lanzados por Rusia contra Ucrania en la primera semana de noviembre, según la presidencia ucraniana"
+            }
+          ],
+          "footnote": "Fuentes: Kyiv Post (13 nov 2026) y The Moscow Times/Reuters (12 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "La autonomía estratégica, en un caso real",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Starshield es un servicio de SpaceX contratado por el Gobierno de EE.UU., que lo ofrece a Ucrania. Hay, por tanto, dos llaves —la empresa y Washington— y ninguna está en manos del usuario. Que el corte coincida con la negociación de paz y con la presión estadounidense sobre los ataques a refinerías alimenta la sospecha de que la conectividad se usa como palanca política, aunque no hay pruebas de quién lo ordenó."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Es el argumento más claro a favor de IRIS², la constelación soberana de la UE, que no estará operativa hasta finales de la década. Hasta entonces, los ejércitos europeos que usan Starlink se exponen a lo mismo. Un artículo de opinión publicado ayer en SpaceNews pide «acuerdos de uso final» que fijen por contrato quién puede limitar el servicio y en qué condiciones."
+            }
+          ],
+          "key": "Para tu TFG es la prueba empírica que necesitabas: la dependencia de capacidades orbitales de EE.UU. no es una hipótesis, ya ha condicionado operaciones militares dos veces en un mes. Documenta la cronología —14 oct, 24 oct, 12 nov— y quién dijo qué: tiene valor como estudio de caso."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "SpaceX y ULA · Texas y Florida, 13–14 nov",
+              "title": "Esta noche, el intento de recuperar entero un Starship",
+              "text": "La ventana del vuelo 15 se abre a las 23.45 (hora peninsular) y dura 75 minutos. Si todo sale bien, el Super Heavy volverá a la torre unos seis minutos y medio después del despegue y la nave, tras 14 órbitas y el despliegue de 26 Starlink V3, intentará por primera vez la captura con los «palillos» de la torre unas 22 horas más tarde, el sábado por la tarde. Antes, ULA intenta devolver a Vulcan al vuelo, tras nueve meses en tierra, con 40 satélites de Amazon Leo: el mayor lote de la constelación hasta ahora, que tiene 396 en órbita.",
+              "link": {
+                "url": "https://www.cnn.com/2026/11/12/science/spacex-starship-ship-catch-attempt",
+                "source": "CNN"
+              }
+            },
+            {
+              "kicker": "UIT · Doha, 12 nov",
+              "title": "Bogdan-Martin, reelegida al frente de la UIT",
+              "text": "La estadounidense Doreen Bogdan-Martin obtuvo 164 de los 173 votos para un segundo mandato de cuatro años como secretaria general de la Unión Internacional de Telecomunicaciones, en la Conferencia de Plenipotenciarios que se celebra en Doha hasta el 27 de noviembre. La elección del vicesecretario general va a una tercera vuelta; quedan por elegir los tres directores de oficina —entre ellos el de Radiocomunicaciones, que gestiona el espectro y las posiciones orbitales—, la Junta del Reglamento de Radiocomunicaciones y el Consejo.",
+              "link": {
+                "url": "https://thepeninsulaqatar.com/article/13/11/2026/bogdan-martin-re-elected-itu-chief-as-deputys-election-heads-to-third-round-in-doha",
+                "source": "The Peninsula"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "161 km/h",
+            "text": "El límite de velocidad que, según Kiev, impone hoy Starshield en el frente: por encima, un dron interceptor pierde la conexión y no puede alcanzar a un Shahed a reacción."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "13 nov",
+                "what": "Dublín · Consejo Europeo informal sobre IA y la silla europea en Ucrania · Vulcan con Amazon Leo y Starship (23.45)"
+              },
+              {
+                "when": "16 nov",
+                "what": "Bruselas · Nuevas sanciones de la UE a Rusia: 150 entidades y 50 bancos, según París"
+              },
+              {
+                "when": "17–19 nov",
+                "what": "Bremen · Space Tech Expo Europe"
+              },
+              {
+                "when": "26–27 nov",
+                "what": "Bruselas · Consejo Europeo sobre financiación de Ucrania y presupuesto · 29 nov · Elecciones generales"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Lee la columna de Mustafa Bilal en SpaceNews (12 nov), «Connectivity and control», sobre los acuerdos de uso final para ejércitos que dependen de Starlink. Ponla junto a la cronología de Starshield en Ucrania: te sirve para un apartado sobre los límites jurídicos de la dependencia de proveedores privados extranjeros."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Cada corte de Starshield es un argumento comercial para la conectividad soberana: terminales multiórbita, pasarelas GEO/LEO europeas y servicios con garantías contractuales de continuidad. En Bremen, pregunta a los proveedores de IRIS² y de comunicaciones gubernamentales por soluciones «puente» hasta que la constelación esté operativa."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Time/Reuters (12 nov), Euronews (13 nov), RTÉ (12 nov), The Irish Times (13 nov), Just Security (12 nov), RFE/RL (13 nov), Al Jazeera (12–13 nov), elDiario.es (12 nov), Diari de Tarragona (12–13 nov), El Debate (12 nov), Kyiv Post (13 nov), The Moscow Times/Reuters (12 nov), CNN (12 nov), The Peninsula (13 nov), SpaceNews (12 nov), Estrella Digital y El Diario de Madrid (12–13 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 13.11.2026."
+}
