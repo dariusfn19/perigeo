@@ -2,7 +2,7 @@
  * Contenido (index.html, app.js, issues/*.json): primero red, para que el
  * número nuevo aparezca en cuanto se publica; si no hay conexión, la copia
  * guardada. Tipografías, iconos y fotos: primero caché. */
-var VERSION = 'perigeo-v2';
+var VERSION = 'perigeo-v3';
 var SHELL = ['./', 'index.html', 'app.js', 'manifest.webmanifest', 'issues/index.json',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png'];
 

@@ -39,6 +39,54 @@ body {
 }
 a{color:inherit}a:hover{opacity:0.75}
 #app:empty { min-height: 100vh; }
+
+/* Cabecera fija compacta: aparece al dejar atrás la cabecera grande */
+.pg-bar {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 20;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) 0 env(safe-area-inset-left);
+  background: var(--paper); color: var(--ink); border-bottom: 1px solid var(--ink);
+  transform: translateY(-105%); visibility: hidden;
+  transition: transform 0.35s cubic-bezier(0.2, 0.7, 0.2, 1), visibility 0s linear 0.35s, background 0.3s, color 0.3s;
+}
+.pg-bar.is-visible { transform: none; visibility: visible; transition: transform 0.35s cubic-bezier(0.2, 0.7, 0.2, 1), visibility 0s, background 0.3s, color 0.3s; }
+.pg-bar-in {
+  max-width: 1200px; margin: 0 auto; box-sizing: border-box; padding: 12px clamp(16px, 4vw, 48px);
+  display: flex; flex-wrap: nowrap; align-items: center; gap: 8px 32px;
+}
+.pg-bar-title { font-family: 'Instrument Serif', serif; font-size: 30px; line-height: 1; letter-spacing: -0.01em; text-decoration: none; }
+.pg-bar-nav { display: flex; gap: 24px; overflow-x: auto; scrollbar-width: none; flex: 1 1 0; min-width: 0; }
+.pg-bar-nav::-webkit-scrollbar { display: none; }
+/* Difumina el borde derecho cuando las secciones no caben y se pueden deslizar */
+.pg-bar-nav.is-overflowing { -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 32px), transparent); mask-image: linear-gradient(to right, #000 calc(100% - 32px), transparent); }
+.pg-bar-nav a {
+  flex: 0 0 auto; text-decoration: none; white-space: nowrap; padding: 6px 0;
+  font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase;
+  border-bottom: 1px solid transparent; transition: color 0.2s, border-color 0.2s;
+}
+.pg-bar-nav a.is-active { color: var(--accent); border-bottom-color: var(--accent); }
+.pg-bar-meta { font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); white-space: nowrap; }
+@media (max-width: 960px) {
+  .pg-bar-in { flex-wrap: wrap; padding-top: 10px; padding-bottom: 4px; gap: 4px 16px; justify-content: space-between; }
+  .pg-bar-title { font-size: 26px; }
+  .pg-bar-nav { order: 3; flex: 1 1 100%; gap: 20px; }
+}
+
+/* Botón «volver arriba» */
+.pg-top {
+  position: fixed; z-index: 20;
+  right: calc(env(safe-area-inset-right) + 20px); bottom: calc(env(safe-area-inset-bottom) + 20px);
+  width: 48px; height: 48px; border-radius: 50%; padding: 0;
+  display: flex; align-items: center; justify-content: center;
+  background: var(--paper); color: var(--ink); border: 1px solid var(--ink); cursor: pointer;
+  opacity: 0; transform: translateY(12px); pointer-events: none;
+  transition: opacity 0.3s, transform 0.3s, background 0.2s, color 0.2s;
+}
+.pg-top.is-visible { opacity: 1; transform: none; pointer-events: auto; }
+.pg-top:hover { background: var(--ink); color: var(--paper); }
+.pg-top:focus-visible, .pg-bar a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) {
+  .pg-bar, .pg-bar.is-visible, .pg-top { transition: none; }
+}
 </style>
 <script>
   // Aplica el tema guardado antes de pintar para evitar parpadeos

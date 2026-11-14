@@ -46,6 +46,22 @@
     '</header>';
   }
 
+  // Versión compacta de la cabecera, fija arriba al desplazarse (estilos en index.html)
+  function stickyBar(d) {
+    var day = new Date(d.date + 'T12:00:00').toLocaleDateString('es-ES', { day: 'numeric', month: 'short' }).replace('.', '');
+    return '<div class="pg-bar" aria-hidden="true">' +
+      '<div class="pg-bar-in">' +
+        '<a href="#" class="pg-bar-title" data-action="top" tabindex="-1">Perigeo<span style="color: var(--accent);">.</span></a>' +
+        '<nav class="pg-bar-nav" aria-label="Secciones">' +
+          map(d.sections, function (s) {
+            return '<a href="#' + s.id + '" data-sec="' + s.id + '" tabindex="-1"><span style="color: var(--accent);">' + s.numeral + '</span>  ' + s.name + '</a>';
+          }) +
+        '</nav>' +
+        '<span class="pg-bar-meta">Nº ' + pad(d.number) + ' · ' + day + '</span>' +
+      '</div>' +
+    '</div>';
+  }
+
   function summary(sm) {
     return '<section aria-labelledby="tres" style="display: flex; flex-wrap: wrap; gap: 32px 56px; padding: 64px 0 72px; border-bottom: 1px solid var(--hair);">' +
       '<div style="flex: 1 1 260px;">' +
@@ -353,8 +369,13 @@
         footer(d) +
         archive(d) +
       '</div>' +
-    '</main>';
+    '</main>' +
+    stickyBar(d) +
+    '<button type="button" class="pg-top" data-action="top" aria-label="Volver al principio" tabindex="-1">' +
+      '<svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M9 15V3M3.5 8.5 9 3l5.5 5.5"/></svg>' +
+    '</button>';
     app.innerHTML = html;
+    onScroll();
     document.title = 'Perigeo · Nº ' + pad(d.number);
   }
 
@@ -408,18 +429,25 @@
     if (e.target.closest('[data-action="theme"]')) { setTheme(!isDark()); return; }
     var refreshBtn = e.target.closest('[data-action="refresh"]');
     if (refreshBtn) { refresh(refreshBtn); return; }
+    if (e.target.closest('[data-action="top"]')) {
+      e.preventDefault();
+      smoothScrollTo(0);
+      history.replaceState(null, '', location.pathname + location.search);
+      return;
+    }
     // Navegación interna sin recargar (archivo de números y anclas de sección)
     var a = e.target.closest('a[href]');
     if (!a) return;
     var href = a.getAttribute('href');
     if (href.charAt(0) === '#') {
       var el = document.getElementById(href.slice(1));
-      if (el) { e.preventDefault(); el.scrollIntoView({ behavior: 'smooth' }); history.replaceState(null, '', location.search + href); }
+      if (el) { e.preventDefault(); smoothScrollTo(sectionTop(el)); history.replaceState(null, '', location.search + href); }
     } else if (href.indexOf('?n=') === 0) {
       e.preventDefault();
       history.pushState(null, '', href);
       route();
       window.scrollTo(0, 0);
+      onScroll();
     }
   });
 
@@ -443,10 +471,87 @@
       render(d);
       if (location.hash) {
         var el = document.getElementById(location.hash.slice(1));
-        if (el) el.scrollIntoView();
+        if (el) window.scrollTo(0, sectionTop(el));
       }
     });
   }
+
+  /* ---------- Desplazamiento: cabecera fija, botón arriba, sección activa ---------- */
+
+  var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var scrollAnim = null;
+
+  function barHeight() {
+    var bar = app.querySelector('.pg-bar');
+    return bar ? bar.offsetHeight : 0;
+  }
+
+  // Posición de una sección dejando sitio para la cabecera fija
+  function sectionTop(el) {
+    return Math.max(0, el.getBoundingClientRect().top + window.pageYOffset - barHeight() + 1);
+  }
+
+  // Desplazamiento animado (ease-in-out); se cancela si el lector toca o usa la rueda
+  function smoothScrollTo(y) {
+    var start = window.pageYOffset, dist = y - start;
+    if (scrollAnim) cancelAnimationFrame(scrollAnim);
+    if (reduceMotion || Math.abs(dist) < 2) { window.scrollTo(0, y); return; }
+    var duration = Math.min(1100, Math.max(450, Math.abs(dist) * 0.12));
+    var t0 = null;
+    function ease(t) { return t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2; }
+    function step(now) {
+      if (t0 === null) t0 = now;
+      var t = Math.min(1, (now - t0) / duration);
+      window.scrollTo(0, start + dist * ease(t));
+      scrollAnim = t < 1 ? requestAnimationFrame(step) : null;
+    }
+    scrollAnim = requestAnimationFrame(step);
+  }
+  ['wheel', 'touchstart', 'keydown'].forEach(function (ev) {
+    window.addEventListener(ev, function () { if (scrollAnim) { cancelAnimationFrame(scrollAnim); scrollAnim = null; } }, { passive: true });
+  });
+
+  var ticking = false;
+  function onScroll() {
+    ticking = false;
+    var header = app.querySelector('main header');
+    var bar = app.querySelector('.pg-bar');
+    var top = app.querySelector('.pg-top');
+    if (!header || !bar) return;
+    var showBar = header.getBoundingClientRect().bottom < 0;
+    if (showBar !== bar.classList.contains('is-visible')) {
+      bar.classList.toggle('is-visible', showBar);
+      bar.setAttribute('aria-hidden', String(!showBar));
+      bar.querySelectorAll('a').forEach(function (a) { a.tabIndex = showBar ? 0 : -1; });
+    }
+    var showTop = window.pageYOffset > window.innerHeight * 0.6;
+    if (top && showTop !== top.classList.contains('is-visible')) {
+      top.classList.toggle('is-visible', showTop);
+      top.tabIndex = showTop ? 0 : -1;
+    }
+    var barNav = bar.querySelector('.pg-bar-nav');
+    if (barNav) barNav.classList.toggle('is-overflowing', barNav.scrollLeft + barNav.clientWidth < barNav.scrollWidth - 4);
+    // Sección en pantalla, marcada en la cabecera compacta
+    var active = null, line = barHeight() + 48;
+    app.querySelectorAll('main section[id]').forEach(function (sec) {
+      if (sec.getBoundingClientRect().top <= line) active = sec.id;
+    });
+    bar.querySelectorAll('a[data-sec]').forEach(function (a) {
+      var on = a.getAttribute('data-sec') === active;
+      if (on !== a.classList.contains('is-active')) {
+        a.classList.toggle('is-active', on);
+        var nav = a.parentNode;
+        if (on && nav.scrollTo && nav.scrollWidth > nav.clientWidth) nav.scrollTo({ left: a.offsetLeft - nav.offsetLeft - 16, behavior: reduceMotion ? 'auto' : 'smooth' });
+      }
+    });
+  }
+  window.addEventListener('scroll', function () {
+    if (!ticking) { ticking = true; requestAnimationFrame(onScroll); }
+  }, { passive: true });
+  window.addEventListener('resize', onScroll);
+  app.addEventListener('scroll', function (e) {
+    if (e.target.classList && e.target.classList.contains('pg-bar-nav')) onScroll();
+  }, { capture: true, passive: true });
 
   function load() {
     return getJSON('issues/index.json').then(function (idx) {
