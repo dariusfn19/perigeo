@@ -1,0 +1,421 @@
+{
+  "number": 17,
+  "week": 46,
+  "date": "2026-11-14",
+  "dateLabel": "Sábado, 14 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Dublín cierra con una fórmula y no con un nombre: Europa irá a la próxima ronda sobre Ucrania como «instituciones de la UE más el E5»; el Kremlin aún no la acepta y la Casa Blanca anuncia para la semana que viene en Shenzhen la primera cumbre a tres entre Trump, Xi y Putin.",
+      "En el Golfo, Irán dice que otros dos petroleros han chocado con minas en Ormuz, el OIEA admite que no sabe dónde está la planta subterránea de enriquecimiento de Isfahán y Erdogan y el emir de Catar firman un pacto de defensa mutua.",
+      "El cara a cara Sánchez–Feijóo ya tiene fecha, el 19 de noviembre, y un sondeo de YouGov para el Ara acerca a ERC al PSC en Catalunya; en Texas, Starship pierde el propulsor en el Golfo, pero la nave intenta hoy su primera captura en la torre."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "UE · Ucrania · Dublín, 13 nov",
+        "title": "Europa elige equipo para la mesa, pero no portavoz",
+        "dek": "Los líderes acuerdan que las instituciones de la UE y el E5 —Reino Unido, Francia, Alemania, Italia y Polonia— representen a Europa en la próxima ronda. Nadie habla todavía en nombre de todos, y Moscú pide ver «intención genuina» antes de aceptarlos.",
+        "body": [
+          "El Consejo Europeo informal de Dublín, que iba a dedicarse a la inteligencia artificial, terminó girando en torno a una sola pregunta: quién se sienta por Europa en la negociación sobre Ucrania. La respuesta de António Costa fue colectiva: el equipo serán «las instituciones de la Unión Europea y el E5 de la Coalición de Voluntarios», y actuarán unidos. «Europa debe hablar con una voz clara y unida en todas las discusiones que den forma al futuro de Ucrania», dijo. Según Bloomberg, citado por Kyiv Post, los miembros serán por ahora asesores de seguridad nacional, a nivel técnico; ningún líder ha sido designado para el plano político y, como recuerda The Irish Times, en un formato informal no se adoptan decisiones formales. Jared Kushner ya había dejado claro qué prefiere Washington: si Europa nombrara a una sola persona, dijo, sería un logro mayor que conseguir que Rusia la incluya.",
+          "El reparto deja heridos. Kaja Kallas, que reclamaba la silla en virtud del acuerdo de 2024, lo resumió con franqueza: «Sé que los rusos no me quieren», y pidió no dejar que Moscú elija a los negociadores europeos. Friedrich Merz advirtió de un «segundo momento Anchorage» y pidió a Washington: «Por favor, nada de sorpresas». Desde Moscú, el portavoz Dmitri Peskov dijo que Rusia quiere ver «intención genuina y disposición» antes de decidir sobre la participación europea. Von der Leyen, que calificó la cumbre de «intensa», anunció que la Comisión propondrá pronto el <b style=\"font-weight: 600;\">22.º paquete de sanciones</b> y una fórmula para cubrir el agujero financiero de Ucrania en 2027 antes del Consejo Europeo del 26–27 de noviembre. La cifra baila: RTÉ habla de 70.000 millones; The Irish Times, de unos 45.000."
+        ],
+        "quote": {
+          "text": "Solo Ucrania tiene la legitimidad para decidir sobre las cuestiones que afectan a su territorio y a su soberanía.",
+          "author": "António Costa · Presidente del Consejo Europeo, Dublín, 13 nov (según RTÉ)"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dublin_Dublin_Castle_Exterior_Great_Courtyard_1.jpg/1280px-Dublin_Dublin_Castle_Exterior_Great_Courtyard_1.jpg",
+          "alt": "Gran patio del castillo de Dublín, con fachadas de ladrillo georgianas y una torre al fondo",
+          "credit": "Zairon · Wikimedia Commons · CC BY 4.0",
+          "caption": "El castillo de Dublín. La capital irlandesa ha acogido esta semana la Comunidad Política Europea y el Consejo Europeo informal."
+        },
+        "link": {
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
+          "source": "RTÉ"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Lo que sale de Dublín",
+          "items": [
+            {
+              "value": "UE + 5",
+              "label": "instituciones europeas más Reino Unido, Francia, Alemania, Italia y Polonia: el equipo europeo para la próxima ronda"
+            },
+            {
+              "value": "0",
+              "label": "líderes designados para representar a Europa en el plano político, según Kyiv Post/Bloomberg"
+            },
+            {
+              "value": "22.º",
+              "label": "paquete de sanciones contra Rusia que la Comisión propondrá «pronto»"
+            },
+            {
+              "value": "45–70 mil M€",
+              "label": "agujero financiero de Ucrania para 2027, según la fuente (The Irish Times / RTÉ)"
+            }
+          ],
+          "footnote": "Fuentes: RTÉ (13 nov 2026), Ukrinform (13 nov 2026), Kyiv Post (13 nov 2026), The Irish Times (13 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Una fórmula que aplaza la pregunta",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "«Instituciones más E5» es la solución que permite a todos decir que han ganado: Costa salva el papel de la Unión, Merz y Macron mantienen el formato de grandes capitales que prefieren, y Meloni y Tusk entran en el núcleo. Pero no resuelve lo que pedía Washington —un interlocutor— ni lo que teme Kiev: que Rusia y EE.UU. discutan la seguridad europea sin europeos con capacidad de decisión."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si el Kremlin acepta el formato o solo a capitales concretas; si el equipo técnico sube de nivel antes de la próxima ronda, aún sin fecha, y qué se habla en Shenzhen: según un alto cargo estadounidense, Trump pretende dejar Ucrania fuera de la cumbre a tres con Xi y Putin. El Consejo Europeo del 26–27 de noviembre tendrá que poner dinero detrás de la silla."
+            }
+          ],
+          "key": "Guarda la fórmula literal de Costa para tu TFG: es el mismo híbrido —Unión más Estados miembros— que Europa usa en la ESA, en el COPUOS o ante los Acuerdos Artemis, donde firman los Estados y no la UE. Sirve para argumentar que la representación exterior europea se construye caso a caso, no por diseño."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EE.UU. · China · Rusia, 14 nov",
+              "title": "Trump, Xi y Putin, juntos por primera vez en Shenzhen",
+              "text": "La Casa Blanca confirma que los tres presidentes se reunirán la semana que viene al margen de la cumbre de la APEC en Shenzhen: el primer encuentro de este tipo. Llega nueve meses después de que expirara el tratado New START, en febrero, lo que dejó a EE.UU. y Rusia sin límites a sus arsenales nucleares por primera vez en más de 50 años. Trump quiere hablar de la guerra con Irán y de armas nucleares, y evitar Ucrania, según un alto cargo, que rebaja las expectativas: «No esperamos llegar a ningún tipo de acuerdo». Peskov lo califica de «extremadamente significativo».",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+                "source": "Al Jazeera / AP / Reuters"
+              }
+            },
+            {
+              "kicker": "Irán · Ormuz, 13–14 nov",
+              "title": "Minas en el estrecho y una planta nuclear sin localizar",
+              "text": "La Guardia Revolucionaria dijo el viernes que un metanero había chocado con una mina y, el sábado, que dos petroleros «explotaron y se incendiaron» por la misma causa, sin identificarlos. El tráfico por Ormuz está un 65 % por debajo de antes de la guerra, según la agencia británica UKMTO. El informe trimestral del OIEA admite que el organismo «no conoce la ubicación exacta» de la planta subterránea de enriquecimiento de Isfahán ni si contiene material nuclear; irá a la junta de gobernadores la semana que viene. El secretario del Tesoro, Scott Bessent, defendió que el bloqueo naval «está funcionando» y llamó a la Guardia Revolucionaria «animal peligroso y acorralado».",
+              "link": {
+                "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+                "source": "CBS News / AP / Reuters"
+              }
+            },
+            {
+              "kicker": "Turquía · Catar, 13 nov",
+              "title": "Erdogan y el emir Tamim firman un pacto de defensa mutua",
+              "text": "El presidente turco y el emir de Catar firmaron en Estambul un acuerdo de defensa mutua cuyos detalles no se han publicado. Es un paso más allá del memorando «Badr» de cooperación militar que ambos países firmaron en octubre con Pakistán e Indonesia, y llega con Ormuz cerrado y la amenaza iraní sobre las bases del Golfo.",
+              "link": {
+                "url": "https://gulfnews.com/world/mena/us-israel-iran-war-turkey-qatar-sign-defence-pact-as-trump-warns-tehran-hormuz-risks-persist-1.500745854",
+                "source": "Gulf News"
+              }
+            },
+            {
+              "kicker": "Ucrania · Zaporiyia, 13 nov",
+              "title": "Medio centenar de heridos en un ataque a Zaporiyia",
+              "text": "Un ataque ruso por la mañana hirió a 50 personas, entre ellas ocho niños, y dañó edificios de viviendas en el distrito de Kosmichni, según el jefe en funciones de la región, Mijailo Semikin. Los equipos de rescate sacaron a 17 personas de los escombros y un socorrista murió aplastado por una losa durante los trabajos. Las autoridades contabilizan 972 ataques contra 52 localidades de la región en un solo día; alrededor del 75 % de su territorio está ocupado, según DeepState.",
+              "link": {
+                "url": "https://kyivindependent.com/russia-strikes-zaporizhzhia-injures-13-including-5-children/",
+                "source": "The Kyiv Independent"
+              }
+            },
+            {
+              "kicker": "Justicia internacional · La Haya, 13–14 nov",
+              "title": "La CPI deja de investigar a las tropas de EE.UU. en Afganistán",
+              "text": "Los jueces de la Corte Penal Internacional ordenaron cerrar la parte de la investigación sobre presuntos crímenes de militares estadounidenses y centrarla en los talibanes desde 2021, alegando «limitaciones significativas» de la Fiscalía para reunir pruebas. También cierran la pesquisa sobre la filial del Estado Islámico. La Fiscalía ya ha recurrido. Washington mantiene sancionados a 13 empleados y exempleados de la Corte y ha prometido seguir con su campaña para desmantelarla.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
+                "source": "Al Jazeera / AP / Reuters"
+              }
+            },
+            {
+              "kicker": "Israel · Gobierno, 13 nov",
+              "title": "Eisenkot acusa a Netanyahu de una campaña «racista»",
+              "text": "El líder opositor Gadi Eisenkot, encargado de formar Gobierno, acusó al primer ministro en funciones de alimentar una campaña «racista y violenta» contra los ciudadanos árabes, el 21 % de la población: «Intentar marginarlos y difamarlos como grupo es un acto contra el Estado». En las elecciones del 27 de octubre, su alianza obtuvo 48 escaños y el bloque de Netanyahu 53, ambos lejos de los 61; los partidos árabes lograron un récord de 19. Eisenkot tiene seis semanas.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis",
+                "source": "Al Jazeera / AFP"
+              }
+            },
+            {
+              "kicker": "África · Guinea, 11–13 nov",
+              "title": "Al menos diez muertos por la prohibición de la minería de oro",
+              "text": "Los enfrentamientos en Balato, en la región de Siguiri, dejaron al menos diez muertos —cinco de ellos extranjeros— y 13 heridos, según el Gobierno guineano, que prohibió la minería artesanal de oro en la zona el 2 de noviembre. Más de 1.200 presuntos mineros ilegales han sido detenidos. La medida ha provocado un éxodo regional: Mali calcula que unas 100.000 personas han llegado a Bamako y Burkina Faso dice haber repatriado a 45.406 ciudadanos.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining",
+                "source": "Al Jazeera / Reuters / AP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "5 días",
+        "statLabel": "para el cara a cara entre Sánchez y Feijóo, el jueves 19 de noviembre; quedan 15 para las elecciones del 29-N",
+        "title": "Un solo cara a cara y cuatro debates más",
+        "body": [
+          "Sánchez y Feijóo se verán una sola vez a solas: el jueves 19, en un debate organizado por la Academia de Televisión en Tres Cantos y moderado por María Casado. Habrá cinco bloques —vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración democrática; migración y política exterior— y, por sorteo, Feijóo abrirá y Sánchez cerrará. RTVE celebrará el lunes 23 un debate a ocho con portavoces de PP, PSOE, Vox, Frente Amplio, ERC, Junts, EH Bildu y PNV, moderado por Xabier Fortes; el debate a cuatro con Abascal y Colau, previsto para el 26, sigue sin cerrarse.",
+          "El primer día dejó el tono. Sánchez llamó a movilizarse en Pamplona —«Tenemos que hacer historia»— y definió a Feijóo y Abascal como «un viaje al pasado». Feijóo, en una entrevista con Jordi Wild, dijo sobre el ático de siete millones de la Comunidad de Madrid que «siete millones no es nada», frase que Sánchez usó para acusarle de «reírse de la gente»; también aseguró que tiene ministerios vetados para Vox: «Claro que lo tengo». Abascal, desde Colón, calificó el 29-N de «existencial para España». En Catalunya, un sondeo de <b style=\"font-weight: 600;\">YouGov para el Ara</b> da al PSC 16 escaños y a ERC 13, casi el doble que en 2023, con Vox por delante del PP."
+        ],
+        "link": {
+          "url": "https://www.infobae.com/espana/agencias/2026/11/13/un-cara-a-cara-entre-sanchez-y-feijoo-y-otros-cuatro-debates-marcaran-la-campana-del-29n/",
+          "source": "Infobae / EFE"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Los 48 escaños catalanes, según YouGov",
+          "note": "Estimación de escaños en Catalunya para el 29-N; entre paréntesis, el resultado de 2023 cuando lo da el diario",
+          "bars": [
+            {
+              "label": "PSC",
+              "value": 16,
+              "display": "16 (19)",
+              "highlight": true
+            },
+            {
+              "label": "ERC",
+              "value": 13,
+              "display": "13 (7)",
+              "highlight": true
+            },
+            {
+              "label": "Vox",
+              "value": 6,
+              "display": "6 (2)"
+            },
+            {
+              "label": "PP",
+              "value": 5,
+              "display": "5 (6)"
+            },
+            {
+              "label": "Junts",
+              "value": 4,
+              "display": "4 (7)"
+            },
+            {
+              "label": "Frente Amplio",
+              "value": 4,
+              "display": "4"
+            }
+          ],
+          "footnote": "Fuente: YouGov para el Ara (13 nov 2026). 350 entrevistas en línea del 26 oct al 2 nov y del 11 al 12 nov; margen de error máximo ±5,2 puntos."
+        },
+        {
+          "type": "analysis",
+          "title": "Tarragona, la circunscripción que se mira",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El bloque progresista mantendría 33 de los 48 escaños catalanes, pero con un reparto muy distinto: ERC sube a costa del PSC y Junts se hunde, mientras la derecha pasa de 8 a 11 por el empuje de Vox. En Tarragona, el último CIS daba al PSC entre tres y cuatro de los seis escaños. Iván Redondo, que presentó su libro en el Col·legi de l’Advocacia, auguró una participación del 77 % y que todo se decidirá en los tres últimos días: «Tarragona será decisiva el 29-N»."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si el ascenso de ERC que mide YouGov —con una muestra pequeña— le permite disputar al PSC el último escaño tarraconense, y si Junts, que abrió campaña en Reus, frena la caída. La candidata socialista, Ione Montalvo, admite en el Diari que «la gente tiene motivos para estar enfadada» y centra su mensaje en vivienda y sanidad, con la trombectomía 24 horas en el Joan XXIII prometida para finales de 2027."
+            }
+          ],
+          "key": "Los sondeos se contradicen y la muestra catalana de YouGov es de solo 350 personas: no te fíes de una sola encuesta. Lo que sí parece claro es que en tu provincia el sexto escaño se jugará por pocos miles de votos."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Reus · Campaña, 13 nov",
+              "title": "Junts abre campaña en Reus y pide un concierto económico",
+              "text": "Míriam Nogueras y Josep Maria Cruset arrancaron la campaña de Junts en el Vermut Rofes ante más de 300 personas. Se presentaron como la única fuerza que defiende Catalunya, aspiran a ser «decisivos» desde el centro y piden un acuerdo económico como el vasco: «Volem recaptar, gestionar i decidir sobre els nostres recursos», dijo Nogueras, que acusó a ERC y Podemos de apoyar al Gobierno «sin obtener nada a cambio». La candidata local, Teresa Pallarès, ya mira a las municipales de 2027.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reus_-_Pla%C3%A7a_del_Mercadal_1.jpg/1280px-Reus_-_Pla%C3%A7a_del_Mercadal_1.jpg",
+                "alt": "La plaza del Mercadal de Reus, con el edificio del Ayuntamiento y fachadas modernistas",
+                "credit": "Zarateman · Wikimedia Commons · CC0",
+                "caption": "La plaza del Mercadal, en el centro de Reus."
+              },
+              "link": {
+                "url": "https://www.diaridetarragona.com/reus/275701/junts-beu-l-elixir-reus-per-posar-catalunya-centre-pel-29-n.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Catalunya · Campo, 13 nov",
+              "title": "Unos 100 millones para la crisis agraria, por decreto ley",
+              "text": "La Taula Agrària ratificó el paquete pactado por el Govern y las organizaciones agrarias: ayudas directas extraordinarias para todos los agricultores profesionales, con módulos más altos para los sectores más castigados, y unos 100 millones adicionales entre el fondo de la Generalitat y el Fondo Agrario. Se tramitará por decreto ley —«nos permite acortar mucho los plazos», dijo Raquel Serrat, de Unió de Pagesos— e incluye 200 inspecciones de contratos en 2027 y 40 millones para comunidades de regantes hasta 2029.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275655/taula-agraria-acuerda-movilizar-cerca-100-millones-euros-ayudar-campo-catalan.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Tarragona · Justicia, 13 nov",
+              "title": "Once plazas judiciales nuevas para Tarragona, Reus y Amposta",
+              "text": "El plan del Departament de Justícia para 2027 suma en la provincia cinco plazas en el Tribunal de Instancia de Tarragona, tres en la Audiencia Provincial, dos en Reus y una en Amposta, dentro de 95 para toda Catalunya. Con las de 2026, el número de plazas catalanas pasaría de 871 a 1.057, un 21 % más. El conseller Ramon Espadaler asegura que el aumento beneficiará a todos los territorios «sin excepción».",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275671/tarragona-reus-amposta-sumaran-once-nuevas-plazas-judiciales.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "SpaceX · Starbase, 13–14 nov",
+        "title": "Starship pierde el propulsor, pero la nave sigue en órbita",
+        "dek": "El vuelo 15 buscaba recuperar entero un cohete orbital por primera vez. El Super Heavy acabó en el Golfo de México; la nave desplegó sus 26 Starlink y esta noche intentará la captura con los brazos de la torre.",
+        "body": [
+          "Starship despegó de Starbase pasadas las 23.45 del viernes (hora peninsular). Unos seis minutos y medio después, cuando debía volver a la torre, el propulsor Super Heavy 22 se desvió hacia el mar y explotó al amerizar en el Golfo de México. «SpaceX todavía no conoce la causa» de que se abortara la captura, según Gizmodo. La segunda parte del plan sigue en pie: la nave 42 alcanzó la órbita —es el segundo vuelo orbital de Starship—, desplegó <b style=\"font-weight: 600;\">26 satélites Starlink V3</b> y completa una travesía de hasta 14 órbitas. Si nada cambia, volverá a Starbase unas 22,5 horas después del despegue —hacia las 22.15 de hoy, según ese plan— para intentar la primera captura de una etapa superior con los «palillos» de la torre.",
+          "Hoy también vuelve a volar Vulcan. ULA retrasó un día el lanzamiento por un corte de electricidad en una planta de nitrógeno de Air Liquide; la nueva hora es las 18.32 (hora peninsular) desde Cabo Cañaveral. Es su regreso tras nueve meses en tierra por el fallo de una tobera en febrero, el primer Vulcan con seis propulsores sólidos y el primer vuelo de un motor BE-4 de Blue Origin desde que un New Glenn explotó en la plataforma en mayo. Lleva 40 satélites de Amazon Leo, la mayor carga de la constelación hasta ahora; Amazon tiene contratados 38 lanzamientos de Vulcan para más de 1.500 satélites. «Cada vuelo genera datos y cada vuelo nos enseña algo», dijo el consejero delegado de ULA, Mark Peller."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starship_%26_Moonset.jpg/1280px-Starship_%26_Moonset.jpg",
+          "alt": "Un prototipo de Starship en Starbase con la Luna poniéndose en el cielo al fondo",
+          "credit": "Hotel Pika · Wikimedia Commons · CC BY-SA 2.0",
+          "caption": "Un Starship en Starbase con la Luna al fondo: la recuperación completa del cohete es condición para la versión lunar de Artemis."
+        },
+        "link": {
+          "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/",
+          "source": "Spaceflight Now"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Un fin de semana de lanzamientos",
+          "note": "Horas peninsulares · sujetas a cambios",
+          "items": [
+            {
+              "when": "13 nov · 23.47",
+              "title": "Despegue del vuelo 15",
+              "text": "Starship sale de Starbase con 26 Starlink V3."
+            },
+            {
+              "when": "13 nov · +6,5 min",
+              "title": "Propulsor perdido",
+              "text": "El Super Heavy 22 renuncia a la torre y explota al amerizar en el Golfo."
+            },
+            {
+              "when": "14 nov · 18.32",
+              "title": "Vulcan · Amazon Leo LV-01",
+              "text": "Regreso de ULA con 40 satélites, tras un día de retraso."
+            },
+            {
+              "when": "14 nov · ≈ 22.15*",
+              "title": "Captura de la nave 42",
+              "text": "Primer intento de atrapar una etapa superior con los brazos de la torre.",
+              "highlight": true
+            },
+            {
+              "when": "≥ 23 nov",
+              "title": "Ariane 6 · Amazon Leo LE-04",
+              "text": "El siguiente lote de Amazon, desde Kourou."
+            }
+          ],
+          "footnote": "* Estimación a partir del plan de regreso 22,5 h después del despegue. Fuentes: Spaceflight Now (13 nov 2026), Gizmodo (13 nov 2026), Amazon (13 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Mientras EE.UU. recupera cohetes, Europa firma tarde",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Starship falla en una parte y avanza en otra: ya pone en órbita satélites de producción y, si atrapa la nave, tendrá a su alcance la reutilización completa, que es la base del modelo lunar de SpaceX para Artemis. En Europa, la semana deja otra foto: la ESA aún no ha firmado con MaiaSpace su contrato del European Launcher Challenge y el próximo Vega C se va hacia Navidad por retrasos de los clientes."
+            },
+            {
+              "label": "Qué implica",
+              "text": "El coste por kilo y la cadencia deciden quién despliega constelaciones y quién llega antes a la Luna. Cada mes de retraso en los lanzadores europeos aumenta la dependencia de cohetes estadounidenses incluso para cargas institucionales, como ya ocurrió con Galileo."
+            }
+          ],
+          "key": "Para tu TFG, la reutilización no es solo ingeniería: condiciona quién tendrá presencia física en la Luna cuando se negocien las zonas de seguridad y el uso de recursos. Une esta pieza con el capítulo sobre dependencia de capacidades estadounidenses."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "ESA · Lanzadores, 12 nov",
+              "title": "El contrato de MaiaSpace con la ESA sigue sin firmarse",
+              "text": "La ESA atribuye el retraso a que MaiaSpace ha elegido que su apoyo del European Launcher Challenge sea en forma de contratos de lanzamiento y no de desarrollo técnico. La filial de ArianeGroup tiene asignados 183,4 millones de los 902 millones comprometidos en la ministerial de 2025; Isar, RFA y PLD Space firmaron los suyos, por 543,6 millones, el 27 de agosto. El 22 de octubre, la directora de Transporte Espacial, Géraldine Naja, dijo que era «cuestión de días».",
+              "link": {
+                "url": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
+                "source": "European Spaceflight"
+              }
+            },
+            {
+              "kicker": "Avio · Vega C, 14 nov",
+              "title": "El próximo Vega C se acerca a Navidad",
+              "text": "El tercer Vega C de 2026, con seis satélites de la constelación italiana IRIDE, se retrasa varias semanas, hacia el 25 de diciembre, porque los satélites llegaron tarde a la Guayana Francesa, el 9 de noviembre. «Los satélites de los clientes vienen con un poco de retraso», reconoció el consejero delegado de Avio, Giulio Ranzo, que aspira a cuatro y luego cinco lanzamientos al año «si los clientes mantienen sus plazos».",
+              "link": {
+                "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
+                "source": "European Spaceflight"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "−65 %",
+            "text": "Caída del tráfico de buques por el estrecho de Ormuz respecto a antes de la guerra, según la UKMTO británica: 308 tránsitos en la última semana."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "14 nov",
+                "what": "Cabo Cañaveral · Vulcan con 40 Amazon Leo (18.32) · Starbase · Captura de la nave de Starship (≈ 22.15)"
+              },
+              {
+                "when": "17–19 nov",
+                "what": "Bremen · Space Tech Expo Europe · Semana próxima · Junta de gobernadores del OIEA, con el informe sobre Isfahán"
+              },
+              {
+                "when": "19 nov",
+                "what": "Tres Cantos · Cara a cara Sánchez–Feijóo · Semana próxima · Shenzhen · Cumbre de la APEC y encuentro Trump–Xi–Putin"
+              },
+              {
+                "when": "26–27 nov",
+                "what": "Bruselas · Consejo Europeo sobre la financiación de Ucrania en 2027 · 29 nov · Elecciones generales"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Compara la fórmula de Dublín —«instituciones de la UE más el E5»— con cómo se reparte la voz europea en el espacio: la UE financia Galileo e IRIS², la ESA ejecuta y los Estados firman los Acuerdos Artemis uno a uno. Un cuadro de tres columnas (quién decide, quién paga, quién firma) te puede servir de marco analítico."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "El retraso de Vega C y la firma pendiente de MaiaSpace tensan la oferta europea de lanzamientos para 2027: hay hueco para intermediarios de lanzamiento, servicios de integración y viajes compartidos. En Bremen, pregunta a los operadores pequeños cómo están asegurando plazas y con qué lanzadores."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: RTÉ (13 nov), Ukrinform (13 nov), Kyiv Post (13 nov), The Irish Times (13 nov), Al Jazeera (13–14 nov), CBS News (13 nov), ABC News (13 nov), Gulf News (14 nov), The Kyiv Independent (13 nov), Infobae/EFE (13 nov), Estrella Digital (14 nov), Mundiario (14 nov), Ara (13 nov), Diari de Tarragona (13–14 nov), Spaceflight Now (13 nov), Gizmodo (13 nov), Amazon (13 nov), European Spaceflight (12 y 14 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 14.11.2026."
+}
