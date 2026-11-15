@@ -1,0 +1,420 @@
+{
+  "number": 18,
+  "week": 46,
+  "date": "2026-11-15",
+  "dateLabel": "Domingo, 15 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Kushner dice que Washington quiere ahora facilitar un contacto directo entre Europa y Moscú, mientras Zelenski rechaza la «misión humanitaria» que Putin propone para Kostiantínivka: «Si entregamos Kostiantínivka, sus siguientes pasos serán nuestras otras ciudades del Donbás»; el Kremlin confirma la cumbre Trump–Xi–Putin del jueves 19 en Shenzhen.",
+      "La guerra en el mar se extiende: Irán dice que tres petroleros han chocado con minas en Ormuz, la ONU cifra en 25 los marinos muertos desde febrero y tres buques mercantes son alcanzados por drones frente a la costa de Rumanía, país de la OTAN.",
+      "España, ausente en Dublín, se queda fuera del equipo europeo para Ucrania, aunque Hernández de Cos se perfila para presidir el BCE; en Texas, SpaceX atrapa por primera vez con la torre una etapa superior de Starship que vuelve de órbita."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Rusia · EE.UU., 13–14 nov",
+        "title": "Una «misión humanitaria» para Kostiantínivka y un puente hacia Europa",
+        "dek": "Putin ofreció a los enviados de Trump un alto el fuego local en la ciudad más disputada del Donbás. Zelenski lo ve como una forma de tomarla sin combatir. Kushner, por su parte, quiere sentar ahora a europeos y rusos frente a frente.",
+        "body": [
+          "La propuesta llegó por la vía estadounidense. Durante su reunión con Jared Kushner y Steve Witkoff en Moscú el 12 de noviembre, Vladímir Putin planteó establecer una «misión humanitaria» temporal en Kostiantínivka, la ciudad de la región de Donetsk donde se combate dentro del casco urbano. Zelenski, que recibió el plan de manos de los negociadores, lo calificó de «movimiento absolutamente primitivo, porque de otro modo no tiene forma de tomar esta ciudad», y recordó que Ucrania había pasado a Washington una lista de siete u ocho localidades bloqueadas con civiles —entre ellas pueblos cerca de Oleshky— para las que Rusia no propuso nada parecido. «¿Por qué? Porque después de Kostiantínivka vienen Kramatorsk y Sloviansk», dijo. Su asesor Dmitro Litvin recordó que la anterior tregua «humanitaria» rusa en Oleshky sirvió, según Kiev, para rotar tropas.",
+          "El sábado, Kushner aseguró que «ambas partes» saben que habrá que hacer concesiones y que su siguiente objetivo es <b style=\"font-weight: 600;\">facilitar un contacto directo entre Europa y Moscú</b>, un día después de que los líderes europeos eligieran en Dublín a su equipo: las instituciones de la UE más Francia, Alemania, Italia, Polonia y Reino Unido. Según Al Jazeera, el enviado también dejó claro que las garantías de seguridad para Ucrania las daría la OTAN. Zelenski reveló el viernes que en Abu Dabi los estadounidenses le preguntaron si retiraría sus tropas del Donbás a cambio de entrar en la Alianza. Emmanuel Macron, en un largo mensaje en X, pidió a Europa que diga «con claridad» qué quiere para la posguerra, «también a los rusos». El Kremlin se declara abierto a hablar con Europa, pero le reprocha que no traiga propuestas."
+        ],
+        "quote": {
+          "text": "Si entregamos Kostiantínivka, sus siguientes pasos serán nuestras otras ciudades del Donbás.",
+          "author": "Volodímir Zelenski · Presidente de Ucrania, 13 nov (según The Kyiv Independent)"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Konstantinovka_train_station.jpg/1280px-Konstantinovka_train_station.jpg",
+          "alt": "Edificio de la estación de ferrocarril de Kostiantínivka, en la región de Donetsk, en 2005",
+          "credit": "V. S. Strunin · Wikimedia Commons · CC BY-SA 3.0",
+          "caption": "La estación de Kostiantínivka en 2005. La ciudad es el último gran obstáculo antes de Kramatorsk y Sloviansk."
+        },
+        "link": {
+          "url": "https://kyivindependent.com/putins-kostiantynivka-humanitarian-mission-aims-to-seize-city-push-toward-kramatorsk-zelensky-says/",
+          "source": "The Kyiv Independent"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "La tregua local como herramienta de conquista",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Kostiantínivka es la llave de lo que queda del Donbás en manos ucranianas. Una tregua solo allí congelaría el frente donde Rusia no avanza y lo dejaría abierto donde sí lo hace. Que la oferta llegue a través de Kushner y Witkoff, y que la pregunta de Abu Dabi fuera «Donbás a cambio de OTAN», indica que el territorio sigue siendo el centro del plan estadounidense."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si Washington insiste con la propuesta o la deja caer tras el rechazo de Kiev; si el contacto Europa–Moscú que promete Kushner se concreta antes del Consejo Europeo del 26–27 de noviembre, y qué sale de Shenzhen el jueves, donde, según la Casa Blanca, Trump no quiere hablar de Ucrania."
+            }
+          ],
+          "key": "La idea de que las garantías las dé la OTAN y no un formato propio europeo es relevante para tu marco teórico: vuelve a dejar la autonomía estratégica europea dependiendo de una estructura con EE.UU. dentro. Es el mismo patrón que analizas en el espacio con Starshield frente a IRIS²."
+        },
+        {
+          "type": "stats",
+          "title": "Ormuz, en cifras",
+          "items": [
+            {
+              "value": "25",
+              "label": "marinos muertos en Ormuz y alrededores desde febrero, según la ONU (hasta el 11 de noviembre)"
+            },
+            {
+              "value": "136",
+              "label": "incidentes de seguridad con buques registrados por la OMI entre el 1 de marzo y el 11 de noviembre"
+            },
+            {
+              "value": "35",
+              "label": "incidentes en octubre, el peor mes desde el inicio de la guerra"
+            },
+            {
+              "value": "−65 %",
+              "label": "tráfico marítimo por el estrecho frente a antes de la guerra, según la UKMTO británica"
+            }
+          ],
+          "footnote": "Fuentes: ONU, OMI y UKMTO, citadas por Al Jazeera (14 nov 2026)."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · Ormuz, 13–14 nov",
+              "title": "Tres petroleros más contra las minas y la ONU pide no normalizarlo",
+              "text": "Las autoridades iraníes dijeron el sábado que tres petroleros chocaron con minas y se incendiaron al cruzar zonas «no autorizadas» del estrecho; la Armada iraní avisa de que todo buque que entre en el área restringida al este de Ormuz «arderá» al tocar una mina. Según la Guardia Revolucionaria, citada por Anadolu, navegaban con los sistemas de identificación apagados. En el Consejo de Seguridad, el subsecretario general Khaled Khiari advirtió: «Esta situación no puede convertirse en la nueva normalidad». Teherán mantiene que no reabrirá el paso hasta que EE.UU. levante el bloqueo de sus puertos y las sanciones; Washington asegura que ha limpiado de minas las rutas principales.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/The_Strait_of_Hormuz_connects_the_Gulf_of_Oman_with_the_Persian_Gulf.jpg/1280px-The_Strait_of_Hormuz_connects_the_Gulf_of_Oman_with_the_Persian_Gulf.jpg",
+                "alt": "Vista desde el espacio del estrecho de Ormuz entre la península de Musandam y la costa iraní",
+                "credit": "NASA · Dominio público",
+                "caption": "El estrecho de Ormuz visto desde órbita: por él pasaba antes de la guerra un tercio del crudo que importaba China."
+              },
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Mar Negro · Rumanía, 13–14 nov",
+              "title": "Drones contra tres mercantes frente a la costa rumana",
+              "text": "Un carguero con destino final a Ucrania, el Larissa 1, fue alcanzado por un dron a unos 12 kilómetros de Sfântu Gheorghe la noche del 13; la noche siguiente, el petrolero griego Evia Petrol V y el granelero Marsol sufrieron impactos cerca de Sulina y se incendiaron, aunque sus tripulaciones apagaron el fuego. No hubo víctimas. Rumanía no ha identificado el origen de los drones, emitió alertas en el condado de Tulcea y despegó dos F-16 tras detectar un objetivo al este de la isla de las Serpientes. Llega tras los ataques del 23 y el 28 de octubre contra mercantes cerca de Constanza y en aguas búlgaras; el primero dejó un marino muerto y tres desaparecidos.",
+              "link": {
+                "url": "https://kyivindependent.com/three-commercial-ships-struck-by-drones-near-romanias-black-sea-coast-over-two-days/",
+                "source": "The Kyiv Independent"
+              }
+            },
+            {
+              "kicker": "EE.UU. · China · Rusia, 14 nov",
+              "title": "El Kremlin confirma la cita a tres del jueves en Shenzhen",
+              "text": "Dmitri Peskov dijo a TASS que Putin, Xi y Trump se reunirán el 19 de noviembre al margen de la cumbre de la APEC (18–19 de noviembre); la prensa estatal china solo ha confirmado las bilaterales de Xi. El tema principal será el control de armas nucleares tras la expiración del New START en febrero: Trump quiere un tratado que incluya a China, que se resiste a un acuerdo que no ayudó a diseñar. También hablarán de Irán. «No esperamos llegar a ningún tipo de acuerdo», admitió un alto cargo estadounidense a Reuters.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
+                "source": "Al Jazeera / Anadolu"
+              }
+            },
+            {
+              "kicker": "UE · BCE, 13–15 nov",
+              "title": "París y Berlín cierran el reparto del BCE con Hernández de Cos como favorito",
+              "text": "Francia se inclina por el español para suceder a Christine Lagarde, que deja el cargo el 7 de febrero, según Handelsblatt; a cambio, Alemania se quedaría la plaza de economista jefe y Francia el puesto de operaciones de mercado de Isabel Schnabel. Merz admitió en Dublín que hay «acuerdos próximos a alcanzarse», pero necesita «algunos días más» y pactarlo con el SPD. El rival es el neerlandés Klaas Knot, preferido por los países del norte. Costa ha dado hasta el miércoles 18 para presentar candidatos a los otros dos puestos y los líderes quieren cerrar el acuerdo el 26–27 de noviembre. Ningún español ha presidido nunca el BCE.",
+              "link": {
+                "url": "https://www.estrelladigital.es/economia/bce-paris-berlin-reparto-hernandez-de-cos-presidencia-knot/20261115093000453360.html",
+                "source": "Estrella Digital"
+              }
+            },
+            {
+              "kicker": "Gaza · Jan Yunis, 14–15 nov",
+              "title": "Israel mata al jefe de la brigada de Rafah de Hamás",
+              "text": "Hamás confirmó la muerte de Samir Abu Younis en un ataque con dron contra la zona de Al Mawasi, donde se hacinan desplazados en tiendas; otras dos personas resultaron heridas. Dos días antes, un bombardeo contra el edificio quirúrgico del complejo médico Nasser —Israel dijo que apuntaba a un comandante de Hamás— mató a seis personas, entre ellas un cirujano, y fue condenado por 18 países árabes e islámicos. Según el Ministerio de Sanidad de Gaza, desde el alto el fuego de octubre de 2025 han muerto al menos 1.643 palestinos, y un bebé de nueve meses ha muerto de frío, el primero de este invierno.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Hungría · Corrupción, 12–13 nov",
+              "title": "Más de 18 millones de dólares escondidos en bosques por un exministro de Orbán",
+              "text": "La Oficina Nacional de Recuperación de Activos incautó en dos días más de 5.000 millones de forintos, 2,6 millones de euros y 1,25 millones de dólares en efectivo, enterrados en bosques, en almacenes y en una caja fuerte, dentro de la investigación contra Miklós Seszták, ministro de Desarrollo entre 2014 y 2018. Lo anunció el primer ministro Péter Magyar, que llegó al poder en abril con la promesa de limpiar la herencia de 16 años de Orbán. Donald Tusk ironizó en X: «Querido Viktor, siempre he admirado tu creatividad».",
+              "link": {
+                "url": "https://kyivindependent.com/hungarian-authorities-uncover-millions-hidden-by-former-orban-officials-in-forests-warehouses/",
+                "source": "The Kyiv Independent"
+              }
+            },
+            {
+              "kicker": "América Latina · Nicaragua, 9–15 nov",
+              "title": "Ortega reaparece debilitado y la sucesión mira a Murillo",
+              "text": "Daniel Ortega volvió a mostrarse en Managua el 9 de noviembre tras 68 días sin aparecer, la ausencia más larga desde 2007; caminó despacio, de la mano de Rosario Murillo, y apenas dijo unas frases. Dos días después cumplió 81 años en un país que este mes debía haber votado y no lo hará: él mismo anunció en julio que no habrá más elecciones. El Gobierno no publica partes médicos. Murillo, copresidenta desde la reforma de 2025, asumiría sola, pero analistas del Cetcam advierten de su escasa legitimidad dentro del sandinismo.",
+              "link": {
+                "url": "https://www.estrelladigital.es/mundo/nicaragua-ortega-reaparece-salud-sucesion-murillo-laureano-reforma-sin-elecciones/20261115080000453299.html",
+                "source": "Estrella Digital"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "14 días",
+        "statLabel": "para las elecciones generales del 29 de noviembre; faltan 4 para el cara a cara Sánchez–Feijóo del jueves 19",
+        "title": "Sánchez da por ganada la elección; Abascal desconfía de las encuestas",
+        "body": [
+          "El segundo día de campaña enfrentó a distancia a los dos candidatos. En Palma, ante el recinto lleno de Son Fusteret y junto a Francina Armengol, Pedro Sánchez pidió a Feijóo que apruebe «en educación para la ciudadanía», «aceptando el resultado electoral porque el PSOE va a ganar»; prometió blindar las pensiones en la Constitución si logra una mayoría suficiente y comparó equipos: «Ellos tienen a Abascal y mi vicepresidente es Carlos Cuerpo». También fijó un objetivo: que vote el <b style=\"font-weight: 600;\">75 % del censo</b>. En Santiago, ante unas 8.000 personas según el PP, Feijóo le acusó de presumir de trenes después del accidente de Urda y prometió una auditoría «en el primer Consejo de Ministros» de «todo lo que han tocado y saqueado». En Hernani, el PP suspendió un acto tras el lanzamiento de petardos, huevos y piedras.",
+          "Santiago Abascal, en Almería y Murcia, avisó a los suyos: «No tenemos un enemigo mayor que las encuestas en estos momentos». Ada Colau defendió en Sevilla las pensiones y los servicios públicos, e Irene Montero hizo campaña en Canarias. Hoy domingo, Sánchez presenta el programa del PSOE en Alcorcón, Feijóo está en Santander y Abascal da un mitin en Cornellà de Llobregat. Mientras tanto, España ha quedado fuera de la mesa europea sobre Ucrania: Sánchez no fue a Dublín por el arranque de la campaña y no delegó su voto en otro líder."
+        ],
+        "link": {
+          "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-trenes-palma/20261115073000453355.html",
+          "source": "Estrella Digital"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "La participación que pide Sánchez",
+          "note": "Porcentaje de votantes en las generales de julio de 2023 y objetivo marcado por el PSOE para el 29-N",
+          "bars": [
+            {
+              "label": "Objetivo PSOE 29-N",
+              "value": 75,
+              "display": "75 %",
+              "highlight": true
+            },
+            {
+              "label": "2023 · residentes",
+              "value": 70.4,
+              "display": "70,4 %"
+            },
+            {
+              "label": "2023 · con exterior",
+              "value": 66.6,
+              "display": "66,6 %"
+            }
+          ],
+          "footnote": "Fuente: Ministerio del Interior, citado por Estrella Digital (15 nov 2026). El 75 % es el objetivo que Sánchez fijó en Palma el 14 de noviembre."
+        },
+        {
+          "type": "analysis",
+          "title": "La campaña mira hacia dentro; Europa decide sin España",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En Dublín, España estuvo representada por su embajador ante la UE, Marcos Alonso, que no tuvo acceso a la sala de líderes. Los neerlandeses y los belgas, que tampoco fueron, dejaron su voto al luxemburgués Luc Frieden; Sánchez no delegó. El resultado: un equipo de cinco capitales para negociar garantías y reconstrucción de Ucrania en nombre de los Veintisiete, con Reino Unido dentro y España fuera. Albares había dicho el martes que «la voz de España tiene que estar presente»; no consta ninguna reclamación formal."
+            },
+            {
+              "label": "Qué implica",
+              "text": "España conserva su peso en el Consejo Europeo y en los consejos de ministros, donde se deciden sanciones y dinero: los ministros de Exteriores se reúnen mañana con un nuevo paquete de sanciones y Kiev anunció esta semana un paquete de ayuda español de 437 millones de euros. La paradoja es que el mismo calendario puede dar a un español la presidencia del BCE el 26–27 de noviembre, a tres días de las urnas."
+            }
+          ],
+          "key": "Para tu TFG, este episodio ilustra cómo los formatos reducidos («minilaterales») se imponen a la UE de los 27 en seguridad. Si en el espacio se crea un núcleo parecido —por ejemplo, en torno a IRIS² o a la defensa orbital—, la presencia española dependerá tanto de su industria como de estar en la sala cuando se decide."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Tarragona · Campaña, 13–14 nov",
+              "title": "ERC abre campaña en Tarragona como «voto útil» contra PP y Vox",
+              "text": "Gabriel Rufián, cabeza de lista al Congreso, arrancó la campaña de Esquerra en Tarragona ante cerca de 900 personas, con el lema «Defensa’t» y un programa con plan de choque de vivienda y un salario mínimo catalán de 1.460 euros. Oriol Junqueras, en una entrevista con el Diari, cargó contra sus rivales: «A Junts li falta responsabilitat. Està perdut en algun lloc de l’oceà Índic», y acusó al PSC de falta de ambición. Junqueras y Rufián compartirán siete actos, con uno central en Barcelona el domingo 22.",
+              "link": {
+                "url": "https://ebredigital.cat/2026/11/14/29n-erc-obre-la-campanya-a-tarragona-erigint-se-com-el-vot-util-per-defensar-catalunya-contra-lamenaca-de-pp-i-vox/",
+                "source": "EbreDigital"
+              }
+            },
+            {
+              "kicker": "Tarragona · Metal, 14 nov",
+              "title": "La huelga indefinida del metal recorre la Rambla Nova bajo la lluvia",
+              "text": "Parte de los huelguistas salió el sábado al centro de Tarragona en la sexta jornada de la huelga indefinida convocada por la Plataforma del Metal, que rechaza el convenio provincial firmado por UGT y CCOO con la patronal (8 % de subida en 2026–2027, con revisión por IPC). Piden 35 horas semanales, equiparación con el convenio de Barcelona, jubilación a los 60 y el fin de la contratación por ETT. El Port estudia denunciar al comité de huelga por bloquear los accesos.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tarragona_-_Rambla_Nova_01.jpg/1280px-Tarragona_-_Rambla_Nova_01.jpg",
+                "alt": "La Rambla Nova de Tarragona, con su paseo central arbolado y edificios a ambos lados",
+                "credit": "Zarateman · Wikimedia Commons · CC0",
+                "caption": "La Rambla Nova de Tarragona, escenario de la protesta del sábado."
+              },
+              "link": {
+                "url": "https://www.diaridetarragona.com/economia/275741/huelga-metal-sigue-tarragona-trabajadores-recorren-rambla-nova-pese-lluvia.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Justicia · Caso 3 %, 16 nov",
+              "title": "El juicio del 3 % arranca mañana con la variante de Gandesa en la causa",
+              "text": "La Audiencia Nacional juzga desde este lunes a 17 acusados de una rama del caso del 3 % por presuntas irregularidades en contratos públicos de 2008 a 2015. Anticorrupción pide entre seis años y tres meses y ocho años y nueve meses de cárcel por organización criminal, fraude y prevaricación, entre otros para los exresponsables de GISA Josep Lluís Quer y Josep Antoni Rosell. Entre los nueve expedientes figuran la variante de Gandesa y contratos ligados al Consorci d’Aigües de Tarragona.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275772/caso-3-llega-juicio-contratos-publicos-afectan-tarragona.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Port de Tarragona, 15 nov",
+              "title": "Un «error semántico» bloquea 40 millones de inversión en el puerto",
+              "text": "El silencio administrativo de Costas del Estado mantiene parada la corrección del plan urbanístico portuario, que tras la anulación del POUM prohibió almacenar no solo mercancías peligrosas sino todos los productos químicos. La redacción impide un proyecto de depósitos de aceites y grasas vegetales en el Moll de Castella e incluso, según fuentes portuarias, un depósito de agua. El trámite se arrastra desde hace años.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/275747/silencio-administrativo-costas-bloquea-inversion-40-millones-port-tarragona.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "SpaceX · Starbase, 14 nov",
+        "title": "Los brazos de la torre atrapan a Starship al volver de órbita",
+        "dek": "Ninguna empresa había recuperado así la etapa superior de un cohete orbital. Tras 22,5 horas y unas 14 órbitas, la nave 42 aterrizó entre los «palillos» de Starbase. El propulsor, en cambio, acabó en el Golfo de México.",
+        "body": [
+          "La nave 42 —con «Don’t Panic» pintado en el casco— despegó el viernes a las 23.47 (hora peninsular) sobre el Super Heavy 22, alcanzó una órbita de unos 277 kilómetros y desplegó sus 26 satélites Starlink V3. Tres llevaban cámaras para fotografiar el escudo térmico: según SpaceX, las imágenes mostraron que estaba en buen estado, y los controladores descartaron la opción de amerizaje de reserva. El sábado por la mañana, la compañía anunció que «los sistemas de plataforma y torre están listos para la captura». Tras unas 14 órbitas, la nave encendió motores para salir de órbita, atravesó la atmósfera y fue atrapada por los brazos de la torre 2 a las <b style=\"font-weight: 600;\">22.20 del sábado</b>, hora peninsular, tras 22 horas y 32 minutos de misión, la más larga de Starship.",
+          "El éxito es parcial: el plan era recuperar las dos etapas por primera vez en la historia de los vuelos orbitales. «Al principio teníamos luz verde para la captura, pero en la última fase de la travesía el propulsor abortó por sí mismo por un problema de guiado, navegación y control», explicó Dan Huot, de SpaceX; el Super Heavy se desvió al Golfo de México y se perdió. Aun así, SpaceX ha demostrado lo que le faltaba: devolver intacta a su base una etapa superior que ha estado en órbita. Es el requisito de la reutilización completa, que abarata cada lanzamiento y en la que se basa la versión lunar de Starship que NASA necesita para Artemis."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Starship_launch_tower_in_Starbase.jpg/1280px-Starship_launch_tower_in_Starbase.jpg",
+          "alt": "La torre de lanzamiento de Starship en construcción en Starbase, Texas, en 2021",
+          "credit": "Alexander Hatley · Wikimedia Commons · CC BY 2.0",
+          "caption": "Una torre de lanzamiento en Starbase, en construcción en 2021. Sus brazos mecánicos han atrapado ya propulsores y, desde el sábado, una nave."
+        },
+        "link": {
+          "url": "https://www.teslarati.com/spacex-catches-starship-first/",
+          "source": "Teslarati"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "El vuelo 15, minuto a minuto",
+          "note": "Horas peninsulares",
+          "items": [
+            {
+              "when": "13 nov · 23.47",
+              "title": "Despegue",
+              "text": "Super Heavy 22 y nave 42 salen de la plataforma 2 de Starbase."
+            },
+            {
+              "when": "13 nov · +6,5 min",
+              "title": "El propulsor aborta",
+              "text": "Detecta un problema de guiado y se desvía al Golfo de México."
+            },
+            {
+              "when": "14 nov · noche",
+              "title": "26 Starlink en órbita",
+              "text": "Las cámaras de tres satélites confirman el buen estado del escudo térmico."
+            },
+            {
+              "when": "14 nov · 22.20",
+              "title": "Captura en la torre",
+              "text": "Primera recuperación de una etapa superior que vuelve de órbita.",
+              "highlight": true
+            },
+            {
+              "when": "15 nov · 18.11",
+              "title": "Vulcan · Amazon Leo LV-01",
+              "text": "Tercer intento de ULA tras dos aplazamientos."
+            }
+          ],
+          "footnote": "Fuentes: Wikipedia, «Starship flight 15» (consultada el 15 nov 2026), Teslarati (14 nov 2026), Fox 35 Orlando (14 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Recuperar cohetes, controlar el acceso",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En la misma semana, SpaceX ha demostrado la captura de una nave orbital y ha vuelto a estar en el centro de la polémica por la conexión de Ucrania en el frente. Europa, entretanto, acumula retrasos: Vega C se va hacia Navidad y el contrato de MaiaSpace con la ESA sigue sin firmar. La distancia en capacidades ya no es de cohetes, sino de modelo: lanzar barato y a menudo, y además operar la red que usa un ejército aliado."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La reutilización completa reduciría el coste por kilo y aceleraría el despliegue de Starlink y de los aterrizadores lunares. Para Europa, cada avance de SpaceX hace más caro quedarse atrás y más visible la dependencia: si una empresa privada puede limitar un servicio militar, la soberanía depende de tener una alternativa propia."
+            }
+          ],
+          "key": "Une las dos noticias de SpaceX en tu capítulo sobre dependencia: la captura demuestra capacidad tecnológica; la carta de los senadores demuestra que ni el Congreso de EE.UU. sabe quién decide sobre Starshield. Es tu mejor argumento empírico a favor de IRIS²."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EE.UU. · Starshield, 13 nov",
+              "title": "Dos senadores ordenan a Musk conservar los registros de los cortes a Ucrania",
+              "text": "Jeanne Shaheen y Chris Coons exigen a SpaceX que guarde toda la documentación sobre las restricciones del servicio Starlink/Starshield en Ucrania del 13 al 24 de octubre y del 12 de noviembre, incluidas sus comunicaciones con la Casa Blanca y el Pentágono desde el 1 de septiembre, según el Wall Street Journal. El límite de 161 km/h impide guiar drones interceptores. Los senadores alertan de que esas vulnerabilidades podrían persistir «incluso en sistemas de los que depende el Gobierno de EE.UU.» y piden respuesta antes del 30 de noviembre. SpaceX lo niega: «Es falso. No ha habido ningún cambio». Los demócratas, ganadores de las elecciones de mitad de mandato, prevén investigar en enero el papel de Musk.",
+              "link": {
+                "url": "https://kyivindependent.com/us-democrats-direct-musk-to-preserve-records-on-ukraines-starlink-restriction-wsj-reports/",
+                "source": "The Kyiv Independent / WSJ"
+              }
+            },
+            {
+              "kicker": "ULA · Cabo Cañaveral, 14–15 nov",
+              "title": "Vulcan, segundo aplazamiento: hoy, tercer intento",
+              "text": "Después del corte de electricidad del viernes en la planta de nitrógeno de Air Liquide, el sábado falló la comunicación entre el equipo de tierra y el cohete; la reconfiguración necesaria superaba la ventana de 29 minutos. El nuevo intento es hoy a las 18.11 (hora peninsular), si lo permite el campo de tiro. Vulcan vuelve tras nueve meses en tierra con 40 satélites de Amazon Leo, el primero de los 38 lanzamientos que Amazon tiene contratados. ULA asegura que el cohete y la carga están en buen estado.",
+              "link": {
+                "url": "https://www.fox35orlando.com/news/ula-delays-vulcan-rocket-launch-due-communication-issue-officials.amp",
+                "source": "Fox 35 Orlando"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "22 h 32 min",
+            "text": "Duración del vuelo 15 de Starship, la misión más larga del programa, desde el despegue hasta que la torre atrapó la nave."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "16 nov",
+                "what": "Bruselas · Consejo de Asuntos Exteriores con nuevas sanciones a Rusia · Audiencia Nacional · Arranca el juicio del caso del 3 %"
+              },
+              {
+                "when": "17–19 nov",
+                "what": "Bremen · Space Tech Expo Europe · 18 nov · Fin del plazo de Costa para candidatos a la cúpula del BCE"
+              },
+              {
+                "when": "19 nov",
+                "what": "Shenzhen · Cumbre a tres Trump–Xi–Putin en la APEC · Tres Cantos · Cara a cara Sánchez–Feijóo"
+              },
+              {
+                "when": "26–27 nov",
+                "what": "Bruselas · Consejo Europeo: presidencia del BCE y financiación de Ucrania · 29 nov · Elecciones generales"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "La carta de Shaheen y Coons es una fuente primaria valiosa: unos legisladores estadounidenses reconocen por escrito que una empresa privada controla un servicio del que depende la seguridad nacional. Cítala en el capítulo sobre Starlink/Starshield frente a IRIS² y contrástala con la respuesta de SpaceX para mostrar la falta de transparencia como riesgo estructural."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "La captura de la nave 42 adelanta la llegada de lanzamientos totalmente reutilizables y más baratos: los operadores europeos que diseñen hoy cargas pensadas para Starship (más grandes, más pesadas, desplegadas en lote) tendrán ventaja. En Bremen, explora qué integradores y fabricantes de dispensadores de satélites ya preparan productos para esa capacidad."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: The Kyiv Independent (13–14 nov), Al Jazeera (14–15 nov), Anadolu (15 nov), Estrella Digital (15 nov), EbreDigital (14 nov), Diari de Tarragona (14–15 nov), Teslarati (14 nov), Wikipedia «Starship flight 15» (15 nov), Fox 35 Orlando (14 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 15.11.2026."
+}
