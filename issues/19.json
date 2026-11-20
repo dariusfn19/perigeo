@@ -1,0 +1,298 @@
+{
+  "number": 19,
+  "week": 47,
+  "date": "2026-11-20",
+  "dateLabel": "Viernes, 20 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Horas después de que Trump, Xi y Putin firmaran en Shenzhen una declaración que ni menciona Ucrania, Rusia lanza uno de sus mayores ataques de la guerra —84 misiles de crucero, 27 balísticos y 404 drones— y dos Kh-101 caen en Polonia: Tusk dice que «no parece un accidente».",
+      "Europa responde en Berlín con la Coalición de Voluntarios y en Bremen con dinero para la autonomía: Merz avisa de que «un formato Yalta no puede traer la paz» y Aschbacher anuncia que la ESA votará a fin de año un programa de 10.000 M€ para tener astronautas propios.",
+      "En España, Feijóo gana el único cara a cara según todas las encuestas flash, pero el voto apenas se mueve a nueve días del 29-N; en Ceuta, lanchas marroquíes frenan las obras del espigón del Tarajal y en Tarragona el metal pacta una tregua de 24 horas."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Polonia · OTAN, 19–20 nov",
+        "title": "La represalia por Kerch cruza la frontera de la OTAN",
+        "dek": "Rusia golpea los puentes de Kyiv con un ataque masivo en oleadas y dos misiles de crucero Kh-101 y un dron a reacción acaban en suelo polaco.",
+        "body": [
+          "Las explosiones empezaron en Kyiv hacia la 1.25 de la madrugada del 20 de noviembre y siguieron durante horas. La Fuerza Aérea ucraniana contabiliza 84 misiles de crucero y 404 drones de ataque; Zelenski añade 27 misiles balísticos. Hay al menos nueve muertos —siete en la capital, entre ellos dos trabajadores de la empresa de aguas— y una treintena de heridos. Tres puentes sobre el Dniéper, el Podilsko-Voskresenskyi, el Sur y el Darnytskyi, sufrieron daños, y hubo cortes de luz, calefacción y agua. Zelenski habló de una táctica «especialmente insidiosa»: grupos de misiles lanzados cada 20 o 30 minutos para dificultar el trabajo de bomberos y equipos de rescate. El ataque llega un día después de que Putin prometiera «represalias» por la caída de un arco del puente de Crimea el 17 de noviembre.",
+          "A las 3.30, el Mando Operacional polaco activó sus defensas antiaéreas. El ministro de Defensa, Władysław Kosiniak-Kamysz, confirmó después que dos misiles Kh-101 cayeron en Nowy Lipowiec y Rudnik nad Sanem, en el sureste del país, y un dron a reacción en una tercera localidad, sin víctimas. Lo calificó de uno de los mayores ataques desde el inicio de la invasión y vinculó el momento a las maniobras que tropas británicas y francesas de la Coalición de Voluntarios realizan en Polonia. Tusk reunió a ministros, mandos militares y jefes de los servicios de seguridad y dijo que, según su evaluación y la de socios de la OTAN, el incidente «no parece un accidente». Varsovia pide más fuerzas aliadas; por ahora no consta que haya invocado el artículo 4 del Tratado."
+        ],
+        "quote": {
+          "text": "Este incidente es claramente peligroso, una consecuencia de la guerra que Rusia sigue librando contra Ucrania.",
+          "author": "Mark Rutte · Secretario general de la OTAN"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Russian_Kh-101_missile_shot_in_Vinnytsia_Oblast%2C_2023-01-26_%2802%29.jpg",
+          "alt": "Restos de un misil de crucero ruso Kh-101 derribado sobre un campo en la región de Vínnytsia",
+          "credit": "Mando de la Fuerza Aérea de Ucrania · Wikimedia Commons · CC BY 4.0",
+          "caption": "Restos de un Kh-101 derribado en Vínnytsia en enero de 2023. El mismo modelo de misil cayó ayer en Polonia."
+        },
+        "link": {
+          "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/",
+          "source": "The Kyiv Independent"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "title": "Una noche de ataque, en cifras",
+          "items": [
+            { "value": "84", "label": "misiles de crucero lanzados por Rusia; 79 derribados o neutralizados" },
+            { "value": "27", "label": "misiles balísticos, según Zelenski; solo 3 interceptados" },
+            { "value": "404", "label": "drones de ataque; 380 abatidos o neutralizados" },
+            { "value": "23", "label": "puntos con impactos registrados en toda Ucrania" }
+          ],
+          "footnote": "Fuente: Fuerza Aérea de Ucrania y Presidencia, citadas por The Kyiv Independent (20 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Kerch, Kyiv, Lublin: la escalada en tres puntos",
+          "columns": [
+            { "label": "Contexto", "text": "Ucrania tardó semanas en desmontar las defensas antiaéreas, radares e inhibidores que protegían el puente de Crimea antes de tumbar uno de sus arcos con drones y misiles de fabricación propia y europea. Moscú responde atacando los puentes de la capital ucraniana —una simetría buscada— y lo hace con misiles de crucero lanzados desde bombarderos estratégicos Tu-160. Que dos Kh-101 terminen en Lublin y Subcarpacia la misma noche en que tropas británicas y francesas se ejercitan en Polonia convierte el error, si lo es, en un mensaje político." },
+            { "label": "Qué vigilar", "text": "Primero, si Polonia pide consultas formales por el artículo 4 o se conforma con más despliegue aliado en su flanco este. Segundo, si el ataque contra los puentes de Kyiv se repite: el Pivdennyi ya llevaba días con tráfico restringido. Tercero, la reacción de Washington, que acaba de sentarse con Putin y Xi y que tiene previsto dar explicaciones hoy en la Casa Blanca. Y, por último, el Consejo Europeo del 26–27 de noviembre, donde la financiación de Ucrania para 2027 y el 22º paquete de sanciones se discutirán ya con este ataque sobre la mesa." }
+          ],
+          "key": "La defensa aérea de Polonia depende de radares y aviones aliados, pero la alerta temprana de lanzamientos desde Tu-160 sigue viniendo, en buena parte, de sensores estadounidenses. Para tu TFG, es otro ejemplo de que la autonomía estratégica europea empieza por la capa de detección, también la orbital."
+        },
+        {
+          "type": "analysis",
+          "title": "Shenzhen: la foto a tres y la silla vacía de Europa",
+          "columns": [
+            { "label": "Contexto", "text": "Trump, Xi y Putin se reunieron por primera vez juntos el 19 de noviembre en Shenzhen, al margen de la APEC, con Xi en el centro de una mesa redonda. La declaración de cuatro puntos habla de aumentar la producción de productos petrolíferos refinados, de respetar las inmunidades de los altos cargos frente a la Corte Penal Internacional —Putin es el único de los tres procesado por ella—, de que «una guerra nuclear no se puede ganar» y de reformar la ONU. No menciona Ucrania ni Irán y no fija calendario alguno. Trump dijo que «fue genial»; Mao Ning, portavoz china, la llamó «muy productiva»." },
+            { "label": "Qué implica", "text": "La misma tarde, en Berlín, Merz reunió a la Coalición de Voluntarios con Zelenski, Witkoff y Kushner y llamó a la cumbre china «una sesión de fotos». Kushner aseguró que Trump quiere negociar «con Europa a su lado» y está abierto a garantías de seguridad para Kyiv. Putin, en cambio, propone que los líderes europeos viajen a Moscú y que allí se decida «en qué formato» sigue el diálogo. La ronda de bombardeos de esta noche sugiere qué peso da el Kremlin a esa invitación." }
+          ],
+          "key": "La cláusula sobre inmunidades frente a la CPI es la pieza normativa de la declaración: tres potencias, dos de ellas fuera del Estatuto de Roma, firman juntas contra la jurisdicción penal internacional. Si tu TFG compara Artemis y la ILRS como bloques normativos, aquí tienes un precedente de cómo convergen Washington, Pekín y Moscú cuando les interesa debilitar una institución multilateral."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EE.UU. · China · Rusia · Shenzhen, 19 nov",
+              "title": "Una declaración de paz que no nombra ninguna guerra",
+              "text": "El texto se publicó primero en la web del Kremlin y en Xinhua, y después en la Casa Blanca. Promete diálogo sobre riesgos nucleares y no proliferación, pero no anuncia negociaciones de control de armas, que Washington perseguía y Pekín rechaza. Nueve senadores demócratas, liderados por Jeanne Shaheen, advirtieron antes de la cita de que «la seguridad estadounidense no puede cambiarse por oportunidades fotográficas».",
+              "link": { "url": "https://www.rferl.org/a/trump-and-putin-hold-brief-apec-meeting/33901539.html", "source": "RFE/RL" }
+            },
+            {
+              "kicker": "Ucrania · Puente de Crimea, 16–18 nov",
+              "title": "«Crimea se está convirtiendo en una isla»",
+              "text": "Dos oleadas de ataques en dos días derribaron un arco del puente de Kerch y dejaron sumergidos unos 200 metros de calzada; el tráfico ferroviario quedó limitado a una vía. Zelenski habla de drones ucranianos y misiles Neptune y Flamingo; la empresa neerlandesa Destinus dijo a Reuters que siete de sus misiles de crucero Ruta impactaron en el puente. Moscú lo califica de «acto terrorista».",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge", "source": "Al Jazeera" }
+            },
+            {
+              "kicker": "Alemania · Berlín, 19 nov",
+              "title": "Merz: «Un formato Yalta no puede traer la paz»",
+              "text": "La Coalición de Voluntarios, copresidida por Merz, Macron y el primer ministro británico Andy Burnham, acordó mantener un apoyo «fuerte y conjunto» a Ucrania en 2027 y preparar garantías de seguridad, incluida una fuerza multinacional, si hay alto el fuego. Merz insistió en que una negociación solo puede salir bien «con Ucrania y con Europa».",
+              "link": { "url": "https://www.rferl.org/a/trump-and-putin-hold-brief-apec-meeting/33901539.html", "source": "RFE/RL" }
+            },
+            {
+              "kicker": "Irán · EE.UU., 19–20 nov",
+              "title": "Trump aparca hasta 2027 la decisión de volver a bombardear Irán",
+              "text": "«Hablamos de ello después de principios de año», dijo Trump a Reuters desde el avión de vuelta de China. Mientras tanto, los ataques iraníes contra petroleros en Ormuz alcanzan su máximo desde el inicio de la guerra, según NPR, y EE.UU. lanzó lo que un funcionario llamó a CBS «ataques defensivos» contra la isla de Qeshm. Netanyahu presiona por una nueva oleada; el Senado volvió a rechazar una moción para limitar la guerra.",
+              "link": { "url": "https://www.rte.ie/news/middle-east/2026/1119/1599925-us-iran/", "source": "RTÉ / Reuters" }
+            },
+            {
+              "kicker": "UE · Sanciones, 16 nov",
+              "title": "Más de 140 nuevas sanciones y el 22º paquete, antes de la cumbre",
+              "text": "El Consejo de Asuntos Exteriores sancionó refinerías, bancos, plataformas de comercio electrónico y empresas del Golfo y Asia oriental que sostienen la flota en la sombra, además del grupo de hackers prorruso NoName057(16). Kallas presentará el 22º paquete antes del Consejo Europeo del 26–27 de noviembre y no descarta vetar la entrada en la UE a rusos que hayan combatido en Ucrania.",
+              "link": { "url": "https://www.pravda.com.ua/eng/news/2026/11/16/8063164/", "source": "Ukrainska Pravda" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "9",
+        "statLabel": "días para las generales del 29-N",
+        "title": "Feijóo gana el cara a cara, pero el voto apenas se mueve",
+        "body": [
+          "El único cara a cara de la campaña, organizado por la Academia de Televisión y moderado por María Casado, enfrentó a Sánchez y Feijóo durante cinco bloques. Vivienda, corrupción e inmigración marcaron los choques. Feijóo acusó al presidente de no haber construido las viviendas prometidas —«hay más pisos en los sumarios de corrupción», dijo— y se comprometió a no indultar a condenados por corrupción. Sánchez optó por la contención: defendió la regulación del alquiler, admitió errores y aseguró que la inmigración irregular ha bajado un 21 % desde 2018. La encuesta flash de Ateneo del Dato para elDiario.es da ganador a Feijóo con un 45,2 % frente al 31,9 %, pero el 88 % de los encuestados mantiene su voto y solo un 9 % se lo replantea. SocioMétrica, para El Español, amplía la ventaja del líder del PP al 64 % frente al 32 %, en un debate con un 70,8 % de cuota de pantalla. La semana que viene llega el debate a cuatro, con Abascal y Ada Colau, de Frente Amplio."
+        ],
+        "link": {
+          "url": "https://www.eldiario.es/politica/45-ve-feijoo-vencedor-cara-cara-pedro-sanchez-voto-apenas-mueve_1_13678798.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "El Congreso que dibuja 40dB",
+          "note": "Escaños estimados el 19 de noviembre · mayoría absoluta: 176",
+          "bars": [
+            { "label": "PP (con UPN)", "value": 135, "display": "135", "highlight": true },
+            { "label": "PSOE", "value": 121, "display": "121" },
+            { "label": "Vox", "value": 57, "display": "57" },
+            { "label": "ERC", "value": 9, "display": "9" },
+            { "label": "EH Bildu", "value": 7, "display": "7" },
+            { "label": "Frente Amplio", "value": 5, "display": "5" }
+          ],
+          "footnote": "Fuente: 40dB. para El País y la Cadena SER, 19 nov 2026, vía Demócrata. PP y Vox sumarían 192. No se muestran Junts (3), PNV (3), Adelante Andalucía (3), Compromís (3), BNG (2), CC (1) ni Ara Més (1)."
+        },
+        {
+          "type": "analysis",
+          "title": "Un debate para movilizar, no para convencer",
+          "columns": [
+            { "label": "Contexto", "text": "Feijóo llegó al cara a cara con todos los sondeos privados a favor: 40dB le da dos puntos de ventaja sobre el PSOE (32,4 % frente a 30,4 %) y 192 escaños con Vox, dieciséis por encima de la mayoría absoluta. Su objetivo era no cometer errores y fijar la imagen de presidente; el de Sánchez, no regalar titulares y apelar a los votantes que se quedaron en casa en 2023. Las encuestas flash dicen que el primero lo consiguió, pero también que el debate apenas mueve el voto: el 62,2 % de los votantes socialistas da ganador a Sánchez." },
+            { "label": "Qué implica", "text": "Con la campaña tan polarizada, el debate refuerza a los ya decididos (56 %, según Ateneo del Dato) más que mover indecisos. La pelea real está en la participación y en Catalunya, donde ERC y PSC se disputan el voto útil frente a PP, Vox y Aliança Catalana. El debate a cuatro con Abascal y Colau, la semana próxima, puede ser más decisivo para la izquierda que el de anoche." }
+          ],
+          "key": "En la circunscripción de Tarragona, que reparte seis escaños, el último suele decidirse por pocos miles de votos: la movilización en Reus y Tarragona ciudad pesará más que cualquier debate televisado."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ceuta · Marruecos, 19–20 nov",
+              "title": "Lanchas marroquíes frenan las obras del espigón del Tarajal",
+              "text": "Según El Español, seis zodiacs de la Armada marroquí impidieron trabajar al barco español que ampliaba el espigón fronterizo y una excavadora cubrió el encofrado recién hecho; el Gobierno habría suspendido la obra, presupuestada en unos siete millones, y abierto conversaciones con Rabat. Interior lo niega y El Faro de Ceuta asegura que las obras continúan. Versiones contradictorias, en plena campaña.",
+              "link": { "url": "https://www.elespanol.com/espana/20261120/armada-marroqui-bloquea-fuerza-prolongacion-espigon-ceuta-gobierno-ordena-suspender-obras/1003744466203_0.html", "source": "El Español" }
+            },
+            {
+              "kicker": "UE · BCE, 18–20 nov",
+              "title": "Hernández de Cos, más cerca de presidir el BCE",
+              "text": "El Eurogrupo amplió hasta hoy, a las 17.00, el plazo de candidaturas para dos puestos del Comité Ejecutivo: el de economista jefe, para Berlín, y el de operaciones de mercado, para París. El reparto deja a Madrid la presidencia, con Pablo Hernández de Cos como favorito frente a Klaas Knot. Los líderes deben decidir el relevo de Lagarde el 26–27 de noviembre.",
+              "link": { "url": "https://www.moncloa.com/2026/11/19/hernandez-de-cos-bce-2027-3471003/", "source": "Moncloa.com" }
+            },
+            {
+              "kicker": "Tarragona · Metal, 20 nov",
+              "title": "Tregua de 24 horas en la huelga del metal",
+              "text": "La Plataforma del Metall de Tarragona suspende desde esta medianoche, durante 24 horas, la huelga indefinida que mantiene desde el 9 de noviembre, a la espera de una mediación con CCOO, UGT y la patronal APEMTA. La AEQT denuncia los bloqueos diarios en los accesos a la química. Si no hay avances, los convocantes reanudarán las movilizaciones.",
+              "link": { "url": "https://canalreus.cat/noticies/economia/industria/treva-a-la-vaga-indefinida-de-la-plataforma-del-metall-aquest-dissabte/", "source": "Canal Reus" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "ESA · Space Tech Expo · Bremen, 19 nov",
+        "title": "La ESA llevará a votación sus propios astronautas",
+        "dek": "Aschbacher anuncia que la reunión de fin de año de la agencia votará un programa de 10.000 M€ para que Europa pueda transportar astronautas con medios propios.",
+        "body": [
+          "El director general de la ESA, Josef Aschbacher, aprovechó la última edición de Space Tech Expo en Bremen —la feria se traslada a Fráncfort— para dar el paso que había esbozado en octubre: someter a votación de los Estados miembros un programa de unos 10.000 M€ para desarrollar capacidad de transporte tripulado europeo. «Queremos dar un paso histórico: desarrollar nuestra propia capacidad para llevar astronautas europeos al espacio», dijo. La agencia no ha publicado la fecha exacta de la votación.",
+          "El anuncio llega en una feria dominada por el hardware: fabricantes europeos que se acercan a producir cientos de satélites al año, impulsados por la demanda de IRIS², y empresas como The Exploration Company, que ya incluye sistemas de vuelo aptos para tripulación en su hoja de ruta. La cifra es un objetivo político, no un presupuesto aprobado: los Estados tienen que decidir si lo financian."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ISS-44_Andreas_Mogensen_in_the_Columbus_module.jpg/1280px-ISS-44_Andreas_Mogensen_in_the_Columbus_module.jpg",
+          "alt": "El astronauta de la ESA Andreas Mogensen trabajando dentro del módulo europeo Columbus de la Estación Espacial Internacional",
+          "credit": "NASA · Dominio público",
+          "caption": "Andreas Mogensen, de la ESA, en el módulo Columbus. Hoy los astronautas europeos solo llegan a órbita en vehículos estadounidenses o rusos."
+        },
+        "link": {
+          "url": "https://payloadspace.com/european-hardware-takes-center-stage-at-space-tech-expo/",
+          "source": "Payload"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Europa hacia la autonomía tripulada y lunar",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            { "when": "19 nov 2026", "title": "Anuncio en Bremen", "text": "Aschbacher lleva a votación el programa tripulado de 10.000 M€." },
+            { "when": "25 nov*", "title": "Shenzhou-24 · China", "text": "Primer astronauta extranjero, de Pakistán, rumbo a Tiangong." },
+            { "when": "Fin de 2026", "title": "Votación en la ESA", "text": "Reunión de fin de año; sin fecha oficial publicada.", "highlight": true },
+            { "when": "2027", "title": "Motor RELIANCE", "text": "Nammo UK construirá y probará el modelo de ingeniería del motor de descenso de Argonaut." },
+            { "when": "2030", "title": "Argonaut", "text": "Primer aterrizador lunar europeo, a bordo de un Ariane 6.", "highlight": true }
+          ],
+          "footnote": "* Fecha prevista según Universe Today; China no la ha confirmado. Fuentes: Payload (20 nov), Interesting Engineering (18 nov), Global Times (18 nov)."
+        },
+        {
+          "type": "analysis",
+          "title": "Comprar asientos o construir la nave",
+          "columns": [
+            { "label": "Contexto", "text": "Europa tiene astronautas, módulos en la ISS y el Módulo de Servicio de Orión, pero ningún vehículo propio para llevar personas a órbita. Hasta ahora, la opción por defecto ha sido negociar plazas con la NASA o con empresas estadounidenses. El anuncio de Aschbacher convierte la autonomía tripulada en una decisión presupuestaria concreta, en la misma semana en que China abre Tiangong a un astronauta extranjero y en que Europa mide su dependencia de EE.UU. también en defensa." },
+            { "label": "Qué implica", "text": "Si los Estados aprueban el programa, la ESA pasaría de cliente a proveedor de acceso tripulado y ganaría peso en la negociación de Artemis y de cualquier futura estación comercial. Si lo rechazan o lo recortan, Europa seguirá dependiendo de terceros para lo más visible del vuelo espacial. El reparto entre Alemania, Francia e Italia, y la posición de los contribuyentes medianos como España, decidirá el resultado." }
+          ],
+          "key": "Esta votación es el núcleo de tu capítulo sobre capacidades: un programa tripulado propio es la condición material para que Europa hable con voz propia en la fase normativa de los recursos lunares, en lugar de hacerlo solo como socio de los Acuerdos Artemis."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "China · Jiuquan, 17–18 nov",
+              "title": "Shenzhou-24, en la rampa con un pakistaní a bordo",
+              "text": "La nave y su cohete Larga Marcha 2F Y24 se trasladaron el 17 de noviembre a la zona de lanzamiento. Llevará al primer astronauta extranjero a Tiangong: uno de los dos candidatos de la agencia pakistaní SUPARCO, que volverá a bordo de Shenzhou-23 tras una estancia corta. Pekín suele anunciar la tripulación la víspera del lanzamiento.",
+              "link": { "url": "https://www.globaltimes.cn/page/202611/1374541.shtml", "source": "Global Times" }
+            },
+            {
+              "kicker": "ESA · Argonaut, 18 nov",
+              "title": "El motor del aterrizador lunar europeo supera la prueba de empuje variable",
+              "text": "Nammo UK ha completado los ensayos en caliente del prototipo de RELIANCE, el motor de 6 kN que guiará el descenso de Argonaut. Demostró una combustión estable regulando el empuje entre el 50 % y el 100 %, imprescindible para un aterrizaje de precisión. El modelo de ingeniería se probará en 2027.",
+              "link": { "url": "https://interestingengineering.com/space/lunar-engine-passes-hot-fire-test", "source": "Interesting Engineering" }
+            },
+            {
+              "kicker": "NASA · Voyager 1, 18 nov",
+              "title": "Voyager 1, a un día-luz de la Tierra",
+              "text": "A las 10.16 UTC del 18 de noviembre, la sonda lanzada en 1977 alcanzó unos 25.900 millones de kilómetros (173,14 UA): la luz, y sus señales, tardan ya 24 horas en llegar. Es el primer objeto humano en lograrlo; Voyager 2 no lo hará hasta 2035.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Voyager_spacecraft.jpg/1280px-Voyager_spacecraft.jpg",
+                "alt": "Ilustración de la sonda Voyager con su gran antena parabólica",
+                "credit": "NASA/JPL · Dominio público",
+                "caption": "Las dos Voyager comparten diseño: una antena de 3,7 metros y generadores de radioisótopos."
+              },
+              "link": { "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/", "source": "EarthSky" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "24 h",
+            "text": "Lo que tarda una señal de radio en llegar de la Tierra a Voyager 1 desde el 18 de noviembre, 49 años después de su lanzamiento en 1977."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "Hoy", "what": "Eurogrupo · Cierre de candidaturas al Comité Ejecutivo del BCE (17.00) · Washington · Rueda de prensa de Trump tras Shenzhen" },
+              { "when": "25 nov*", "what": "Jiuquan · Lanzamiento previsto de Shenzhou-24 con el primer astronauta extranjero" },
+              { "when": "26–27 nov", "what": "Bruselas · Consejo Europeo: presidencia del BCE, 22º paquete de sanciones y Ucrania" },
+              { "when": "29 nov", "what": "España · Elecciones generales · Antes, debate a cuatro con Abascal y Colau" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda la declaración de Aschbacher en Bremen y compárala con la Estrategia Espacial de la UE para la Seguridad y la Defensa: si los Estados de la ESA aprueban el programa tripulado, tendrás un caso en que la autonomía estratégica pasa del discurso al presupuesto. Úsalo para contrastar la estrategia europea de «socio de Artemis» con la de capacidades propias."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Un programa tripulado de 10.000 M€ abriría contratos en soporte vital, cápsulas, escudos térmicos y propulsión regulable como la de RELIANCE. Identifica ya a los integradores que se posicionan —The Exploration Company, Nammo, Thales Alenia Space, Airbus— y a los proveedores españoles que podrían entrar como subcontratistas cuando la ESA reparta el retorno geográfico."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: The Kyiv Independent (20 nov), RFE/RL (19–20 nov), Al Jazeera (18 nov), RTÉ/Reuters (19 nov), NPR (19 nov), CBS News (19–20 nov), Ukrainska Pravda (16 nov), elDiario.es (20 nov), El Español (20 nov), Demócrata (19–20 nov), Moncloa.com (19 nov), El Faro de Ceuta (20 nov), Canal Reus (20 nov), Payload (20 nov), Global Times (18 nov), Universe Today, Interesting Engineering (18 nov), EarthSky (18 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 20.11.2026."
+}
