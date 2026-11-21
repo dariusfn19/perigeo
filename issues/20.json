@@ -1,0 +1,281 @@
+{
+  "number": 20,
+  "week": 47,
+  "date": "2026-11-21",
+  "dateLabel": "Sábado, 21 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Polonia y sus aliados califican de «provocación intencionada» la caída de misiles rusos en su territorio, a hora y media de donde debutaba la fuerza multinacional para Ucrania; Rutte llega hoy a Varsovia mientras Trump defiende en la Casa Blanca que Putin sigue siendo «mi amigo».",
+      "Europa mueve sus piezas: Costa presenta un presupuesto plurianual de 1,582 billones con un recorte del 10,2 % que dispara defensa y competitividad a costa de la cohesión y la PAC, y Bruselas y Londres sellan en su segunda cumbre el gran paquete de la reconciliación posbrexit.",
+      "En España, el Supremo deja sin voto el 29-N a 163.355 nacionalizados por la ley de nietos; en el Camp, Bruselas propone recortar a 97 días la pesca de arrastre y Reus contará los despachos de los primeros pisos para ganar vivienda. Y BepiColombo, europea y japonesa, entra hoy en órbita de Mercurio."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Polonia · OTAN · Coalición de Voluntarios, 20–21 nov",
+        "title": "«No parece una coincidencia»: Europa lee los misiles en Polonia como un mensaje",
+        "dek": "Varsovia y sus aliados hablan de provocación deliberada; los proyectiles cayeron mientras miles de soldados europeos estrenaban en Nowa Dęba la fuerza multinacional prevista para Ucrania.",
+        "body": [
+          "Un día después de la caída de dos misiles de crucero rusos y un dron a reacción en el sureste de Polonia, la lectura política ya es común en Varsovia y en buena parte de Europa: no fue un error. «Tres objetos rusos violaron el espacio aéreo polaco. Cayeron en suelo polaco. Uno explotó. No hay destrucción ni víctimas», resumió Donald Tusk, que añadió que no es solo su opinión, sino también la de socios extranjeros y de la OTAN: «Esto no parece una coincidencia. Estamos ante una provocación intencionada». El primer Kh-101 confirmado cayó hacia las 6.30 en Nowy Lipowiec; una vecina contó a TVN que «toda la casa tembló». Un responsable local dijo que el misil cayó «muy cerca de edificios», sin heridos ni daños.",
+          "El lugar y la hora importan. Los proyectiles entraron mientras miles de soldados europeos realizaban en Nowa Dęba, a hora y media en coche de Nowy Lipowiec, el primer ejercicio de la nueva fuerza multinacional de apoyo a Kyiv, con varios ministros de Defensa europeos presentes. Berlín habló de «otro ejemplo» de las provocaciones de Rusia y de un Putin que, «en lugar de mostrar voluntad de negociar», sigue «buscando la confrontación»; el Elíseo, de «incidente grave»; Andy Burnham, de una incursión «absolutamente inaceptable», y la UE expresó «plena solidaridad». Tusk dará a EE.UU. acceso a los restos —«no siempre comparto la interpretación estadounidense de estos incidentes», admitió—, en referencia a Trump, que un día antes había dicho que Putin dejaba caer en Polonia drones y «un par de misilitos, por error». El Kremlin no ha comentado. El secretario general de la OTAN, Mark Rutte, estará hoy en Varsovia."
+        ],
+        "quote": {
+          "text": "Lo ocurrido esta noche es otro ejemplo de una provocación rusa diseñada para dividir Europa. La fuerza multinacional para Ucrania está lista para dar un paso al frente cuando cesen las hostilidades.",
+          "author": "Wes Streeting · Secretario de Defensa del Reino Unido, en Nowa Dęba"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Patriots_stand_sentry_along_the_Eastern_Flank_%287464238%29.jpg/1280px-Patriots_stand_sentry_along_the_Eastern_Flank_%287464238%29.jpg",
+          "alt": "Lanzadores de misiles Patriot del Ejército de EE.UU. desplegados en Polonia al atardecer",
+          "credit": "Sgto. 1.º Christopher Smith, Ejército de EE.UU. · Wikimedia Commons · Dominio público",
+          "caption": "Baterías Patriot estadounidenses en Polonia, en abril de 2022. Varsovia pide ahora más medios aliados de defensa aérea para su flanco este."
+        },
+        "link": {
+          "url": "https://www.rnz.co.nz/news/world/2718791/poland-and-allies-say-russian-missiles-a-provocation-from-moscow",
+          "source": "RNZ / AFP"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Una frontera, una fuerza y una mesa en la que Polonia quiere sentarse",
+          "columns": [
+            { "label": "Contexto", "text": "Polonia ha denunciado varias veces en casi cinco años de guerra proyectiles perdidos sobre su territorio, sin que eso llevara a consultas formales por el artículo 4. Esta vez el patrón es distinto: tres objetos en una sola noche, en pleno ataque masivo contra Ucrania, y una coincidencia geográfica con la primera maniobra de la fuerza que británicos y franceses lideran para garantizar un eventual alto el fuego. Moscú, por su parte, ha vuelto a plantear su exigencia de 2021: que la OTAN retire tropas de Europa del Este, Polonia incluida." },
+            { "label": "Qué vigilar", "text": "La visita de Rutte a Varsovia y si Polonia formaliza consultas aliadas o se conforma con más medios en la operación Eastern Sentry. También el argumento político de Tusk, que usa el incidente para reclamar su sitio en la negociación: Polonia es uno de los cinco países que Europa eligió para representarla en las conversaciones lideradas por EE.UU. Y, en paralelo, cómo encaja Washington el episodio: Trump insiste en que Putin quiere acabar la guerra «por la vía diplomática»." }
+          ],
+          "key": "Para tu TFG: el debate polaco sobre quién interpreta los restos —Varsovia o Washington— es la versión terrestre del problema orbital. Quien controla los sensores y la atribución controla el relato y, por tanto, la respuesta. Por eso la alerta temprana y la vigilancia espacial europeas son una cuestión de soberanía, no solo técnica."
+        },
+        {
+          "type": "chart",
+          "title": "El presupuesto europeo que propone Costa",
+          "note": "Marco financiero 2028–2034 · grandes partidas, en miles de millones de euros",
+          "bars": [
+            { "label": "Cohesión económica, social y territorial", "value": 402.4, "display": "402,4 · −12,3 %" },
+            { "label": "Fondo de competitividad", "value": 301.0, "display": "301,0 · +120 %", "highlight": true },
+            { "label": "PAC · apoyo directo a la renta", "value": 261.0, "display": "261,0 · −9,5 % real" },
+            { "label": "Defensa", "value": 95.1, "display": "95,1 · +232 %", "highlight": true },
+            { "label": "Migración y fronteras", "value": 30.6, "display": "30,6 · +175 %" }
+          ],
+          "footnote": "Variaciones frente al marco 2021–2027. Total propuesto: 1,582 billones de euros, un 10,2 % menos que la propuesta de la Comisión. Fuente: propuesta del presidente del Consejo Europeo, vía elDiario.es (21 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Costa elige a los frugales: más cañones, menos cohesión",
+          "columns": [
+            { "label": "Contexto", "text": "La negociación del marco 2028–2034 naufragó en la cumbre de octubre tras más de once horas, y la propuesta irlandesa de 1,6 billones (un 8 % menos que la de la Comisión) no satisfizo a nadie. Costa presentó este sábado su propio texto: 1,582 billones, un 10,2 % —204.000 millones— por debajo de la Comisión. «Es un presupuesto realista que responde a nuestras nuevas prioridades sin renunciar a nuestras políticas consolidadas», defendió. Competitividad sube un 120 %; defensa, un 232 %; migración y fronteras se duplica con creces. Cohesión cae un 12,3 % y el apoyo directo de la PAC pierde un 9,5 % en términos reales." },
+            { "label": "Qué implica", "text": "El texto se inclina hacia Alemania, Países Bajos, Austria, Finlandia y Suecia, y enfrenta a los dieciséis «amigos de la cohesión», entre ellos España, Italia, Grecia y Portugal, que se oponen a los recortes. Pero tampoco contenta del todo a quienes piden rearme: la partida de defensa queda 36.307 millones por debajo de lo que proponía la Comisión. Los líderes lo discutirán el 26 y 27 de noviembre, el mismo Consejo Europeo que debe elegir al relevo de Lagarde y abordar la financiación de Ucrania." }
+          ],
+          "key": "Fíjate en dónde queda el espacio: los programas espaciales de la UE dependen sobre todo del fondo de competitividad, que es el que más crece. Si el texto de Costa sobrevive, IRIS² y Galileo tendrían más margen; y la cohesión, que financia buena parte de la inversión en el Camp de Tarragona, menos."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "EE.UU. · Casa Blanca, 20 nov",
+              "title": "Trump: Putin es «mi amigo», pero «no puedo hablar por América»",
+              "text": "En una rueda de prensa de casi hora y media tras volver de Shenzhen, Trump defendió su relación con Putin horas después del ataque masivo contra Ucrania y aseguró que el ruso quiere acabar la guerra «por la vía diplomática». Dejó caer que, sobre Ucrania, la cita a tres fue «dos contra uno», con Xi de su lado. Acusó a Irán de negociar de mala fe, prometió que nunca tendrá un arma nuclear y anunció que restringirá que empresas de EE.UU. construyan centros de datos en el extranjero.",
+              "link": { "url": "https://www.cnn.com/2026/11/20/politics/live-news/trump-white-house-press-conference", "source": "CNN" }
+            },
+            {
+              "kicker": "UE · Reino Unido · Bruselas, 20 nov",
+              "title": "Burnham y Bruselas firman la mayor reconciliación desde el Brexit",
+              "text": "La segunda cumbre UE–Reino Unido cerró tres acuerdos: un área sanitaria y fitosanitaria común —hasta 5.100 millones de libras al año para la economía británica, según Londres—, la vinculación de los mercados de carbono y un programa de experiencia juvenil para 100.000 jóvenes por cada lado durante hasta tres años. Se aplicarán desde 2028, pero Bruselas los condiciona a pactar en seis meses las tasas universitarias. «Es un buen día para Gran Bretaña y un buen día para Europa», dijo Burnham.",
+              "link": { "url": "https://www.rte.ie/news/uk/2026/1120/1599944-uk-eu-summit/", "source": "RTÉ / Reuters" }
+            },
+            {
+              "kicker": "Yemen · Arabia Saudí, 20 nov",
+              "title": "Saudíes y hutíes se amenazan con bombardear sus puertos",
+              "text": "Un día después de que un misil hutí dañara el rascacielos más alto de Riad, la coalición saudí pidió evacuar el puerto de Hodeida y atacó lo que llama capacidades de contrabando de armas, además de objetivos en Saná, Saada y Taiz. Los hutíes respondieron que Yeda y todos los puertos saudíes del mar Rojo serán «objetivos» y pidieron a las aerolíneas evitar el espacio aéreo saudí. Sobre el terreno, avanzan hacia Adén, último gran bastión del Gobierno.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports", "source": "Al Jazeera" }
+            },
+            {
+              "kicker": "Irak · Jurf al-Sakhar, 19–20 nov",
+              "title": "Bagdad y Kataib Hezbolá pactan en vez de chocar",
+              "text": "El primer ministro Ali al-Zaidi evitó el choque con la milicia proiraní: en lugar de entrar por la fuerza en su feudo al sur de Bagdad, donde el Gobierno la acusa de contrabando de petróleo, se abre un centro de operaciones conjunto con brigadas del ejército, la Policía Federal y las Fuerzas de Movilización Popular, que incluyen combatientes de Kataib Hezbolá. Antes, el jefe de la Fuerza Quds iraní, Esmail Qaani, viajó a Irak para mediar.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold", "source": "Al Jazeera" }
+            },
+            {
+              "kicker": "Ucrania · Kyiv, 20 nov",
+              "title": "Los puentes de Kyiv, dañados; el apagón se extiende",
+              "text": "El balance del ataque ruso de la madrugada del viernes sube al menos a ocho muertos. Además de los puentes sobre el Dniéper, los misiles dejaron sin generación eléctrica varias regiones. Rusia, por su parte, dice haber interceptado 310 drones ucranianos, y un ataque con drones dañó una planta industrial en Smolensk. Kushner sostiene que Moscú acepta que Europa participe en las conversaciones y garantías al estilo del artículo 5; Rusia sigue rechazando un alto el fuego.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges", "source": "Al Jazeera" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "163.355",
+        "statLabel": "nacionalizados por la ley de nietos, sin voto el 29-N",
+        "title": "El Supremo cierra la puerta: los «nietos» tampoco votarán desde España",
+        "body": [
+          "A ocho días de las generales, el Tribunal Supremo ha precisado el alcance de su suspensión cautelar: ninguna de las 163.355 personas que obtuvieron la nacionalidad por la ley de nietos podrá figurar en el censo del 29-N, ni en el de residentes en el extranjero ni en el de residentes en España. La providencia, dictada el viernes por la Sección Cuarta de lo Contencioso a petición de Vox, obliga a la Junta Electoral Central y a la Oficina del Censo a garantizarlo. Solo podrán votar las 901 personas que han conseguido que un consulado certifique que sus antepasados sufrieron persecución política.",
+          "El tribunal distingue entre quienes aportaron documentos del exilio de sus familias y quienes se acogieron a una instrucción que daba por exiliado a cualquiera que saliera de España entre 1936 y 1955, sobre la que ha expresado sospechas de irregularidad. Aun así, suspende de forma preventiva el voto de todos y deja en manos de cada afectado obtener el certificado. Los magistrados reprochan a la Administración informes «de difícil comprensión», y la Abogacía del Estado ya había advertido de que las cautelares dejaban en desventaja a estos ciudadanos."
+        ],
+        "link": {
+          "url": "https://www.eldiario.es/politica/supremo-veta-voto-elecciones-nacionalizados-ley-nietos-viven-espana_1_13680980.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "La resaca del cara a cara: Moncloa defiende la contención",
+          "columns": [
+            { "label": "Contexto", "text": "Tras perder el debate según todas las encuestas flash, el equipo de Sánchez reivindica su estrategia: «Decir que ha ganado es asumir que alguien que miente 20 veces gana. Esto no es Operación Triunfo», explican en su entorno. El objetivo, dicen, eran dos segmentos concretos: moderados que desconfían de un gobierno con la ultraderecha y votantes socialistas de 2023 desencantados por la corrupción y por dos accidentes de tren en diez meses. Por eso el «mea culpa» explícito. Sánchez, por su parte, sostiene que dejar hablar a quien «solo ofrece bulos e insultos» hace que «acabe retratándose»." },
+            { "label": "Qué implica", "text": "La campaña socialista se traslada ahora a la batalla digital, tras perder la de los medios tradicionales, mientras a su izquierda crece la presión. En Tarragona, Ada Colau dijo haber visto a un Sánchez «con los brazos bajados» y reclamó concentrar el voto progresista en Front Ampli, que se juega con Vox un escaño en la provincia: «El voto de Tarragona decidirá si puede haber un gobierno progresista». El fin de semana, segundo de campaña, llega con mítines de Colau y Díaz en Barcelona y de Feijóo en València." }
+          ],
+          "key": "La circunscripción de Tarragona reparte seis escaños y el último se lo disputan, según Colau, Front Ampli y Vox. Es de las pocas en las que un puñado de miles de votos en Reus o Tarragona ciudad puede cambiar el color del bloque."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Tarragona · Pesca, 20 nov",
+              "title": "Bruselas quiere dejar el arrastre en 97 días de pesca",
+              "text": "La Comisión Europea propone recortar un 32 % los días de arrastre en el Mediterráneo occidental en 2027: de 143 a unos 97 por barco, o hasta 131 si se aplican medidas extra de conservación. Afectaría a los 85 arrastreros de la provincia: 33 en La Ràpita, 22 en Tarragona, 20 en L’Ametlla de Mar, 6 en Cambrils, 3 en Les Cases d’Alcanar y 1 en Torredembarra. Los ministros decidirán el 14 y 15 de diciembre.",
+              "link": { "url": "https://www.diaridetarragona.com/economia/276243/pesca-arrastre-tarragona-jaque-posible-recorte-97-dias-2027.html", "source": "Diari de Tarragona / ACN" }
+            },
+            {
+              "kicker": "Reus · Habitatge, 20 nov",
+              "title": "Reus contará los despachos de los primeros pisos para ganar vivienda",
+              "text": "El pleno aprobó, a propuesta de la CUP y con el apoyo del gobierno de Sandra Guaita y de Junts, censar los negocios que ocupan entresuelos y primeros pisos y estudiar incentivos para que se trasladen a bajos comerciales vacíos. El Ayuntamiento también ha recurrido la propuesta de la Generalitat de sacar a Reus de la zona de alquiler tensionado a partir de marzo de 2027. Según la CUP, el alquiler medio ha pasado de 569 a 631 euros en dos años.",
+              "link": { "url": "https://www.diaridetarragona.com/reus/276227/reus-censara-els-negocis-dels-entresols-i-primers-pisos-amb-vista-guanyar-hi-habitatge.html", "source": "Diari de Tarragona" }
+            },
+            {
+              "kicker": "Tarragona · 29-N, 20 nov",
+              "title": "Colau, en el Serrallo: «Quitar el escaño a Vox»",
+              "text": "La candidata de Front Ampli se reunió en la Confraria de Pescadors con una veintena de entidades —Stop Creuers, vecinos, Dignitat a les Vies, la Marea Pensionista y colectivos de vivienda— y pidió el voto para su cabeza de lista en Tarragona, Ester Roca. Lamentó que el cara a cara no hablara de violencia machista y acusó al PP de haber «comprado» la agenda de la extrema derecha.",
+              "link": { "url": "https://www.diaridetarragona.com/tarragona/276224/colau-voto-tarragona-decidira-pueda-haber-gobierno-progresista-quitar-escano-vox.html", "source": "Diari de Tarragona" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "ESA · JAXA · Mercurio, 21 nov",
+        "title": "BepiColombo entra hoy en órbita de Mercurio",
+        "dek": "Ocho años después de despegar en un Ariane 5, la misión europea y japonesa enciende hoy su motor para quedar atrapada por el planeta más cercano al Sol.",
+        "body": [
+          "La maniobra de inserción en órbita está prevista para hoy a las 18.24 GMT (19.24 en la península) y durará 37 minutos. BepiColombo está formada por dos sondas: el Mercury Planetary Orbiter de la ESA y el Mercury Magnetospheric Orbiter de JAXA, llamado Mio. Despegaron en octubre de 2018 desde la Guayana Francesa junto a un módulo de propulsión eléctrica, el MTM, que las ha llevado durante un largo viaje con un sobrevuelo de la Tierra, dos de Venus y seis de Mercurio.",
+          "Llegar a Mercurio es difícil: la gravedad del Sol acelera a cualquier nave que se acerque y hay que frenar mucho para que el pequeño planeta la capture. El viaje se alargó un año por un problema en los paneles solares que redujo la potencia de los motores eléctricos. El MTM se separó el 3 de septiembre; las dos sondas seguirán unidas hasta hacia el 9 de diciembre, cuando Mio se dirigirá a su órbita polar muy elíptica y el orbitador europeo encadenará encendidos hasta la suya. La fase de llegada durará unos seis meses."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BepiColombo_hugs_Mercury_ESA24939504.png/1280px-BepiColombo_hugs_Mercury_ESA24939504.png",
+          "alt": "Imagen de Mercurio tomada por una cámara de BepiColombo, con parte de la nave en primer plano",
+          "credit": "ESA/BepiColombo/MTM · CC BY-SA 3.0 IGO",
+          "caption": "Mercurio desde la cámara de vigilancia del MTM durante el tercer sobrevuelo, el 19 de junio de 2023."
+        },
+        "link": {
+          "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+          "source": "Space.com"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "BepiColombo y lo que viene en Europa",
+          "note": "Fechas objetivo · sujetas a cambios",
+          "items": [
+            { "when": "Oct 2018", "title": "Lanzamiento", "text": "Despega en un Ariane 5 desde Kourou." },
+            { "when": "3 sep 2026", "title": "Adiós al MTM", "text": "El módulo de transferencia libera a las dos sondas." },
+            { "when": "21 nov 2026", "title": "Inserción en órbita", "text": "Encendido de 37 minutos desde las 18.24 GMT.", "highlight": true },
+            { "when": "~9 dic 2026", "title": "Separación", "text": "Mio y el orbitador europeo se separan rumbo a sus órbitas finales." },
+            { "when": "Dic 2026", "title": "Decisión en la ESA", "text": "Reunión clave sobre el programa de vuelo tripulado europeo; sin fecha oficial publicada.", "highlight": true }
+          ],
+          "footnote": "Fuentes: Space.com (21 nov 2026) y SpaceNews (21 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Bremen: ser «indispensable» en Artemis o tener nave propia",
+          "columns": [
+            { "label": "Contexto", "text": "SpaceNews resume desde Bremen el dilema europeo: casi ocho meses después de que la NASA rehiciera Artemis —con una prueba del aterrizador en órbita terrestre en 2027, el alunizaje aplazado a 2028 y la pausa de Gateway—, Europa todavía intenta decidir cómo adaptarse y asegurarse de ser «indispensable» en la nueva arquitectura. A la vez, gobiernos y empresas europeas preparan los argumentos para invertir en capacidad tripulada propia antes de una reunión clave el mes que viene, en la que Aschbacher quiere votar un programa de unos 10.000 M€." },
+            { "label": "Qué implica", "text": "Son dos estrategias que compiten por el mismo dinero. Una apuesta por aportaciones críticas que la NASA no pueda sustituir, como hizo Italia al comprometer más de 5.000 millones de dólares en un hábitat lunar a cambio de dos plazas en la superficie. La otra, por no depender de terceros para lo esencial. BepiColombo recuerda que Europa ya sabe liderar misiones complejas con un socio en igualdad de condiciones; la cuestión es si quiere hacerlo también con astronautas." }
+          ],
+          "key": "Este es el eje de tu marco teórico: «socio indispensable» frente a «capacidad autónoma». Recoge el argumento de Bremen y compáralo con la ILRS: China ofrece a terceros, como Pakistán con Shenzhou-24, plazas en su programa sin pedir a cambio piezas críticas. Son dos modelos de liderazgo normativo distintos."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Finlandia · Italia · Avio, 17 nov",
+              "title": "ICEYE ofrece 2.050 M€ por Avio, el fabricante del Vega",
+              "text": "La finlandesa de satélites radar lanzó una OPA en efectivo de 41 euros por acción, un 21,3 % de prima, para crear «un verdadero campeón europeo soberano del espacio y la defensa» que fabrique satélites, los lance y venda inteligencia a gobiernos. Promete invertir otros 1.000 M€ en Italia en cinco años y hasta 400 empleos. Necesitará el visto bueno de Italia, Francia, Reino Unido, EE.UU. y Bruselas. El consejo de Avio estudia la oferta.",
+              "link": { "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/", "source": "European Spaceflight" }
+            },
+            {
+              "kicker": "Catalunya · Móra la Nova, 18 nov",
+              "title": "Primera conexión 5G directa a un móvil vía satélite regenerativo en Europa",
+              "text": "El centro de investigación i2CAT estableció un enlace 5G estable con un terminal adaptado a través del satélite 6GStarLab y una estación terrena en Móra la Nova (Ribera d’Ebre). El satélite procesa la señal a bordo en vez de limitarse a retransmitirla. Su director, Sergi Figuerola, lo presenta como un avance de soberanía tecnológica que acorta distancias con Starlink y AST SpaceMobile.",
+              "link": { "url": "https://www.diaridetarragona.com/economia/276027/mora-nova-da-paso-internet-satelite-conexion-5g-pionera-europa.html", "source": "Diari de Tarragona" }
+            },
+            {
+              "kicker": "China · Landspace, 20 nov",
+              "title": "Landspace da por buenos para volar de nuevo nueve motores recuperados",
+              "text": "La empresa privada china probó en banco los nueve motores de la primera etapa recuperada de su cohete Zhuque-3 y los calificó para reutilizarlos, un paso más hacia lanzadores reutilizables en China mientras Europa sigue sin uno operativo.",
+              "link": { "url": "https://spacenews.com/landspace-qualifies-recovered-zhuque-3-engines-for-reuse-after-hot-fire-tests/", "source": "SpaceNews" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "37 min",
+            "text": "Lo que durará esta tarde el encendido que debe dejar a BepiColombo en órbita de Mercurio, tras ocho años de viaje y nueve sobrevuelos planetarios."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "Hoy", "what": "Varsovia · Visita de Mark Rutte tras los misiles rusos · Mercurio · Inserción en órbita de BepiColombo (18.24 GMT)" },
+              { "when": "25 nov*", "what": "Jiuquan · Lanzamiento previsto de Shenzhou-24 con el primer astronauta extranjero en Tiangong; China no ha confirmado la fecha" },
+              { "when": "26–27 nov", "what": "Bruselas · Consejo Europeo: presupuesto 2028–2034, presidencia del BCE y Ucrania" },
+              { "when": "29 nov", "what": "España · Elecciones generales" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda juntos el artículo de SpaceNews desde Bremen y el acuerdo de Italia con la NASA: son dos maneras de comprar influencia en la Luna. Úsalos para un apartado que compare la vía de «aportación indispensable» —hábitats, módulos de servicio, plazas a cambio— con la de capacidad propia, y mide cuál da más voz a Europa en la fase normativa de los recursos lunares."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "La OPA de ICEYE sobre Avio anticipa una consolidación vertical en Europa: operadores que compran acceso al espacio. Sigue a las pymes proveedoras de Avio y a los integradores de 5G NTN como i2CAT y Sateliot: si la conectividad directa al móvil cuaja, el Camp y el Ebre tienen una estación terrena y talento cerca para posicionarse."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: RNZ/AFP (21 nov), CNN (20–21 nov), RTÉ/Reuters (20 nov), Al Jazeera (19–20 nov), elDiario.es (20–21 nov), Diari de Tarragona/ACN (18–20 nov), Space.com (21 nov), SpaceNews (20–21 nov), European Spaceflight (23 sep y 17 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 21.11.2026."
+}
