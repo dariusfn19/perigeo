@@ -1,0 +1,288 @@
+{
+  "number": 21,
+  "week": 48,
+  "date": "2026-11-23",
+  "dateLabel": "Lunes, 23 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "La OTAN reúne hoy en Bruselas a su Consejo del Atlántico Norte por los misiles rusos caídos en Polonia, después de que Rutte prometiera en Varsovia defender «cada centímetro» del territorio polaco; en el golfo de Finlandia arde un carguero ruso alcanzado por drones, y en Antalya la COP31 se hunde sin acuerdo por los combustibles fósiles.",
+      "En España, el último CIS antes del 29-N da al PSOE 9,7 puntos de ventaja sobre el PP y deja a PP y Vox lejos de la mayoría, aunque se hizo antes del cara a cara; en Catalunya, ERC y Junts celebran sus actos centrales a dardo limpio, y Reus pone fecha a su auditorio: 2030.",
+      "BepiColombo ya orbita Mercurio, pero el encendido fue más corto de lo previsto por un fallo de software; Ariane 6 aplaza el lanzamiento de 36 satélites de Amazon y China ultima Shenzhou-24 con el primer astronauta extranjero de Tiangong."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "OTAN · Polonia · Bruselas, 23 nov",
+        "title": "La OTAN se sienta hoy a hablar de los misiles en Polonia",
+        "dek": "El Consejo del Atlántico Norte celebra una reunión extraordinaria; Varsovia llega con peticiones concretas —aviones de alerta temprana y F-35— y sin invocar, por ahora, el artículo 4.",
+        "body": [
+          "El máximo órgano de decisión de la Alianza, el Consejo del Atlántico Norte, se reúne este lunes en Bruselas para analizar la caída en el sureste de Polonia de dos presuntos misiles rusos y un dron a reacción durante el ataque masivo del viernes contra Ucrania. Uno de los proyectiles, identificado por las autoridades polacas como un misil de crucero Kh-101, cayó a unos 48 kilómetros de la frontera ucraniana; otro, a unos 35 kilómetros de Nowa Dęba, donde miles de soldados de la Coalición de Voluntarios ensayaban la futura misión en Ucrania. No hubo heridos ni daños relevantes.",
+          "El secretario general, Mark Rutte, estuvo el sábado en Varsovia y encargó al comandante supremo aliado en Europa, el general estadounidense Alexus Grynkewich, que evalúe las amenazas y ajuste el dispositivo si hace falta. El ministro de Defensa polaco, Władysław Kosiniak-Kamysz, vincula la incursión con las maniobras —«es difícil considerarlo una coincidencia»— y anunció que Polonia presentará hoy opciones para reforzar la frontera oriental. Varsovia ha pedido más aviones AWACS y cazas F-35, pero de momento no se ha anunciado ningún despliegue nuevo. En julio, otro misil ruso ya había dejado un gran cráter en un campo del este del país."
+        ],
+        "quote": {
+          "text": "Puedo garantizar que la OTAN defenderá cada centímetro del territorio polaco.",
+          "author": "Mark Rutte · Secretario general de la OTAN, en Varsovia"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Brussels-NATO_headquarters.jpg/1280px-Brussels-NATO_headquarters.jpg",
+          "alt": "Sede de la OTAN en Bruselas, con sus alas de cristal y acero",
+          "credit": "Romaine · Wikimedia Commons · CC0",
+          "caption": "La sede de la OTAN en Bruselas, donde se reúne hoy de urgencia el Consejo del Atlántico Norte."
+        },
+        "link": {
+          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html",
+          "source": "Stars and Stripes"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Del Vístula al golfo de Finlandia: la guerra roza el flanco norte",
+          "columns": [
+            { "label": "Contexto", "text": "En apenas 48 horas, la guerra de Ucrania ha tocado dos veces territorio aliado. El viernes, los misiles en Polonia; el sábado, un carguero ruso alcanzado por drones —probablemente ucranianos, según el ejército finlandés— terminó a la deriva en aguas de Finlandia. El presidente Alexander Stubb lo resumió así: «Las consecuencias de la guerra de agresión de Rusia también son visibles en nuestra región». Al mismo tiempo, la cumbre de Shenzhen ha devuelto a Putin a la foto con Trump y Xi, y Rusia enviará una delegación al G20 de Florida el mes que viene." },
+            { "label": "Qué vigilar", "text": "Si la reunión de hoy se queda en una declaración de solidaridad o se traduce en medios concretos: AWACS, cazas y defensa antiaérea adicional en la operación de vigilancia del flanco este. También el tono de Washington, que hasta ahora ha restado gravedad a estos incidentes, y si Moscú responde a los ataques en el Báltico con más presión sobre los países ribereños. El comandante de la Armada estonia ya avisa de que no se pueden descartar nuevos ataques en el golfo de Finlandia." }
+          ],
+          "key": "Para tu TFG: la petición polaca de aviones AWACS es una petición de ojos, no de armas. Europa sigue dependiendo de medios aliados —y en buena parte estadounidenses— para ver lo que entra en su espacio aéreo. Es el mismo argumento que sostiene la vigilancia espacial y la alerta temprana como pilares de la autonomía estratégica."
+        },
+        {
+          "type": "analysis",
+          "title": "La COP31 se rompe por dos palabras: «combustibles fósiles»",
+          "columns": [
+            { "label": "Contexto", "text": "La cumbre del clima de Antalya, la más larga de la historia, terminó el domingo sin acuerdo general: es el primer gran fracaso desde Copenhague en 2009. El primer borrador del llamado Pacto de Antalya pedía la «transición inmediata para dejar atrás los combustibles fósiles», pero esa mención desapareció de los textos siguientes pese a la presión de más de cien países. La UE, Panamá, las Islas Marshall y Noruega lo rechazaron. «Esta COP fue secuestrada por algunos Estados petroleros», dijo el ministro irlandés Darragh O’Brien, que negociaba en nombre de los Veintisiete. Rusia se negó a aceptar «ninguna formulación sobre combustibles fósiles». EE.UU. no participaba." },
+            { "label": "Qué implica", "text": "La UE ha preferido no firmar antes que aceptar un texto que no nombra la causa del problema, una apuesta arriesgada que deja el multilateralismo climático sin rumbo en plena crisis energética por la guerra de Irán. El contraste con Shenzhen es llamativo: la misma semana, EE.UU., China y Rusia se comprometieron a aumentar la producción y el suministro de petróleo. China habló de «profunda decepción» y pidió no perder la confianza en la cooperación." }
+          ],
+          "key": "Fíjate en la soledad europea: la UE se queda con Panamá, Noruega y los pequeños Estados insulares frente a petroestados y grandes potencias. Es el mismo patrón que puede repetirse en COPUOS si el debate sobre recursos lunares se reduce a un pulso entre Washington y Pekín."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Finlandia · Báltico, 21–22 nov",
+              "title": "Un carguero militar ruso arde frente a Finlandia tras un ataque con drones",
+              "text": "El Sparta II, de 121 metros y propiedad de Oboronlogistika —que presta servicios logísticos al Ministerio de Defensa ruso y está sancionada por EE.UU.—, fue alcanzado al oeste de la isla de Gogland cuando se dirigía a Kaliningrado y acabó a la deriva en aguas finlandesas. Sus 16 tripulantes fueron evacuados y el incendio siguió toda la noche. El ejército finlandés atribuye el ataque probablemente a Ucrania, y el primer ministro, Petteri Orpo, defendió que Kyiv «tiene derecho a contraatacar». Rusia lo ha remolcado fuera de aguas finlandesas.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack", "source": "Al Jazeera / AFP / Reuters" }
+            },
+            {
+              "kicker": "Irán · Ormuz, 21–22 nov",
+              "title": "Irán dice haber derribado más drones de EE.UU. y mantiene cerrado Ormuz",
+              "text": "La Guardia Revolucionaria asegura que un nuevo sistema antiaéreo derribó un MQ-9 —el 58.º desde el inicio de la guerra, según su cuenta— y después un MQ-1 sobre la isla de Qeshm; EE.UU. no ha confirmado los derribos. El ministro de Exteriores iraní insiste en que sus condiciones deben cumplirse para reabrir el estrecho, mientras Washington sanciona a cuatro iraníes a los que acusa de actuar como «fideicomisarios» del petróleo. El memorando de junio nunca llegó a aplicarse del todo.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled", "source": "Al Jazeera / Reuters" }
+            },
+            {
+              "kicker": "Diplomacia · Shenzhen y Berlín, 22 nov",
+              "title": "Shenzhen no fue Yalta, pero Putin ya no está aislado",
+              "text": "La declaración de Trump, Xi y Putin no menciona Ucrania, pero sí pide que la Corte Penal Internacional «no abuse de su jurisdicción» —Putin tiene una orden de arresto por la deportación de niños ucranianos— y compromete más producción de petróleo. Rusia ha confirmado que enviará una delegación al G20 de Florida en diciembre, y EE.UU. ha invitado a Putin. En Berlín, la Coalición de Voluntarios —36 países— volvió a exigir un asiento europeo en la negociación y garantías sólidas para Kyiv.",
+              "link": { "url": "https://www.rte.ie/news/analysis-and-comment/2026/1122/1600167-comment-analysis-ukraine-summits/", "source": "RTÉ" }
+            },
+            {
+              "kicker": "Sudán · Jartum, 22 nov",
+              "title": "Drones atribuidos a las RSF matan a cuatro personas y dañan un edificio de la ONU",
+              "text": "Las explosiones se oyeron en la capital entre las 2.00 y las 4.30 mientras el ejército intentaba interceptar drones dirigidos, según los informes, contra edificios gubernamentales y el aeropuerto. Tres personas murieron en una casa del norte de Omdurmán y un niño al sur de Jartum. La coordinadora humanitaria de la ONU, Denise Brown, confirmó daños en un edificio con personal dentro; la oficina humanitaria lo calificó de «inaceptable».",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum", "source": "Al Jazeera / AFP" }
+            },
+            {
+              "kicker": "Yemen · Arabia Saudí, 22 nov",
+              "title": "Riad intercepta un dron y un misil hutíes; Saná denuncia un ataque a una gasolinera",
+              "text": "La coalición saudí dice haber destruido un dron lanzado contra Riad y un misil balístico dirigido a su región occidental, donde están la terminal de Yanbu y la refinería de Jazán. Los medios hutíes afirman que un ataque aéreo contra una estación de combustible de la petrolera estatal en Saná hirió a seis empleados. La escalada entre saudíes y hutíes continúa tras las amenazas cruzadas contra los puertos del mar Rojo.",
+              "link": { "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone", "source": "Al Jazeera / AFP" }
+            },
+            {
+              "kicker": "Clima · Antalya, 22 nov",
+              "title": "Guterres, «profundamente decepcionado»; Londres habla de un paso atrás",
+              "text": "La negociadora británica Kate Hughes describió el borrador como «un mínimo común denominador» que «nos hace retroceder», y Amnistía Internacional celebró que los países rechazaran una «carta de los contaminadores». Además de los fósiles, la cumbre tropezó con el aumento de la financiación para los países ya golpeados por el cambio climático. Según la ONU, el mundo superará el objetivo de 1,5 °C; con las políticas actuales, el calentamiento rondaría los 2,8 °C.",
+              "link": { "url": "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure", "source": "CNN" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "9,7",
+        "statLabel": "puntos de ventaja del PSOE sobre el PP en el último CIS antes del 29-N",
+        "title": "El último CIS da ventaja al PSOE y deja a PP y Vox sin mayoría",
+        "body": [
+          "A seis días de las generales, el barómetro de noviembre del CIS, publicado este lunes, sitúa al PSOE en el 34,4 % de los votos, frente al 24,7 % del PP y el 15,6 % de Vox. Los socialistas suben más de un punto respecto al macrosondeo preelectoral del día 12 y superan su resultado de 2023 (31,7 %); el PP cae casi un punto. Las derechas sumarían el 40,3 %, lejos del 50 % que hasta hace pocos días daba la media de encuestas privadas. Frente Amplio sube al 5,7 %, y al 8,2 % si se suman las candidaturas en las que concurre con Podemos.",
+          "Conviene leerlo con cautela: el trabajo de campo se hizo entre el 10 y el 17 de noviembre, con 8.034 entrevistas, antes del cara a cara del día 19 que todas las encuestas flash dieron a Feijóo. Sánchez sigue siendo el preferido para presidir el Gobierno (42,4 %, frente al 23,2 % de Feijóo), y el 63,3 % de los entrevistados dice haber decidido su voto mucho antes de la campaña. Un 12,7 % asegura que lo decide en la última semana: la que empieza hoy."
+        ],
+        "link": {
+          "url": "https://www.eldiario.es/politica/ultimo-cis-elecciones-da-psoe-ventaja-diez-puntos-pp-vox-no-suma-mayoria-absoluta_1_13685466.html",
+          "source": "elDiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Estimación de voto del CIS para el 29-N",
+          "note": "Barómetro de noviembre · % sobre voto válido",
+          "bars": [
+            { "label": "PSOE", "value": 34.4, "display": "34,4 %", "highlight": true },
+            { "label": "PP", "value": 24.7, "display": "24,7 %" },
+            { "label": "Vox", "value": 15.6, "display": "15,6 %" },
+            { "label": "Frente Amplio", "value": 5.7, "display": "5,7 %" }
+          ],
+          "footnote": "Trabajo de campo del 10 al 17 de noviembre (8.034 entrevistas), antes del cara a cara. Frente Amplio incluye a Compromís, Ara Més y Unidad del Pueblo Canario. Fuente: CIS, vía elDiario.es (23 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Última semana: Lula, la memoria y la «tramuntanada»",
+          "columns": [
+            { "label": "Contexto", "text": "El domingo, Sánchez y Feijóo coincidieron en Murcia con mensajes opuestos. El presidente pidió a sus militantes darle la vuelta a las encuestas como hizo Lula en Brasil hace un mes. Feijóo, con los sondeos privados a favor, pidió no relajarse y «votar con memoria»: «Sabemos lo que pasó en 2023. Sabemos qué es ganar un debate, qué es ganar las elecciones… y no gobernar». Desde Girona, el PSC de Jordi Hereu pidió una «tramuntanada de votos», y Ada Colau llevó la campaña de Front Ampli a Canarias." },
+            { "label": "Qué vigilar", "text": "Si el CIS moviliza o desmoviliza: Moncloa lo usará para animar a los indecisos de izquierda, y el PP, para alertar contra el exceso de confianza. Hoy es el último día en que se pueden publicar encuestas en España, así que la última semana se jugará con los mítines, el voto por correo y la batalla digital. En Catalunya, la pugna entre ERC y Junts por el liderazgo independentista en el Congreso puede decidir más de un escaño." }
+          ],
+          "key": "En la circunscripción de Tarragona, seis escaños, el último está en el aire entre bloques. Un CIS que da al PP y Vox lejos de la mayoría, frente a encuestas privadas que los acercan, es la señal de que cada voto del Camp cuenta en la suma final."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Catalunya · 29-N, 22 nov",
+              "title": "ERC y Junts celebran sus actos centrales lanzándose dardos",
+              "text": "ERC reunió a más de 1.500 personas, según el partido, en el campus Ciutadella de la UPF, con Gabriel Rufián y la candidata de Podem, Irene Montero; Rufián apuntó sobre todo al PSC: «¿Quién irá a la Moncloa a defender nuestros derechos?». Junts eligió Castelldefels, municipio gobernado por el PP, con Míriam Nogueras y los expresidentes Pujol —en un mensaje grabado—, Mas y Puigdemont, este por videoconferencia. Mas pidió no tener miedo a «cuatro ministros de Vox, si es que llegan».",
+              "link": { "url": "https://beteve.cat/politica/erc-junts-actes-centrals-llancant-dards-dia-10-campanya-eleccions-generals-2026-29n/", "source": "betevé" }
+            },
+            {
+              "kicker": "Reus · Cultura, 23 nov",
+              "title": "La Diputació pone 2030 como horizonte para el auditorio de Reus",
+              "text": "La presidenta de la Diputació de Tarragona, Noemí Llauradó, aprovechó la presentación de los presupuestos de 2027 para fijar el calendario: el Ayuntamiento podría aprobar inicialmente el planeamiento urbanístico en el primer trimestre de 2027, previsiblemente en marzo, y la Diputació quiere sacar el concurso de proyectos en febrero. Llauradó habló de «muy buena sintonía» entre ambas administraciones.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reus_-_Pla%C3%A7a_del_Mercadal_1.jpg/1280px-Reus_-_Pla%C3%A7a_del_Mercadal_1.jpg",
+                "alt": "Vista de la plaza del Mercadal, en el centro de Reus",
+                "credit": "Zarateman · Wikimedia Commons · CC0",
+                "caption": "La plaza del Mercadal, en el centro de Reus."
+              },
+              "link": { "url": "https://www.diaridetarragona.com/reus/276383/diputacio-tarragona-albira-auditori-reus-obri-2030.html", "source": "Diari de Tarragona" }
+            },
+            {
+              "kicker": "Reus · Drets Socials, 22 nov",
+              "title": "Reus, entre las tres primeras residencias públicas del Pla 20.000",
+              "text": "Catalunya tiene más de 19.300 personas en lista de espera para una plaza pública de residencia, y el Govern prevé crear 20.000 plazas hasta 2030. De las 15 nuevas residencias públicas previstas, tres podrían funcionar en 2030: en la Seu d’Urgell, Reus y Santa Coloma de Gramenet, con 255 plazas para mayores entre las tres. Drets Socials negocia con 96 ayuntamientos las otras doce.",
+              "link": { "url": "https://www.diaridetarragona.com/reus/276275/catalunya-preve-crear-20-000-nuevas-plazas-3-residencias-2030-reus.html", "source": "Diari de Tarragona" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "ESA · JAXA · Mercurio, 21–23 nov",
+        "title": "BepiColombo ya orbita Mercurio, con un encendido más corto de lo previsto",
+        "dek": "La ESA confirma la captura, pero un fallo de software cortó antes de tiempo la maniobra; hoy debe dar los primeros detalles.",
+        "body": [
+          "BepiColombo se convirtió el sábado en la segunda nave de la historia en orbitar Mercurio, tras la MESSENGER de la NASA, que terminó su misión en 2015. El control de la misión en ESOC, en Darmstadt, confirmó la captura tras recibir la señal y analizar los primeros datos: «Dinámica de Vuelo ya ha confirmado que ha logrado la captura orbital», anunció el equipo. Pero un día después llegó el matiz: «Durante la maniobra, el encendido fue más corto de lo previsto por un problema de software. La nave está a salvo y los equipos de ESOC trabajan para entender qué pasó». La ESA prometió más información este lunes.",
+          "La misión no es nueva en sustos: en 2024, un fallo en el sistema de propulsión eléctrica obligó a rehacer la trayectoria y retrasó un año la llegada. Las dos sondas —el orbitador planetario europeo MPO y el magnetosférico japonés Mio— siguen unidas y deben separarse el 9 y 10 de diciembre; si todo va bien, la ciencia empezará en abril de 2027. Entre sus objetivos está el hielo de agua que sobrevive en cráteres permanentemente en sombra cerca de los polos del planeta más cercano al Sol."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BepiColombo_stack_with_sunshield.jpg/1280px-BepiColombo_stack_with_sunshield.jpg",
+          "alt": "La nave BepiColombo apilada con su escudo solar en una sala limpia antes del lanzamiento",
+          "credit": "ESA–C. Carreau · CC BY-SA 3.0 IGO",
+          "caption": "BepiColombo, con los dos orbitadores y el escudo solar, durante los preparativos en tierra."
+        },
+        "link": {
+          "url": "https://starlust.org/bepicolombo-ran-into-trouble-during-mercury-orbital-insertion-reveals-esa-a-day-after-milestone/",
+          "source": "Starlust"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            { "value": "8 años", "label": "de viaje desde el lanzamiento en Kourou, el 20 de octubre de 2018" },
+            { "value": "2.ª", "label": "nave en orbitar Mercurio, tras MESSENGER (NASA)" },
+            { "value": "9–10 dic", "label": "separación prevista de los orbitadores MPO y Mio" },
+            { "value": "Abr 2027", "label": "inicio previsto de las operaciones científicas" }
+          ]
+        },
+        {
+          "type": "analysis",
+          "title": "Una semana que retrata a Europa: ciencia de primera, lanzadores al límite",
+          "columns": [
+            { "label": "Contexto", "text": "En pocos días, Europa ha llegado a Mercurio con Japón como socio en pie de igualdad, va a mostrar el miércoles las primeras imágenes cercanas de Hera sobre el asteroide Dimorphos y prepara una votación sobre un programa propio de astronautas. Al mismo tiempo, su único lanzador pesado, Ariane 6, se ha convertido en una pieza clave para Amazon: tras la pérdida de 40 satélites Amazon Leo en el fallo del Vulcan del 15 de noviembre, el primer fracaso total de ULA, el VA271 debía llevar hoy otros 36, pero un problema en los sistemas de tierra lo ha aplazado al menos a mañana." },
+            { "label": "Qué implica", "text": "Europa tiene excelencia científica y un lanzador fiable, pero escaso: cada Ariane 6 que vuela para una constelación estadounidense es capacidad que compite con IRIS² y las misiones institucionales. Y la cadencia importa: con diez vuelos, Ariane 6 sigue lejos del ritmo que exige el mercado. Al otro lado, China lanzará esta semana a su primer astronauta extranjero, un paso más en la diplomacia de plazas que alimenta la ILRS." }
+          ],
+          "key": "Para tu TFG: separa dos tipos de autonomía. La científica —BepiColombo, Hera— Europa ya la tiene. La de acceso y presencia —lanzadores propios en cantidad suficiente, astronautas propios— es la que decide quién se sienta a negociar las normas sobre los recursos lunares."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Arianespace · Kourou, 23 nov",
+              "title": "Ariane 6 aplaza el lanzamiento de 36 satélites de Amazon",
+              "text": "La cuenta atrás del vuelo VA271, el décimo de Ariane 6 y el cuarto de este cohete para Amazon Leo este año, se detuvo por un «evento técnico» en los sistemas de apoyo en tierra, antes de retirar la torre móvil. El cohete y los satélites están «en condiciones estables y seguras», y la próxima oportunidad es, como pronto, el 24 de noviembre. Amazon necesita acelerar: antes del fallo del Vulcan tenía 398 satélites en órbita, en torno al 12 % de los 3.236 que requiere para cobertura global.",
+              "link": { "url": "https://newsroom.arianespace.com/mission-va271le-04-launch-update/?lang=eng", "source": "Arianespace" }
+            },
+            {
+              "kicker": "China · Pakistán · Jiuquan, 22 nov",
+              "title": "Shenzhou-24 completa su ensayo general con un pakistaní en la tripulación",
+              "text": "Los tres tripulantes completaron el ensayo de lanzamiento en Jiuquan, según la agencia espacial pakistaní, SUPARCO. China no ha confirmado la fecha, pero Pakistán la sitúa en torno al 25 de noviembre. Uno de los pilotos preseleccionados, Muhammad Zeeshan Ali o Khurram Daud, será el primer extranjero en visitar Tiangong y pasará una semana a bordo. Pakistán también tiene previsto enviar un rover en la misión lunar Chang’e-8, hacia 2028.",
+              "link": { "url": "https://www.arabnews.pk/pakistan/china-completes-launch-drill-for-mission-carrying-pakistans-first-astronaut-3007767", "source": "Arab News" }
+            },
+            {
+              "kicker": "ESA · Hera, 25 nov",
+              "title": "Hera mostrará el miércoles cómo quedó Dimorphos tras el impacto de DART",
+              "text": "La sonda europea, que llegó al sistema binario Didymos-Dimorphos el 4 de noviembre, enseñará en directo por ESA TV sus primeras imágenes cercanas del asteroide que la NASA golpeó en 2022, cuando el impacto acortó su órbita de 11 h 55 min a 11 h 23 min. Es la pieza europea de la primera prueba de defensa planetaria.",
+              "link": { "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/", "source": "SpacePolicyOnline" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "2009",
+            "text": "El año de Copenhague, la última gran cumbre del clima que acabó en fracaso. La COP31 de Antalya, la más larga de la historia, es la primera en romperse así desde entonces."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "Hoy", "what": "Bruselas · Consejo del Atlántico Norte extraordinario por los misiles en Polonia · ESA · Actualización sobre el encendido de BepiColombo" },
+              { "when": "24–25 nov*", "what": "Kourou · Nuevo intento del Ariane 6 VA271 · Jiuquan · Shenzhou-24, fecha no confirmada por China" },
+              { "when": "26–27 nov", "what": "Bruselas · Consejo Europeo: presupuesto 2028–2034, presidencia del BCE y Ucrania" },
+              { "when": "29 nov", "what": "España · Elecciones generales" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda el fracaso de la COP31 como caso comparado: un régimen multilateral basado en el consenso que se bloquea cuando unos pocos Estados con intereses materiales vetan el texto. Es el riesgo que corre COPUOS con los recursos lunares, y el argumento a favor de vías plurilaterales como los Acuerdos Artemis… o la ILRS."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "El fallo del Vulcan y el retraso del Ariane 6 muestran que el cuello de botella de las megaconstelaciones es el acceso al espacio. Sigue a los proveedores europeos de servicios en tierra y en el puerto espacial de Kourou, y a los nuevos lanzadores medianos europeos: hay demanda estadounidense dispuesta a pagar por capacidad fiable."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Stars and Stripes (22 nov), Al Jazeera/AFP/Reuters (21–22 nov), RTÉ (22 nov), CNN (22 nov), elDiario.es (23 nov), betevé (22 nov), Diari de Tarragona (22–23 nov), Starlust y EarthSky (22 nov), Arianespace (23 nov), Arab News (22 nov), SpacePolicyOnline (22 nov), DataCenterDynamics (nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 23.11.2026."
+}
