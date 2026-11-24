@@ -1,0 +1,404 @@
+{
+  "number": 22,
+  "week": 48,
+  "date": "2026-11-24",
+  "dateLabel": "Martes, 24 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Ucrania hunde una corbeta rusa en el puerto libio de Bengasi y el Kremlin habla de una «tendencia muy peligrosa»; Moscú acusa a Estonia de estar «al borde» de provocar una «guerra abierta», mientras la OTAN refuerza con aviones de alerta temprana el cielo de Polonia.",
+      "Medios alemanes aseguran que Rusia podría lanzar en diciembre un satélite con arma nuclear, el Sputnik-S; el Kremlin lo despacha como poco serio y Rutte promete defender a la Alianza «también en el espacio».",
+      "España entra en el apagón demoscópico con las encuestas privadas dando mayoría a PP y Vox y un debate a ocho sin choques entre socios; en el Camp, el CSN da luz verde al almacén de combustible gastado de Vandellòs II."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Ucrania · Rusia · Libia y Báltico, 22–23 nov",
+        "title": "La guerra naval de Ucrania llega a Libia y Moscú apunta a Estonia",
+        "dek": "Kyiv reivindica el hundimiento de la corbeta Merkury en Bengasi; el Kremlin promete «consecuencias dolorosas» y acusa a Tallin de rozar la «guerra abierta».",
+        "body": [
+          "«Todo ocurrió frente a la costa de Libia. Nuestros guerreros desplegaron siete drones navales de fabricación ucraniana», escribió el lunes Volodímir Zelenski. El objetivo fue la corbeta rusa <em>Merkury</em>, alcanzada el domingo en la base naval de Bengasi, en el este de Libia: las imágenes de satélite muestran el buque volcado y hundido, con solo la proa fuera del agua. Según Zelenski, también se destruyó un helicóptero militar Ka-27 y se alcanzó el carguero <em>MV Angara</em>, que Rusia usaba —dice— para transportar armas. El Gobierno del este libio, rival del reconocido en Trípoli, ha protestado ante la ONU por la violación de su soberanía.",
+          "Un día antes, el carguero <em>Sparta II</em> había ardido en el golfo de Finlandia tras un ataque con drones que Kyiv no ha reivindicado. El portavoz del Kremlin, Dmitri Peskov, habló de una «tendencia muy peligrosa» y advirtió de consecuencias «dolorosas». Horas después, el Ministerio de Exteriores ruso convocó al encargado de negocios estonio y le dijo que el cierre de la frontera que Tallin aplicará desde el 1 de diciembre está «al borde de desencadenar una guerra abierta». Moscú acusa además a Estonia de dejar pasar drones ucranianos hacia el noroeste de Rusia, algo que Tallin niega. Y el primer ministro, Mijaíl Mishustin, anunció 47.000 millones de rublos (unos 576 millones de dólares) para dos transbordadores ferroviarios que abastezcan Kaliningrado desde 2030."
+        ],
+        "quote": {
+          "text": "Estonia nunca ha permitido, ni permitirá, que su territorio se use para operaciones militares de otro país.",
+          "author": "Ministerio de Asuntos Exteriores de Estonia · Respuesta a Moscú, 23 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/View_from_Narva_%28Estonia%29_to_Ivangorod_fortress_%28Russia%29_across_Narva_River.jpg/1280px-View_from_Narva_%28Estonia%29_to_Ivangorod_fortress_%28Russia%29_across_Narva_River.jpg",
+          "alt": "La fortaleza rusa de Ivangorod vista desde Narva, en Estonia, al otro lado del río Narva",
+          "credit": "Bestalex · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "Desde Narva (Estonia), la fortaleza de Ivangorod (Rusia): el río marca una frontera que Tallin cerrará el 1 de diciembre."
+        },
+        "link": {
+          "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
+          "source": "Al Jazeera"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Del Mediterráneo al Báltico: una guerra sin frente fijo",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "En una semana, la guerra de Ucrania ha tocado territorio polaco con misiles rusos, aguas finlandesas con un carguero en llamas y un puerto libio con una corbeta hundida. Kyiv lleva meses atacando la llamada «flota fantasma» y los buques que sostienen la logística rusa; ahora lo hace a miles de kilómetros del mar Negro y lo reivindica abiertamente. Moscú responde con presión verbal sobre el eslabón que considera más débil: Estonia, con una gran minoría rusohablante y una frontera que va a cerrar. El precedente pesa: en 2014 Rusia justificó su entrada en el este de Ucrania con la supuesta defensa de los rusohablantes."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si la «respuesta dolorosa» se queda en más bombardeos sobre Ucrania —como apunta Peskov— o se traduce en presión híbrida sobre los bálticos: sabotajes, incursiones aéreas o acoso a la navegación. También la reacción de los aliados ante unos ataques ucranianos que ocurren en sus aguas o cerca de ellas, y el papel de Libia, dividida y con presencia militar rusa en el este y, según funcionarios libios, de expertos ucranianos en drones en el oeste."
+            }
+          ],
+          "key": "Para tu TFG: la logística marítima de Kaliningrado es la otra cara de la dependencia de capacidades. Rusia necesita barcos para abastecer su enclave; Europa necesita satélites para vigilar esos barcos. Quien vigila el Báltico desde órbita —con medios propios o prestados— decide cuánto margen tiene en una crisis así."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "OTAN · Polonia, 23 nov",
+              "title": "Los AWACS aliados ya vigilan el cielo polaco tras la reunión de la OTAN",
+              "text": "El Consejo del Atlántico Norte celebró en Bruselas su sesión extraordinaria por los misiles rusos caídos en Polonia, con el viceministro de Defensa Paweł Zalewski en representación de Varsovia. El ministro Władysław Kosiniak-Kamysz confirmó que aviones aliados de alerta temprana ya refuerzan el espacio aéreo polaco; la petición de cazas F-35 sigue sin respuesta. Mark Rutte admitió que aún no está claro si la incursión fue intencionada: «Nunca especularé».",
+              "link": {
+                "url": "https://aroundprague.cz/en/news/world/nato-council-meets-on-poland-as-early-warning-aircraft-reinforce-airspace",
+                "source": "Around Prague / UNITED24 Media"
+              }
+            },
+            {
+              "kicker": "Ucrania · Kyiv, 23 nov",
+              "title": "Al menos 15 muertos en la región de Kyiv; un edificio derrumbado en Dímer",
+              "text": "Un ataque nocturno contra un bloque de cinco plantas en Dímer, a 45 km de la capital, mató al menos a 11 personas, entre ellas un adolescente; los rescatistas buscaban a otras 11, dos de ellas niños. En Vyshneve, un misil contra un supermercado mató a tres personas e hirió a 15. Ucrania pide a EE.UU. que libere misiles Patriot, mientras sus drones alcanzaron depósitos de petróleo en Tatarstán, Rostov y Perm. Putin había prometido respuestas «mucho más dolorosas» a los ataques contra el puente de Kerch.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Irán · EE.UU., 23 nov",
+              "title": "Teherán llama «agresión militar» al bloqueo y Washington aprieta las sanciones",
+              "text": "El portavoz de Exteriores, Esmaeil Baghaei, invocó el artículo 51 de la Carta de la ONU para defenderse «con todos los medios disponibles» del bloqueo naval estadounidense, restablecido el 14 de julio. El mismo día, el Tesoro sancionó a más de una veintena de casas de cambio y empresas pantalla de la «banca en la sombra» iraní. Las exportaciones visibles de crudo están cerca de cero, la inflación ronda el 90 % según EE.UU., y Trump dice estar «inclinado» a atacar tras Año Nuevo si no hay acuerdo.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Bélgica · Huelga, 23 nov",
+              "title": "Bélgica se paraliza contra los recortes y De Wever se da hasta el 31 de diciembre",
+              "text": "La huelga nacional contra la austeridad obligó a cancelar todos los vuelos de Bruselas entre las 7.00 y las 21.00 y paró Charleroi, trenes, autobuses y escuelas; es la undécima que afecta al espacio aéreo belga en once meses. El Gobierno busca ahorrar 10.000 millones de euros y está dividido. Bart De Wever ya ofreció su dimisión al rey, que no la aceptó, y ha fijado el 31 de diciembre como plazo: sin presupuesto, el Gobierno «dejará de existir».",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Polonia · Dinamarca, 22–23 nov",
+              "title": "Dos intentos rusos de matar al mismo rapero ucraniano, según Varsovia y Copenhague",
+              "text": "Polonia confirma que en agosto frustró en su territorio un plan para asesinar a Albert Vasiliev, «Kyivstoner», rapero ucraniano-estadounidense, y detuvo a un ciudadano ruso. Dinamarca expulsó el viernes a un diplomático ruso por un segundo intento, en septiembre, durante un concierto cerca de Copenhague, presuntamente con ayuda de una banda ilegalizada; dos daneses están acusados de intento de asesinato. Rusia niega las acusaciones.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice",
+                "source": "Al Jazeera / AP"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Rusia, 22 nov",
+              "title": "El jefe de Inteligencia de EE.UU.: Putin «no es amigo de América en Ucrania»",
+              "text": "Preguntado en ABC por las palabras de Trump, que llamó «amigo» a Putin en Shenzhen y luego dijo que no podía hablar «por América», el director de Inteligencia Nacional, Jay Clayton, defendió la cumbre como «histórica», pero marcó distancia: «No es amigo de América en Ucrania. En absoluto». Es la primera matización de peso desde la foto con Xi.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Justicia internacional · La Haya, 23 nov",
+              "title": "Tayikistán inicia su salida de la Corte Penal Internacional",
+              "text": "Es el cuarto país que notifica su retirada desde que EE.UU. instó en julio a abandonar la CPI, tras Venezuela, Chad y Nauru; será efectiva el 20 de noviembre de 2027. En marzo, la Corte concluyó que Tayikistán incumplió su obligación de detener a Putin durante su visita de 2025. La CPI mantiene 125 Estados parte, incluidos los siete con retirada pendiente.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court",
+                "source": "Al Jazeera"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "189",
+        "statLabel": "escaños para PP y Vox en la última media de encuestas de El Independiente antes del 29-N",
+        "title": "Apagón demoscópico: los sondeos privados cierran con mayoría de PP y Vox",
+        "body": [
+          "Desde hoy y hasta el domingo no se pueden publicar encuestas. Las últimas dejan un mensaje distinto al del CIS del lunes: según la media de El Independiente, el PP lograría 130 escaños (31,7 %) y Vox 59 (18 %), 189 entre ambos, por encima de los 176 de la mayoría absoluta. El PSOE bajaría a 118 (28,5 %) y el bloque que podría apoyar a Sánchez —toda la izquierda más Junts y PNV— se quedaría en 160, a 16 escaños de seguir en la Moncloa. Solo SW Demoscopia da ganador al PSOE, con 134 diputados; 40dB coloca al PP en 132.",
+          "El CIS, con trabajo de campo anterior al cara a cara, daba al PSOE casi diez puntos de ventaja. Entre ambos extremos, la campaña entra en su última semana con Vox molesto por las llamadas del PP al «voto útil» y un PSOE que el domingo reunió, según El Independiente, a 10.000 personas en Murcia para pedir una «remontada». La única medición que queda es la de las urnas: el sondeo a pie de urna del domingo a las 20.00."
+        ],
+        "link": {
+          "url": "https://www.elindependiente.com/espana/2026/11/23/sanchez-sin-remontada-ultimas-encuestas-escanos-seis-dias-elecciones/",
+          "source": "El Independiente"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Escaños según la última media de encuestas",
+          "note": "Media de El Independiente · 23 nov 2026 · Mayoría absoluta: 176",
+          "bars": [
+            {
+              "label": "PP",
+              "value": 130,
+              "display": "130",
+              "highlight": true
+            },
+            {
+              "label": "PSOE",
+              "value": 118,
+              "display": "118"
+            },
+            {
+              "label": "Vox",
+              "value": 59,
+              "display": "59"
+            },
+            {
+              "label": "ERC",
+              "value": 11,
+              "display": "11"
+            },
+            {
+              "label": "Frente Amplio",
+              "value": 10,
+              "display": "10"
+            },
+            {
+              "label": "EH Bildu",
+              "value": 7,
+              "display": "7"
+            }
+          ],
+          "footnote": "Junts 5, PNV 4, Adelante Andalucía 3, BNG 2. Es una media de sondeos privados, no una encuesta propia; el CIS de noviembre daba al PSOE el 34,4 % y al PP el 24,7 %. Fuente: El Independiente (23 nov 2026)."
+        },
+        {
+          "type": "analysis",
+          "title": "Un debate a ocho sin fuego amigo, y Junts pone precio",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El debate a ocho de RTVE del lunes dejó un pacto tácito de no agresión entre posibles socios: ni Ester Muñoz (PP) y Pepa Millán (Vox) ni Patxi López (PSOE) y Emilio Delgado (Frente Amplio) se atacaron entre sí. El PP prometió una auditoría de la gestión del Gobierno «en el primer consejo de ministros»; Vox cargó contra la corrupción y la inmigración; López pidió votar «en defensa propia». ERC, EH Bildu y PNV se mostraron a favor de que Sánchez siga, con exigencias."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La llave sigue en Junts. Míriam Nogueras evitó comprometer su apoyo y puso el concierto económico en el centro de cualquier negociación, «igual que en 2023 pusimos la ley de amnistía». Mientras, Sánchez propuso un impuesto a las fortunas de más de 100 millones y descartó de nuevo un referéndum en Catalunya por «inconstitucional». Dos mensajes difíciles de casar si el PSOE vuelve a necesitar a Junts y ERC para sumar."
+            }
+          ],
+          "key": "En Tarragona, PP y Vox concurren con candidaturas coordinadas al Senado, según el Diari de Tarragona. Si esa suma funciona aquí, la provincia puede aportar senadores clave a una mayoría de derechas en la Cámara Alta."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "España · Fiscalidad, 23 nov",
+              "title": "Sánchez promete un impuesto a los patrimonios de más de 100 millones",
+              "text": "El PSOE lo incluye en su programa para el 29-N y calcula recaudar unos 2.000 millones al año, destinados a una prestación por crianza, más inversión en vivienda y servicios públicos. El partido sostiene que el 0,1 % más rico concentra más del 10 % de la riqueza y que el impuesto «no afectará a las clases medias».",
+              "link": {
+                "url": "https://www.diaridetarragona.com/espana/276370/sanchez-propone-impuesto-fortunas-100-millones-financiar-vivienda.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Catalunya · 29-N, 22–23 nov",
+              "title": "Sánchez descarta negociar un referéndum por «inconstitucional»",
+              "text": "En una entrevista televisiva, el candidato socialista dijo que una consulta «no entra dentro del marco constitucional» y va en contra de la «normalización» de la convivencia en Catalunya. También reveló que José Luis Rodríguez Zapatero le aconseja «de manera personal», aunque no participa activamente en la campaña.",
+              "link": {
+                "url": "https://rab.cat/2026/11/23/lactualitat-en-5-noticies-23-novembre-2026/",
+                "source": "RAB.cat / ACN"
+              }
+            },
+            {
+              "kicker": "Baix Camp · Energía, 23 nov",
+              "title": "El CSN avala el almacén de combustible gastado de Vandellòs II",
+              "text": "El pleno del Consejo de Seguridad Nuclear informó favorablemente el lunes la modificación del almacén temporal individualizado ATI-100, con condiciones. Usará contenedores en seco de Holtec para el combustible gastado y los residuos especiales y liberará la piscina de la central, que podría llenarse en abril de 2027. Sin él, la planta no podría seguir operando hasta su cierre previsto en 2035.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vandell%C3%B2s_Nuclear_Power_Plant.jpg/1280px-Vandell%C3%B2s_Nuclear_Power_Plant.jpg",
+                "alt": "Vista de la central nuclear de Vandellòs junto a la costa",
+                "credit": "Nicolas Vigier · Wikimedia Commons · CC BY-SA 2.0",
+                "caption": "La central nuclear de Vandellòs, en el Baix Camp."
+              },
+              "link": {
+                "url": "https://www.diaridetarragona.com/economia/276415/tarragona-central-vandellos-ii-avanza-proyecto-almacenar-combustible-nuclear-2035.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Camp de Tarragona · Movilidad, 24 nov",
+              "title": "Ayesa redactará el plan ferroviario del Camp",
+              "text": "La ingeniería tendrá siete meses para definir demanda, trazados y un modelo ferroviario para el Camp de Tarragona, incluida una propuesta para el futuro corredor de mercancías. El contrato asciende a 397.179 euros con IVA, y el estudio servirá de base al nuevo Pla d’Infraestructures de Transports de Catalunya.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/276437/hay-empresa-redactar-plan-ferroviario-camp-tarragona.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "Rusia · OTAN · Órbita baja, 23 nov",
+        "title": "Alerta en Europa: Rusia podría lanzar en diciembre un satélite con arma nuclear",
+        "dek": "Una investigación de NDR, WDR y Süddeutsche Zeitung atribuye a la inteligencia occidental la existencia del Sputnik-S; el Kremlin lo despacha como «poco serio».",
+        "body": [
+          "Según la investigación conjunta de las cadenas públicas alemanas NDR y WDR y el diario Süddeutsche Zeitung, publicada el lunes, varios servicios de inteligencia de la OTAN creen que Rusia tiene listo un satélite con arma nuclear, llamado Sputnik-S, ensamblado hace años y guardado en la región de Moscú. Avisos compartidos este mes entre aliados apuntaban a que podría estar en órbita en 60 días y operativo «en poco tiempo»; el Mando Espacial del ejército alemán considera posible un lanzamiento en diciembre. Nada de ello se ha confirmado públicamente.",
+          "«Hay tantas afirmaciones “presuntas” y “posibles”, atribuidas a no se sabe quién, que no merece la pena tomarlas en serio», dijo Dmitri Peskov; la embajada rusa en Berlín habló de «campaña de propaganda». En Berlín, junto a Friedrich Merz, Mark Rutte aseguró que la OTAN defenderá «cada centímetro» de su territorio, también en el espacio, y que tiene opciones de respuesta «no siempre visibles». Merz no confirmó ni desmintió, y un portavoz del Gobierno pidió seriedad sin «nerviosismo excesivo». En octubre, la Agencia de Inteligencia de Defensa de EE.UU. ya avisó de que un arma así podría causar la «pérdida o degradación rápida y repentina de miles de satélites»."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Soyuz_TMA-9_launch.jpg/1280px-Soyuz_TMA-9_launch.jpg",
+          "alt": "Un cohete Soyuz despega de noche desde el cosmódromo de Baikonur",
+          "credit": "NASA / Bill Ingalls · Dominio público",
+          "caption": "Lanzamiento de un Soyuz desde Baikonur (imagen de archivo, 2006)."
+        },
+        "link": {
+          "url": "https://www.themoscowtimes.com/2026/11/23/kremlin-dismisses-reports-about-alleged-nuclear-armed-satellite-launch-a94349",
+          "source": "The Moscow Times"
+        }
+      },
+      "blocks": [
+        {
+          "type": "timeline",
+          "title": "Cómo se ha ido construyendo la alarma",
+          "items": [
+            {
+              "when": "1967",
+              "what": "El Tratado del Espacio Ultraterrestre, firmado por la URSS, prohíbe colocar armas nucleares en órbita terrestre (art. IV)."
+            },
+            {
+              "when": "Feb 2024",
+              "what": "La Casa Blanca confirma que Rusia desarrolla una capacidad antisatélite «preocupante» en el espacio. Moscú lo niega."
+            },
+            {
+              "when": "Oct 2026",
+              "what": "La DIA estadounidense afirma que Rusia desarrolla un satélite diseñado para portar un arma nuclear."
+            },
+            {
+              "when": "Nov 2026",
+              "what": "Avisos compartidos entre aliados de la OTAN; el 23, NDR, WDR y Süddeutsche Zeitung publican la investigación sobre el Sputnik-S."
+            },
+            {
+              "when": "Dic 2026*",
+              "what": "Ventana de lanzamiento que el Mando Espacial alemán considera posible. *No confirmada."
+            }
+          ]
+        },
+        {
+          "type": "analysis",
+          "title": "Una bomba en órbita baja no distingue banderas",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Una detonación nuclear en órbita baja no destruiría un satélite concreto: crearía cinturones de radiación capaces de degradar durante meses a miles de satélites de todos los operadores, incluidos los propios rusos y chinos. Por eso se interpreta más como un arma de disuasión o chantaje que de uso táctico. Su blanco natural serían megaconstelaciones como Starlink, clave para las comunicaciones militares ucranianas."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Si se confirma, sería la violación más grave del Tratado del Espacio desde 1967 y dejaría en evidencia los límites de los foros de consenso como COPUOS. Para Europa, refuerza un argumento incómodo: diversificar no basta si todo está en la misma franja orbital. La resiliencia —órbitas distintas, satélites endurecidos, capacidad de reponer rápido con lanzadores propios— se convierte en una cuestión de defensa, no solo de industria."
+            }
+          ],
+          "key": "Para tu TFG: este es el escenario extremo que justifica IRIS² con componentes en órbita media y la insistencia europea en el acceso autónomo al espacio. Cita la reacción de Rutte —defender «también el espacio»— como prueba de que la OTAN trata ya la órbita como territorio que proteger."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Arianespace · Kourou, 24 nov",
+              "title": "Ariane 6 vuelve a intentarlo hoy con 36 satélites de Amazon",
+              "text": "Tras el «evento técnico» en los sistemas de tierra que detuvo el lunes la cuenta atrás, Arianespace ha fijado una nueva ventana de 11.45 a 12.14 (hora peninsular). El cohete y los satélites Amazon Leo siguen «en condiciones estables y seguras», y la separación del último satélite está prevista unas 2 horas y 4 minutos después del despegue.",
+              "link": {
+                "url": "https://newsroom.arianespace.com/mission-va271le-04-ariane-6-launch-rescheduled-for-november-24-2026/",
+                "source": "Arianespace"
+              }
+            },
+            {
+              "kicker": "China · Pakistán · Jiuquan, 25 nov",
+              "title": "Shenzhou-24 despegaría esta madrugada con el primer extranjero de Tiangong",
+              "text": "China no ha anunciado oficialmente la fecha, pero fuentes no oficiales sitúan el lanzamiento a la 1.19 del miércoles, hora peninsular, y Pakistán ya habla del 25 de noviembre. Uno de los dos candidatos pakistaníes volverá a la Tierra tras una semana con dos tripulantes de Shenzhou-23; el tercero se quedará otros seis meses y completará la primera estancia de un año de China.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Launch_of_Shenzhou_13.jpg/1280px-Launch_of_Shenzhou_13.jpg",
+                "alt": "Un cohete Larga Marcha 2F despega de noche con una nave Shenzhou",
+                "credit": "ForrestXYC · Wikimedia Commons · CC BY-SA 4.0",
+                "caption": "Lanzamiento de Shenzhou-13 desde Jiuquan en 2021 (imagen de archivo)."
+              },
+              "link": {
+                "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/",
+                "source": "SpacePolicyOnline"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "7",
+            "text": "Drones navales de fabricación ucraniana usados, según Zelenski, contra la corbeta Merkury en Bengasi, lejos del mar Negro donde Ucrania ha librado hasta ahora su guerra naval."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "Hoy",
+                "what": "Kourou · Ariane 6 VA271 con 36 satélites Amazon Leo (11.45)"
+              },
+              {
+                "when": "25 nov",
+                "what": "Jiuquan · Shenzhou-24 (1.19, sin confirmar por China) · ESA · Primeras imágenes cercanas de Dimorphos por Hera"
+              },
+              {
+                "when": "26–27 nov",
+                "what": "Bruselas · Consejo Europeo: presupuesto 2028–2034, BCE y Ucrania"
+              },
+              {
+                "when": "29 nov–1 dic",
+                "what": "España · Elecciones generales · Estonia cierra su frontera con Rusia"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Contrasta el caso Sputnik-S con el art. IV del Tratado del Espacio y con el veto ruso, en abril de 2024, a la resolución del Consejo de Seguridad contra las armas nucleares en el espacio: muestra que el régimen jurídico depende de la verificación, algo que hoy solo pueden aportar quienes tienen vigilancia espacial propia."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "La amenaza a la órbita baja revaloriza la vigilancia espacial (SSA), el endurecimiento contra radiación y los satélites de reposición rápida. Sigue a las empresas europeas de SSA y a los programas de la Agencia Europea de Defensa: es donde el dinero de defensa entra antes en el NewSpace."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera/AP/AFP (23 nov), Around Prague/UNITED24 Media (23 nov), El Independiente (23 nov), Diari de Tarragona (23–24 nov), RAB.cat/ACN (23 nov), The Moscow Times (23 nov), Around Prague (24 nov), Arianespace (23 nov), SpacePolicyOnline (22–23 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 24.11.2026."
+}
