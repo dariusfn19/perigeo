@@ -1,0 +1,333 @@
+{
+  "number": 23,
+  "week": 48,
+  "date": "2026-11-25",
+  "dateLabel": "Miércoles, 25 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Putin llama «inevitables» las represalias por los ataques ucranianos a sus refinerías, que según Reuters han recortado un 45 % el refino ruso, y Zelenski avisa de que, si no hay paz aceptable a fin de año, pedirá al nuevo Congreso de EE.UU., en manos demócratas, más presión sobre Moscú.",
+      "Los Veintisiete se reúnen mañana y el viernes en Bruselas para cerrar el presupuesto 2028–2034, la financiación de Ucrania y el relevo de Lagarde; en el Golfo, Irán dice que tres petroleros han chocado con minas en Ormuz y un dron hutí hiere a 11 personas en Riad.",
+      "Shenzhou-24 lleva a Tiangong al primer astronauta extranjero, el pakistaní Zeeshan Ali, un día después de que Ariane 6 pusiera en órbita 36 satélites de Amazon Leo; en España, Feijóo marca límites a Vox antes del debate a cuatro y Puigdemont comparece hoy en Bruselas."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "Rusia · Ucrania · EE.UU., 24 nov",
+        "title": "Putin promete represalias «inevitables» y Zelenski mira al nuevo Congreso",
+        "dek": "Los drones ucranianos han recortado casi a la mitad el refino ruso; Kyiv solo parará si Moscú deja de atacar objetivos energéticos ucranianos.",
+        "body": [
+          "Vladímir Putin reunió el martes en el Kremlin a miembros del Gobierno y a directivos de las petroleras para hablar de un problema que ya se nota en las gasolineras: varias regiones rusas han limitado la venta de gasolina y diésel tras la nueva oleada de ataques ucranianos contra refinerías. Según dos fuentes del sector citadas por Reuters, los drones han reducido un 45 % el crudo procesado desde finales de octubre. Putin recordó que Kyiv sigue atacando «pese al llamamiento y la petición directa» de Donald Trump, que a mediados de octubre había declarado una tregua energética, pidió más seguridad para las instalaciones y aseguró que los precios se han estabilizado tras el pico de octubre. Kyiv responde que dejará de golpear objetivos energéticos rusos cuando Moscú haga lo mismo.",
+          "La guerra sigue ensanchándose. Zelenski confirmó a Bloomberg que Ucrania atacó el sábado el carguero <em>Sparta II</em> en el golfo de Finlandia, que considera un objetivo legítimo porque transportaba armas; Polonia acusó a Moscú de violar deliberadamente su espacio aéreo con un dron de vigilancia, y un ataque nocturno contra Zaporiyia mató a dos personas e hirió a 40, cuatro de ellas niños. En el frente diplomático, Zelenski dijo que los enviados de Trump, Jared Kushner y Steve Witkoff, quieren un acuerdo «lo antes posible». Si no llega a final de año en términos aceptables para Kyiv, pedirá al nuevo Congreso —que se constituye en enero con mayoría demócrata en ambas cámaras— más sanciones y más presión. «Queremos mucho la paz, pero no solo a costa de Ucrania»."
+        ],
+        "quote": {
+          "text": "Quiero subrayar que las medidas de represalia por nuestra parte son inevitables.",
+          "author": "Vladímir Putin · Reunión con el sector petrolero en el Kremlin, 24 nov"
+        },
+        "link": {
+          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation",
+          "source": "Al Jazeera / Reuters"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Refinerías, drones y un calendario que cambia en enero",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Ucrania ha convertido el refino ruso en su principal palanca económica: cada refinería parada reduce ingresos por exportación de productos y crea escasez interna sin necesidad de avanzar en el frente. Trump intentó congelar ese intercambio con su tregua energética de octubre, pero duró pocas semanas. Al mismo tiempo, la Casa Blanca empuja hacia un acuerdo rápido, y Kyiv ha leído la derrota republicana en las legislativas como una ventana: un Congreso demócrata puede imponer sanciones y ayudas que el Ejecutivo no quiere."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Las «represalias inevitables» suelen traducirse en grandes ataques contra la red eléctrica ucraniana, justo con el invierno encima. Vigila también si Washington presiona a Kyiv para frenar los ataques a refinerías y si la ofensiva naval —Libia, golfo de Finlandia— abre un nuevo choque con Estonia antes del cierre de su frontera el 1 de diciembre."
+            }
+          ],
+          "key": "El calendario es tu mejor herramienta: hasta enero, la presión viene de la Casa Blanca hacia Kyiv; desde enero, el Congreso puede invertirla. Para el TFG, es un recordatorio de que la dependencia europea de EE.UU. —también en satélites— cambia con cada ciclo electoral estadounidense."
+        },
+        {
+          "type": "analysis",
+          "title": "Costa quiere cerrar las cuentas del rearme en dos días",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "António Costa ha convocado un Consejo Europeo extraordinario el jueves y el viernes con tres asuntos: el marco financiero plurianual 2028–2034, la financiación de Ucrania en 2027 y después, y el relevo al frente del BCE tras la dimisión de Christine Lagarde el 29 de octubre. Empezará el jueves a las 10.00 con una Cumbre del Euro con Lagarde y el presidente del Eurogrupo, Kyriakos Pierrakakis. Después, Costa presentará su propuesta de presupuesto —con recortes en cohesión y agricultura y más peso para defensa y competitividad— y pedirá que se estudie «con espíritu de compromiso». «Ha llegado el momento de alcanzar un acuerdo», escribió en su carta a los líderes."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Costa califica el apoyo a Ucrania de «inversión en la propia seguridad de Europa», pero no todos lo ven así: el primer ministro checo, Andrej Babiš, sostiene que Kyiv debería recibir los fondos fuera del presupuesto comunitario. Los frugales quieren contener las aportaciones nacionales y Costa propone «una cesta equilibrada de nuevos recursos propios». Un acuerdo el viernes sería rápido para lo habitual; lo normal es que estas negociaciones se alarguen varias cumbres."
+            }
+          ],
+          "key": "Las líneas de defensa y competitividad del próximo presupuesto financiarán buena parte de la política espacial de la UE de 2028 a 2034, de IRIS² a Galileo y Copernicus. Para tu TFG, el reparto final dirá cuánto pesa de verdad la «autonomía estratégica» cuando hay que pagarla."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Irán · Arabia Saudí · Yemen, 23–24 nov",
+              "title": "Minas en Ormuz y un dron hutí en el distrito financiero de Riad",
+              "text": "La Marina iraní dice que tres petroleros chocaron el lunes con minas en el estrecho de Ormuz, con «explosiones e incendios masivos»; no hubo de inmediato confirmación independiente ni noticias de víctimas. El martes, un ataque con dron de los hutíes alcanzó la torre del King Abdullah Financial District de Riad, sede del fondo soberano saudí, e hirió a 11 personas: dos saudíes, dos indios, tres nepalíes y cuatro egipcios. Los hutíes atacan aeropuertos, infraestructura petrolera y oficinas saudíes desde que la guerra civil yemení se reactivó en julio, de rebote de la guerra entre EE.UU. e Irán. La coalición saudí promete una «respuesta firme».",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Israel · Gaza, 24 nov",
+              "title": "Israel mata al jefe de la seguridad interna de Hamás en Gaza",
+              "text": "Un dron mató al general de brigada Naim Abu Nahl, de 50 años, director del Servicio de Seguridad Interna, mientras caminaba por una zona llena de desplazados; cuatro personas resultaron heridas. El Ejército israelí y el Shin Bet confirmaron el ataque contra «un alto cargo de Hamás». Hamás lo califica de crimen de guerra. Según Gaza, al menos 1.680 personas han muerto desde el alto el fuego del 11 de octubre de 2025.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Taiwán · China, 24 nov",
+              "title": "Pekín llama «traidor» al candidato del Gobierno taiwanés a la alcaldía de Taipéi",
+              "text": "Taiwán celebra el sábado elecciones locales para renovar 11.051 cargos. En Taipéi, el diputado del Partido Democrático Progresista (PDP) Puma Shen, muy crítico con China, intenta arrebatar la alcaldía al titular del Kuomintang, Chiang Wan-an, en un feudo nacionalista desde hace casi 30 años. Pekín lo acusa de exagerar la amenaza china para ganar votos. Un resultado del PDP en la capital se leerá en clave de relación con el continente.",
+              "link": {
+                "url": "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/politics/taiwan-elections-china-beijing/",
+                "source": "The Japan Times"
+              }
+            },
+            {
+              "kicker": "Asia · Mercados, 25 nov",
+              "title": "Las bolsas asiáticas se hunden por las dudas sobre la IA",
+              "text": "El Taiex taiwanés llegó a caer un 7,9 % por la mañana, el Kospi surcoreano más de un 6 % y el Nikkei un 3,6 %; TSMC y Foxconn bajaron más de un 9 %, y Samsung y SK Hynix, un 9,1 % y un 9,9 %. La caída borra el rebote del martes tras la vuelta de Jensen Huang a Nvidia, forzada por Trump. Los inversores temen que el nuevo Congreso demócrata regule la IA y que las inversiones billonarias no sean sostenibles. Es una vulnerabilidad geopolítica: los chips de Taiwán y Corea sostienen la economía digital de todo Occidente.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom",
+                "source": "Al Jazeera"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "4",
+        "statLabel": "gobiernos autonómicos de coalición entre PP y Vox (Extremadura, Aragón, Castilla y León y Andalucía): el precedente con el que Feijóo llega al 29-N",
+        "title": "Feijóo marca límites a Vox antes del último debate",
+        "body": [
+          "A cuatro días de las urnas, Alberto Núñez Feijóo ya no habla de gobernar en solitario. Según eldiario.es, el candidato del PP asume en sus mítines que tendría que incluir a Vox en el Consejo de Ministros y ha empezado a fijar condiciones: ministros con experiencia, respeto al Estado autonómico y una «prioridad nacional» rebajada. Su programa la aplica solo «a quienes mantengan un arraigo real, duradero y verificable con España». «Nosotros somos un partido autonomista; Vox no lo es. No vamos a aceptar recentralizar», dijo en una entrevista con El País. Busca evitar que el miedo a la extrema derecha movilice a la izquierda en la última semana, como en 2023.",
+          "El escenario donde se medirá todo es el debate a cuatro de mañana, jueves, previsiblemente a las 22.00, organizado por la Academia de Televisión en Tres Cantos y moderado por María Casado. Por primera vez coincidirán Pedro Sánchez, Feijóo, Santiago Abascal y Ada Colau (Frente Amplio), con los cinco bloques del cara a cara: vivienda; economía y fiscalidad; política social; corrupción y regeneración, y migración y política exterior. Será la última gran cita televisiva antes de la jornada de reflexión."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Congreso_de_los_Diputados%2C_Madrid.jpg/1280px-Congreso_de_los_Diputados%2C_Madrid.jpg",
+          "alt": "Fachada del Congreso de los Diputados en Madrid, con sus columnas y leones",
+          "credit": "AMPERIO · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "El Congreso de los Diputados, en Madrid: 176 escaños para la mayoría absoluta."
+        },
+        "link": {
+          "url": "https://www.eldiario.es/politica/feijoo-anticipa-condiciones-vox-si-negociar-29n-ministros-experiencia-respeto-autonomias_1_13679615.html",
+          "source": "eldiario.es"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Un debate a cuatro con cuatro objetivos distintos",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Las encuestas privadas publicadas hasta el lunes daban al PP la primera posición y a Vox el papel de socio imprescindible; el CIS, en cambio, dejaba a la suma de ambos lejos de la mayoría. Feijóo necesita movilizar sin asustar al votante moderado; Abascal, marcar perfil propio y mostrarse como fuerza de gobierno; Sánchez, convertir el 29-N en una elección entre «dos modelos», y Colau, competir con el PSOE por su izquierda."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "El tono entre PP y Vox: si Feijóo concreta sus límites delante de Abascal o los esquiva. Y las alusiones a Catalunya: con Junts como posible llave y Puigdemont a punto de volver, el debate territorial puede eclipsar a la vivienda, el tema que más preocupa según los sondeos."
+            }
+          ],
+          "key": "En Tarragona, el PP ha cedido a Vox la candidatura al Senado. Feijóo lo justifica en el Diari porque la izquierda quiere «boicotear el cambio en el Senado». Si la suma funciona aquí, los senadores de tu provincia pueden ser clave para la mayoría en la Cámara Alta."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Catalunya · Amnistía, 23–25 nov",
+              "title": "Puigdemont comparece hoy en Bruselas con la causa del «procés» ya archivada",
+              "text": "El lunes, el Supremo archivó la causa y declaró extinguida la responsabilidad penal de Carles Puigdemont, Toni Comín y Lluís Puig por la amnistía, tras la doctrina del Constitucional de octubre sobre la malversación. Junts ha convocado hoy una rueda de prensa en el Press Club de Bruselas, donde el expresident compareció al llegar al exilio. Según su entorno, no volverá antes del 29-N. Jordi Turull promete un regreso «absolutamente institucional y de país».",
+              "link": {
+                "url": "https://www.elindependiente.com/espana/2026/11/23/supremo-cierra-causa-proces-nueve-anos-despues-amnistia-puigdemont/",
+                "source": "El Independiente"
+              }
+            },
+            {
+              "kicker": "Tarragona · 29-N, 25 nov",
+              "title": "Feijóo al Diari: «Daremos estabilidad a la química de Tarragona»",
+              "text": "En una entrevista por escrito, el candidato popular promete eliminar el impuesto del 7 % a la producción eléctrica, un plan de choque de 18 meses para desbloquear el acceso a la red, una auditoría del sistema ferroviario y un Pacto Nacional del Agua. Asegura que no habrá «impuestazo» y no da «por perdido» el escaño del PP en la provincia, que el CIS pone en duda.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/tarragona/276539/feijoo-daremos-estabilidad-quimica-tarragona-habra-impuestazo.html",
+                "source": "Diari de Tarragona"
+              }
+            },
+            {
+              "kicker": "Reus · 29-N, 24 nov",
+              "title": "Urtasun, en Reus: cultura frente al Hard Rock",
+              "text": "El ministro de Cultura y candidato de Comuns Front Ampli reivindicó como propias las medidas aprobadas el martes por el Consejo de Ministros —más días de permiso por duelo y paternidad, prórroga del impuesto a la banca, ayudas a autónomos y bonificaciones al transporte— y sostuvo que el futuro del Camp pasa por la cultura y no por proyectos «especulativos» como el Hard Rock. También se atribuyó la inversión para reabrir el Museu d’Història de Reus.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/reus/276541/front-ampli-reivindica-motor-gobierno-coalicion.html",
+                "source": "Diari de Tarragona"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "China · Pakistán · Jiuquan, 25 nov",
+        "title": "Tiangong recibe a su primer astronauta extranjero: un piloto pakistaní",
+        "dek": "Shenzhou-24 despega con Zeeshan Ali, primer pakistaní en órbita; el comandante de Shenzhou-23 se quedará un año en la estación.",
+        "body": [
+          "Un cohete Larga Marcha 2F despegó a las 8.18 de Pekín (1.18 en la España peninsular) del centro de Jiuquan con la Shenzhou-24. Unos diez minutos después la nave se separó y entró en órbita, y la agencia de vuelos tripulados china (CMSA) habló de «éxito completo». A bordo viajan el comandante Tang Hongbo, el ingeniero de vuelo Wu Yi y el especialista de carga útil Zeeshan Ali, piloto de 40 años y primer pakistaní en ir al espacio. Ali pasará entre 5 y 10 días en Tiangong haciendo experimentos, tras siete meses de entrenamiento en Pekín. «No vuelo por mí. Llevo el nombre de Pakistán sobre los hombros», dijo el martes.",
+          "El relevo también es inusual. El comandante de Shenzhou-23, Zhu Yangzhu, se quedará un año en la estación para estudiar cómo responde el cuerpo humano, un paso previo a la misión tripulada a la Luna; cuando aterrice tendrá el récord chino de permanencia. Sus dos compañeros volverán con Ali. El primer ministro pakistaní, Shehbaz Sharif, habló de un «hito histórico» y aseguró que la amistad con China «supera las alturas del Himalaya». La cooperación espacial entre ambos países empezó a principios de los noventa, y un róver pakistaní debe volar en una misión lunar china hacia 2028."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Chinese_Tiangong_Space_Station.jpg/1280px-Chinese_Tiangong_Space_Station.jpg",
+          "alt": "Recreación de la estación espacial china Tiangong en su configuración completa, con tres módulos y paneles solares",
+          "credit": "Shujianyang · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "Tiangong en su configuración completa, operativa desde finales de 2022."
+        },
+        "link": {
+          "url": "https://www.koreaherald.com/article/10948946",
+          "source": "The Korea Herald / Reuters"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            {
+              "value": "1.º",
+              "label": "astronauta extranjero en Tiangong: Zeeshan Ali, de Pakistán"
+            },
+            {
+              "value": "5–10 días",
+              "label": "estancia prevista de Ali en la estación"
+            },
+            {
+              "value": "1 año",
+              "label": "en órbita para Zhu Yangzhu, récord chino de permanencia"
+            },
+            {
+              "value": "2030",
+              "label": "posible retirada de la Estación Espacial Internacional"
+            }
+          ]
+        },
+        {
+          "type": "analysis",
+          "title": "Una plaza en órbita como herramienta diplomática",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "China presenta Tiangong como un centro de cooperación internacional justo cuando la ISS, liderada por la NASA, se acerca a su posible retirada en 2030. El primer extranjero no es un europeo ni un socio occidental, sino un aliado estratégico al que Pekín ya lanza satélites y con el que prepara un róver lunar. «Aporta prestigio, ciencia y conocimiento tecnológico, y una colaboración más profunda con China», resume Blaine Curcio, de Orbital Gateway Consulting."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Las plazas tripuladas funcionan como moneda diplomática: EE.UU. las ofrece a los firmantes de los Acuerdos Artemis, y China, a quienes se acercan a su programa lunar. Si la ISS se retira sin una sucesora europea clara, la ESA y sus astronautas dependerán de estaciones comerciales estadounidenses o tendrán que negociar con Pekín, algo que hoy no está sobre la mesa."
+            }
+          ],
+          "key": "Para tu TFG: compara las plazas tripuladas que ofrecen el bloque Artemis y el bloque chino-ruso. El acceso a una estación o a la Luna se negocia igual que las reglas sobre recursos: quien pone la infraestructura decide quién entra."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "ESA · Arianespace · Kourou, 24 nov",
+              "title": "Ariane 6 pone en órbita 36 satélites de Amazon Leo a la segunda",
+              "text": "Un día después del aplazamiento por un fallo en los sistemas de tierra, el vuelo VA271 despegó a las 12.14 (hora peninsular) en su versión más potente, con cuatro aceleradores P160C, y soltó los 36 satélites algo más de dos horas después. Es el décimo vuelo de Ariane 6, el cuarto con cuatro aceleradores, y con él suma 136 satélites para Amazon. Llega nueve días después de que el fallo de un Vulcan de ULA destruyera 40 satélites de la constelación, según Spaceflight Now.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ariane_6_with_P160C_Boosters.jpg/1280px-Ariane_6_with_P160C_Boosters.jpg",
+                "alt": "Ilustración de un cohete Ariane 6 con cuatro aceleradores laterales P160C",
+                "credit": "ESA – S. Corvaja · CC BY-SA 3.0 IGO",
+                "caption": "Ariane 6 con aceleradores P160C, la configuración del vuelo VA271."
+              },
+              "link": {
+                "url": "https://www.esa.int/articles/about-us/directorates/space-transportation/ariane/watch-live-ariane-6-launches-another-set-of-amazon-leo-satellites-to-orbit",
+                "source": "ESA"
+              }
+            },
+            {
+              "kicker": "ESA · Defensa planetaria, 25 nov",
+              "title": "Hera enseña esta noche de cerca el asteroide que DART desvió",
+              "text": "La ESA presentará hoy, desde las 19.45, las primeras imágenes cercanas de Dimorphos, la pequeña luna asteroidal que la sonda DART de la NASA golpeó en 2022 para cambiar su órbita. Hera llegó tras dos años de viaje para investigar por qué la desviación fue mayor de lo previsto. Es la primera misión de defensa planetaria de la ESA.",
+              "link": {
+                "url": "https://www.esa.int/media/about-us/directorates/operations/join-us-live-for-the-first-images-of-asteroid-dimorphos",
+                "source": "ESA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "45 %",
+            "text": "Caída del crudo procesado por las refinerías rusas desde finales de octubre por los ataques con drones ucranianos, según dos fuentes del sector citadas por Reuters."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              {
+                "when": "Hoy",
+                "what": "Bruselas · Comparecencia de Puigdemont · ESA · Primeras imágenes cercanas de Dimorphos (19.45)"
+              },
+              {
+                "when": "26–27 nov",
+                "what": "Bruselas · Consejo Europeo extraordinario: presupuesto 2028–2034, Ucrania y BCE · Jueves, debate a cuatro (22.00)"
+              },
+              {
+                "when": "28 nov",
+                "what": "Taiwán · Elecciones locales, con Taipéi en disputa"
+              },
+              {
+                "when": "29 nov–1 dic",
+                "what": "España · Elecciones generales · Estonia cierra su frontera con Rusia"
+              }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Usa Shenzhou-24 como ejemplo de «diplomacia de plazas»: China abre Tiangong a un socio estratégico del Sur Global mientras la ISS se acerca a su final. Contrástalo con la falta de un plan europeo propio de vuelo tripulado; es el mismo vacío de capacidades que analizas en comunicaciones, ahora en órbita baja tripulada."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Amazon reparte sus lanzamientos entre varios proveedores y el fallo del Vulcan le ha costado 40 satélites: la capacidad de lanzamiento fiable es hoy el cuello de botella de las megaconstelaciones. Las empresas europeas de integración de cargas, dispensadores y servicios en Kourou tienen ahí clientes que buscan diversificar riesgo."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Al Jazeera/Reuters (24–25 nov), Meduza/Bloomberg (24 nov), Eunews y Consejo Europeo (24 nov), The Japan Times (24 nov), eldiario.es (22 nov), El Independiente (23–24 nov), Diari de Tarragona (24–25 nov), El Nacional (24 nov), The Korea Herald/Reuters y Xinhua (25 nov), ESA (24–25 nov), Spaceflight Now (24 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 25.11.2026."
+}
