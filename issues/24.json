@@ -1,0 +1,347 @@
+{
+  "number": 24,
+  "week": 48,
+  "date": "2026-11-27",
+  "dateLabel": "Viernes, 27 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "La cumbre extraordinaria de Bruselas termina sin acuerdo sobre el presupuesto 2028–2034 ni sobre el préstamo de 45.000 millones a Ucrania, que pasan al Consejo Europeo del 17 y 18 de diciembre; lo que sí sale es la recomendación de Pablo Hernández de Cos como primer español al frente del BCE.",
+      "El Golfo se calienta: dos técnicos italianos mueren en Kuwait por la metralla de drones atribuidos a Irán, que lo niega; un ataque hutí paraliza parte de la refinería saudí de Jazán, y Trump habla de una victoria «a mano» mientras Ucrania golpea la base rusa de Savasleyka.",
+      "En España, último debate a cuatro con Feijóo comprometiéndose a dimitir si no gobierna tras el 29-N y Puigdemont fijando su regreso para el 12 de diciembre; en el espacio, la FCC autoriza a SpaceX un millón de satélites «Starmind» de computación orbital."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "UE · Consejo Europeo, 26 nov",
+        "title": "Bruselas no cierra las cuentas del rearme y lo aplaza todo a diciembre",
+        "dek": "Ni presupuesto 2028–2034 ni préstamo a Ucrania: la cumbre extraordinaria solo deja encarrilado el relevo de Lagarde.",
+        "body": [
+          "La cumbre que António Costa había convocado para «alcanzar un acuerdo» terminó el jueves por la noche sin él. «No hemos llegado a un acuerdo», admitió el presidente del Consejo Europeo en la rueda de prensa final. Sobre la mesa estaba su caja de negociación: un marco financiero plurianual de unos 1,78 billones de euros a precios corrientes, más de 200.000 millones por debajo de los casi 2 billones que había propuesto la Comisión. Siete contribuyentes netos —Alemania, Austria, Bélgica, Dinamarca, Finlandia, Países Bajos y Suecia— quieren todavía menos; los 17 «Amigos de la Cohesión» rechazan nuevos recortes en cohesión y en la PAC. Friedrich Merz insistió en que el acuerdo final debe reducir aún más el tamaño del presupuesto y vincula la posición de Berlín a que los Veintisiete participen en la financiación de Ucrania. «Estamos a años luz de una solución», resumió Giorgia Meloni antes de entrar.",
+          "Ucrania es la otra pieza. La Comisión propone un instrumento con un préstamo de hasta 45.000 millones para 2027, financiado con deuda en los mercados: hasta 25.000 millones para apoyo militar y 20.000 para apoyo presupuestario ligado a reformas. Kyiv solo devolvería el principal si cobra reparaciones de guerra rusas. Según Costa, 24 Estados lo apoyan; Bulgaria participará solo en la parte civil, y Hungría, Eslovaquia y Chequia se quedan fuera, como ya hicieron con el préstamo de 90.000 millones de diciembre de 2025. El húngaro Péter Magyar fue pesimista: ve la probabilidad de acuerdo «prácticamente nula» y tampoco espera uno antes de Navidad. Todo pasa ahora al Consejo Europeo del 17 y 18 de diciembre, el último antes del plazo de fin de año que se fijaron los líderes, con elecciones en 2027 en Francia, Italia, Polonia o Grecia que complicarían cualquier negociación posterior."
+        ],
+        "quote": {
+          "text": "Estamos a años luz de una solución. No estamos dispuestos a aprobar un presupuesto en el que tengamos que dar más para recibir menos.",
+          "author": "Giorgia Meloni · Primera ministra de Italia, a su llegada a la cumbre, 26 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Europa_building_Brussels_2026_01.jpg/1280px-Europa_building_Brussels_2026_01.jpg",
+          "alt": "Edificio Europa, sede del Consejo Europeo en Bruselas, con su fachada de ventanas recicladas y el farol de vidrio interior",
+          "credit": "FrDr · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "El edificio Europa, en Bruselas: los Veintisiete vuelven a verse aquí el 17 y 18 de diciembre."
+        },
+        "link": {
+          "url": "https://en.politis.com.cy/news/1075377/eu-leaders-fail-to-agree-long-term-budget-push-decisions-to-december",
+          "source": "Politis"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Cuánto mide el próximo presupuesto europeo",
+          "note": "Marco financiero plurianual 2028–2034, en miles de millones de euros a precios corrientes",
+          "bars": [
+            { "label": "Propuesta inicial de la Comisión", "value": 1984.9, "display": "1.984,9", "highlight": false },
+            { "label": "Caja de negociación de Costa", "value": 1780.9, "display": "1.780,9", "highlight": true },
+            { "label": "Préstamo propuesto a Ucrania para 2027", "value": 45, "display": "45", "highlight": false }
+          ],
+          "footnote": "Fuentes: Plataforma Media/Lusa y Politis (26 nov). El préstamo a Ucrania se financiaría con deuda en los mercados, fuera del techo del presupuesto."
+        },
+        {
+          "type": "analysis",
+          "title": "Un presupuesto pequeño para ambiciones grandes",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El presupuesto común apenas ronda el 1 % de la renta de la UE, pero la Comisión quería que pagara a la vez la cohesión y la agricultura de siempre, la defensa y la competitividad, y la reconstrucción de Ucrania. Los frugales quieren recortar; el sur y el este, proteger sus fondos. Merz ha añadido una condición política: no habrá acuerdo si no todos arriman el hombro con Kyiv. Ursula von der Leyen ve avances en recursos propios —un impuesto a los servicios digitales tiene amplio apoyo—, pero recordó que las dos cajas anteriores ya trajeron recortes importantes."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "El 17 y 18 de diciembre los líderes tendrán que cerrar a la vez el tamaño del presupuesto, el reparto entre partidas y el préstamo ucraniano. Si se cae la parte militar, Kyiv perdería la mitad del dinero de 2027 justo cuando Washington presiona por un acuerdo rápido. Vigila también si el impuesto digital sobrevive: es el que más irrita a Estados Unidos."
+            }
+          ],
+          "key": "Para tu TFG, este es el momento en que la «autonomía estratégica» se traduce en euros. Si la defensa y la competitividad pierden peso en el recorte final, IRIS², Galileo y Copernicus competirán por menos dinero entre 2028 y 2034. Sigue el reparto por partidas, no solo el total."
+        },
+        {
+          "type": "analysis",
+          "title": "El Golfo, cada vez más cerca de Europa",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Kuwait informó el jueves de que drones iraníes atacaron un emplazamiento «vital»; tras interceptarlos, la metralla mató a dos técnicos civiles italianos de Rheinmetall que mantenían las antenas del sistema antiaéreo Skyguard y dejó otros heridos. Irán niega la autoría y habla de una posible operación «de falsa bandera». Von der Leyen pidió «aumentar la presión» sobre Teherán: «La seguridad del Golfo es una cuestión de seguridad para todos». Ese mismo día, un proyectil hutí alcanzó la refinería saudí de Jazán, mató a un trabajador nepalí y paró parte de la actividad."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Desde Mar-a-Lago, Trump dijo a las tropas desplegadas que la victoria está «a mano» y que llegará «cuando yo quiera», aseguró que Irán tiene misiles capaces de alcanzar Europa y restó importancia a la información que Rusia y China pasan a Teherán. Si se reanudan los bombardeos, avisó, golpeará el complejo de Pickaxe Mountain. Las víctimas europeas y la amenaza a las rutas del petróleo hacen que el conflicto deje de ser lejano para la UE."
+            }
+          ],
+          "key": "Italia acaba de perder a dos ciudadanos en el Golfo y a la vez riñe a Kyiv por atacar barcos rusos en Libia. Fíjate en cómo cada capital europea mide sus intereses en el Mediterráneo: es la misma lógica que explica por qué la UE no logra una voz única en defensa."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Rusia, 25–26 nov",
+              "title": "Kyiv golpea la base de Savasleyka; Moscú deja sin luz cinco regiones",
+              "text": "El Estado Mayor ucraniano asegura haber dañado cinco aviones en la base aérea rusa de Savasleyka, en la región de Nizhni Nóvgorod, al este de Moscú: tres MiG-31 que lanzan misiles hipersónicos y dos cazabombarderos Su-34. Rusia no ha comentado el ataque. El ministro de Defensa, Yevhenii Khmara, dice que en los últimos meses han destruido 16 lanzadores de misiles balísticos. Del otro lado, los ataques rusos del miércoles mataron al menos a cinco personas y provocaron apagones en Dnipropetrovsk, Donetsk, Zaporiyia, Odesa y Járkov; la central nuclear de Zaporiyia perdió el suministro exterior por 17.ª vez este año.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Italia · Ucrania · Libia, 26 nov",
+              "title": "Roma reprocha a Kyiv su ataque a barcos rusos en Libia",
+              "text": "El ministro de Exteriores italiano, Antonio Tajani, dijo al Corriere della Sera que fue un error «violar la soberanía de Libia» y que Italia no sabía «en absoluto» que Ucrania iba a atacar en un puerto libio. El ataque del domingo en Bengasi mató a dos oficiales del Ejército de Haftar, que promete represalias; el vicepresidente del Consejo Presidencial de Trípoli lo llamó «declaración de guerra». Es una grieta poco habitual: Italia ha dado a Kyiv más de 3.000 millones en ayuda militar, pero Libia le aporta cerca de una cuarta parte de su crudo y es el principal punto de salida de migrantes hacia sus costas.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Kuwait · Italia · Irán, 26 nov",
+              "title": "Dos técnicos de Rheinmetall mueren por la metralla de un dron interceptado",
+              "text": "Tajani lo confirmó en el Senado: hacia las 14.00, drones «de procedencia iraní» tomaron como blanco instalaciones militares kuwaitíes y una fuerte explosión mató a dos italianos que trabajaban en la estación de vigilancia antiaérea. Hubo además dos heridos, un kuwaití y un pakistaní. Meloni recibió la noticia en plena cumbre de Bruselas. Kuwait habla de «flagrante violación» de su soberanía; las Fuerzas Armadas iraníes niegan el ataque.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/internacional/276697/italia-confirma-muerte-dos-tecnicos-kuwait-metralla-dron-irani-interceptado.html",
+                "source": "Diari de Tarragona / EFE"
+              }
+            },
+            {
+              "kicker": "Arabia Saudí · Yemen, 26 nov",
+              "title": "Un ataque hutí mata a un trabajador y frena la refinería de Jazán",
+              "text": "El Ministerio de Energía saudí informó de que un proyectil aéreo alcanzó la refinería de Jazán, en la costa del mar Rojo, capaz de procesar 400.000 barriles diarios: un muerto, varios heridos y un incendio. La coalición saudí atribuyó el ataque a los hutíes y dijo después haber destruido en Hodeida la plataforma de lanzamiento. Llega un día después de que el grupo reivindicara ataques contra Ras Tanura —la mayor refinería del reino— y los puertos de Yeda y Jazán.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "EE.UU. · Irán, 26 nov",
+              "title": "Trump: «Tenemos la victoria a mano» y Rusia y China «apenas» ayudan a Irán",
+              "text": "En una llamada de Acción de Gracias a militares desplegados en Emiratos y Arabia Saudí, Trump dijo que la victoria llegará «cuando yo quiera». Ante la prensa, sostuvo que Irán tiene misiles capaces de llegar a Europa y que la ayuda de Rusia y China a Teherán es menor: «Implicarse, para mí, sería disparar, no darles un poco de información. Nosotros hacemos lo mismo». La OPEP se reúne el domingo para fijar la producción de 2027.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Guinea-Bisáu, 26 nov",
+              "title": "La junta militar aplaza las elecciones hasta noviembre de 2028",
+              "text": "Un decreto del presidente de transición, el general Horta Inta-a, retrasa dos años las presidenciales y legislativas previstas para el 6 de diciembre, alegando falta de condiciones «técnicas, materiales y financieras». El Ejército tomó el poder hace un año y se comprometió a una transición de doce meses. La CEDEAO había pedido un regreso breve y transparente al poder civil; el aplazamiento se suma a la ola de golpes en África occidental desde 2020.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years",
+                "source": "Al Jazeera"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "2",
+        "statLabel": "días para las elecciones generales del domingo 29 de noviembre; hoy cierra la campaña y mañana es jornada de reflexión",
+        "title": "Último debate: Feijóo se juega su cargo y Abascal y Colau abren a gritos",
+        "body": [
+          "Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau se vieron el jueves en Tres Cantos en el último gran debate televisado antes del 29-N, moderado por María Casado y organizado por la Academia de Televisión, con cinco bloques: vivienda, economía y fiscalidad, políticas sociales, corrupción y regeneración, y política exterior e inmigración. Empezó con un choque: Colau pidió a todos condenar la violencia machista y Abascal se negó —«No voy a admitir órdenes de quienes han condenado a las mujeres a la inseguridad»—, mientras Feijóo sí la condenó. Según los analistas citados por COPE, PP y Vox mantuvieron un «pacto tácito de no agresión» para concentrar sus ataques en Sánchez; elDiario.es destacó el tándem de Sánchez y Colau contra los «recortes» de la derecha.",
+          "El titular de la noche fue de Feijóo: prometió dimitir si no gobierna después del domingo, un órdago que Sánchez no replicó. Cerró el debate acusando al PSOE de pedir a los votantes que «olviden sus mentiras» y garantizando «decencia y gestión». Un comentario suyo a Colau —«tú, calladita»— circuló de inmediato en redes. Los verificadores de elDiario.es señalaron datos falsos en intervenciones de Abascal y Feijóo sobre inmigración, delincuencia y vivienda. Con la prohibición de publicar sondeos en vigor, los promedios previos al apagón daban mayoría absoluta a PP y Vox, aunque con el PSOE al alza."
+        ],
+        "link": {
+          "url": "https://www.cope.es/programas/la-linterna/al-minuto/contamos-debate-cuatro-sanchez-feijoo-abascal-colau-elecciones-generales-29n-20261126_3483264.html",
+          "source": "COPE"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Lo que el debate deja para el domingo",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Feijóo llegó como favorito y eligió no atacar a Abascal, su socio probable; su compromiso de dimitir busca convertir el 29-N en un plebiscito sobre él y movilizar al votante del PP. Sánchez jugó a perfil presidencial y a frenar la «involución»; en Ferraz celebran que «el perro ha vuelto». Colau necesitaba diferenciarse del PSOE por la izquierda con la vivienda, y Abascal reafirmar la «prioridad nacional»."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Si la subida del PSOE de las últimas encuestas se consolida, el bloque de la derecha podría quedarse a las puertas de la mayoría y Junts recuperaría la llave, ahora con Puigdemont de vuelta el 12 de diciembre. Si PP y Vox suman, la negociación de ministerios empezará el lunes, con las condiciones que Feijóo ya ha ido marcando."
+            }
+          ],
+          "key": "En Tarragona se reparten seis diputados y el escaño del PP está en duda según el CIS. El domingo, mira la suma de PP y Vox en tu provincia y en el Senado: el PP ha cedido aquí a Vox la candidatura a la Cámara Alta."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "España · BCE, 26 nov",
+              "title": "Hernández de Cos será el primer español al frente del BCE",
+              "text": "Los países del euro recomendaron al exgobernador del Banco de España, de 55 años y hoy director general del Banco de Pagos Internacionales, como sucesor de Christine Lagarde, que deja el cargo el 7 de febrero. La francesa Laurence Boone y el alemán Markus Brunnermeier irían al Comité Ejecutivo. Tras consultar al Parlamento Europeo y al Consejo de Gobierno del BCE, el nombramiento formal llegará en la cumbre de diciembre. Sánchez lo celebró como reflejo de «una España que lidera en Europa», junto a Nadia Calviño en el BEI y Teresa Ribera en la Comisión.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief",
+                "source": "Al Jazeera"
+              }
+            },
+            {
+              "kicker": "Catalunya · Junts, 25 nov",
+              "title": "Puigdemont volverá el 12 de diciembre «sin pedir permiso ni perdón»",
+              "text": "Desde el Press Club de Bruselas, la misma sala donde compareció el 31 de octubre de 2017, el expresident anunció que aterrizará en El Prat el sábado 12 de diciembre a mediodía e irá directamente al Parlament, donde lo recibirá Josep Rull. Antes, el 9, hará un acto de agradecimiento en Bruselas; el 17 presentará su plan «actualizado» para la independencia. Habló de «victoria» y de que «España ha fracasado en su propósito», y acusó al PSOE de cambiar de posición sobre la amnistía por necesidad.",
+              "link": {
+                "url": "https://ara.cat/politica/puigdemont-anuncia-avui-tornara-catalunya_1_5922362.html",
+                "source": "Ara"
+              }
+            },
+            {
+              "kicker": "Catalunya · Educación, 26 nov",
+              "title": "Docentes en huelga entran en las cocheras del Palau de la Generalitat",
+              "text": "En una nueva jornada de paro, una cincuentena de docentes con camisetas amarillas accedió a primera hora a las cocheras del Palau con una pancarta: «Basta de promesas electorales, queremos recursos reales». Otro grupo se quedó en la plaza Sant Jaume tras un cordón de los Mossos. El conflicto educativo, abierto todo el curso, llega así a la recta final del 29-N.",
+              "link": {
+                "url": "https://www.diaridetarragona.com/educacion/276634/grupo-docentes-huelga-entra-cocheras-palau-generalitat.html",
+                "source": "Diari de Tarragona / ACN"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "EE.UU. · FCC · SpaceX, 25–26 nov",
+        "title": "Washington autoriza a SpaceX un millón de satélites para computación en órbita",
+        "dek": "La FCC aprueba «Starmind», una constelación de centros de datos orbitales; hoy hay unos 17.000 satélites en todo el espacio.",
+        "body": [
+          "La Comisión Federal de Comunicaciones de EE.UU. autorizó la víspera de Acción de Gracias a SpaceX a desplegar hasta 1.000.000 de módulos de computación orbital, bautizados «Starmind», para procesar datos de inteligencia artificial en el espacio. La FCC lo presentó como una primicia histórica, y su presidente, Brendan Carr, dijo que los centros de datos son «esenciales para mantener el liderazgo de Estados Unidos» en IA. Según Spaceflight Now, la orden fija plazos: primeros satélites antes del 25 de noviembre de 2033, la mitad en 2038 y la constelación completa en 2040. Irían en capas orbitales de 50 km entre 500 y 1.002 km de altitud, comunicadas por enlaces ópticos.",
+          "La FCC rechazó las objeciones de Viasat, Amazon Leo y la Sociedad Astronómica Estadounidense, que se declaró «consternada». También aplazó la petición de SpaceX de deshacerse de satélites enviándolos a órbitas heliocéntricas: deberá pedir una modificación antes de lanzar aparatos que no reentren en la atmósfera. Musk prevé el primer lanzamiento en el tercer trimestre de 2027 y un gran volumen hacia 2029. No está claro que llegue al millón: los operadores suelen pedir más de lo que despliegan, y Starlink, que solicitó 42.000, tiene hoy algo más de 11.000. Carr respondió a Amazon que se ocupe de sus propios lanzamientos."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starlink_satellites_seen_from_Poland%2C_20241031_1751_2625.jpg/1280px-Starlink_satellites_seen_from_Poland%2C_20241031_1751_2625.jpg",
+          "alt": "Estela de satélites Starlink cruzando el cielo nocturno sobre Polonia",
+          "credit": "Jakub Hałun · Wikimedia Commons · CC BY 4.0",
+          "caption": "Satélites Starlink vistos desde Polonia en 2024: la órbita baja ya es, sobre todo, de SpaceX."
+        },
+        "link": {
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres",
+          "source": "Al Jazeera / Reuters"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            { "value": "1.000.000", "label": "satélites «Starmind» autorizados por la FCC" },
+            { "value": "≈ 17.000", "label": "satélites en órbita hoy, de todos los operadores" },
+            { "value": "> 11.000", "label": "satélites Starlink ya desplegados" },
+            { "value": "2033", "label": "plazo para lanzar los primeros Starmind" }
+          ]
+        },
+        {
+          "type": "analysis",
+          "title": "Ocupar la órbita antes de que la regulen otros",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Un regulador nacional ha dado a una sola empresa derechos sobre una cifra de satélites sesenta veces mayor que todo lo que hay hoy en órbita. En su solicitud, SpaceX llegó a argumentar que el sistema impediría a otros ocupar las órbitas que llene. La FCC deja abiertas las cuestiones de basura espacial y deja sin resolver el impacto sobre la astronomía, y Amazon, su principal rival, salió derrotado."
+            },
+            {
+              "label": "Qué implica",
+              "text": "El espectro y las posiciones orbitales se coordinan en la UIT, pero las licencias las conceden los Estados: quien licencia primero y lanza más, condiciona el acceso del resto. Para Europa, que todavía está desplegando IRIS² y depende de lanzadores escasos, el riesgo es llegar a una órbita baja ya ocupada por infraestructura estadounidense, ahora también de computación."
+            }
+          ],
+          "key": "Para tu TFG, Starmind es un ejemplo de manual de cómo se crean «derechos de hecho» sobre un espacio común sin pasar por COPUOS. Conecta con el debate de los recursos lunares: tanto en órbita como en la Luna, el primero que llega impone las reglas prácticas."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "ESA · Defensa planetaria, 25 nov",
+              "title": "Hera revela el cráter del tamaño de un estadio que dejó DART en Dimorphos",
+              "text": "La ESA presentó en el Museo de Historia Natural de Berlín las primeras imágenes cercanas de Dimorphos: un gran cráter, «casi tan grande como el propio cuerpo», ha aplanado una de sus caras, según la científica Sabina Raducan. El impacto de la NASA en 2022 también dejó al asteroide de 151 metros dando tumbos «como un barril tirado escaleras abajo». La sorpresa son cientos de rocas antes desconocidas alrededor del par, más de cien entre el tamaño de un balón y el de una lavadora. Hera está a unos 30 km y en diciembre se acercará a unos 13 km para medir la masa.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hera_glides_past_Didymos.jpg/1280px-Hera_glides_past_Didymos.jpg",
+                "alt": "Ilustración de la sonda Hera de la ESA pasando junto al asteroide binario Didymos y su luna Dimorphos",
+                "credit": "ESA – Science Office · CC BY-SA 3.0 IGO",
+                "caption": "Recreación de Hera junto al sistema Didymos–Dimorphos."
+              },
+              "link": {
+                "url": "https://www.cnn.com/2026/11/25/science/hera-mission-dimorphos-asteroid-arrival-images",
+                "source": "CNN"
+              }
+            },
+            {
+              "kicker": "NASA · Moon Base, 23 nov",
+              "title": "La NASA compra 1.300 millones en cohetes y remolcadores para su base lunar",
+              "text": "La agencia adjudicó seis órdenes dentro de su contrato de lanzamientos VADR para crear lo que su responsable de transporte, Mark Wiese, llama una «red de carga» hacia el polo sur lunar. Incluye lanzadores de Blue Origin, Relativity y SpaceX y vehículos de transferencia orbital de Blue Origin, Firefly, Impulse y Quantum Space, ninguno probado aún en el espacio. Entre los encargos: CAPSTONE 02, por 185 millones, dos satélites para ensayar navegación y comunicaciones en el espacio cislunar.",
+              "link": {
+                "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/",
+                "source": "Spaceflight Now"
+              }
+            },
+            {
+              "kicker": "México · SpaceX, 26 nov",
+              "title": "Sheinbaum pide negociar con EE.UU. el espacio aéreo de Starbase",
+              "text": "La presidenta mexicana quiere una reunión entre autoridades aéreas para fijar con qué frecuencia se usa el espacio aéreo mexicano en los lanzamientos de Texas e incluso plantear la «reubicación» del sitio, tras recoger en Tamaulipas restos que atribuye a un Starship fallido. SpaceX niega que sean suyos. La empresa pide a la FAA pasar de 25 a 456 lanzamientos anuales en Starbase.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris",
+                "source": "Al Jazeera"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "45.000 M€",
+            "text": "Préstamo propuesto por la Comisión para Ucrania en 2027: 25.000 millones militares y 20.000 de apoyo presupuestario. Kyiv solo devolvería el principal si cobra reparaciones rusas."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "Hoy", "what": "España · Cierre de campaña del 29-N" },
+              { "when": "28 nov", "what": "Taiwán · Elecciones locales, con Taipéi en disputa · España · Jornada de reflexión" },
+              { "when": "29 nov", "what": "España · Elecciones generales · OPEP · Reunión sobre producción de 2027" },
+              { "when": "12 dic", "what": "Catalunya · Regreso de Puigdemont · 17–18 dic, Bruselas · Consejo Europeo: presupuesto, Ucrania y BCE" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Junta dos decisiones de esta semana: la FCC regala a SpaceX un millón de satélites por vía administrativa, y la UE no logra cerrar el presupuesto que debería financiar IRIS². Es un buen par para ilustrar la asimetría entre un Estado que regula para ocupar y una Unión que negocia por unanimidad."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "La compra de la NASA para su base lunar reparte contratos entre remolcadores orbitales aún no probados: es un mercado que nace ahora. Las empresas europeas de propulsión, aviónica o navegación cislunar pueden entrar como proveedoras de Impulse, Firefly o Quantum Space antes de que la cadena se cierre."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: Politis y Plataforma Media/Lusa (26 nov), Al Jazeera/AP/Reuters (25–27 nov), CBS News (26 nov), Diari de Tarragona/EFE/ACN (26 nov), COPE y elDiario.es (26–27 nov), Ara (25 nov), Spaceflight Now (23 y 26 nov), CNN (25 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 27.11.2026."
+}
