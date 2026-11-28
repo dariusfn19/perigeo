@@ -1,0 +1,336 @@
+{
+  "number": 25,
+  "week": 48,
+  "date": "2026-11-28",
+  "dateLabel": "Sábado, 28 de noviembre de 2026",
+  "edition": "Edición Reus",
+  "readingTime": "20 min",
+  "tagline": "Briefing diario de relaciones internacionales, política y espacio. Lo esencial del día, a la distancia más corta.",
+  "summary": {
+    "kicker": "Editorial",
+    "title": "El día, en tres líneas",
+    "items": [
+      "Trump pide a Putin que «retire toda la agresión militar» contra territorios de Europa y Zelenski responde que llamar «amigo» al líder ruso es como decirlo de Hitler, mientras avisa de un nuevo ataque masivo contra la red eléctrica ucraniana y Kushner asegura que Putin «ha mostrado contención».",
+      "En el Golfo, Kuwait convoca al embajador iraní por el ataque que mató a dos técnicos italianos, la Guardia Revolucionaria dice que un petrolero ha chocado con minas en Ormuz y EE.UU. inutiliza un buque que intentaba romper su bloqueo; Taiwán vota hoy con la alcaldía de Taipéi en el aire.",
+      "España vive su jornada de reflexión tras unos cierres de campaña en los que Sánchez vio «la mayoría progresista a la vista» y Feijóo pidió el voto prestado de la izquierda; mañana votan 38,7 millones de electores. En el espacio, Europa decide si financia un segundo carguero orbital propio."
+    ]
+  },
+  "sections": [
+    {
+      "id": "geo",
+      "numeral": "I",
+      "name": "Geopolítica y Europa",
+      "lead": {
+        "type": "quote",
+        "kicker": "EE.UU. · Rusia · Ucrania, 26–27 nov",
+        "title": "Trump pide a Putin que «retire» su agresión en Europa; Zelenski: «No puede ser un amigo»",
+        "dek": "Un día después de reunirse con Rutte, el presidente estadounidense endurece el tono con Moscú, pero su enviado Kushner elogia la «contención» del Kremlin.",
+        "body": [
+          "«Durante mis conversaciones en China con el presidente Vladímir Putin dediqué mucho tiempo a decirle que me gustaría verle retirar toda la agresión militar contra territorios de toda Europa», escribió Donald Trump el jueves en Truth Social, con la esperanza, dijo, de que «se pueda alcanzar un acuerdo entre Rusia y Ucrania, y rápido». El mensaje llegó un día después de recibir en Mar-a-Lago al secretario general de la OTAN, Mark Rutte, con quien firmó una declaración conjunta sobre «la importancia de que Rusia evite cualquier acción que, intencionadamente o no, extienda la guerra». Detrás están las incursiones de misiles y drones rusos en el espacio aéreo polaco del 23 y 24 de noviembre. Trump no precisó a qué territorios se refería ni mencionó expresamente a Ucrania, y tampoco pidió a Kyiv contención con sus ataques en profundidad, algo que sí había hecho en semanas anteriores. El portavoz del Kremlin, Dmitri Peskov, culpó de la escalada a Ucrania y a sus «intentos de ampliar el alcance geográfico» del conflicto.",
+          "La respuesta de Volodímir Zelenski llegó en una entrevista con la BBC, una semana después de que Trump abrazara a Putin en la cumbre de la APEC en Shenzhen y publicara la foto con el título «Mi amigo». «Es un agresor… y un asesino. No puede ser un amigo», dijo en inglés, y lo comparó con llamar «buen amigo» a Hitler durante la Segunda Guerra Mundial. Ese mismo jueves, el yerno de Trump y enviado para Ucrania, Jared Kushner, aseguró en un pódcast alemán que Putin «ha mostrado contención» porque «ha aceptado no usar armas nucleares», lo describió como un «gran maestro de la política» y habló de la guerra como un conflicto «por delegación» financiado por Europa. Admitió, eso sí, que la cuestión territorial está «un poco en punto muerto». Trump, preguntado por si Putin acudirá al G20 de Miami el mes que viene, respondió: «Si quiere venir, desde luego puede»."
+        ],
+        "quote": {
+          "text": "Es un agresor… y un asesino. No puede ser un amigo. Es lo mismo que si alguien dijera de Hitler, durante la Segunda Guerra Mundial, que es un buen amigo.",
+          "author": "Volodímir Zelenski · Presidente de Ucrania, en la BBC, 27 nov"
+        },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/President_Donald_Trump_meets_with_the_Secretary_General_of_NATO%2C_Mark_Rutte%2C_in_the_Oval_Office.jpg/1280px-President_Donald_Trump_meets_with_the_Secretary_General_of_NATO%2C_Mark_Rutte%2C_in_the_Oval_Office.jpg",
+          "alt": "Donald Trump y Mark Rutte sentados en el Despacho Oval durante una reunión",
+          "credit": "The White House · Wikimedia Commons · Dominio público",
+          "caption": "Trump y Rutte en el Despacho Oval en marzo de 2025 (archivo). Esta semana volvieron a verse en Mar-a-Lago."
+        },
+        "link": {
+          "url": "https://kyivindependent.com/trump-tells-putin-to-pull-back-all-military-aggression-across-europe/",
+          "source": "The Kyiv Independent"
+        }
+      },
+      "blocks": [
+        {
+          "type": "analysis",
+          "title": "Washington cambia el tono, no la mesa",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "El mensaje de Trump responde sobre todo a la presión de los aliados del flanco este: tres misiles de crucero rusos cayeron la semana pasada en Polonia y Varsovia plantea que la OTAN derribe misiles sobre Ucrania. Pero el canal negociador lo llevan Kushner y Steve Witkoff, cuyo diagnóstico se acerca al de Moscú. El ministro ruso de Exteriores, Serguéi Lavrov, dijo el jueves que Washington entiende la necesidad de eliminar las «causas profundas» del conflicto, la fórmula rusa para referirse a la presencia de la OTAN en sus fronteras."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Tres fechas. El 1 de diciembre Estonia cierra sus pasos fronterizos con Rusia tras un sabotaje que atribuye al GRU. El G20 de Miami, en diciembre, dirá si Trump está dispuesto a sentar a Putin en suelo estadounidense. Y el Consejo Europeo del 17 y 18 decidirá el préstamo de 45.000 millones a Kyiv para 2027: si Europa no paga, el argumento de Kushner sobre una guerra «financiada por Europa» se volverá contra los propios europeos."
+            }
+          ],
+          "key": "Para tu TFG, fíjate en el patrón: la seguridad europea se negocia en Mar-a-Lago y Shenzhen, no en Bruselas. Es la misma asimetría que describes en el espacio, donde las decisiones que condicionan a Europa —licencias de la FCC, contratos de la NASA— se toman en Washington."
+        },
+        {
+          "type": "analysis",
+          "title": "El Golfo: protestas diplomáticas, minas y bloqueo",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Kuwait convocó el viernes al embajador iraní, Mohammad Totonji, y le entregó una nota de protesta por los «continuos ataques iraníes», el último de ellos el que el jueves mató a dos técnicos italianos de Rheinmetall. Irán lo niega: su ministro de Exteriores, Abbas Araghchi, llamó a sus homólogos kuwaití e italiano para ofrecer una investigación conjunta. En Ormuz, la Guardia Revolucionaria dice que un petrolero «infractor» explotó al chocar con minas cerca de la isla omaní de Al Ghanam, y el Mando Central de EE.UU. inutilizó en el golfo de Omán un buque que había salido de un puerto iraní para romper el bloqueo."
+            },
+            {
+              "label": "Qué implica",
+              "text": "La guerra se extiende por los bordes: los hutíes atacan Arabia Saudí casi a diario, la coalición saudí responde en Yemen y Pakistán, Arabia Saudí y Turquía escenifican su pacto de defensa mutua. Para Europa, el coste es doble: víctimas propias, como los italianos de Kuwait, y una ruta energética cada vez más cara justo cuando la OPEP decide mañana su producción para 2027."
+            }
+          ],
+          "key": "La muerte de dos técnicos que mantenían un sistema antiaéreo europeo en Kuwait muestra hasta qué punto la industria de defensa del continente ya está desplegada en guerras ajenas. Si buscas ejemplos de interdependencia en seguridad para tu marco teórico, este es uno muy reciente."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Ucrania · Rusia, 26–27 nov",
+              "title": "Zelenski avisa de que Moscú prepara otro ataque masivo contra la red eléctrica",
+              "text": "Según la inteligencia ucraniana, Rusia está «completando los preparativos» de un nuevo golpe contra la energía, la logística y los servicios críticos. Mientras, los equipos trabajan para devolver la luz en seis regiones tras un ataque nocturno con misiles balísticos y 113 drones que alcanzó 20 puntos, incluido un edificio de viviendas y un hospital. Kyiv pide más interceptores Patriot, escasos desde la guerra con Irán. Ucrania, por su parte, golpeó un aeródromo militar y una estación de bombeo de crudo en Rusia. Desde Bruselas, Meloni advirtió de que la guerra «no puede extenderse al Mediterráneo», en alusión al ataque ucraniano en Libia.",
+              "link": {
+                "url": "https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid",
+                "source": "PBS NewsHour / AP"
+              }
+            },
+            {
+              "kicker": "Kuwait · Irán · ONU, 27 nov",
+              "title": "Kuwait convoca al embajador iraní y Guterres pide contención",
+              "text": "El Ministerio de Exteriores kuwaití anunció en X la convocatoria de Totonji por el ataque con drones contra un «emplazamiento vital», el primero mortal en el país en meses. El secretario general de la ONU, António Guterres, condenó el ataque, expresó su solidaridad con Kuwait y pidió a «todas las partes» contención. Teherán insiste en que no tuvo «ningún papel» y se ofrece a cooperar con Kuwait e Italia para «determinar el origen del incidente».",
+              "link": {
+                "url": "https://arabnews.com/middle-east/kuwait-summons-iran-ambassador-over-continued-iranian-attacks-3014269",
+                "source": "Arab News"
+              }
+            },
+            {
+              "kicker": "Ormuz · Golfo de Omán, 27 nov",
+              "title": "Un petrolero choca con minas y EE.UU. inutiliza un buque que eludía el bloqueo",
+              "text": "La marina de la Guardia Revolucionaria asegura que un petrolero que intentaba cruzar Ormuz «sigilosamente» por una ruta «no autorizada» explotó y se incendió al tocar minas; un segundo buque dio media vuelta. Según el CENTCOM, fuerzas estadounidenses atacaron e inutilizaron un mercante que había zarpado de un puerto iraní e ignoró «repetidas advertencias». Irán promete «todas las medidas necesarias» para romper el bloqueo y, según varios medios, envía decenas de petroleros hacia él.",
+              "link": {
+                "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+                "source": "Gulf News"
+              }
+            },
+            {
+              "kicker": "Pakistán · Arabia Saudí · Turquía, 27 nov",
+              "title": "La «alianza de La Meca» cierra filas en Islamabad contra los hutíes",
+              "text": "Ministros de Exteriores y Defensa y jefes militares de los tres países —entre ellos el mariscal pakistaní Asim Munir— se reunieron en Islamabad, tres meses después de firmar un pacto de defensa mutua al estilo de la OTAN. Condenaron los ataques hutíes contra Arabia Saudí y se comprometieron a reforzar su cooperación en industria de defensa. El mismo día, la coalición saudí derribó un dron dirigido a Riad y los medios hutíes atribuyeron a un bombardeo saudí once muertos en Taiz.",
+              "link": {
+                "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639",
+                "source": "Gulf News"
+              }
+            },
+            {
+              "kicker": "Taiwán · China, hoy",
+              "title": "Taiwán vota con la alcaldía de Taipéi en el aire y aviones chinos alrededor",
+              "text": "Unos 11.000 cargos locales se eligen en las elecciones «nueve en uno», con los colegios abiertos de 8.00 a 16.00 hora local (de 1.00 a 9.00 en España); al cierre de este número aún no hay resultados. La batalla clave es la capital, feudo del Kuomintang, donde el alcalde Chiang Wan-an se enfrenta a Puma Shen, del gobernante PPD, experto en guerra informativa china y buscado por la policía china por «separatismo»; los últimos sondeos le daban ventaja. Taiwán detectó 33 aeronaves y ocho buques militares chinos en 24 horas, y la prensa estatal china acusó a Shen de recibir dinero de EE.UU.",
+              "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Taipei_Skyline_viewed_from_Renai_Road_20200524.jpg/1280px-Taipei_Skyline_viewed_from_Renai_Road_20200524.jpg",
+                "alt": "Vista de los rascacielos de Taipéi con la torre Taipei 101 al fondo desde la avenida Renai",
+                "credit": "MiNe · Wikimedia Commons · CC BY 2.0",
+                "caption": "Taipéi, donde el Kuomintang defiende hoy la alcaldía que recuperó en 2022."
+              },
+              "link": {
+                "url": "https://www.koreatimes.co.kr/world/20261128/taiwan-votes-in-local-elections-as-china-sends-warplanes-lambasts-taipei-candidate",
+                "source": "The Korea Times / Reuters"
+              }
+            },
+            {
+              "kicker": "Estonia · Rusia, desde el 1 dic",
+              "title": "Tallin cierra el martes sus tres pasos fronterizos con Rusia",
+              "text": "Narva, Luhamaa y Koidula quedarán cerrados desde el 1 de diciembre, sin fecha de reapertura. El ministro de Exteriores, Margus Tsahkna, lo anunció tras la detención de ocho personas por un intento de incendio contra el fabricante de drones Threod Systems, que Estonia atribuye a la inteligencia militar rusa (GRU). «Las acciones hostiles contra Estonia tienen consecuencias», escribió. Moscú habla de «rusofobia agresiva y desenfrenada». El cierre cortará además los autobuses directos entre Tallin, Moscú y San Petersburgo.",
+              "link": {
+                "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
+                "source": "Al Jazeera / Reuters"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "numeral": "II",
+      "name": "España, Catalunya y Reus",
+      "lead": {
+        "type": "stat",
+        "stat": "1",
+        "statLabel": "día para las elecciones generales: hoy es jornada de reflexión y mañana, domingo 29, abren los colegios de 9.00 a 20.00",
+        "title": "Sánchez ve «la mayoría progresista a la vista» y Feijóo pide el voto prestado de la izquierda",
+        "body": [
+          "La campaña del 29-N terminó el viernes tras quince días de mítines y con la resaca del debate a cuatro. Pedro Sánchez cerró en la Caja Mágica de Madrid: «El domingo estamos convocados a hacer historia. La mayoría progresista la tenemos a la vista, así que rememos y votemos para gobernar», dijo antes de gritar «¡Sí, se puede!». El acto tuvo momentos emotivos, como la intervención de Ángela Raya, nieta de un socialista fusilado en la Guerra Civil cuyos restos la familia recuperó en 2025, y la lectura de un poema de Ángela Figuera a cargo de Pedro Almodóvar. Ada Colau también cerró en Madrid, arropada por los ministros Yolanda Díaz, Pablo Bustinduy y Mónica García, y apeló al voto de las mujeres; Irene Montero, de Podemos, celebró su propio acto en la capital.",
+          "Alberto Núñez Feijóo eligió Sevilla, a orillas del Guadalquivir, y se dirigió directamente al votante de izquierdas: «No os pido que dejéis de sentiros de izquierdas. La decencia no es de izquierdas o derechas. Préstanos tu voto para volver a la honestidad». Es el remate de una campaña en dos tiempos en la que el PP pasó de marcar límites a Vox a prometer, en el último debate, que su líder dimitirá si no gobierna. Santiago Abascal cerró en la plaza de toros de Valencia llamando a «echar» a Sánchez. Con la prohibición de publicar encuestas en vigor desde el martes, los últimos sondeos difundidos daban mayoría absoluta a PP y Vox, con el PSOE al alza en la recta final."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Congreso_de_los_Diputados%2C_Madrid.jpg/1280px-Congreso_de_los_Diputados%2C_Madrid.jpg",
+          "alt": "Fachada neoclásica del Congreso de los Diputados en Madrid con sus columnas y los leones de bronce",
+          "credit": "AMPERIO · Wikimedia Commons · CC BY-SA 4.0",
+          "caption": "El Congreso de los Diputados: mañana se reparten sus 350 escaños."
+        },
+        "link": {
+          "url": "https://www.cadena3.com/noticia/elecciones-en-espana-2026/espana-sanchez-feijoo-abascal-y-colau-cerraron-sus-campanas-con-miras-a-los-comicios-del-domingo_617369",
+          "source": "Cadena 3 / EFE"
+        }
+      },
+      "blocks": [
+        {
+          "type": "stats",
+          "items": [
+            { "value": "38.728.356", "label": "electores llamados a votar el 29-N (INE)" },
+            { "value": "1.615.127", "label": "votan por primera vez en unas generales" },
+            { "value": "2.769.645", "label": "residen en el extranjero, un 19,1 % más que en 2023" },
+            { "value": "+3,4 %", "label": "crecimiento del censo desde julio de 2023" }
+          ]
+        },
+        {
+          "type": "analysis",
+          "title": "Lo que se decide mañana",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Según el INE, el censo suma 1,26 millones de electores más que en 2023, y 1,6 millones de jóvenes estrenan su voto en unas generales. La derecha llega como favorita en los sondeos; la incógnita es si la remontada socialista de las últimas semanas basta para impedir la mayoría absoluta de PP y Vox. En Catalunya, la campaña ha sido un pulso por el voto independentista: Junts apela a los votantes de ERC «desconcertados» por la alianza de Rufián con Podemos, y Rufián pide el voto socialista con un «El PSC no mereix el vostre vot»."
+            },
+            {
+              "label": "Qué vigilar",
+              "text": "Tres números a partir de las 20.00: si PP y Vox superan juntos los 176 escaños, si el PSOE mejora su resultado de 2023 y si Junts conserva la llave, ahora con Puigdemont a dos semanas de volver el 12 de diciembre. Si la derecha suma, la negociación de gobierno empezará el lunes; si no, se abre un escenario de bloqueo con el independentismo otra vez como árbitro."
+            }
+          ],
+          "key": "En la circunscripción de Tarragona se reparten seis diputados. Junts cerró aquí su campaña con Cruset como cabeza de lista, y el PP ha cedido a Vox la candidatura al Senado. Mañana fíjate en cómo se reparten los restos: en una circunscripción de seis escaños, unos pocos miles de votos deciden el último diputado."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "Tarragona · Junts, 26 nov",
+              "title": "Puigdemont ofrece desde Tarragona un voto «sin notas a pie de página»",
+              "text": "En su acto final de campaña en Tarragona, Junts apeló a los independentistas indecisos y a los votantes de ERC recelosos de la candidatura de Rufián con Podemos. Puigdemont, conectado desde Waterloo, presentó a Míriam Nogueras como el «refugio más útil» del voto independentista, criticó una campaña «hiper-mega-ultra-espanyolitzada» y recuperó una frase de la candidata: Catalunya «o es a la mesa o es el menú». Llamó a Cruset «el mejor diputado tarragonés que ha habido en el Congreso». Nogueras celebró la amnistía como «la derrota de los del 155»: «Esto no nos lo ha regalado nadie».",
+              "link": {
+                "url": "https://reusdigital.cat/noticies/territori/junts-apella-al-votant-derc-desconcertat-amb-rufian-i-li-ofereix-una-opcio-sense",
+                "source": "Reusdigital / ACN"
+              }
+            },
+            {
+              "kicker": "España · Censo electoral",
+              "title": "El voto desde el extranjero crece un 19 % y pesa más que nunca",
+              "text": "Los 2.769.645 españoles inscritos en el Censo de Residentes Ausentes son 444.335 más que en 2023 y ya representan el 7,2 % del electorado. Votan sin solicitud previa y su voto se suma a la provincia en la que están inscritos, con un peso enorme en Galicia: en Ourense son el 30,8 % del censo. Dentro de España, el censo crece sobre todo en Madrid y Guadalajara (+6 %) y en Girona (+5,3 %), y solo pierde electores en seis provincias del interior.",
+              "link": {
+                "url": "https://mapaelectoral.es/elecciones/censo-electoral-2026/",
+                "source": "Mapa Electoral / INE"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "espacio",
+      "numeral": "III",
+      "name": "Espacio y cislunar",
+      "lead": {
+        "type": "split",
+        "kicker": "ESA · Transporte orbital, 27 nov",
+        "title": "Europa decide si tendrá uno o dos cargueros espaciales propios",
+        "dek": "Thales Alenia Space crearía una empresa con inversores privados si la ESA elige su propuesta en el programa ALADDIN; la evaluación debía terminar a finales de noviembre.",
+        "body": [
+          "Thales Alenia Space montará una sociedad vehicular con inversores privados para desarrollar, financiar y vender su servicio de carga a estaciones espaciales, pero solo si la ESA selecciona su propuesta dentro de la iniciativa ALADDIN. El plan se conoció por un comunicado conjunto de los sindicatos italianos FIM, FIOM y UILM tras reunirse con la dirección, y lo ha recogido esta semana KeepTrack: la empresa les dijo que esperaba que la agencia cerrara la evaluación a finales de noviembre. ALADDIN —siglas de un demostrador de acoplamiento autónomo y acelerado a la Estación Espacial Internacional— es la segunda fase del antiguo LEO Cargo Return Service, el concurso con el que la ESA quiere que Europa pueda subir y bajar carga de la órbita baja sin depender de vehículos estadounidenses o rusos.",
+          "La competidora ya tiene su contrato. En septiembre, en la Cumbre Espacial de París, la ESA firmó con la franco-alemana The Exploration Company un servicio de 760 millones de euros: 310 para una misión de demostración de su cápsula Nyx a la ISS y 450 para dos misiones de carga opcionales, a confirmar más adelante, que podrían ir a la ISS o a una futura estación comercial. La primera Nyx volará en un Ariane 6. Ambas empresas habían recibido 25 millones cada una en la primera fase, en mayo de 2024. La decisión pendiente dirá si Europa apuesta por dos vehículos que compitan entre sí, al estilo del programa de carga comercial de la NASA, o por uno solo."
+        ],
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/International_Space_Station_after_undocking_of_STS-132.jpg/1280px-International_Space_Station_after_undocking_of_STS-132.jpg",
+          "alt": "La Estación Espacial Internacional sobre el fondo negro del espacio y la curvatura azul de la Tierra",
+          "credit": "NASA · Dominio público",
+          "caption": "La ISS en 2010. Los cargueros europeos de ALADDIN deben demostrar que pueden acoplarse a ella de forma autónoma."
+        },
+        "link": {
+          "url": "https://keeptrack.space/space-brief/space-brief-2026-11-27",
+          "source": "KeepTrack"
+        }
+      },
+      "blocks": [
+        {
+          "type": "chart",
+          "title": "Lo que paga la ESA por su carguero comercial",
+          "note": "Contratos del programa LEO Cargo Return / ALADDIN, en millones de euros",
+          "bars": [
+            { "label": "Contrato total con The Exploration Company (fase 2)", "value": 760, "display": "760", "highlight": true },
+            { "label": "Dos misiones de carga opcionales", "value": 450, "display": "450", "highlight": false },
+            { "label": "Misión de demostración de Nyx a la ISS", "value": 310, "display": "310", "highlight": false },
+            { "label": "Fase 1, por empresa (TEC y Thales, 2024)", "value": 25, "display": "25", "highlight": false }
+          ],
+          "footnote": "Fuentes: The Exploration Company (10 sep 2026) y ESA. El importe de una posible adjudicación a Thales Alenia Space no se ha hecho público."
+        },
+        {
+          "type": "analysis",
+          "title": "Llevar y traer carga sin pedir permiso",
+          "columns": [
+            {
+              "label": "Contexto",
+              "text": "Desde la retirada del ATV en 2015, Europa no tiene vehículo propio para abastecer estaciones espaciales y paga su parte de la ISS con servicios e intercambios. ALADDIN quiere cambiar eso con un modelo de compra de servicios: la ESA cofinancia y luego contrata vuelos, y las empresas buscan clientes comerciales. Que Thales condicione su sociedad a ganar el concurso indica que el mercado privado, por sí solo, aún no basta."
+            },
+            {
+              "label": "Qué implica",
+              "text": "Con la ISS camino de su retirada hacia 2030, la carga europea tendrá que ir a estaciones comerciales, casi todas estadounidenses. Un carguero propio da a la ESA algo que ofrecer a cambio y una base técnica para el transporte de tripulaciones. Dos proveedores darían redundancia; uno solo, más dinero para cada euro invertido."
+            }
+          ],
+          "key": "Para tu TFG, ALADDIN es un caso perfecto de autonomía estratégica «por contrato»: Europa no construye ella misma, compra servicios para crear industria propia. Compáralo con la fórmula de la NASA (COTS) y pregúntate si la escala presupuestaria europea permite mantener dos proveedores."
+        },
+        {
+          "type": "briefs",
+          "items": [
+            {
+              "kicker": "ESA · Copernicus, 26 nov",
+              "title": "El agujero de ozono de 2026, uno de los mayores en 48 años",
+              "text": "El 20 de septiembre alcanzó 27,3 millones de kilómetros cuadrados, mucho más que la Antártida y un 31 % por encima de la media de los últimos veinte años, según datos del satélite Sentinel-5P de Copernicus. La causa fue un vórtice polar inusualmente fuerte y persistente. La ESA pide calma: la profundidad del agujero —cuánto ozono se destruye— se mantuvo cerca de la media, el tamaño varía de forma natural cada año y la recuperación de la capa de ozono «sigue en marcha». Contrasta con 2025, el quinto más pequeño desde 1992.",
+              "link": {
+                "url": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/copernicus/sentinel-5p/ozone-hole-one-of-the-largest-in-decades",
+                "source": "ESA"
+              }
+            },
+            {
+              "kicker": "NASA · ESA · Artemis III, 27 nov",
+              "title": "La tripulación de Artemis III, con el italiano Parmitano, conoce su Orion",
+              "text": "Los astronautas Randy Bresnik (comandante), Luca Parmitano (piloto, de la ESA), Andre Douglas y Frank Rubio posaron junto a la cápsula con la que volarán en 2027. Artemis III ya no aterrizará en la Luna —el alunizaje pasó a Artemis IV, en 2028—: se quedará en órbita baja para ensayar el encuentro y acoplamiento con los módulos de aterrizaje de SpaceX y Blue Origin. Parmitano será quien pilote esas maniobras desde Orion, cuyo módulo de servicio construye Europa.",
+              "link": {
+                "url": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-meet-their-moonship-space-photo-of-the-day-for-nov-27-2026",
+                "source": "Space.com"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "numeral": "IV",
+      "name": "Agenda y lecturas",
+      "blocks": [
+        {
+          "type": "agenda",
+          "fact": {
+            "label": "Dato del día",
+            "value": "27,3 M km²",
+            "text": "Extensión máxima del agujero de ozono antártico en 2026, alcanzada el 20 de septiembre: un 31 % por encima de la media de los últimos veinte años."
+          },
+          "radar": {
+            "label": "En el radar",
+            "items": [
+              { "when": "Hoy", "what": "España · Jornada de reflexión · Taiwán · Recuento de las elecciones locales" },
+              { "when": "29 nov", "what": "España · Elecciones generales · OPEP · Producción de 2027" },
+              { "when": "1 dic", "what": "Estonia · Cierre de los pasos fronterizos con Rusia" },
+              { "when": "9 dic", "what": "ESA · BepiColombo separa sus dos orbitadores en Mercurio · 12 dic · Regreso de Puigdemont" }
+            ]
+          },
+          "notes": [
+            {
+              "label": "Para el TFG",
+              "paragraphs": [
+                "Guarda la frase de Kushner sobre una guerra «financiada por Europa» junto al debate presupuestario de la UE: es el argumento de Washington para que Europa pague su propia seguridad. En el espacio pasa igual con IRIS² o ALADDIN, y te sirve para explicar por qué la autonomía estratégica es, sobre todo, una cuestión de presupuesto."
+              ]
+            },
+            {
+              "label": "Ángulo de negocio",
+              "paragraphs": [
+                "Si la ESA adjudica ALADDIN a Thales, nacerá una sociedad con capital privado que tendrá que buscar clientes de carga más allá de la agencia. Ahí hay sitio para el business development: estaciones comerciales, experimentos de microgravedad y retorno de muestras. Sigue también la cadena de suministro de Nyx, que ya tiene vuelo reservado en Ariane 6."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": "Fuentes: The Kyiv Independent (26–28 nov), RTÉ/BBC (27 nov), PBS NewsHour/AP (27 nov), Arab News y Gulf News (27 nov), The Korea Times/Reuters y Al Jazeera (28 nov), Al Jazeera/Reuters (15 nov), Cadena 3/EFE y Vozpópuli (27 nov), Reusdigital/ACN (26 nov), INE y Mapa Electoral (oct–nov), KeepTrack (27 nov), The Exploration Company (10 sep), ESA (26 nov), Space.com (27 nov). El análisis y las notas «Clave para ti» son interpretación editorial. Redactado el 28.11.2026."
+}
